@@ -1,0 +1,80 @@
+L'ajout de données à vos documents peut rendre votre document plus pertinent.
+Cela peut rendre votre contenu plus attrayant
+ou simplement dérouter totalement votre public
+si elles ne sont pas présentées de manière adéquate.
+Word facilite le partage de données de manière organisée.
+Dans cette leçon, je vais vous montrer comment créer et modifier des tableaux
+pour vous assurer que chaque membre de l'équipe
+peut facilement consulter les données que vous présentez.
+
+Pour commencer, j'ouvre mon document Word
+à partir de la page d'accueil de Microsoft 365.
+Poursuivez en téléchargeant l'exemple de document Word
+dans les fichiers d'exercices.
+Il s'agit du fichier Exemple d'itinéraire d'événement client (B).
+Dans cet exemple, je vais vous montrer comment insérer un tableau
+pour organiser un calendrier d'événements dans un document Word.
+
+Les tableaux sont utiles pour présenter et organiser des informations détaillées
+telles qu'une liste de coûts, la liste des noms d'invités
+ou un inventaire.
+Pour insérer un tableau de base,
+commencez par placer votre curseur
+à l'endroit où vous souhaitez placer le tableau dans votre document.
+Je commencerai en haut du document
+sous Itinéraire pour les détails du jour de l'événement.
+Ensuite, sélectionnez Insertion dans le ruban supérieur,
+puis sélectionnez Tableau.
+
+Et déplacez le curseur sur la grille
+jusqu'à ce que le nombre de cellules dans les lignes et les colonnes
+dont vous avez besoin soit mis en surbrillance.
+Sélectionnez-le et le tableau apparaîtra dans votre document.
+Maintenant, vous pouvez entrer vos informations directement dedans.
+
+Pour l'ajuster et appliquer la mise en forme,
+survolez votre tableau
+et sélectionner les flèches directionnelles à quatre directions
+dans le coin supérieur gauche.
+Vous pouvez choisir de modifier la police de tout le texte du tableau,
+d'appliquer des styles, d'incorporer un ombrage de cellule
+et d'ajouter ou de supprimer des colonnes ou des lignes.
+
+Vous trouverez d'autres options d'édition
+et de mise en forme en accédant au ruban supérieur
+et en sélectionnant Tableau.
+Pour mettre en évidence et organiser vos données,
+sélectionnez Style de tableau.
+Vous pouvez également diviser les cellules,
+ajouter des bordures
+ou même modifier les couleurs des cellules et du tableau lui-même.
+Cela a l'air plutôt bien, mais avant de partager ce tableau,
+je veux m'assurer qu'il soit inclusif et qu'il puisse être être lu à haute voix
+pour les personnes qui utilisent le lecteur d'écran
+ou qui ont des capacités différentes.
+
+Pour vérifier l'accessibilité de la table,
+je vais d'abord naviguer dans la table en utilisant uniquement la touche Tab.
+Si vous pouvez parcourir le tableau cellule par cellule et ligne par ligne,
+alors, le lecteur d'écran ne devrait pas avoir de problème avec.
+Vous pouvez également utiliser le vérificateur d'accessibilité
+pour obtenir des suggestions sur la façon de rendre votre document plus accessible.
+
+Pour cela, accédez au ruban supérieur et sélectionnez Révision.
+Sélectionnez ensuite, Vérification de l'accessibilité.
+Word ouvrira alors le vérificateur d'accessibilité
+sur le côté droit de l'écran avec une liste d'erreurs
+et d'avertissements,
+ainsi qu'une liste de conseils sur la façon de résoudre chaque problème.
+Lorsque vous choisissez un élément parmi les résultats de l'inspection,
+Word affiche cette partie du document
+sous les résultats de l'inspection.
+
+Word explique alors pourquoi et comment résoudre le problème
+que vous avez sélectionné.
+Après avoir apporté toutes les modifications nécessaires,
+votre document sera plus accessible à tous.
+Je vous encourage à ajouter un tableau et à vérifier l'accessibilité
+dans le prochain document que vous créerez.
+Vos données apparaîtront plus organisées et plus faciles à comprendre.
+À vous de jouer.

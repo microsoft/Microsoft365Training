@@ -1,0 +1,300 @@
+1
+00:00:00,411 --> 00:00:03,736
+Avez-vous déjà voulu créer
+une liste de tâches pour créer des rappels
+
+2
+00:00:03,736 --> 00:00:06,730
+et vous aider à accomplir 
+vos tâches à temps ?
+
+3
+00:00:06,730 --> 00:00:10,058
+Je sais que j'ai besoin
+d'un outil pour garder le cap.
+
+4
+00:00:10,058 --> 00:00:13,136
+L'utilisation de listes de tâches
+dans Outlook
+
+5
+00:00:13,136 --> 00:00:16,607
+est un excellent moyen de rester 
+au courant de vos communications
+
+6
+00:00:16,607 --> 00:00:19,177
+et de vos priorités.
+
+7
+00:00:19,177 --> 00:00:23,842
+Après cette leçon, vous serez en mesure
+de créer votre première liste de tâches
+
+8
+00:00:23,842 --> 00:00:26,542
+et de l'utiliser pour accomplir
+vos tâches.
+
+9
+00:00:26,542 --> 00:00:30,213
+Microsoft ToDo est intégré
+à Outlook on line
+
+10
+00:00:30,213 --> 00:00:33,173
+et inclut des listes intelligentes.
+
+11
+00:00:33,173 --> 00:00:36,064
+Les listes intelligentes 
+sont des listes filtrées
+
+12
+00:00:36,064 --> 00:00:39,780
+qui facilitent le suivi des tâches
+et l'organisation de votre journée.
+
+13
+00:00:39,780 --> 00:00:43,595
+Avec l'intégration de ToDo, vous pouvez
+rapidement organiser vos tâches
+
+14
+00:00:43,595 --> 00:00:47,724
+en les ajoutant à Ma journée,
+en les marquant comme importantes
+
+15
+00:00:47,724 --> 00:00:50,979
+ou en les ajoutant à de nouvelles listes
+que vous créez.
+
+16
+00:00:50,979 --> 00:00:55,076
+Je vais commencer à partir
+de la page d'accueil de Microsoft 365,
+
+17
+00:00:55,076 --> 00:00:59,628
+puis ouvrir Outlook.
+
+18
+00:00:59,628 --> 00:01:01,957
+La création d'une liste
+de tâches dans Outllok
+
+19
+00:01:01,957 --> 00:01:04,253
+nécessite quelques étapes.
+
+20
+00:01:04,253 --> 00:01:08,030
+La première chose à faire est
+de créer des tâches dans Ma journée.
+
+21
+00:01:08,030 --> 00:01:11,971
+Les tâches sont des éléments individuels
+de votre liste de tâches.
+
+22
+00:01:11,971 --> 00:01:13,060
+Dans cet exemple,
+
+23
+00:01:13,060 --> 00:01:15,956
+je vais créer une liste de tâches
+pour un évènement que j'organise.
+
+24
+00:01:15,956 --> 00:01:19,197
+À partir de la boîte de réception Outlook,
+
+25
+00:01:19,197 --> 00:01:22,707
+je sélectionne l'icône Ma journée
+dans le ruban supérieur
+
+26
+00:01:22,707 --> 00:01:27,523
+indiqué par un calendrier avec une coche.
+
+27
+00:01:27,523 --> 00:01:32,340
+Puis, je sélectionne Ajouter une tâche.
+
+28
+00:01:32,340 --> 00:01:35,421
+Ici, vous pouvez entrer la tâche.
+
+29
+00:01:35,421 --> 00:01:37,978
+Je vais entrer Commander des tables rondes
+
+30
+00:01:37,978 --> 00:01:44,365
+et sélectionner Ajouter.
+
+31
+00:01:44,365 --> 00:01:47,718
+Vôtre tâche est maintenant
+ajoutée à la liste.
+
+32
+00:01:47,718 --> 00:01:55,510
+Ensuite, naviguez vers le bas du panneau
+et sélectionnez Gérer toutes les tâches.
+
+33
+00:01:55,510 --> 00:01:58,224
+Microsoft ToDo ouvre une nouvelle fenètre
+
+34
+00:01:58,224 --> 00:02:00,972
+pour vous permettre 
+de modifier votre tâche.
+
+35
+00:02:00,972 --> 00:02:05,429
+Je vais sélectionner tâche 
+dans le menu de gauche,
+
+36
+00:02:05,429 --> 00:02:10,259
+puis la tâche que j'ai créée qui s'appelle
+« Commander des tables rondes ».
+
+37
+00:02:10,259 --> 00:02:13,010
+Un panneau s'ouvre alors à droite.
+
+38
+00:02:13,010 --> 00:02:15,790
+Ici, vous pouvez ajouter une étape,
+
+39
+00:02:15,790 --> 00:02:17,590
+une date d'échéance,
+
+40
+00:02:17,590 --> 00:02:19,155
+une répétition,
+
+41
+00:02:19,155 --> 00:02:20,909
+une catégorie
+
+42
+00:02:20,909 --> 00:02:23,196
+ou ajouter un fichier.
+
+43
+00:02:23,196 --> 00:02:26,827
+Je vais définir un rappel 
+plus tard dans la journée
+
+44
+00:02:26,827 --> 00:02:31,322
+et une échéance pour demain.
+
+45
+00:02:31,322 --> 00:02:35,018
+Lorsque vous avez terminé,
+accédez à votre boîte de réception
+
+46
+00:02:35,018 --> 00:02:46,616
+en sélectionnant l'icône d'enveloppe
+en bas à gauche de l'écran.
+
+47
+00:02:46,616 --> 00:02:49,394
+Pour voir votre tâche
+dans votre liste de tâches,
+
+48
+00:02:49,394 --> 00:02:53,395
+sélectionnez l'icône Ma journée
+dans le ruban supérieur
+
+49
+00:02:53,395 --> 00:02:55,311
+et elle apparaîtra 
+dans la liste des tâches
+
+50
+00:02:55,311 --> 00:03:00,555
+avec le rappel 
+et la date d'échéance définie.
+
+51
+00:03:00,555 --> 00:03:03,475
+Vous pouvez également 
+convertir un e-mail en tâche.
+
+52
+00:03:03,475 --> 00:03:09,544
+Vous pouvez le faire en ouvrant Ma journée
+
+53
+00:03:09,544 --> 00:03:13,425
+et en faisant tout simplement
+glisser un e-mail
+
+54
+00:03:13,425 --> 00:03:20,582
+vers le panneau Tâches.
+
+55
+00:03:20,582 --> 00:03:23,591
+Vous pourrez alors cliquer 
+avec le bouton droit sur la tâche
+
+56
+00:03:23,591 --> 00:03:30,058
+pour ajouter les détails appropriés.
+
+57
+00:03:30,058 --> 00:03:32,042
+Maintenant que vous avez créé la tâche,
+
+58
+00:03:32,042 --> 00:03:35,677
+lorsque vous avez terminé,
+sélectionnez le X
+
+59
+00:03:35,677 --> 00:03:40,718
+et le panneau Tâches se fermera.
+
+60
+00:03:40,718 --> 00:03:43,581
+En utilisant des listes 
+de tâches et des rappels,
+
+61
+00:03:43,581 --> 00:03:47,823
+vous pouvez rester à jour
+avec les éléments de communication
+
+62
+00:03:47,823 --> 00:03:52,128
+et les actions affectées 
+à certaines tâches et conversations.
+
+63
+00:03:52,128 --> 00:03:56,645
+L'utilisation de cette compétence
+vous aidera à prioriser votre travail
+
+64
+00:03:56,645 --> 00:03:58,125
+et à gérer votre temps.
+
+65
+00:03:58,125 --> 00:04:01,703
+Essayez-le en créant une tâche
+que vous devez accomplir cette semaine.
+

@@ -1,0 +1,228 @@
+1
+00:00:01,710 --> 00:00:04,349
+Gérer plusieurs listes de tableaux
+dans des fichiers différents
+
+2
+00:00:04,349 --> 00:00:06,712
+peut être compliqué.
+
+3
+00:00:06,712 --> 00:00:09,631
+Alors qu'avec le classeur de calcul Excel,
+
+4
+00:00:09,631 --> 00:00:13,181
+vous pouvez garder votre travail
+organisé et facile d'accès
+
+5
+00:00:13,181 --> 00:00:16,974
+en ajoutant plusieurs feuilles 
+dans un classeur.
+
+6
+00:00:16,974 --> 00:00:18,984
+Dans cette leçon, je vais vous montrer
+
+7
+00:00:18,984 --> 00:00:22,442
+comment gérer vos feuilles de calcul
+plus efficacement
+
+8
+00:00:22,442 --> 00:00:26,227
+afin que vous puissiez garder 
+votre espace de travail numérique
+
+9
+00:00:26,227 --> 00:00:28,490
+sans encombrement.
+
+10
+00:00:28,490 --> 00:00:31,973
+J'ai créé un graphique 
+pour que vous puissiez voir
+
+11
+00:00:31,973 --> 00:00:35,183
+une représentation visuelle
+de ce à quoi pourrait ressembler
+
+12
+00:00:35,183 --> 00:00:38,130
+les dépenses mensuelles.
+
+13
+00:00:38,130 --> 00:00:42,315
+Actuellement, j'ai un graphique à secteurs
+de mes dépenses
+
+14
+00:00:42,315 --> 00:00:47,776
+dans l'une des feuilles de mon classeur
+intitulé Mon bugdet 4.
+
+15
+00:00:47,776 --> 00:00:50,115
+La feuille dans laquelle 
+il se trouve en ce moment
+
+16
+00:00:50,115 --> 00:00:52,925
+est étiquetée Dépenses.
+
+17
+00:00:52,925 --> 00:00:57,171
+Et le graphique se trouve 
+à côté du tableau des valeurs.
+
+18
+00:00:57,171 --> 00:01:01,962
+Mais je veux que le graphique
+soit dans sa propre feuille.
+
+19
+00:01:01,962 --> 00:01:04,648
+Pour ce faire, je vais ajouter 
+une nouvelle feuille
+
+20
+00:01:04,648 --> 00:01:09,426
+en sélectionnant le bouton +
+en bas du classeur.
+
+21
+00:01:09,426 --> 00:01:14,186
+Une nouvelle feuille vierge est créée,
+vous pouvez lui donner un nom ;
+
+22
+00:01:14,186 --> 00:01:17,454
+je nomme cette feuille « Camembert ».
+
+23
+00:01:17,454 --> 00:01:20,674
+Afin de déplacer le graphique à secteurs
+vers cette nouvelle feuille,
+
+24
+00:01:20,674 --> 00:01:23,807
+je vais sélectionner le graphique
+depuis l'ancienne feuille
+
+25
+00:01:23,807 --> 00:01:27,806
+et le couper 
+avec le raccourci clavier Ctrl + X
+
+26
+00:01:27,806 --> 00:01:32,144
+ou Cmd + X pour Mac.
+
+27
+00:01:32,144 --> 00:01:35,718
+Ensuite, je sélectionne
+la nouvelle feuille Camembert
+
+28
+00:01:35,718 --> 00:01:40,040
+et je me positionne sur la cellule
+là où je veux mettre le graphique.
+
+29
+00:01:40,040 --> 00:01:42,334
+Je sélectionne la cellule B2,
+
+30
+00:01:42,334 --> 00:01:47,054
+puis je colle le graphique en utilisant
+au clavier la combinaison Ctrl + V
+
+31
+00:01:47,054 --> 00:01:50,008
+ou Cmd + V pour Mac.
+
+32
+00:01:50,008 --> 00:01:54,635
+Je peux maintenant voir mon graphique
+dans la feuille de calcul Camembert
+
+33
+00:01:54,635 --> 00:01:59,817
+et le tableau des dépenses existe toujours
+dans la feuille de calcul des dépenses.
+
+34
+00:01:59,817 --> 00:02:02,339
+Si je voulais continuer
+à développer ce classeur,
+
+35
+00:02:02,339 --> 00:02:05,051
+je pourrais facilement ajouter
+une autre feuille de calcul
+
+36
+00:02:05,051 --> 00:02:10,299
+et l'utiliser pour une liste d'invités,
+des tâches ou tout autre besoin
+
+37
+00:02:10,299 --> 00:02:12,999
+qui s'intègre dans le projet global.
+
+38
+00:02:12,999 --> 00:02:15,710
+Pour conserver 
+plusieurs feuilles de calcul
+
+39
+00:02:15,710 --> 00:02:17,487
+organisées dans le même classeur,
+
+40
+00:02:17,487 --> 00:02:20,020
+je peux modifier l'ordre de mes feuilles
+
+41
+00:02:20,020 --> 00:02:30,430
+en faisant simplement glisser les onglets.
+
+42
+00:02:30,430 --> 00:02:34,119
+Maintenant que vous savez créer 
+un classeur et y inclure des feuilles,
+
+43
+00:02:34,119 --> 00:02:38,286
+il sera beaucoup plus facile 
+de rassembler, d'organiser
+
+44
+00:02:38,286 --> 00:02:40,851
+et de référencer toutes ces données.
+
+45
+00:02:40,851 --> 00:02:43,241
+Que vous créez un nouveau budget
+
+46
+00:02:43,241 --> 00:02:46,838
+ou que vous ayez besoin de suivre
+vos recherches d'emploi,
+
+47
+00:02:46,838 --> 00:02:49,997
+je vous encourage à tirer
+le meilleur parti de vos classeurs
+
+48
+00:02:49,997 --> 00:02:52,656
+en créant des feuilles 
+de calcul individuelles
+
+49
+00:02:52,656 --> 00:02:54,851
+pour chaque élément de votre projet.
+

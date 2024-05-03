@@ -1,0 +1,57 @@
+Tout comme les capitaines de navire utilisent les étoiles,
+avoir les compétences nécessaires pour naviguer dans les logiciels
+est essentiel pour arriver là où vous voulez aller.
+Dans cette leçon, je vais vous présenter les outils
+qui vous permettront de rester organisé,
+lorsque vous créez des enquêtes et des questionnaires dans
+Microsoft Forms.
+À partir de la page d'accueil de Microsoft 365,
+je vais accéder au lanceur d'applications,
+et ouvrir Forms.
+
+Ici, je peux créer un nouveau formulaire, et afficher mes
+formulaires récents,
+les formulaires épinglés, et les formulaires partagés avec moi.
+Si je fais défiler vers le bas, il y a le volet Mes groupes où
+vous pouvez voir les groupes dont vous êtes membre, et le nombre
+total de formulaires dans chaque groupe.
+Ce qui est particulièrement important ici en bas,
+c'est le lien qui permet d'accéder à tous mes formulaires.
+
+Cela m'amènera à une vue avec une liste de tous les formulaires
+que j'ai créés.
+Ici, vous verrez les formulaires que vous avez créés, et le
+nombre de réponses.
+Sur la page Mes formulaires, vous avez la possibilité de
+regrouper vos formulaires en collections,
+pour les garder organisés ensemble.
+La nouvelle collection est située en haut à droite.
+Je vais créer une collection contenant mes enquêtes.
+Forms vous donne également le choix d'afficher une liste
+ou une grille.
+
+Cette option se trouve dans le coin supérieur droit
+de votre écran.
+J'aime la vue Grille, car je définis généralement un thème pour chacun
+de mes formulaires, ce qui les rend faciles à
+reconnaître et à retrouver.
+La vue Liste est idéale pour voir tous les formulaires
+que j'ai créés.
+Je peux supprimer un formulaire en sélectionnant plus d'options dans
+le coin inférieur droit d'une carte,
+et en sélectionnant Supprimer.
+
+Lorsque je fais cela, une boîte de dialogue apparaît,
+confirmant que je veux bien supprimer le formulaire.
+Je confirme en sélectionnant Supprimer.
+Si vous avez besoin de restaurer un formulaire que vous
+avez supprimé,
+ne vous inquiétez pas. Vous pouvez le récupérer à partir
+de la corbeille, dans le coin inférieur droit.
+Vous êtes maintenant prêt à utiliser Microsoft Forms pour
+choisir les bons outils, pour accéder rapidement à
+vos formulaires.
+
+Essayez-le en vous connectant à Microsoft 365,
+en accédant à l'application Forms et en créant votre premier
+formulaire.

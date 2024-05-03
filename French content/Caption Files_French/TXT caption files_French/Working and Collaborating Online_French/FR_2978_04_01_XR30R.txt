@@ -1,0 +1,73 @@
+Avec la façon dont on travaille aujourd'hui,
+il est important de savoir comment collaborer avec les autres
+à l'aide d'outils numériques en ligne.
+Avec Microsoft Word,
+vous pouvez partager votre document avec d'autres personnes
+afin qu'ils puissent afficher, commenter et même co-écrire le contenu avec vous.
+Cela permet à tout le monde de travailler sur le même document
+au lieu de plusieurs copies du document,
+de sorte que vous n'avez jamais à vous soucier des modifications
+ou des modifications qui apparaissent dans certaines copies,
+mais pas dans les vôtres.
+
+C'est du vécu.
+Bref, lorsque vous partagez un document Word pour collaboration,
+tout le monde peut travailler et voir les modifications en même temps.
+Me voici devant mon programme Word.
+Je commence à écrire une histoire.
+Seulement voilà, pour m'aider à écrire cette histoire,
+j'aurais besoin de partager ce document avec d'autres personnes.
+Alors, pour partager ce document, il faut déjà que ce document soit stocké
+dans un environnement accessible aux personnes avec qui je veux partager.
+
+Vous êtes bien d'accord que si je mets ce document sur mon disque, par exemple,
+eh bien, dès que je vais éteindre l'ordinateur,
+les personnes ne pourront plus y accéder.
+Donc, je vais enregistrer ce document dans un endroit partageable.
+Direction Sauvegarder,
+et je vais choisir d'enregistrer ce document
+dans un emplacement partageable, par exemple, mon OneDrive.
+Et j'appelle ce document, Il était une fois.
+Je clique sur Enregistrer.
+À partir de là, ce document est donc dans un environnement que je peux partager.
+
+Direction alors le bouton Partager.
+Et alors, le dialogue apparaît,
+me permettant de choisir avec qui partager ce document.
+Et avant même de désigner avec qui partager ce document,
+je peux cliquer sur ce bouton
+afin de déterminer
+si je donne l'autorisation de modification de ce document.
+Si je veux mettre une date d'expiration,
+c'est-à-dire une date à partir de laquelle le partage ne sera plus actif,
+et je peux définir également un mot de passe
+pour protéger l'accès à ce document.
+
+Les informations donc d'autorisation sont tout à fait appliquées
+puisque je veux partager ce document
+afin que ces personnes puissent interagir avec moi sur le document.
+Donc, j'autorise les modifications et je clique sur Appliquer.
+Une fois les règles de partage définies,
+je n'ai plus qu'à saisir le nom ou les noms des personnes
+avec qui je veux partager ou leurs adresses de courrier électronique.
+En l'occurrence, je vais envoyer les informations à Robert Duguidon Junior
+et à Josette Duguidon.
+
+Ces deux personnes-là vont donc recevoir le lien
+permettant d'accéder au document en modification.
+Je n'ai plus qu'à ajouter un petit message.
+« Bonjour, pouvez-vous m'aider », par exemple,
+« à éditer ce document ? ».
+Je n'ai plus qu'à envoyer ce message
+et les destinataires vont donc recevoir l'information de partage de document.
+
+Si l'on regarde maintenant du côté de notre étudiant,
+il voit alors directement les modifications qui sont apportées
+par Robert Duguidon junior.
+Il voit sur son interface également
+qu'il faisait beau, que le ciel était bleu.
+C'est évidemment quelque chose de très important
+puisque non seulement vous pouvez travailler en même temps sur un document
+avec d'autres personnes,
+mais bien sûr, travailler sur ce même document
+au moment où vous le pouvez, pas obligatoirement en même temps.

@@ -1,0 +1,38 @@
+Avez-vous déjà assisté à une présentation contenant
+tellement de textes,
+que vous ne savez pas  où concentrer votre attention ?
+Pas une expérience amusante.
+Le formatage du texte dans  différentes polices et couleurs
+peut aider votre public à comprendre clairement
+le message de votre présentation.
+Dans cette leçon,
+je vais vous montrer comment vous pouvez utiliser Powerpoint
+pour modifier l'apparence du texte de votre présentation,
+afin que votre public puisse se concentrer sur les informations les plus importantes.
+
+Dans cet exemple,
+je vais ouvrir Powerpoint, pour  modifier la présentation que je créé,
+un entretien d'embauche avenir.
+Vous pouvez suivre, en téléchargeant l'exemple de présentation,
+à partir des fichiers d'exercices.
+Maintenant que  ma présentation est ouverte,
+je souhaite modifier la façon dont mon nom apparaît
+sur la diapositive de titre.
+Je veux modifier la couleur du texte et le mettre en italique.
+Je vais d'abord mettre  en surbrillance le texte
+que je veux changer : mon nom.
+
+Ensuite, je sélectionnerai les modifications
+que je souhaite apporter dans le menu.
+Je veux changer la couleur,
+donc je sélectionne  « Couleurs de police » dans le menu,
+puis, je choisis la couleur que je veux,
+Et regardez, mon texte en  surbrillance passe à cette couleur.
+Ensuite, je veux mettre  le texte en italique.
+Avec le texte en surbrillance,
+je sélectionne « Italique » dans  le menu d'options de police.
+
+Ça a l'air génial.
+Vous pouvez désormais, modifier l'apparence de tout texte
+que vous ajoutez à Powerpoint
+pour aider votre présentation  à se démarquer.

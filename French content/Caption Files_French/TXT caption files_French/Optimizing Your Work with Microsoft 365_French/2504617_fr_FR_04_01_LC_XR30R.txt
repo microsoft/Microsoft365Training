@@ -1,0 +1,117 @@
+Avoir les compétences nécessaires pour créer d'excellents documents
+est un bon début pour obtenir d'excellents résultats.
+L'ajout de structures et de médias à vos documents
+peut aider à apporter de la clarté à votre travail
+et à le rendre plus organisé.
+Dans cette leçon,
+Je vais vous montrer comment incorporer des techniques de mise en forme
+dans vos documents,
+afin qu'ils soient faciles à parcourir et à comprendre.
+Je vais commencer à partir de la page d'accueil
+de Microsoft 365.
+
+Dans cet exemple,
+je vais améliorer un itinéraire pour un événement
+avec quelques photos et une mise en forme.
+Vous pouvez télécharger l'exemple de document Word
+dans vos fichiers d'exemples.
+Il s'agit de Exemple d'itinéraire d'événement client (A).
+Pour ajouter une image à un document,
+je place mon curseur là où je veux insérer l'image.
+
+Puis, depuis le ruban supérieur de Word,
+je sélectionne Insertion, puis Image.
+Ensuite, je dois choisir la source de l'image depuis ces options.
+Cet appareil, Images de photothèque, et Images Bing.
+J'ai besoin de trouver une image.
+Donc, je vais sélectionner Images de photothèque.
+Lorsque la fenêtre Images de photothèque apparaît,
+utilisez la barre de recherche pour trouver le type d'image
+que vous recherchez.
+
+Je vais taper voyage.
+Une fois que j'ai trouvé la photo, je sélectionne Insérer,
+et Elle est ajoutée dans le document où le curseur est placé.
+Pour redimensionner la photo, sélectionnez-la,
+et accédez au ruban supérieur sous Image pour les options de formatage.
+
+Il existe de nombreuses options d'édition ou modification
+de la taille des photos,
+ajout de bordure, amélioration des photos,
+et affichage du texte par rapport à la photo.
+Je peux également redimensionner la photo manuellement
+en faisant glisser les points blancs sur les côtés
+et les coins de la photo.
+L'ajout de titres dans l'en-tête ou le pied de page de votre document
+peut-être utile pour organiser les sujets connexes
+et donner à votre document un format clair et facile à suivre.
+
+L'en-tête est située
+dans la marge supérieure de votre document,
+et le pied de page dans la marge inférieure.
+Pour ajouter des titres à l'en-tête, ou au pied de page de votre document,
+sélectionnez Insertion dans le ruban supérieur de Word.
+Sélectionnez ensuite En-tête et pied de page.
+À partir de là, vous pouvez placer le curseur dans l'en-tête
+ou le pied de page
+qui se distinguent par les parties non ombragées.
+
+Et vous êtes prêt à entrer du texte directement dans chacun d'eux.
+Je vais ajouter mon nom à l'en-tête,
+et le formater pour qu'il apparaisse sur chaque page
+en sélectionnant Identiques dans tout le document
+dans le menu déroulant Options qui se trouve à droite.
+Ainsi après avoir ajouté votre texte,
+vous pouvez choisir la façon dont vous voulez qu'il soit formaté.
+
+Je vais mettre mon nom en gras en le mettant en surbrillance
+et en sélectionnant Gras
+dans le menu qui apparaît au-dessus de mon curseur.
+Ensuite, je sélectionnerai le texte ombragé
+pour revenir au corps du document.
+Maintenant, toutes les pages de mon document ont le même en-tête.
+Pour voir cela, accédez à Affichage dans le ruban supérieur
+et sélectionnez Mode lecture.
+
+Pour quitter le mode lecture, accédez au ruban supérieur
+et sélectionnez Modifier le document,
+puis Modifier dans le menu déroulant.
+Je peux également ajouter des numéros de page
+aux en-têtes et pieds de pages.
+Je vais naviguer vers le ruban supérieur
+et sélectionner Insertion,
+puis sélectionner Numéros de page.
+
+Ce menu déroulant propose des options pour le placement des numéros de page.
+Je sélectionne Ajoute le numéro de page au centre du pied de page.
+Et Word ajoute les numéros de page appropriés à chaque page.
+Pour voir cela, accédez à Affichage dans le ruban supérieur
+et sélectionnez Mode lecture.
+
+Pour quitter le mode lecture,
+sélectionnez Modifier le document,
+puis Modifier.
+Lorsque je n'ai plus besoin de numéros de pages,
+je peux naviguer alors vers Insertion,
+Numéros de page,
+puis sélectionnez Supprimer les numéros de page.
+Ensuite, un saut de page crée une séparation dans un document,
+et peut être utilisé pour introduire une nouvelle idée
+ou commencer de nouveaux chapitres ou pages.
+
+Pour ajouter un saut de page,
+placez votre curseur là où vous voulez qu'une page commence
+et que l'autre se termine.
+Ensuite, accédez à Insertion,
+puis sélectionnez Saut de page pour que le saut de page apparaisse.
+Lors de l'impression de votre document,
+le texte saut de page n'apparaîtra pas visuellement.
+
+Pour supprimer le saut de page,
+double-cliquez sur le saut que vous souhaitez supprimer,
+puis appuyez sur Supprimer sur votre clavier.
+L'ajout d'images et la mise en forme
+peuvent considérablement améliorer les informations
+partagées dans un document.
+Essayez de formater ou d'ajouter des images
+pour animer votre prochain document.

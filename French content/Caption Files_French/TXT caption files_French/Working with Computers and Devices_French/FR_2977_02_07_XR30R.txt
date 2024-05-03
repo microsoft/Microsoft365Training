@@ -1,0 +1,81 @@
+Regardons maintenant comment personnaliser le bureau de l'ordinateur.
+Ce bureau d'ordinateur, vous le voyez ici, il est décoré,
+on va dire ça comme ça, ou personnalisé grâce à une photo, une image.
+Ici, l'image du logo représentant la fenêtre Windows 10.
+Pour le personnaliser, eh bien, soit vous faites un clic droit
+pour faire apparaître le menu contextuel et vous allez dans Personnaliser,
+soit vous utilisez le bouton Démarrer pour aller dans les paramètres de Windows,
+puis Personnalisation.
+
+Cette personnalisation vous invite alors, en un premier temps,
+à modifier l'arrière-plan.
+Que vous cliquiez ici à gauche
+ou que vous arriviez directement sur les paramètres,
+cela revient au même.
+Voyez ici la représentation de votre bureau
+suivant les modifications que vous voulez apporter.
+Vous pouvez choisir votre image.
+Si l'arrière-plan est donc une image,
+vous pouvez choisir l'image par défaut de Windows
+ou en choisir d'autres parmi les choix que propose le système d'exploitation.
+Également à la place d'images, vous pouvez choisir tout simplement une couleur.
+
+Et sélectionnez alors quelle couleur vous préférez en arrière-plan,
+plutôt que d'avoir une image.
+Également, vous pouvez choisir un diaporama
+qui sera basé sur les images dont vous disposez dans votre album,
+c'est-à-dire dans le dossier des images de votre ordinateur.
+Si vous utilisez ce diaporama,
+choisissez le temps pour lesquelles les images restent à l'écran.
+Et si vous voulez une lecture aléatoire.
+
+Revenons à notre fond en image.
+On sélectionne l'image de Windows,
+mais on peut également combiner avec des couleurs,
+choisir si on veut des couleurs personnalisées sombres ou un mode clair.
+Prenons, par exemple, un mode personnalisé
+et descendons un petit peu plus bas pour choisir la couleur d'accentuation.
+Cette couleur d'accentuation donne la couleur des cases à cocher,
+des boutons de choix et également les différentes options.
+
+Si je choisis alors une couleur rouge pour bien voir la différence,
+eh bien les boutons de choix, ainsi que les liens,
+les options sur lesquelles je me trouve vont passer en rouge.
+Il y aura également des modifications avec ce rouge
+directement dans le menu Démarrer.
+Laissons, par exemple, le système choisir automatiquement la couleur
+en fonction de l'arrière-plan.
+Étant donné que l'arrière-plan est plutôt dans des tons bleus,
+le système va choisir automatiquement un ton bleu
+pour aller avec cette couleur d'arrière-plan.
+
+Il y a également des thèmes,
+c'est-à-dire des combinaisons d'arrière-plans, de couleurs, de sons
+et de curseur de souris vous permettant de personnaliser votre environnement.
+En descendant sur cette partie de droite,
+vous voyez qu'il y a différents thèmes, comme par exemple,
+le thème Fleurs ou, si nous descendons encore, pourquoi pas le thème Windows 10.
+Bref, en choisissant ce thème,
+vous voyez qu'il y a influence des couleurs, de l'arrière-plan
+et de l'environnement contenant également les curseurs de souris
+et pourquoi pas le son.
+
+Revenons à l'environnement Windows.
+Vous pouvez également personnaliser la barre des tâches,
+c'est-à-dire la barre qui se trouve tout en bas.
+Clic droit pour faire apparaître le menu contextuel,
+puis Paramètres de la barre des tâches.
+Vous pouvez la verrouiller, la masquer,
+masquer automatiquement la barre si vous êtes en mode tablette.
+Bref, vous avez différentes options
+vous permettant d'influencer cette barre de tâches.
+Si l'on descend un petit peu dans ces options,
+vous voyez que vous pouvez définir la position de cette barre,
+par exemple, vous pouvez la mettre à droite ou, si vous préférez, à gauche.
+
+Par défaut, elle est en bas.
+Vous pouvez également combiner les boutons de la barre des tâches
+et, pourquoi pas, faire apparaître les étiquettes
+ou au contraire, les masquer.
+Différents paramètres donc, vont vous permettre de personnaliser le bureau
+et la barre que l'on voit quand on est sur ce bureau.

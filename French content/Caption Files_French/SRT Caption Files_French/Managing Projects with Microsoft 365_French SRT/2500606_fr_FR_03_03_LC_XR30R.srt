@@ -1,0 +1,290 @@
+1
+00:00:00,940 --> 00:00:04,750
+En tant que chef de projet,
+vous utiliserez probablement l'un
+
+2
+00:00:04,750 --> 00:00:08,019
+des deux processus de gestion de
+projet les plus courants,
+
+3
+00:00:08,019 --> 00:00:11,169
+Cascade ou Agile.
+
+4
+00:00:11,169 --> 00:00:13,839
+Dans cette leçon,
+Je vais vous montrer comment
+
+5
+00:00:13,839 --> 00:00:18,160
+utiliser Microsoft Project pour
+créer rapidement une structure
+
+6
+00:00:18,160 --> 00:00:20,929
+pour vos projets.
+
+7
+00:00:20,929 --> 00:00:24,859
+Premièrement, Cascade est un
+processus de gestion de projet
+
+8
+00:00:24,859 --> 00:00:27,170
+couramment utilisé.
+
+9
+00:00:27,170 --> 00:00:30,140
+Dans les projets en cascade,
+chaque phase dépend de
+
+10
+00:00:30,140 --> 00:00:32,719
+l'achèvement de la
+phase précédente.
+
+11
+00:00:32,719 --> 00:00:36,920
+Ainsi, une fois cartographié,
+cela ressemble à une chute d'eau.
+
+12
+00:00:36,920 --> 00:00:40,039
+Agile est un autre processus de
+gestion de projet couramment
+
+13
+00:00:40,039 --> 00:00:42,119
+utilisé.
+
+14
+00:00:42,119 --> 00:00:46,049
+Dans la méthodologie Agile,
+un projet est divisé en segments
+
+15
+00:00:46,049 --> 00:00:50,219
+appelés sprints, qui sont de petits
+cycles pour accomplir les tâches
+
+16
+00:00:50,219 --> 00:00:54,000
+prioritaires à partir d'un
+backlog de travail.
+
+17
+00:00:54,000 --> 00:00:57,479
+Le backlog est la liste complète
+de toutes les tâches qui doivent
+
+18
+00:00:57,479 --> 00:01:00,820
+être accomplies pour la
+réussite du projet.
+
+19
+00:01:00,820 --> 00:01:03,840
+À partir d'Office.com,
+
+20
+00:01:03,840 --> 00:01:05,760
+sélectionnez le lanceur
+d'applications dans le coin
+
+21
+00:01:05,760 --> 00:01:07,290
+supérieur gauche
+
+22
+00:01:07,290 --> 00:01:11,409
+et ouvrez Project.
+
+23
+00:01:11,409 --> 00:01:14,620
+Notez que l'utilisation de Project
+pour le web nécessite un
+
+24
+00:01:14,620 --> 00:01:18,579
+abonnement actif à Microsoft
+Project. Pour mettre en place la
+
+25
+00:01:18,579 --> 00:01:20,590
+structure d'un projet Agile,
+
+26
+00:01:20,590 --> 00:01:23,650
+je vais créer un nouveau projet en
+sélectionnant Nouveau
+
+27
+00:01:23,650 --> 00:01:27,329
+projet vide.
+
+28
+00:01:27,329 --> 00:01:29,879
+Je vais sélectionner le nom du
+projet et le renommer
+
+29
+00:01:29,879 --> 00:01:41,609
+en Garde robe.
+
+30
+00:01:41,609 --> 00:01:45,329
+Je vais définir la date de début
+sur le premier jour
+
+31
+00:01:45,329 --> 00:01:46,650
+du mois prochain,
+
+32
+00:01:46,650 --> 00:01:51,329
+puis fermer le panneau en
+utilisant le x en haut à droite, et
+
+33
+00:01:51,329 --> 00:01:55,319
+ensuite, sélectionner la
+vue Tableau en haut.
+
+34
+00:01:55,319 --> 00:02:06,500
+Je vais sélectionner Compartiment 1 pour le renommer Backlog.
+
+35
+00:02:06,500 --> 00:02:10,550
+Puis je vais sélectionner Ajouter un compartiment et saisir
+
+36
+00:02:10,550 --> 00:02:13,759
+Semaine 1 et Semaine 2 comme
+noms pour les prochains
+
+37
+00:02:13,759 --> 00:02:28,580
+compartiments.
+
+38
+00:02:28,580 --> 00:02:31,310
+Maintenant, je peux entrer
+quelques éléments dans
+
+39
+00:02:31,310 --> 00:02:32,840
+mon backlog.
+
+40
+00:02:32,840 --> 00:02:37,580
+Je sélectionne Ajouter une tâche, sous le backlog. Entrez
+
+41
+00:02:37,580 --> 00:02:52,620
+Choisir la palette des couleurs
+
+42
+00:02:52,620 --> 00:02:58,530
+et sélectionnez Ajouter une tâche.
+
+43
+00:02:58,530 --> 00:03:00,479
+Vous pouvez maintenant continuer
+jusqu'à ce que toutes les
+
+44
+00:03:00,479 --> 00:03:02,280
+tâches soient ajoutées,
+
+45
+00:03:02,280 --> 00:03:04,740
+comme par exemple Choisir le
+fournisseur de la garde-robe
+
+46
+00:03:04,740 --> 00:03:07,560
+du mariage, Commander une armoire
+
+47
+00:03:07,560 --> 00:03:40,879
+pour le mariage, Signer le contrat
+de location,
+
+48
+00:03:40,879 --> 00:03:45,620
+Trouver des tailleurs potentiels, Planifier le nettoyage à sec,
+
+49
+00:03:45,620 --> 00:03:48,520
+Déterminer les pochettes
+de costumes
+
+50
+00:03:48,520 --> 00:04:10,469
+et Louer un défroisseur à vapeur.
+
+51
+00:04:10,469 --> 00:04:14,189
+Maintenant, faites glisser les
+tâches les plus prioritaires vers
+
+52
+00:04:14,189 --> 00:04:17,089
+le compartiment Semaine 1.
+
+53
+00:04:17,089 --> 00:04:20,060
+Ce sera notre premier sprint.
+
+54
+00:04:20,060 --> 00:04:23,509
+Tout dépend du choix de la
+palette de couleurs, qui sera
+
+55
+00:04:23,509 --> 00:04:31,009
+donc la première tâche.
+
+56
+00:04:31,009 --> 00:04:33,800
+Ensuite, je glisserai quelques
+tâches supplémentaires qui
+
+57
+00:04:33,800 --> 00:04:35,089
+appartiennent à la semaine
+
+58
+00:04:35,089 --> 00:04:48,050
+1.
+
+59
+00:04:48,050 --> 00:04:51,379
+Microsoft Project peut être
+utilisé comme cadre pour de
+
+60
+00:04:51,379 --> 00:04:54,310
+nombreux processus de
+gestion de projet.
+
+61
+00:04:54,310 --> 00:04:56,889
+Au fur et à mesure que vous aurez
+à gérer de plus en
+
+62
+00:04:56,889 --> 00:04:58,300
+plus de projets,
+
+63
+00:04:58,300 --> 00:05:01,720
+vous découvrirez rapidement quel processus convient le mieux
+
+64
+00:05:01,720 --> 00:05:02,720
+à votre flux de travail.
+

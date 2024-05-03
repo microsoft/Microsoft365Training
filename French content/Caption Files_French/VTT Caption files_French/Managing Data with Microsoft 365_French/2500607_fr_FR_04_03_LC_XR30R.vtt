@@ -1,0 +1,354 @@
+﻿WEBVTT
+
+00:00:01.510 --> 00:00:04.589
+Les rapports ont besoin
+de données.
+
+00:00:04.589 --> 00:00:07.169
+Avant de pouvoir créer des
+visualisations et obtenir
+
+00:00:07.169 --> 00:00:10.019
+des informations,
+vous devez être en mesure
+
+00:00:10.019 --> 00:00:14.000
+d'importer des ensembles de
+données dans Power BI.
+
+00:00:14.000 --> 00:00:17.120
+Dans cette leçon,
+je vais vous expliquer deux façons
+
+00:00:17.120 --> 00:00:20.920
+d'importer des données
+dans Power BI.
+
+00:00:20.920 --> 00:00:24.730
+Vous devez installer Power BI sur
+votre PC en accédant au Microsoft
+
+00:00:24.730 --> 00:00:28.160
+Store et en recherchant Power BI.
+
+00:00:28.160 --> 00:00:31.219
+Lorsque vous ouvrez
+Power BI Desktop,
+
+00:00:31.219 --> 00:00:34.240
+vous verrez l'écran de démarrage.
+
+00:00:34.240 --> 00:00:37.829
+Je vais continuer et le fermer.
+
+00:00:37.829 --> 00:00:41.369
+La première façon d'importer les
+données pour vos rapports
+
+00:00:41.369 --> 00:00:45.149
+est à partir d'une feuille
+de calcul Excel.
+
+00:00:45.149 --> 00:00:47.670
+Dans cet exemple,
+j'importe une liste de
+
+00:00:47.670 --> 00:00:50.630
+clients depuis Excel.
+
+00:00:50.630 --> 00:00:53.159
+Il y a deux façons de faire cela.
+
+00:00:53.159 --> 00:00:56.700
+Vous pouvez soit sélectionner
+Classeur Excel dans le ruban
+
+00:00:56.700 --> 00:00:58.609
+en haut de l'écran,
+
+00:00:58.609 --> 00:01:00.270
+soit
+
+00:01:00.270 --> 00:01:03.229
+Obtenir les données
+
+00:01:03.229 --> 00:01:07.400
+et sélectionner Classeur Excel.
+
+00:01:07.400 --> 00:01:11.969
+Je vais sélectionner Classeur
+Excel dans le ruban d'accueil.
+
+00:01:11.969 --> 00:01:15.420
+Cela ouvre une boîte de dialogue, dans laquelle je peux sélectionner
+
+00:01:15.420 --> 00:01:18.599
+la feuille de calcul que
+je souhaite importer.
+
+00:01:18.599 --> 00:01:24.000
+Je vais ouvrir le fichier Client.
+
+00:01:24.000 --> 00:01:29.689
+Vous pouvez le télécharger dans
+les fichiers d'exercice.
+
+00:01:29.689 --> 00:01:32.870
+C'est ce qu'on appelle
+les données clients.
+
+00:01:32.870 --> 00:01:37.370
+Le navigateur s'ouvre et a
+identifié une table de données
+
+00:01:37.370 --> 00:01:41.090
+dans ma feuille de calcul, appelée Client.
+
+00:01:41.090 --> 00:01:42.890
+Les données semblent correctes.
+
+00:01:42.890 --> 00:01:45.620
+Je vais donc cocher la case
+devant Client,
+
+00:01:45.620 --> 00:01:50.519
+puis cliquer sur Charger pour
+les importer dans Power BI.
+
+00:01:50.519 --> 00:01:56.640
+La table Client s'affiche
+désormais dans le volet Champs.
+
+00:01:56.640 --> 00:01:59.099
+Lorsque je développe la table Client à l'aide de la
+
+00:01:59.099 --> 00:02:00.269
+liste déroulante,
+
+00:02:00.269 --> 00:02:05.040
+je peux voir les champs qu'elle
+contient, avec un aperçu détaillé
+
+00:02:05.040 --> 00:02:06.599
+de votre ensemble de données.
+
+00:02:06.599 --> 00:02:15.810
+Vous pouvez sélectionner l'onglet
+Données dans le panneau de gauche.
+
+00:02:15.810 --> 00:02:19.050
+La prochaine façon d'importer des
+données pour vos rapports
+
+00:02:19.050 --> 00:02:21.310
+est à partir du web.
+
+00:02:21.310 --> 00:02:25.300
+Disons que je veuille comparer mes
+ventes à la population
+
+00:02:25.300 --> 00:02:27.219
+par département.
+
+00:02:27.219 --> 00:02:32.199
+Je peux importer les données en
+ligne, directement dans Power BI.
+
+00:02:32.199 --> 00:02:37.349
+Je vais commencer par sélectionner
+le menu déroulant sous
+
+00:02:37.349 --> 00:02:38.550
+Accueil,
+
+00:02:38.550 --> 00:02:40.550
+Obtenir les données,
+
+00:02:40.550 --> 00:02:45.560
+puis sélectionner Web.
+
+00:02:45.560 --> 00:02:56.159
+Ensuite, je vais coller l'URL de
+mes données et sélectionner OK.
+
+00:02:56.159 --> 00:02:58.379
+Je sélectionne
+
+00:02:58.379 --> 00:03:09.319
+Se connecter.
+
+00:03:09.319 --> 00:03:12.860
+La boîte de dialogue Navigateur
+affiche toutes les tables Power
+
+00:03:12.860 --> 00:03:15.789
+BI trouvées sur cette page web.
+
+00:03:15.789 --> 00:03:19.659
+Je peux visualiser chacune d'elles
+pour trouver le tableau
+
+00:03:19.659 --> 00:03:21.430
+que je recherche.
+
+00:03:21.430 --> 00:03:22.689
+Je sélectionnerai
+
+00:03:22.689 --> 00:03:25.509
+Liste des départements français, classés par population
+
+00:03:25.509 --> 00:03:28.629
+décroissante au 1ᵉʳ janvier
+
+00:03:28.629 --> 00:03:32.349
+mais, en fonction de l'aperçu,
+je devrai peut-être filtrer
+
+00:03:32.349 --> 00:03:37.099
+certains champs et nettoyer
+les lignes.
+
+00:03:37.099 --> 00:03:38.979
+Je sélectionne donc
+
+00:03:38.979 --> 00:03:42.550
+Transformer les données, pour
+l'ouvrir directement
+
+00:03:42.550 --> 00:03:45.550
+dans l'éditeur Power Query.
+
+00:03:45.550 --> 00:03:49.210
+C'est ici que vous pourrez
+modifier les données utilisées
+
+00:03:49.210 --> 00:03:54.210
+dans vos visualisations.
+
+00:03:54.210 --> 00:03:56.969
+Pour ce faire, je vais supprimer
+les colonnes qui ne
+
+00:03:56.969 --> 00:03:59.449
+m'intéressent pas.
+
+00:03:59.449 --> 00:04:01.229
+Je n'ai pas besoin des colonnes
+
+00:04:01.229 --> 00:04:05.330
+Rang 2022 ni Code Insee donc
+
+00:04:05.330 --> 00:04:07.819
+je vais sélectionner
+la première colonne
+
+00:04:07.819 --> 00:04:12.229
+et, dans le ruban supérieur,
+sélectionner Supprimer
+
+00:04:12.229 --> 00:04:17.529
+les colonnes.
+
+00:04:17.529 --> 00:04:20.439
+Je vais cliquer deux fois pour
+supprimer également
+
+00:04:20.439 --> 00:04:22.509
+Code Insee.
+
+00:04:22.509 --> 00:04:24.759
+Remarquez comment,
+au fur et à mesure que des
+
+00:04:24.759 --> 00:04:27.850
+modifications sont apportées,
+vous pouvez les voir dans le
+
+00:04:27.850 --> 00:04:31.629
+panneau Paramètres d'une requête à
+droite, dans la zone
+
+00:04:31.629 --> 00:04:34.889
+Étapes appliquées.
+
+00:04:34.889 --> 00:04:37.139
+Si j'ai besoin d'annuler
+une étape,
+
+00:04:37.139 --> 00:04:40.139
+par exemple de supprimer
+une colonne,
+
+00:04:40.139 --> 00:04:42.750
+je peux tout simplement
+sélectionner le X à côté
+
+00:04:42.750 --> 00:04:45.360
+de cette étape.
+
+00:04:45.360 --> 00:04:47.329
+J'ai donc maintenant
+une table nettoyée.
+
+00:04:47.329 --> 00:04:50.079
+Elle est prête pour mon
+espace de travail.
+
+00:04:50.079 --> 00:04:51.790
+Avant de fermer la table,
+
+00:04:51.790 --> 00:04:56.449
+je vais lui donner un nom, en
+cliquant avec le bouton droit
+
+00:04:56.449 --> 00:05:02.339
+sur le nom de la table et en
+sélectionnant Renommer.
+
+00:05:02.339 --> 00:05:11.470
+Je vais entrer Département.
+
+00:05:11.470 --> 00:05:16.269
+Ensuite, je sélectionnerai Fermer et
+appliquer pour enregistrer
+
+00:05:16.269 --> 00:05:22.939
+ces modifications.
+
+00:05:22.939 --> 00:05:26.389
+Maintenant, la table Département se trouve dans le panneau Champs,
+
+00:05:26.389 --> 00:05:30.120
+sur le côté droit de l'écran.
+
+00:05:30.120 --> 00:05:33.740
+Elle est prête à être utilisée.
+
+00:05:33.740 --> 00:05:36.829
+La création de représentations visuelles commence par avoir
+
+00:05:36.829 --> 00:05:38.420
+les bonnes données.
+
+00:05:38.420 --> 00:05:40.819
+Réfléchissez aux données
+auxquelles vous avez accès et
+
+00:05:40.819 --> 00:05:44.029
+essayez de les importer
+dans Power BI.
+
+00:05:44.029 --> 00:05:47.509
+Qu'il s'agisse d'un classeur
+Excel ou du web,
+
+00:05:47.509 --> 00:05:51.529
+Power BI peut vous aider à
+collecter vos données pour créer
+
+00:05:51.529 --> 00:05:54.379
+des visualisations convaincantes.
+
+00:05:54.379 --> 00:05:56.839
+Essayez d'explorer certaines
+sources de données cette semaine.

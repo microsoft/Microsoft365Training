@@ -1,0 +1,83 @@
+Parfois, la meilleure façon de communiquer avec votre équipe
+est de décrocher le téléphone et de leur parler.
+Teams vous permet de faire exactement cela
+en utilisant une connexion Internet,
+sans utiliser de téléphone réel.
+Dans cette leçon,
+je vais vous montrer les différentes façons
+de passer des appels téléphoniques directes
+à l'aide de Teams.
+Une fois que vous êtes dans Teams,
+il existe plusieurs façons de passer des appels.
+Je vais d'abord vous montrer comment appeler un contact
+directement depuis une conversation.
+
+Pour appeler à partir d'une conversation,
+ouvrez la conversation à partir de laquelle vous souhaitez appeler.
+A partir d'une conversation,
+appellera tout le monde de la conversation.
+De là, allez dans la conversation
+et dans le coin supérieur droit,
+vous pouvez voir
+qu'il y a un bouton pour un appel vidéo ou audio.
+A partir de là,
+sélectionnez le type d'appel que vous souhaitez passer
+et Teams vous connectera.
+Ensuite, je vais vous montrer
+comment passer des appels à l'aide d'appels.
+
+Sélectionnez les appels du côté gauche de l'application.
+A partir de l'onglet téléphone,
+vous pouvez passer un appel
+en saisissant le nom de la personne
+que vous souhaitez joindre à l'appel
+dans la case Saisir un nom.
+Vous pouvez ajouter plusieurs personnes ici
+et sélectionnez ensuite Appeler pour passer l'appel.
+Une autre façon de passer des appels
+consiste à sélectionner une personne dans votre historique d'appels.
+
+Survolez un appel précédent
+et sélectionnez le bouton d'appel
+une fois qu'il apparaît.
+Vous pouvez également passer des appels à partir de votre onglet Contacts,
+recherchez le contact que vous souhaitez appeler,
+puis sélectionnez le type d'appel
+que vous souhaitez passer,
+soit un appel vidéo,
+soit un appel audio.
+Ici, vous pouvez également envoyer un message direct
+ou un e-mail à vos contacts.
+
+Je veux appeler Isaiah
+pour que nous puissions discuter d'une réunion
+que nous venons d'avoir
+pour une prochaine conférence sur les compétences que nous prévoyons.
+Avant d'appeler, je veux vérifier sa présence.
+La présence indique la disponibilité
+et votre statut aux membres
+et fait partie de votre profil dans Teams.
+Pour vous aider à mieux comprendre la présence,
+je vais vous montrer les différents états de présence
+et comment changer votre statut.
+
+Le petit point sur mon profil indique ma disponibilité.
+Pour modifier vos disponibilités,
+rendez-vous sur votre profil
+et sélectionnez un statut dans la liste.
+Il existe différents symboles pour chaque statut.
+Alors prenez un moment pour vous familiariser avec eux.
+Il y a des symboles pour indiquer quand vous êtes disponible,
+occupé,
+quand vous ne voulez pas être dérangé,
+quand vous êtes absent et quand vous êtes hors ligne.
+Je veux appeler Isaiah
+mais je vois que Isaiah est dans Ne pas déranger.
+
+Alors que Lynne est marqué, Disponible
+et qu'elle pourrait avoir les informations dont j'ai besoin.
+Alors je vais l'appeler.
+Maintenant que vous savez comment
+passer des appels téléphoniques dans Teams,
+trouvez un moyen d'utiliser chacune de ces méthodes
+pour passer des appels à votre équipe.

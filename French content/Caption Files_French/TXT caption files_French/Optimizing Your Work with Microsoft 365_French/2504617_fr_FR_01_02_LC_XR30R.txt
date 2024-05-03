@@ -1,0 +1,106 @@
+Que vous travailliez sur un projet
+ou que vous communiquiez  avec une nouvelle équipe,
+les informations et les contacts peuvent rapidement se désorganiser
+si vous ne les gérez pas.
+La bonne nouvelle est  qu'il existe un moyen simple
+d'automatiser votre organisation
+en rassemblant toutes les informations connexes.
+Dans cette leçon,  je vais partager des techniques
+afin que vous puissiez optimiser et gérer plus efficacement
+votre boîte de réception Outlook.
+Tout d'abord, je veux vous montrer comment créer des dossiers.
+
+Les dossiers structurent  votre boîte de réception
+et permettent de conserver ensemble les informations pertinentes.
+Vous pouvez utiliser des dossiers  pour organiser vos e-mails,
+calendriers, tâches  et réorganiser les messages.
+Je vais donc commencer  par la page d'accueil de Microsoft 365.
+Et je vais ouvrir Outlook.
+
+Me voici dans ma boîte de réception.
+Dans cet exemple, je vais ajuster ma boîte de réception Outlook
+en utilisant les dossiers pour organiser les informations sur un évènement à venir.
+Pour créer un dossier dans Outlook sur le côté gauche,
+sous le menu déroulant Dossiers, sélectionnez Nouveau dossier.
+Entrez un nom pour le nouveau dossier
+qui ait du sens pour l'utilisation que vous en ferez.
+
+J'appellerai ce dossier : « Évènements à venir ».
+Alors maintenant, j'ai créé  un endroit facilement accessible
+où je peux organiser tous les messages liés à cet évènement.
+Pour déplacer les messages vers un dossier,
+sélectionnez et faites glisser les e-mails dans le dossier.
+Pour déplacer plusieurs e-mails,
+sélectionnez le petit cercle dans le coin supérieur gauche de l'e-mail.
+
+Lorsque vous effectuez ces sélections, un menu d'options s'affiche à droite.
+Sélectionnez le menu déroulant qui s'appelle « Déplacer »
+et sélectionnez le dossier dans lequel vous souhaitez déplacer vos e-mails.
+Votre travail gagne en efficacité.
+Ensuite, je veux vous montrer  comment utiliser les listes de contact
+pour vous organiser.
+
+Une liste de contacts est un ensemble d'adresses e-mail
+que vous pouvez utiliser pour envoyer des e-mails à un groupe de personnes
+Pour créer une liste de contacts, je vais accéder à la page Contacts
+à l'aide de la barre d'outils sur le côté gauche.
+Sélectionnez ensuite  vos listes de contacts
+dans le menu déroulant.
+Ensuite, sélectionnez le menu
+Nouveau contact à partir de la flèche à droite
+pour faire apparaître l'option Nouvelle liste de contacts.
+
+Les listes de contacts sont créées dans le dossier Contacts par défaut
+et sous Toutes les listes de contacts.
+Si vous souhaitez enregistrer la liste  de contacts dans un dossier différent,
+sélectionnez le dossier
+avant de sélectionner  Nouvelle liste de contacts.
+Entrez un nom pour la liste.
+Je l'appellerais « Participants à l'évènement client »,
+puis ajoutez les informations  de votre contact :
+les noms, les adresses e-mail et toute autre information importante
+une ligne à la fois en appuyant  sur Entrée après chaque entrée.
+
+Ensuite, je sélectionnerais Créer.
+Pour ajuster les personnes à inclure dans votre liste de contacts,
+sélectionnez Modifier.
+À partir de là, vous pouvez saisir plus de noms
+ou d'adresses e-mail pour ajouter des personnes,
+ou Supprimer des personnes  en sélectionnant le X à côté de leur nom
+ou de leur adresse e-mail.
+
+Une fois que vous avez effectué vos modifications,
+sélectionnez Enregistrer.
+Maintenant qu'une liste de contacts est créée,
+vous pouvez envoyer des e-mails à l'ensemble du groupe sans avoir
+à saisir chaque nom individuellement.
+La création de dossier vous aide  à organiser votre boîte de réception,
+mais vous pouvez garder votre boîte  de réception encore plus organisée
+en définissant des règles.
+Les règles vous permettent de déplacer
+et de répondre  automatiquement aux e-mails.
+
+Par exemple, si je voulais déplacer un message d'un de mes collègues
+dans ce dossier Évènements à venir,
+je peux simplement cliquer avec le bouton droit sur l'un de ces messages.
+Sélectionnez Actions avancées,
+puis Créer une règle.
+Je vais sélectionner plus d'options
+et mettre en place une condition. Dans ce cas,
+tous les messages de Isaiah.
+
+Je sélectionnerais le menu déroulant pour sélectionner une action
+et choisirais Déplacer vers.
+Dans le menu déroulant Sélectionner un dossier,
+sélectionnez le dossier que j'ai créé pour mon évènement.
+Pour utiliser la règle immédiatement,
+cochez la case Exécuter la règle maintenant,
+Sélectionnez ensuite Enregistrer.
+Le message de mon collègue  apparaît maintenant dans ce dossier.
+
+En utilisant ces outils et en mettant en place des règles,
+vous pouvez organiser tous vos messages et contacts
+dans votre boîte de réception rapidement et efficacement.
+Essayez de configurer  des règles et des listes,
+et voyez dans quelle mesure  vous pouvez rationaliser
+votre flux de travail de messagerie.

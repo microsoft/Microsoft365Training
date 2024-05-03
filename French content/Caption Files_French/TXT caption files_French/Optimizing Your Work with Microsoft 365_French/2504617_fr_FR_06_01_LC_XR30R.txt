@@ -1,0 +1,38 @@
+Avez-vous déjà eu à envoyer une communication de masse
+où vous souhaiteriez personnaliser des sections du message
+pour chaque destinataire ?
+Eh bien, le publipostage vous permet d'envoyer des messages personnalisés
+à de nombreux destinataires.
+Il peut remplir automatiquement les noms dans le texte
+à l'aide d'une source de données
+telle qu'une liste, une feuille de calcul, ou une base de données,
+afin que le destinataire aient l'impression
+que cela leur a été adressé spécifiquement.
+
+Dans cette leçon,
+je vais vous expliquer ce qu'est un publipostage
+et pourquoi il est si précieux.
+Les espaces réservés, appelés champs de fusion,
+indiquent à Microsoft Word
+ou dans le document, inclure les informations
+depuis la source de données.
+Vous créez le document principal dans Word,
+et en insérant des champs de fusion
+pour le contenu personnalisé que vous souhaitez y inclure.
+Une fois le publipostage terminé,
+Word génère une version personnalisée du document
+pour chaque entrée de la source de données.
+
+L'utilisation d'un publipostage peut prendre du temps à mettre en place
+mais permet d'économiser ensuite du temps et de l'énergie à long terme.
+Le publipostage n'est disponible
+que dans la fonctionnalité d'application de bureau,
+et pas dans la version web de Word.
+Il fonctionne conjointement avec Outlook et Excel Pour desktop.
+Envisagez de mettre à niveau votre compte Microsoft 365
+pour avoir accès aux applications de bureau,
+de sorte que vous ayez accès à la fonctionnalité de publipostage.
+
+Le publipostage est un outil qui vous fait gagner du temps
+et qui vous aidera à créer facilement des communications de masse.
+Essayez-le.

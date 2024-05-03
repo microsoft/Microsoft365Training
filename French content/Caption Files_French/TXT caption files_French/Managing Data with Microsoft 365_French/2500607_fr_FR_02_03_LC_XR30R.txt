@@ -1,0 +1,117 @@
+Manquer une conversation ou un message d'un client peut signifier
+manquer une communication importante. Avec Power
+Automate,
+vous pouvez répondre immédiatement, même lorsque vous
+êtes absent.
+Dans cette leçon, je vais vous expliquer comment
+créer une réponse automatique par courriel à la réponse à un
+formulaire Microsoft Forms, à l'aide de Power Automate, afin que vous
+puissiez organiser votre communication et éviter
+les messages manqués.
+
+Dans cet exemple, j'ai créé un formulaire de contact
+pour les clients potentiels qui souhaitent en savoir plus sur les
+conseils en préparation de mariage.
+Je souhaite alors créer une réponse automatisée pour informer
+le client que j'ai reçu sa demande d'information dès qu'il a rempli
+le formulaire de contact.
+Je vais créer un flux dans Power Automate pour envoyer cette
+réponse automatique. Dans le coin supérieur gauche
+d'office.com,
+Power Automate.
+
+À partir de là, je sélectionne Créer dans
+le panneau de gauche,
+pour créer un flux vide.
+Ensuite, je choisirai Flux de cloud automatisé,
+la première option dans votre espace de travail.
+Vous choisissez cette option quand vous souhaitez que votre
+flux se déclenche lorsqu'une action précise se produit.
+J'utilise ceci parce que mon flux s'exécutera chaque fois
+que mon formulaire sera rempli.
+
+Une boîte de dialogue s'ouvre alors,
+dans laquelle vous pourrez nommer le flux et choisir un déclencheur.
+Je vais nommer mon flux
+Réponse automatique.
+Power Automate fournit une liste des déclencheurs courants, dans
+laquelle je sélectionne Lorsqu'une nouvelle réponse est envoyée,
+puis je sélectionne Créer.
+Power Automate m'amène alors dans le concepteur de flux,
+où
+pour le conseil en planification de mariage.
+
+Le flux sera déclenché à chaque fois que ce formulaire
+sera rempli.
+Vous aurez peut-être à vous connecter à Microsoft Forms avant
+de pouvoir sélectionner votre formulaire.
+Mon flux aura besoin des informations du formulaire,
+en particulier le nom et l'adresse courriel du client. Pour
+obtenir les données,
+je sélectionne Nouvelle étape.
+Je vais rechercher Obtenir,
+sélectionner Microsoft Forms
+et choisir Obtenir les détails de la réponse.
+
+Comme identifiant du formulaire, je sélectionne à nouveau mon
+formulaire d'intérêt
+pour le conseil en planification de mariage.
+Je vais sélectionner identifiant de réponse,
+puis sélectionner Ajouter du contenu dynamique.
+Cela me permet d'extraire l'identifiant de la
+réponse générée
+lorsqu'une nouvelle réponse est soumise.
+Maintenant que j'ai les détails de la réponse,
+je peux créer l'étape pour envoyer mon courriel.
+Je vais ajouter une nouvelle étape et
+sélectionner Standard.
+
+J'utiliserai alors Office 365 Outlook puisque je souhaite que
+les courriels proviennent de mon adresse courriel professionnelle.
+Si j'utilisais le service courriel,
+les courriels seraient envoyés depuis mon adresse courriel
+personnelle.
+Je vais utiliser Envoyer un email
+( V2 )
+et commencer à rédiger la réponse automatique par courriel.
+Dans le champ À,
+je sélectionne Ajouter du contenu dynamique
+et je sélectionne ici Voir plus, pour rechercher
+l'adresse courriel de mon client.
+
+Pour le sujet,
+je saisirai Intérêt à la préparation de mariage.
+Dans le corps,
+j'ajouterai le prénom de l'auteur pour le rendre plus personnel.
+Je vais ajouter du contenu dynamique et sélectionner
+le prénom
+puis entrer mon message :
+Bonjour, merci de nous avoir contactés.
+Nous sommes impatients de faire de votre jour de mariage
+un jour spécial.
+
+Un de nos associés vous contactera sous peu.
+Après avoir créé un flux,
+je sélectionne tout simplement Enregistrer, en haut à droite,
+avant de pouvoir tester mon flux.
+Je vérifie toujours mon flux pour voir s'il n'y a pas d'erreur, en
+sélectionnant Vérificateur de flux
+ici, en haut à droite.
+Je n'ai aucune erreur
+ni aucun avertissement,
+je peux donc fermer ce panneau et sélectionner Test. Depuis
+le panneau
+je peux choisir de le déclencher manuellement.
+
+Isaiah a ouvert le formulaire et va soumettre une réponse.
+Lorsque le formulaire est soumis, le flux que j'ai créé s'exécute
+automatiquement.
+
+Je vois maintenant que l'historique contient une
+exécution qui a réussi.
+Le flux a automatiquement envoyé une réponse à Isaiah.
+Rester au top des communications est essentiel.
+Imaginez où vous pouvez créer un flux qui répondra immédiatement
+à vos clients potentiels.
+Power Automate vous permet de créer rapidement des processus
+qui renforcent la stratégie de communication de votre entreprise.

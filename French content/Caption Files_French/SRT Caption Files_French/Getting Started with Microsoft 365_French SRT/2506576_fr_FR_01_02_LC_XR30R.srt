@@ -1,0 +1,239 @@
+1
+00:00:01,226 --> 00:00:03,286
+Lorsque vous recherchez un emploi,
+
+2
+00:00:03,286 --> 00:00:07,864
+vous passez probablement un temps précieux
+à réfléchir à votre CV.
+
+3
+00:00:07,864 --> 00:00:10,907
+Vous voudrez peut-être même 
+passer au niveau supérieur
+
+4
+00:00:10,907 --> 00:00:15,081
+et donner à votre CV
+un tout nouveau look professionnel.
+
+5
+00:00:15,081 --> 00:00:19,292
+Avec les styles, il existe un moyen
+simple et rapide d'y parvenir :
+
+6
+00:00:19,292 --> 00:00:21,899
+ajuster la police, 
+l'apparence et la couleur
+
+7
+00:00:21,899 --> 00:00:24,897
+des différentes parties de vos documents.
+
+8
+00:00:24,897 --> 00:00:27,644
+Je vais vous montrer comment 
+améliorer vos documents
+
+9
+00:00:27,644 --> 00:00:30,728
+et vous démarquer des autres.
+
+10
+00:00:30,728 --> 00:00:34,320
+Pour commencer, téléchargez
+l'exemple de CV disponible
+
+11
+00:00:34,320 --> 00:00:36,357
+dans les fichiers d'exercice
+
+12
+00:00:36,357 --> 00:00:40,806
+et je vous expliquerai comment 
+personnaliser votre CV.
+
+13
+00:00:40,806 --> 00:00:45,353
+Ici, vous pouvez voir 
+que j'ai le fichier ouvert dans Word.
+
+14
+00:00:45,353 --> 00:00:49,867
+J'ai utilisé un modèle pour le créer,
+
+15
+00:00:49,867 --> 00:00:53,462
+mais je souhaite apporter
+de légers ajustements
+
+16
+00:00:53,462 --> 00:00:55,741
+pour qu'il soit parfait.
+
+17
+00:00:55,741 --> 00:00:59,849
+Pour voir rapidement
+quels différents styles sont disponibles,
+
+18
+00:00:59,849 --> 00:01:04,413
+je vais accéder à la liste déroulante
+de l'onglet Styles
+
+19
+00:01:04,413 --> 00:01:08,017
+sur le ruban : que de choix !
+
+20
+00:01:08,017 --> 00:01:12,756
+Je veux commencer par changer le style
+de mon école dans la section Éducation.
+
+21
+00:01:12,756 --> 00:01:17,939
+Donc, je vais simplement mettre
+en surbrillance le texte de cette partie,
+
+22
+00:01:17,939 --> 00:01:23,808
+revenir au ruban et accéder 
+à la liste déroulante de l'onglet Styles.
+
+23
+00:01:23,808 --> 00:01:26,343
+Il existe plusieurs options dans Styles :
+
+24
+00:01:26,343 --> 00:01:30,088
+notez les différences 
+de couleurs de police, de tailles
+
+25
+00:01:30,088 --> 00:01:34,593
+et d'autres formats de texte
+comme l'emphase ou le gras.
+
+26
+00:01:34,593 --> 00:01:39,130
+Puisque je modifie mon école
+pour y ajouter plus d'attention,
+
+27
+00:01:39,130 --> 00:01:42,220
+je choisis Titre 3.
+
+28
+00:01:42,220 --> 00:01:46,378
+Comme vous pouvez le voir, 
+Word modifie le texte en surbrillance
+
+29
+00:01:46,378 --> 00:01:49,323
+pour qu'il corresponde au style.
+
+30
+00:01:49,323 --> 00:01:53,756
+Il y a beaucoup d'options à choisir
+dans cette liste déroulante des styles.
+
+31
+00:01:53,756 --> 00:01:56,378
+Je vais mettre mon nom en surbrillance
+
+32
+00:01:56,378 --> 00:02:05,963
+pour vous montrer
+certaines de ces options.
+
+33
+00:02:05,963 --> 00:02:09,525
+Bien que le menu des styles
+propose de nombreuses options,
+
+34
+00:02:09,525 --> 00:02:13,759
+vous ne trouverez peut-être pas
+la solution idéale que vous recherchez.
+
+35
+00:02:13,759 --> 00:02:16,830
+Si vous ne trouvez toujours pas
+la coupe parfaite,
+
+36
+00:02:16,830 --> 00:02:19,865
+vous pouvez essayer
+de créer votre propre style.
+
+37
+00:02:19,865 --> 00:02:22,513
+Avec mon nom déjà mis en surbrillance,
+
+38
+00:02:22,513 --> 00:02:25,454
+je vais changer la couleur 
+et la taille de la police,
+
+39
+00:02:25,454 --> 00:02:31,849
+puis la mettre en gras et en italique.
+
+40
+00:02:31,849 --> 00:02:36,722
+Avec cette police, cette couleur
+et ce style parfait choisis,
+
+41
+00:02:36,722 --> 00:02:40,786
+revenez simplement au style, 
+puis choisissez :
+
+42
+00:02:40,786 --> 00:02:44,390
+Créer un nouveau style
+à partir de la mise en forme.
+
+43
+00:02:44,390 --> 00:02:52,340
+Donnez-lui un nom : Bleu italique
+et cliquez sur OK.
+
+44
+00:02:52,340 --> 00:02:58,353
+Et maintenant, mon nouveau style original
+sera prêt à être utilisé ailleurs.
+
+45
+00:02:58,353 --> 00:03:00,714
+Et c'est tout ce qu'il y a à faire !
+
+46
+00:03:00,714 --> 00:03:04,437
+Les styles peuvent aider 
+à modifier rapidement
+
+47
+00:03:04,437 --> 00:03:06,916
+plusieurs options de mise en forme
+en même temps
+
+48
+00:03:06,916 --> 00:03:10,845
+en les standardisant 
+sur l'ensemble de votre document.
+
+49
+00:03:10,845 --> 00:03:12,624
+Pratiquez vos compétences
+
+50
+00:03:12,624 --> 00:03:16,271
+en modifiant le style de certains textes
+de vos documents
+
+51
+00:03:16,271 --> 00:03:18,046
+pour rehausser leur apparence,
+

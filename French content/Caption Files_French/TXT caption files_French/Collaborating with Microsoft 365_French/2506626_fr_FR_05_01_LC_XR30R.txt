@@ -1,0 +1,134 @@
+Lorsque toute votre équipe  utilise SharePoint,
+le niveau d'engagement est incroyable.
+Pour augmenter encore l'engagement de votre équipe,
+il est important que vous sachiez utiliser certaines des fonctionnalités
+les plus avancées de SharePoint.
+Dans cette leçon, je vais vous montrer
+comment utiliser des sections  et des composants Webpart
+pour ajouter des fonctionnalités web  plus avancées
+dans votre site SharePoint.
+Pour commencer, je vais ouvrir SharePoint.
+
+J'ai déjà créé un site de communication et l'ai nommé :
+« Page de conférence sur les compétences » pour une conférence à venir.
+Maintenant, je veux changer  la mise en page et l'apparence du site,
+ajouter du contenu.
+Je veux commencer par charger la mise en page sur cette page.
+La mise en page d'une page SharePoint est composée de différentes sections.
+Les sections sont  des zones distinctes sur la page
+et chaque composant d'une section  est appelé un composant « Webpart ».
+
+Avant de pouvoir apporter des modifications,
+je dois aller dans le coin supérieur droit et sélectionner Modifier.
+Dans la barre de gauche, je peux modifier mes sections.
+Je peux ajouter, modifier, déplacer, dupliquer et supprimer
+une section à partir d'ici.
+Je souhaite supprimer  l'une de mes sections,
+je vais donc faire défiler jusqu'à la section que je souhaite supprimer.
+
+Et je sélectionne Supprimer la section.
+Je vois que la section a été supprimée.
+Maintenant, je veux modifier le composant Webpart
+dans la section en haut de cette page.
+Ce composant Webpart est une bannière principale
+qui vous permet d'afficher jusqu'à cinq éléments
+à l'aide de textes, d'images et de liens.
+Pour modifier cela,
+je sélectionne le composant Webpart,
+puis Modifier le composant Webpart.
+
+Je peux afficher mon composant Webpart bannière principale sous forme de vignette
+ou de couche.
+La sélection de vignette  affiche la bannière principale
+avec des images et des liens.
+La sélection de couche affiche la bannière principale
+avec des images, du texte et des liens.
+Je souhaite afficher  du texte et des images,
+je conserverai donc les couches sélectionnées
+dans mes options de mise en page.
+
+L'une des fonctionnalités qui rend SharePoint si utile
+est que vous pouvez facilement le modifier
+lorsque vous avez besoin  d'ajouter plus de contenu.
+Actuellement, mon site a trois couches.
+Une couche contient  une image, du texte et un lien.
+Je n'ai qu'une petite quantité de contenu que je veux partager,
+donc je n'ai besoin  que d'une seule couche.
+Donc, sous disposition, je choisirai la mise en page à une couche.
+
+Maintenant que j'ai la bonne mise en page, je peux commencer à modifier l'image,
+le texte et le lien de mon composant Webpart.
+Pour modifier les composants individuels du composant Webpart,
+je dois modifier les détails d'un composant Webpart.
+Je dois sélectionner le composant Webpart et trouver le bouton Modifier les détails.
+Une fois sélectionné, un menu d'édition apparaît
+avec les options d'éditio.
+Pour le moment, je n'ai pas besoin  de créer de lien vers quoi que ce soit,
+je souhaite donc supprimer le lien.
+
+J'ai juste besoin de descendre dans le menu des options et de le développer.
+Pour ce composant Webpart,  le lien fait partie d'un appel à l'action.
+Pour supprimer le lien,  je sélectionnerais tout simplement Non
+pour Afficher le lien appel à l'action.
+Lorsque je suis prêt à ajouter un lien,
+je peux déplacer  l'appel à l'action sur Oui
+et ajouter mon lien  et le texte de l'appel à l'action
+lorsque je suis prêt.
+Je souhaite modifier le texte de ce composant Webpart
+afin de modifier  le titre et la description
+pour qu'il soit spécifique  à la conférence sur les compétences.
+
+Je vais ajouter un nouveau titre  et ma description.
+Je souhaite maintenant modifier l'image affichée sur ce composant Webpart.
+Je vais développer la section de l'image d'arrière-plan
+et sélectionner Modifier.
+Je n'ai pas d'image à utiliser,
+je vais donc sélectionner
+les images d'archive.
+Je vais rechercher une conférence
+dans la barre de recherche et sélectionner une image que j'aime.
+
+Une fois que j'ai sélectionné l'image,
+je verrai l'image sur ma page.
+Sous l'image dans la section Images d'arrière-plan,
+j'ajouterai un texte de remplacement
+pour rendre mon site accessible à ceux qui ne peuvent pas le voir.
+Les modifications que j'ai apportées sont superbes.
+Je veux ajouter une dernière chose à ma page avant de terminer :
+un compte à rebours.
+Pour exciter l'équipe à propos  de la prochaine conférence
+sur les compétences.
+
+Encore une fois, avant de pouvoir apporter des modifications,
+je dois sélectionner Modifier dans le coin supérieur droit.
+Je vais passer la souris au milieu d'une section
+et sélectionner  Ajouter un nouveau composant Webpart.
+Une fenêtre apparaît avec les différents types de composants Webpart
+que je peux ajouter.
+Je sais que je veux ajouter  un compte à rebours
+pour ma conférence sur les compétences.
+Je vais donc taper
+compte à rebours
+dans la barre de recherche et sélectionner le compte à rebours.
+
+Vous pouvez modifier le titre et la description
+directement à partir de ce composant  Webpart en les sélectionnant.
+Je vais changer le titre  en Conférence sur les compétences
+et changer la description : Le compte à rebours commence maintenant
+pour s'amuser, pour exciter l'équipe.
+Vous pouvez maintenant modifier la date et l'heure de votre compte à rebours
+ou même ajouter un lien d'appel à l'action,
+ou une image d'arrière-plan, beaucoup d'options pour personnaliser
+ce Webpart.
+
+Ça a l'air génial, non ?
+Donc, je vais sélectionner Republier
+> Republier
+pour fermer ma fenêtre d'édition.
+J'aime ce look,  c'est une superbe page de destination
+et je sais que je peux revenir  et facilement ajouter
+ou modifier plus de contenu.
+Vous pouvez désormais  créer des sites attrayants
+à l'aide de sections  et de composants Webpart.
+
+Essayez !

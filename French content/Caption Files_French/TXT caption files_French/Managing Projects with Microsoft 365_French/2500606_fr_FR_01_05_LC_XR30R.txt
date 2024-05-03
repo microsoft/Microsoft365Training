@@ -1,0 +1,81 @@
+Le moyen le plus efficace de créer une nouvelle liste avec un aspect
+professionnel consiste à utiliser des modèles.
+Si vous pouvez trouver un modèle qui correspond à votre scénario,
+cela peut vous faire gagner beaucoup de temps.
+Dans cette leçon, je vais vous montrer comment
+donner vie à vos propres listes,  à l'aide d'un modèle.
+Je vais commencer à partir d'Office.com :
+sélectionner Lanceur d'applications  en haut à gauche et ouvrir Lists.
+
+Dans cet exemple, je planifie un événement,
+donc je veux savoir s'il existe un modèle qui m'aidera à le créer.
+Je vais commencer par sélectionner Nouvelle liste.
+La section Modèles affiche des modèles que je peux utiliser.
+Voici un modèle Itinéraire de l'événement qui a l'air bien.
+Lorsque je les sélectionne, je vois un aperçu avec des
+exemples de données.
+La plupart des colonnes semblent utiles,
+mais je n'ai pas besoin de toutes.
+
+Donc je les personnaliserai
+une fois la liste créée.
+Sélectionnez Utiliser un modèle.
+Dans la fenêtre suivante, entrez un nom, je vais appeler
+le mien
+Salon du mariage mars,
+et saisir une description,
+Salon au parc des expositions.
+
+Je vais conserver l'icône du calendrier,
+et la couleur par défaut, et je la stockerai dans ma liste.
+Ensuite, je sélectionne Créer pour créer ma liste à partir du modèle.
+Maintenant que la liste est créée, je peux la personnaliser en
+fonction de mes besoins.
+Je n'ai pas besoin de la colonne Intervenant(s).
+Je peux donc la masquer ou la supprimer.
+
+Si je masque la colonne, elle existera toujours dans la
+liste, mais ne sera pas affichée.
+Je vais masquer la colonne  Intervenant(s) au lieu de la
+supprimer, au cas où quelqu'un finirait par présenter avec moi.
+Je vais sélectionner le menu déroulant à côté de l'en-tête
+Intervenant(s),
+puis sélectionner Paramètres des colonnes,
+et choisir Masquer cette colonne.
+La colonne Intervenant(s)  n'est plus visible.
+
+Je n'aurai pas de code de session pour mon événement.
+Je souhaite donc supprimer la colonne Code de la session.
+Donc je vais sélectionner le menu déroulant à côté de
+Code de la session,
+et sélectionner Paramètres des colonnes,
+et choisir Modifier.
+Cela fait apparaître le panneau Modifier la colonne.
+Maintenant, je peux sélectionner Supprimer
+dans le coin inférieur droit.
+
+Cliquez sur Supprimer pour valider.
+Et la colonne est supprimée.
+La réorganisation des colonnes me permet de regrouper
+les éléments liés.
+Je préfère que la colonne Description soit à côté
+du nom de la session.
+Pour cela, je sélectionne Description,
+et la fait glisser à droite du nom de la session.
+Je suis maintenant prêt à commencer à ajouter mes
+propres données.
+
+Je vais ajouter quelques sessions en sélectionnant Nouveau.
+La première chose sur l'itinéraire de cet événement est
+le petit déjeuner.
+Donc je vais l'entrer comme titre.
+Je sélectionnerai Repas pour le type de session.
+Et dans le champ de description,
+Je saisirai Apporter des cartes de visite.
+
+Enfin, sélectionnez Enregistrer en haut, et l'élément de liste est ajouté.
+Donc voilà,
+créer une liste à partir d'un modèle m'aide à démarrer
+rapidement, et il a fière allure.
+Alors allez-y, ouvrez Microsoft Lists,  et recherchez un modèle qui
+correspond à votre prochain projet.

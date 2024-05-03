@@ -1,0 +1,45 @@
+Parfois vous avez besoin que votre message se démarque.
+Une police plus grande,  des couleurs différentes,
+ou peut-être quelque chose de plus.
+Tout cela rend votre message plus clair.
+Dans cette leçon, je vais vous montrer comment modifier la mise en forme
+de vos publications Teams, pour mettre en évidence votre message
+et rendre les éléments-clés  plus apparents.
+Ètant donné que je suis responsable de la planification d'une conférence
+sur les compétences,  avec une équipe de personnes,
+ce sera un excellent exemple  à vous montrer.
+
+Pour cet exemple, j'ai déjà ouvert Teams et créé une équipe pour collaborer
+à une prochaine conférence
+sur laquelle nous travaillons  tous ensemble.
+J'ai déjà créé une équipe pour rationnaliser notre travail
+et notre communication.
+Mais je souhaite également partager certaines tâches à venir
+qui doivent être terminées.
+Je souhaite utiliser des fonctionnalités de formatage supplémentaires
+à ajouter à mon message.
+Je vais donc accéder aux annonces et sélectionner une nouvelle conversation
+pour sélectionner le format.
+
+À partir de là, je vais changer et modifier l'annonce avant de la publier.
+Je vais utiliser un titre  et une liste à puce
+pour partager les éléments d'action de la semaine.
+La fonctionnalité de mention est utilisée pour attirer l'attention
+de personnes ou de groupes  sur les éléments d'action spécifiques.
+Ètant donné que je souhaite  que le groupe
+Marketing et relations publiques ait un brouillon de dépliant,
+je mentionnerai ce groupe dans le premier élément de ma liste.
+
+J'ai besoin que tout le monde soumette des mises à jour hebdomadaires,
+donc je dois faire en sorte  que cette tâche se démarque.
+Je vais donc aller dans le ruban  de mise en forme, sélectionner Gras,
+puis sélectionner Changer la couleur de la police et choisir le bleu.
+Maintenant lorsque je tape :  « Tout le monde soumet
+des mises à jour hebdomadaires », le texte se démarque vraiment.
+Ça a l'air bon !
+Pour l'envoyer à l'équipe,  je sélectionne Envoyer, et c'est parti !
+Formater un message  est un moyen très simple
+de faire ressortir  ce que vous avez à dire.
+
+Vous pouvez maintenant faire en sorte que vos messages
+en fassent plus pour vous.

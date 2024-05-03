@@ -1,0 +1,145 @@
+1
+00:00:00,690 --> 00:00:05,552
+Les compétences numériques jouent un rôle
+important pour vous aider à apprendre,
+
+2
+00:00:05,552 --> 00:00:08,378
+à vous engager avec votre communauté,
+
+3
+00:00:08,378 --> 00:00:11,011
+ou encore à créer
+un avenir plus prometteur.
+
+4
+00:00:11,011 --> 00:00:13,448
+Travailler avec des ordinateurs
+ouvre des portes
+
+5
+00:00:13,448 --> 00:00:15,408
+pour des opportunités au travail
+
+6
+00:00:15,408 --> 00:00:19,012
+et vous connecte entre amis
+ou avec votre famille.
+
+7
+00:00:19,012 --> 00:00:20,388
+Cette série de cours est conçue
+
+8
+00:00:20,388 --> 00:00:23,971
+pour vous aider à améliorer
+vos compétences actuelles
+
+9
+00:00:23,971 --> 00:00:26,376
+et à acquérir de nouvelles compétences
+
+10
+00:00:26,376 --> 00:00:29,925
+pour vous aider à réussir
+dans le monde numérique.
+
+11
+00:00:29,925 --> 00:00:32,423
+Nous allons commencer
+par un coup d'œil à l'ordinateur.
+
+12
+00:00:32,423 --> 00:00:37,300
+Les bases de l'appareil
+pour regarder ce qui fait un ordinateur.
+
+13
+00:00:37,300 --> 00:00:41,169
+Nous examinerons comment utiliser
+le système d'exploitation pour ouvrir,
+
+14
+00:00:41,169 --> 00:00:45,539
+créer, enregistrer vos fichiers,
+applications et projets.
+
+15
+00:00:45,539 --> 00:00:49,394
+Ensuite, nous examinerons comment
+connecter les périphériques,
+
+16
+00:00:49,394 --> 00:00:51,302
+comme par exemple avec le Bluetooth,
+
+17
+00:00:51,302 --> 00:00:53,952
+mais aussi des périphériques
+de stockage externe.
+
+18
+00:00:53,952 --> 00:00:56,724
+Nous explorerons également
+des applications logicielles
+
+19
+00:00:56,724 --> 00:01:00,025
+de productivité pour le travail
+ou pour un usage personnel
+
+20
+00:01:00,025 --> 00:01:02,656
+avec des outils comme Word et Excel.
+
+21
+00:01:02,656 --> 00:01:05,620
+Si vous êtes novice
+à propos des ordinateurs
+
+22
+00:01:05,620 --> 00:01:08,369
+ou si vous avez toujours
+ressenti une légère anxiété
+
+23
+00:01:08,369 --> 00:01:11,107
+lorsque vous êtes assis
+devant un ordinateur,
+
+24
+00:01:11,107 --> 00:01:13,304
+ce cours est pour vous.
+
+25
+00:01:13,304 --> 00:01:15,376
+Nous allons éviter le jargon technique
+
+26
+00:01:15,376 --> 00:01:19,186
+et je vous présente ce cours
+en termes faciles à comprendre
+
+27
+00:01:19,186 --> 00:01:21,983
+tout en construisant
+votre niveau de connaissances.
+
+28
+00:01:21,983 --> 00:01:23,151
+Je suis Martial Auroy
+
+29
+00:01:23,151 --> 00:01:25,553
+et je vous souhaite
+la bienvenue à ce cours
+
+30
+00:01:25,553 --> 00:01:28,089
+sur le travail avec
+les ordinateurs et les appareils.
+
+31
+00:01:28,089 --> 00:01:29,089
+Suivez-moi !
+

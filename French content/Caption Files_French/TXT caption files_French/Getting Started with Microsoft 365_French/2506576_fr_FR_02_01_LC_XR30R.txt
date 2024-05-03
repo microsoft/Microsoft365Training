@@ -1,0 +1,91 @@
+Si vous me demandiez de vous apprendre à faire une seule chose dans Excel,
+je voudrais vous montrer comment  créer et formater des tableaux.
+C'est une compétence tellement importante.
+Une fois que vous serez à l'aise avec la saisie de données dans un tableau,
+vous serez prêt à commencer à utiliser
+tous les outils et fonctions  puissants d'Excel.
+Dans cette leçon, je vais vous montrer comment démarrer avec les tableaux
+afin que vous puissiez commencer  à utiliser les excellentes capacités
+de calcul d'Excel.
+La première chose à faire est d'ouvrir Excel
+à partir du lanceur d'application  sur office.com ;
+ensuite, je vais devoir créer un classeur.
+
+Un classeur est un fichier qui contient une ou plusieurs feuilles de calcul
+pour aider à organiser les données.
+Considérez-le comme la version numérique d'un classeur physique : un seul endroit
+pour conserver plusieurs feuilles liées ensemble.
+Dans Excel, il existe plusieurs façons de démarrer un nouveau classeur.
+Je peux choisir parmi des modèles ou créer un classeur vierge.
+Dans cette leçon, je vais créer un nouveau budget à titre d'exemple.
+Je vais donc partir de zéro et sélectionner Nouveau classeur.
+
+Une fois le classeur créé, je vais nommer puis enregistrer
+immédiatement le nouveau document afin de ne rien perdre de mon travail.
+Sélectionnez le nom du fichier pour ouvrir une fenêtre dans laquelle
+vous pouvez modifier le nom  et l'emplacement où il sera enregistré.
+Je vais l'appeler « Mon budget ».
+Maintenant que j'ai nommé et enregistré mon classeur,
+je veux jeter un œil à ma feuille de calcul.
+La création d'un classeur crée  automatiquement la Feuille 1 :
+une feuille de calcul vierge prête à l'emploi.
+
+Vous pouvez créer des feuilles supplémentaires
+en sélectionnant le signe + en bas,
+mais pour l'instant, je n'ai besoin que d'une feuille.
+Pour renommer une feuille, survolez  l'onglet en bas à gauche de l'écran,
+puis cliquez avec le bouton droit sur Feuille 1,
+un menu s'ouvrira avec  un certain nombre d'actions à choisir.
+Sélectionnez Renommer.
+Maintenant, une nouvelle fenêtre s'ouvre en demandant de renommer la feuille,
+je vais renommer la feuille « Dépenses ».
+Puis, sélectionnez OK et remarquez que l'onglet qui était étiqueté Feuille 1
+est maintenant étiqueté Dépenses.
+
+Maintenant que j'ai nommé ma feuille, je suis prêt à créer un tableau.
+Tout d'abord, je vais étiqueter les colonnes
+afin de savoir où mettre  chaque élément d'information.
+Dans cet exemple, je souhaite suivre mes dépenses mensuelles,
+je vais donc étiqueter deux colonnes :
+une colonne pour les types de dépenses mensuelles
+et une autre pour les montants.
+Pour étiqueter la première colonne, sélectionnez la cellule A1
+et tapez Dépenses mensuelles.
+Pour la deuxième colonne,  sélectionnez la cellule B1
+et nommez-la Montant.
+Je veux pouvoir voir le titre complet de mes dépenses mensuelles,
+donc je vais ajuster  la largeur de la colonne
+pour voir tout mon texte.
+
+Maintenant que j'ai des entêtes pour les informations
+que je vais mettre dans mon tableau,
+je peux commencer à ajouter  des données à mon tableau.
+J'ai un certain nombre de dépenses  à catégoriser et à suivre.
+Je vais donc taper ces catégories sous Dépenses mensuelles.
+Je commence par le logement.
+Ensuite, je vais entrer le montant que je dépense pour le logement
+chaque mois dans ma deuxième colonne ;
+je sélectionne la cellule B2  et je tape le montant.
+Maintenant que j'ai ajouté le logement à mon tableau,
+je ferai la même chose pour le reste de mes dépenses mensuelles.
+
+Si vous voulez changer la devise,
+sélectionnez les cellules
+et choisissez le format avec le bouton de devise.
+J'ai choisi l'euro.
+Maintenant que j'ai entré mes données,
+je peux rendre le tableau plus facile à lire
+en utilisant le format comme Tableau.
+Je vais sélectionner toutes les cellules de mon tableau y compris les titres,
+puis dans la partie Styles du ruban, sélectionnez Mettre sous forme de tableau.
+
+Cela ouvre plusieurs options de formatage
+pour les tableaux  que je pourrais utiliser.
+Je vais choisir le format  de couleurs alternées
+car il me facilite la lecture  de chaque ligne
+et puisque mon tableau a des titres  ou des entêtes en haut,
+je vais m'assurer le laisser mon tableau Comporte des entêtes sélectionné.
+J'ai maintenant un budget formaté comme je le souhaite
+et prêt à être utilisé.
+Maintenant que vous savez  comment créer et formater un tableau,
+vous pouvez essayer avec vos propres données.

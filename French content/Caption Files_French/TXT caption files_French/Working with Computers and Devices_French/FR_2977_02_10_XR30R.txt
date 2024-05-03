@@ -1,0 +1,52 @@
+Une part importante  pour que votre ordinateur fonctionne
+bien et mieux au fil du temps
+est de continuer d'une manière périodique
+à récupérer les mises à jour qui sont faites par l'éditeur.
+Que vous utilisiez un ordinateur Apple,
+ou que vous utilisiez un ordinateur  de Microsoft,
+le système d'exploitation  est régulièrement mis à jour,
+ce pour corriger des bogues,
+ou alors pour ajouter des fonctionnalités nécessaires au système,
+comme aux différents programmes.
+Ces mises à jour permettent d'améliorer le fonctionnement de l'ensemble.
+
+Bref, afin de maintenir  votre système d'exploitation à jour
+dans le cadre de Windows, direction le menu Démarrer,
+les paramètres de Windows.
+Menu Démarrer.
+Paramètres.
+Puis, Mise à jour et sécurité.
+Nous voyons que dans le cas présent, mon ordinateur redemande un redémarrage.
+Il y a une mise à jour qui attend.
+Il faudra donc que je redémarre  mon ordinateur
+pour qu'il puisse terminer cette mise à jour.
+C'est logique, il y a des programmes qui très certainement
+utilisent des composantes  qui demandent à être mises à jour.
+
+Le fait de redémarrer, les morceaux de ce système d'exploitation vont pouvoir
+être échangés sans pour autant  qu'ils soient en même temps
+utilisés par des programmes.
+Je peux choisir de redémarrer maintenant.
+Je peux choisir de planifier un redémarrage plus tard.
+Et bien entendu, quand j'utilise  le menu Démarrer
+et que je veux arrêter mon ordinateur,
+j'ai le choix de mettre à jour et redémarrer ;
+de mettre à jour et de l'arrêter ;
+voire tout simplement le mettre en veille
+pour attendre une autre fois que je veuille bien
+utiliser la mise à jour de l'ordinateur.
+
+Il y a possibilité également  qu'il y ait des mises à jour disponibles.
+Par exemple ici, il y a une mise à jour concernant la sécurité de Windows.
+Cette mise à jour est dont passée et voici mon ordinateur
+qui est maintenant à jour.
+Dernière vérification : aujourd'hui.
+Et je peux forcer la recherche  de mises à jour si jamais je veux
+absolument vérifier qu'il y ait bien une mise à jour qui aurait pu passer
+ou qui est disponible alors que l'ordinateur n'a encore pas vérifié.
+Pour cela, je clique sur le bouton,
+le système va rechercher des mises à jour en cours.
+
+Et s'il y en a, il va les récupérer
+et les installer ou proposer de les installer.
+Voilà, mon ordinateur est à jour !

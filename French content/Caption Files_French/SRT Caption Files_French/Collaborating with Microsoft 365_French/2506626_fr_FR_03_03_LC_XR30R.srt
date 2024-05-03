@@ -1,0 +1,224 @@
+1
+00:00:00,810 --> 00:00:03,524
+Une partie importante de la collaboration
+
+2
+00:00:03,524 --> 00:00:06,568
+consiste à recueillir les commentaires
+des membres de l'équipe
+
+3
+00:00:06,568 --> 00:00:08,929
+sur le travail que vous créez.
+
+4
+00:00:08,929 --> 00:00:13,590
+Les canaux Teams facilitent
+le partage de votre travail.
+
+5
+00:00:13,590 --> 00:00:14,768
+Dans cette leçon,
+
+6
+00:00:14,768 --> 00:00:18,780
+je vais vous montrer comment transmettre
+des fichiers avec vos collègues
+
+7
+00:00:18,780 --> 00:00:21,840
+dans vos canaux Microsoft Teams.
+
+8
+00:00:21,840 --> 00:00:23,010
+Dans cet exemple,
+
+9
+00:00:23,010 --> 00:00:25,834
+je travaille sur une conférence
+sur les compétences
+
+10
+00:00:25,834 --> 00:00:28,800
+et j'ai configuré
+une équipe et des canaux.
+
+11
+00:00:28,800 --> 00:00:34,410
+Il existe deux façons d'ajouter
+un fichier à un canal Teams.
+
+12
+00:00:34,410 --> 00:00:38,460
+Vous pouvez partager un fichier
+dans les publications
+
+13
+00:00:38,460 --> 00:00:44,180
+ou vous pouvez ajouter un fichier
+à l'onglet Fichiers du canal.
+
+14
+00:00:44,180 --> 00:00:46,498
+Pour cet exemple, j'ai déjà ouvert Teams
+
+15
+00:00:46,498 --> 00:00:50,640
+et créé une équipe pour collaborer
+à une conférence à venir.
+
+16
+00:00:50,640 --> 00:00:53,277
+Je vais d'abord vous montrer
+comment partager un fichier
+
+17
+00:00:53,277 --> 00:00:55,646
+dans une publication d'un canal.
+
+18
+00:00:55,646 --> 00:01:00,901
+Je veux partager une liste des salles
+que nous avons pour la conférence
+
+19
+00:01:00,901 --> 00:01:05,160
+et le nombre de personnes
+qui peuvent tenir dans chaque salle.
+
+20
+00:01:05,160 --> 00:01:09,068
+Dans le canal Logistique,
+je vais créer une publication
+
+21
+00:01:09,068 --> 00:01:14,049
+et sélectionner Attacher
+pour joindre mon fichier à la publication.
+
+22
+00:01:14,049 --> 00:01:19,000
+Je sélectionne Joindre
+dans le menu de la conversation
+
+23
+00:01:19,000 --> 00:01:24,810
+et navigue jusqu'au fichier
+que je veux joindre.
+
+24
+00:01:24,810 --> 00:01:32,340
+Une fois le fichier sélectionné,
+je choisirais de charger une copie.
+
+25
+00:01:32,340 --> 00:01:36,210
+Et le fichier est maintenant joint
+à mon message.
+
+26
+00:01:36,210 --> 00:01:39,088
+Je peux maintenant sélectionner Envoyer
+
+27
+00:01:39,088 --> 00:01:44,850
+et publier le fichier
+sur le canal Logistique.
+
+28
+00:01:44,850 --> 00:01:46,768
+Une fois le fichier publié,
+
+29
+00:01:46,768 --> 00:01:54,390
+je peux le retrouver dans l'onglet
+Fichiers de l'équipe Logistique.
+
+30
+00:01:54,390 --> 00:02:00,030
+En plus de partager des fichiers
+dans une publication, dans un canal,
+
+31
+00:02:00,030 --> 00:02:04,590
+je peux également charger des fichiers
+directement dans l'onglet Fichiers.
+
+32
+00:02:04,590 --> 00:02:08,034
+L'ajout de fichiers
+directement à l'onglet Fichiers
+
+33
+00:02:08,034 --> 00:02:10,201
+vous permet de gérer
+la structure des fichiers
+
+34
+00:02:10,201 --> 00:02:12,180
+ou l'emplacement des fichiers.
+
+35
+00:02:12,180 --> 00:02:15,660
+Je souhaite partager un dépliant
+dans le canal Marketing.
+
+36
+00:02:15,660 --> 00:02:17,301
+Je vais donc commencer par là,
+
+37
+00:02:17,301 --> 00:02:21,270
+puis, je sélectionne l'onglet Fichiers.
+
+38
+00:02:21,270 --> 00:02:24,954
+Le dépliant que je charge
+est un brouillon de dépliants
+
+39
+00:02:24,954 --> 00:02:27,139
+pour les présentateurs à la conférence.
+
+40
+00:02:27,139 --> 00:02:32,713
+Donc, je sélectionne le dossier
+Marketing pour les présentateurs.
+
+41
+00:02:32,713 --> 00:02:34,763
+J'ai déjà ce document.
+
+42
+00:02:34,763 --> 00:02:39,676
+Je vais donc choisir Charger dans le menu.
+
+43
+00:02:39,676 --> 00:02:41,411
+Je sélectionne Fichiers,
+
+44
+00:02:41,411 --> 00:02:53,580
+puisque je sélectionne mon document
+Brouillon de dépliant conférence.
+
+45
+00:02:53,580 --> 00:02:57,990
+Mon document est maintenant
+dans ce dossier.
+
+46
+00:02:57,990 --> 00:03:01,201
+Maintenant que vous pouvez
+partager des fichiers avec votre équipe,
+
+47
+00:03:01,201 --> 00:03:04,556
+par des publications
+et dans l'onglet Fichiers,
+
+48
+00:03:04,556 --> 00:03:08,006
+vous collaborerez avec votre équipe,
+en un rien de temps.
+

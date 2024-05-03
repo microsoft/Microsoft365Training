@@ -1,0 +1,56 @@
+Lorsque vous recherchez un emploi,
+vous passez probablement un temps précieux à réfléchir à votre CV.
+Vous voudrez peut-être même  passer au niveau supérieur
+et donner à votre CV un tout nouveau look professionnel.
+Avec les styles, il existe un moyen simple et rapide d'y parvenir :
+ajuster la police,  l'apparence et la couleur
+des différentes parties de vos documents.
+Je vais vous montrer comment  améliorer vos documents
+et vous démarquer des autres.
+Pour commencer, téléchargez l'exemple de CV disponible
+dans les fichiers d'exercice
+et je vous expliquerai comment  personnaliser votre CV.
+
+Ici, vous pouvez voir  que j'ai le fichier ouvert dans Word.
+J'ai utilisé un modèle pour le créer,
+mais je souhaite apporter de légers ajustements
+pour qu'il soit parfait.
+Pour voir rapidement quels différents styles sont disponibles,
+je vais accéder à la liste déroulante de l'onglet Styles
+sur le ruban : que de choix !
+Je veux commencer par changer le style de mon école dans la section Éducation.
+
+Donc, je vais simplement mettre en surbrillance le texte de cette partie,
+revenir au ruban et accéder  à la liste déroulante de l'onglet Styles.
+Il existe plusieurs options dans Styles :
+notez les différences  de couleurs de police, de tailles
+et d'autres formats de texte comme l'emphase ou le gras.
+Puisque je modifie mon école pour y ajouter plus d'attention,
+je choisis Titre 3.
+
+Comme vous pouvez le voir,  Word modifie le texte en surbrillance
+pour qu'il corresponde au style.
+Il y a beaucoup d'options à choisir dans cette liste déroulante des styles.
+Je vais mettre mon nom en surbrillance
+pour vous montrer certaines de ces options.
+Bien que le menu des styles propose de nombreuses options,
+vous ne trouverez peut-être pas la solution idéale que vous recherchez.
+
+Si vous ne trouvez toujours pas la coupe parfaite,
+vous pouvez essayer de créer votre propre style.
+Avec mon nom déjà mis en surbrillance,
+je vais changer la couleur  et la taille de la police,
+puis la mettre en gras et en italique.
+Avec cette police, cette couleur et ce style parfait choisis,
+revenez simplement au style,  puis choisissez :
+Créer un nouveau style à partir de la mise en forme.
+
+Donnez-lui un nom : Bleu italique et cliquez sur OK.
+Et maintenant, mon nouveau style original sera prêt à être utilisé ailleurs.
+Et c'est tout ce qu'il y a à faire !
+Les styles peuvent aider  à modifier rapidement
+plusieurs options de mise en forme en même temps
+en les standardisant  sur l'ensemble de votre document.
+Pratiquez vos compétences
+en modifiant le style de certains textes de vos documents
+pour rehausser leur apparence,

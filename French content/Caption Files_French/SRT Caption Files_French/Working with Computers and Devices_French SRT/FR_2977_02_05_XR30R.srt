@@ -1,0 +1,334 @@
+1
+00:00:00,996 --> 00:00:04,095
+Alors globalement,
+quand on parle de fenêtre,
+
+2
+00:00:04,095 --> 00:00:08,993
+eh bien c'est tout ce qui s'ouvre,
+tout ce qui se voit dans un cadre.
+
+3
+00:00:08,993 --> 00:00:12,033
+Ce cadre est alors appelé une fenêtre.
+
+4
+00:00:12,033 --> 00:00:15,639
+C'est dans une fenêtre
+que se déroule le programme.
+
+5
+00:00:15,639 --> 00:00:16,818
+C'est dans une fenêtre
+
+6
+00:00:16,818 --> 00:00:21,368
+que vous avez les informations
+sur la musique que vous écoutez.
+
+7
+00:00:21,368 --> 00:00:24,832
+C'est dans cette fenêtre
+que se déroule une vidéo
+
+8
+00:00:24,832 --> 00:00:28,410
+ou alors que vous éditez
+un texte, par exemple.
+
+9
+00:00:28,410 --> 00:00:30,598
+Bref, c'est dans ce cadre que se déroulent
+
+10
+00:00:30,598 --> 00:00:33,634
+les différentes applications
+que vous utilisez.
+
+11
+00:00:33,634 --> 00:00:36,333
+Ce cadre est appelé une fenêtre.
+
+12
+00:00:36,333 --> 00:00:40,198
+Par exemple,
+j'ouvre ici mon document texte,
+
+13
+00:00:40,198 --> 00:00:45,159
+eh bien, le programme me permettant
+de modifier le contenu de ce fichier,
+
+14
+00:00:45,159 --> 00:00:50,179
+ce programme que l'on appelle
+le bloc-notes, est dans cette fenêtre.
+
+15
+00:00:50,179 --> 00:00:54,684
+Le cadre que je vous montre
+ici avec ma souris.
+
+16
+00:00:54,684 --> 00:00:59,947
+Également, je vais trouver une fenêtre
+pour l'explorateur de fichiers.
+
+17
+00:00:59,947 --> 00:01:03,240
+Je peux donc visualiser, organiser
+
+18
+00:01:03,240 --> 00:01:06,762
+et gérer les fichiers
+qui sont sur mon ordinateur
+
+19
+00:01:06,762 --> 00:01:11,840
+grâce à l'explorateur de fichiers,
+ici, dans une fenêtre.
+
+20
+00:01:11,840 --> 00:01:16,608
+Suivant les applications,
+eh bien, vous retrouvez l'icône associée.
+
+21
+00:01:16,608 --> 00:01:19,739
+Ici, l'icône de l'explorateur de fichiers.
+
+22
+00:01:19,739 --> 00:01:22,710
+Ici, l'icône du bloc-notes.
+
+23
+00:01:22,710 --> 00:01:27,889
+Puis le titre de l'application ou encore
+le titre du fichier qui est ouvert,
+
+24
+00:01:27,889 --> 00:01:30,841
+en l'occurrence ici Mon fichier.
+
+25
+00:01:30,841 --> 00:01:34,365
+Du côté de l'explorateur de fichiers,
+quelques icônes supplémentaires,
+
+26
+00:01:34,365 --> 00:01:37,683
+puis le nom du programme
+Explorateur de fichiers.
+
+27
+00:01:37,683 --> 00:01:41,569
+Toute cette partie où se trouve ici
+le curseur de ma souris que je déplace,
+
+28
+00:01:41,569 --> 00:01:45,705
+est ce que l'on appelle le bandeau,
+le bandeau de la fenêtre.
+
+29
+00:01:45,705 --> 00:01:48,719
+Et à droite de ce bandeau, trois boutons.
+
+30
+00:01:48,719 --> 00:01:50,979
+Le bouton complètement
+à droite avec la croix,
+
+31
+00:01:50,979 --> 00:01:55,259
+permet de fermer l'application,
+de l'enlever donc de la mémoire
+
+32
+00:01:55,259 --> 00:01:58,086
+et libérer de l'espace dans cette mémoire
+
+33
+00:01:58,086 --> 00:02:01,732
+et de libérer l'occupation
+du microprocesseur.
+
+34
+00:02:01,732 --> 00:02:03,858
+Lorsque je ferme avec la croix,
+
+35
+00:02:03,858 --> 00:02:07,776
+si je devais enregistrer
+les modifications,
+
+36
+00:02:07,776 --> 00:02:09,931
+le programme m'inviterait alors
+
+37
+00:02:09,931 --> 00:02:12,940
+à les enregistrer avant
+de quitter cette application.
+
+38
+00:02:12,940 --> 00:02:14,168
+Dans le cas présent,
+
+39
+00:02:14,168 --> 00:02:18,272
+si je clique sur la croix,
+cela ferme mon l'explorateur de fichiers.
+
+40
+00:02:18,272 --> 00:02:21,848
+Je n'ai pas fait de modifications,
+je n'ai pas eu d'alerte.
+
+41
+00:02:21,848 --> 00:02:25,810
+Il me suffit alors de retourner
+sur cette application pour l'ouvrir.
+
+42
+00:02:25,810 --> 00:02:28,909
+Puis je trouve un bouton
+au milieu des trois
+
+43
+00:02:28,909 --> 00:02:33,998
+qui me permet d'agrandir la fenêtre
+au maximum de mon écran.
+
+44
+00:02:33,998 --> 00:02:37,120
+Vous voyez que ce bouton
+a changé de forme maintenant
+
+45
+00:02:37,120 --> 00:02:40,357
+puisque si je clique à nouveau
+sur ce bouton,
+
+46
+00:02:40,357 --> 00:02:45,667
+eh bien, je reviens à la position
+et à la taille de cette fenêtre
+
+47
+00:02:45,667 --> 00:02:49,087
+avant le clic sur ce bouton
+pour l'agrandir.
+
+48
+00:02:49,087 --> 00:02:50,505
+J'ai le même comportement,
+
+49
+00:02:50,505 --> 00:02:55,656
+si je double clique avec le bouton
+principal de la souris sur le bandeau,
+
+50
+00:02:55,656 --> 00:02:57,038
+Double clic,
+
+51
+00:02:57,038 --> 00:03:01,140
+cela agrandit la fenêtre
+au maximum de l'écran.
+
+52
+00:03:01,140 --> 00:03:03,158
+Double clic à nouveau,
+
+53
+00:03:03,158 --> 00:03:06,801
+cela remet cette fenêtre
+à la taille précédente.
+
+54
+00:03:06,801 --> 00:03:09,957
+Troisième bouton,
+symbolisé par un petit trait,
+
+55
+00:03:09,957 --> 00:03:15,085
+permet de réduire cette application,
+de ne plus prendre la place sur ce bureau,
+
+56
+00:03:15,085 --> 00:03:18,703
+mais elle est toujours
+ouverte et toujours active,
+
+57
+00:03:18,703 --> 00:03:20,957
+visible dans la barre des tâches.
+
+58
+00:03:20,957 --> 00:03:24,316
+En passant simplement
+la souris au dessus de l'icône,
+
+59
+00:03:24,316 --> 00:03:27,011
+je vois cette application ouverte.
+
+60
+00:03:27,011 --> 00:03:29,597
+Si j'ouvre, par exemple, la corbeille,
+
+61
+00:03:29,597 --> 00:03:34,281
+cette corbeille est également
+une partie de l'explorateur
+
+62
+00:03:34,281 --> 00:03:38,086
+et en passant alors la souris au-dessus
+de l'icône de l'explorateur,
+
+63
+00:03:38,086 --> 00:03:40,700
+je vois qu'il y a deux fenêtres.
+
+64
+00:03:40,700 --> 00:03:44,483
+Je peux passer la souris pour
+voir mon explorateur de fichiers,
+
+65
+00:03:44,483 --> 00:03:46,310
+pour voir ma corbeille,
+
+66
+00:03:46,310 --> 00:03:50,115
+et il suffit de cliquer
+alors sur la fenêtre
+
+67
+00:03:50,115 --> 00:03:53,541
+pour la faire à nouveau
+apparaître sur le bureau.
+
+68
+00:03:53,541 --> 00:03:58,529
+Allez, je vous livre une petite astuce,
+mettez votre curseur sur le bandeau,
+
+69
+00:03:58,529 --> 00:04:01,929
+gardez le doigt enfoncé sur le bouton
+principal de votre souris,
+
+70
+00:04:01,929 --> 00:04:07,652
+par exemple, le bouton gauche
+et bougez rapidement la fenêtre.
+
+71
+00:04:07,652 --> 00:04:09,976
+Eh bien, cela réduit
+toutes les autres fenêtres.
+

@@ -1,0 +1,255 @@
+1
+00:00:01,005 --> 00:00:02,570
+La plupart des programmes de messagerie
+
+2
+00:00:02,570 --> 00:00:05,406
+vous permettent de créer et d'enregistrer
+les coordonnées des personnes
+
+3
+00:00:05,406 --> 00:00:07,275
+avec lesquelles vous communiquez.
+
+4
+00:00:07,275 --> 00:00:11,005
+Il est ainsi facile non seulement
+de leur envoyer des courriels
+
+5
+00:00:11,005 --> 00:00:13,995
+sans avoir à rechercher
+leurs informations à chaque fois,
+
+6
+00:00:13,995 --> 00:00:17,218
+mais vous pouvez également enregistrer
+d'autres informations importantes
+
+7
+00:00:17,218 --> 00:00:22,448
+sur vos contacts qui peuvent être
+facilement consultées à tout moment.
+
+8
+00:00:22,448 --> 00:00:27,251
+Un contact peut aussi être basique
+qu'un nom et une adresse mail
+
+9
+00:00:27,251 --> 00:00:30,521
+ou inclure des informations
+comme une adresse de rue,
+
+10
+00:00:30,521 --> 00:00:36,055
+plusieurs numéros de téléphone, une photo
+ou tout autre une note pertinente.
+
+11
+00:00:36,055 --> 00:00:38,072
+Alors nous voici ici devant
+le programme Outlook,
+
+12
+00:00:38,072 --> 00:00:42,391
+le programme de messagerie
+de Microsoft et de la suite Office.
+
+13
+00:00:42,391 --> 00:00:44,424
+Dans le cas de cet utilisateur,
+
+14
+00:00:44,424 --> 00:00:49,442
+notre ami vient de recevoir un message
+de la part de Martial AUROY.
+
+15
+00:00:49,442 --> 00:00:54,594
+En cliquant sur la photo de cet expéditeur
+trois petits points,
+
+16
+00:00:54,594 --> 00:00:58,593
+nous pouvons directement ajouter
+les coordonnées de cette personne
+
+17
+00:00:58,593 --> 00:01:00,173
+au contact.
+
+18
+00:01:00,173 --> 00:01:02,741
+Apparaît alors le formulaire
+
+19
+00:01:02,741 --> 00:01:05,973
+me permettant de remplir
+les renseignements de ce contact
+
+20
+00:01:05,973 --> 00:01:10,614
+et la plupart des informations
+est d'ores et déjà renseignée
+
+21
+00:01:10,614 --> 00:01:14,937
+grâce au système Microsoft 365.
+
+22
+00:01:14,937 --> 00:01:18,212
+Martial AUROY alors,
+est renseigné avec son poste
+
+23
+00:01:18,212 --> 00:01:23,146
+ainsi que les différentes informations
+que le système a retrouvé.
+
+24
+00:01:23,146 --> 00:01:25,951
+Il me suffit donc
+de terminer ces informations,
+
+25
+00:01:25,951 --> 00:01:28,948
+comme, par exemple, peut-être
+des notes supplémentaires.
+
+26
+00:01:28,948 --> 00:01:31,646
+Le numéro de téléphone
+du domicile aussi je l'avais.
+
+27
+00:01:31,646 --> 00:01:34,965
+L'adresse du site web, etc.
+
+28
+00:01:34,965 --> 00:01:37,597
+Une fois que ces informations
+sont renseignées,
+
+29
+00:01:37,597 --> 00:01:40,270
+je clique sur Enregistrer & Fermer.
+
+30
+00:01:40,270 --> 00:01:42,561
+L'autre moyen de renseigner des contacts
+
+31
+00:01:42,561 --> 00:01:45,540
+est alors de passer directement
+par la fiche des contacts
+
+32
+00:01:45,540 --> 00:01:48,336
+et de l'ajouter manuellement.
+
+33
+00:01:48,336 --> 00:01:52,140
+En bas à gauche, je clique sur
+ces silhouettes représentant...
+
+34
+00:01:52,140 --> 00:01:56,124
+le [cut] représentant
+la liste des contacts.
+
+35
+00:01:56,124 --> 00:01:58,753
+Je vois apparaître les contacts
+qui sont déjà enregistrés
+
+36
+00:01:58,753 --> 00:02:01,226
+comme Martial AUROY et Pierre Delaroue,
+
+37
+00:02:01,226 --> 00:02:03,797
+et je peux alors ajouter
+un nouveau contact.
+
+38
+00:02:03,797 --> 00:02:09,534
+Nouveau contact, par exemple,
+mon ami Robert DUGUIDON.
+
+39
+00:02:09,534 --> 00:02:14,424
+La société, si je la connais,
+eh bien, il me suffit de la renseigner.
+
+40
+00:02:14,424 --> 00:02:15,695
+Quel poste il occupe.
+
+41
+00:02:15,695 --> 00:02:19,273
+Classer sous,
+je préfère utiliser le prénom d'abord,
+
+42
+00:02:19,273 --> 00:02:22,453
+je vais donc le classer sous
+Robert DUGUIDON.
+
+43
+00:02:22,453 --> 00:02:28,499
+Puis, je peux ajouter, par exemple,
+son adresse de courrier.
+
+44
+00:02:28,499 --> 00:02:31,084
+Voilà, Robert DUGUIDON.
+
+45
+00:02:31,084 --> 00:02:33,254
+L'afficher comme, sa page web, etc.
+
+46
+00:02:33,254 --> 00:02:35,515
+Et d'autres différentes informations.
+
+47
+00:02:35,515 --> 00:02:39,373
+Je peux même, par exemple,
+aller récupérer sa photo.
+
+48
+00:02:39,373 --> 00:02:42,363
+À partir de mon environnement
+de téléchargement,
+
+49
+00:02:42,363 --> 00:02:47,071
+je dispose de sa photo
+que je peux donc ajouter à sa fiche.
+
+50
+00:02:47,071 --> 00:02:51,580
+Il me suffit alors
+d'enregistrer et de fermer.
+
+51
+00:02:51,580 --> 00:02:56,758
+Ainsi, lorsque je suis dans les messages
+et que je crée un nouveau courrier,
+
+52
+00:02:56,758 --> 00:02:59,781
+dès que je vais taper
+les premières lettres de mon ami,
+
+53
+00:02:59,781 --> 00:03:02,035
+je le vois apparaître ici,
+Robert DUGUIDON,
+
+54
+00:03:02,035 --> 00:03:06,134
+Et il me suffit de cliquer sur son nom
+pour qu'il soit associé aux expéditeurs.
+

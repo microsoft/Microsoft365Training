@@ -1,0 +1,217 @@
+1
+00:00:00,835 --> 00:00:05,144
+Charger, télécharger, renommer,
+supprimer toute cette gestion de fichiers
+
+2
+00:00:05,144 --> 00:00:07,489
+est la clé de votre flux de travail.
+
+3
+00:00:07,489 --> 00:00:10,856
+Mais quelle est a meilleure façon
+d'organiser vos fichiers partagés
+
+4
+00:00:10,856 --> 00:00:12,969
+dans Microsoft Teams ?
+
+5
+00:00:12,969 --> 00:00:14,372
+Dossiers !
+
+6
+00:00:14,372 --> 00:00:17,623
+Dans cette leçon, je vais vous montrer
+comment améliorer l'organisation
+
+7
+00:00:17,623 --> 00:00:19,710
+et le flux de travail de votre équipe
+
+8
+00:00:19,710 --> 00:00:23,888
+en créant de nouveaux fichiers
+et dossiers dans Teams.
+
+9
+00:00:23,888 --> 00:00:27,668
+Pour cet exemple, j'ai déjà ouvert Teams
+et créé une équipe pour collaborer
+
+10
+00:00:27,668 --> 00:00:29,823
+à une conférence à venir.
+
+11
+00:00:29,823 --> 00:00:34,781
+Je travaille sur une conférence,
+sur les compétences avec mon équipe.
+
+12
+00:00:34,781 --> 00:00:39,455
+J'ai créé un brouillon de dépliant
+pour les présentateurs de la conférence.
+
+13
+00:00:39,455 --> 00:00:43,615
+Mais je n'ai pas encore de brouillon 
+de dépliant pour les participants.
+
+14
+00:00:43,615 --> 00:00:48,796
+Donc, je veux d'abord créer des dossiers
+pour organiser mes dépliants.
+
+15
+00:00:48,796 --> 00:00:53,230
+Un dépliant est un outils de marketing,
+je vais donc d'abord passer par le canal
+
+16
+00:00:53,230 --> 00:00:55,860
+Marketing et PR.
+
+17
+00:00:55,860 --> 00:00:59,790
+Ensuite, je vais sélectionner 
+l'onglet Fichiers.
+
+18
+00:00:59,790 --> 00:01:04,000
+Maintenant je vais configurer le dossier
+dans lequel les fichiers doivent aller.
+
+19
+00:01:04,000 --> 00:01:07,082
+J'ai besoin de dossiers pour séparer
+le marketing des participants
+
+20
+00:01:07,082 --> 00:01:08,880
+et des présentateurs.
+
+21
+00:01:08,880 --> 00:01:14,695
+Donc, je vais créer ces nouveaux dossiers
+en sélectionnant : Ajouter, Nouveau,
+
+22
+00:01:14,695 --> 00:01:16,907
+en choisissant Dossier.
+
+23
+00:01:16,907 --> 00:01:20,348
+Je vais nommer mon dossier,
+Marketing des participants
+
+24
+00:01:20,348 --> 00:01:22,452
+et sélectionner Créer.
+
+25
+00:01:22,452 --> 00:01:25,302
+J'ai maintenant créer un dossier
+dans le canal Marketing
+
+26
+00:01:25,302 --> 00:01:28,169
+pour les fichiers marketing
+des participants.
+
+27
+00:01:28,169 --> 00:01:31,447
+Je fais le même pour le marketing
+des présentateurs.
+
+28
+00:01:31,447 --> 00:01:35,233
+En sélectionnant à nouveau,
+Nouveau, Ajouter,
+
+29
+00:01:35,233 --> 00:01:37,625
+et en choisissant le dossier.
+
+30
+00:01:37,625 --> 00:01:40,780
+Je nommerai ce dossier,
+Marketing des présentateurs.
+
+31
+00:01:40,780 --> 00:01:43,236
+Et je clique sur Créer.
+
+32
+00:01:43,236 --> 00:01:46,377
+Dans l'onglet des fichiers,
+je souhaite accéder au dossier
+
+33
+00:01:46,377 --> 00:01:50,836
+Marketing des participants,
+en cliquant sur le nom du dossier.
+
+34
+00:01:50,836 --> 00:01:55,310
+Cela m'amène
+au contenu de ce dossier.
+
+35
+00:01:55,310 --> 00:01:59,262
+Il est vide pour le moment
+puisque je viens de créer le dossier.
+
+36
+00:01:59,262 --> 00:02:04,337
+Maintenant, à partir de ce dossier,
+je peux créer de nouveaux fichiers.
+
+37
+00:02:04,337 --> 00:02:10,109
+Je vais sélectionner Nouveau,
+puis Document Word.
+
+38
+00:02:10,109 --> 00:02:17,821
+Je nommerai ce document,
+Brouillon du dépliant des participants.
+
+39
+00:02:17,821 --> 00:02:23,207
+Une fois que j'ai sélectionné Créer,
+cela m'amène à mon nouveau document.
+
+40
+00:02:23,207 --> 00:02:27,022
+Je peux utiliser le volet de navigation
+sur le côté gauche
+
+41
+00:02:27,022 --> 00:02:30,440
+pour revenir à l'onglet Fichiers
+de mon canal marketing.
+
+42
+00:02:30,440 --> 00:02:33,575
+Si je vais dans le dossier 
+Marketing des participants,
+
+43
+00:02:33,575 --> 00:02:36,730
+je peux voir mon document.
+
+44
+00:02:36,730 --> 00:02:40,916
+Vous pouvez désormais créer et organiser
+des fichiers en équipe,
+
+45
+00:02:40,916 --> 00:02:44,827
+essayer d'organiser tous les documents
+sur lesquels votre équipe collabore
+
+46
+00:02:44,827 --> 00:02:47,700
+pour rationnaliser votre flux de travail.
+

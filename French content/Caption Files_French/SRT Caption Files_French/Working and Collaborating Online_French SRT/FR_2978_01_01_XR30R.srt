@@ -1,0 +1,330 @@
+1
+00:00:01,175 --> 00:00:02,385
+Pour accéder à l'information
+
+2
+00:00:02,385 --> 00:00:04,581
+et communiquer 
+avec d'autres personnes en ligne,
+
+3
+00:00:04,581 --> 00:00:07,027
+vous devez d'abord
+vous connecter à internet.
+
+4
+00:00:07,027 --> 00:00:09,438
+C'est comme ceci que l'on appelle
+« être en ligne »
+
+5
+00:00:09,438 --> 00:00:11,028
+ou « être connecté ».
+
+6
+00:00:11,028 --> 00:00:15,069
+Pour ce faire, vous avez besoin
+d'un appareil compatible avec internet
+
+7
+00:00:15,069 --> 00:00:17,313
+afin de vous connecter à un réseau.
+
+8
+00:00:17,313 --> 00:00:20,725
+Parmi ces appareils,
+on rencontre les ordinateurs de bureau,
+
+9
+00:00:20,725 --> 00:00:22,505
+les ordinateurs portables,
+
+10
+00:00:22,505 --> 00:00:24,124
+les téléphones mobiles
+
+11
+00:00:24,124 --> 00:00:25,513
+et les tablettes.
+
+12
+00:00:25,513 --> 00:00:28,593
+Presque tous les appareils
+modernes de cette catégorie
+
+13
+00:00:28,593 --> 00:00:32,684
+ont la possibilité de se relier
+au réseau pour se connecter.
+
+14
+00:00:32,684 --> 00:00:37,161
+Essentiellement, internet
+est composé d'un ensemble de réseaux
+
+15
+00:00:37,161 --> 00:00:41,449
+qui sont connectés les uns aux autres
+partout dans le monde.
+
+16
+00:00:41,449 --> 00:00:43,835
+Et vous accédez à internet
+
+17
+00:00:43,835 --> 00:00:46,690
+en vous connectant à l'un de ces réseaux.
+
+18
+00:00:46,690 --> 00:00:47,690
+Souvent,
+
+19
+00:00:47,690 --> 00:00:50,567
+vous vous connectez à un réseau
+qui a été configuré dans votre maison
+
+20
+00:00:50,567 --> 00:00:52,548
+ou votre lieu de travail.
+
+21
+00:00:52,548 --> 00:00:55,518
+Selon l'appareil que vous utilisez,
+vous pouvez vous y connecter
+
+22
+00:00:55,518 --> 00:00:57,377
+de différentes façons.
+
+23
+00:00:57,377 --> 00:01:00,587
+Par exemple,
+si vous utilisez un ordinateur de bureau,
+
+24
+00:01:00,587 --> 00:01:04,189
+vous pouvez avoir une connexion
+câblée à votre réseau
+
+25
+00:01:04,189 --> 00:01:06,128
+pour accéder à internet.
+
+26
+00:01:06,128 --> 00:01:09,151
+Beaucoup d'ordinateurs portables
+ont également des ports
+
+27
+00:01:09,151 --> 00:01:11,933
+pour prendre en charge 
+une connexion câblée.
+
+28
+00:01:11,933 --> 00:01:15,827
+Ainsi, pour une connexion câblée,
+vous utiliserez un câble
+
+29
+00:01:15,827 --> 00:01:17,992
+appelé « câble Ethernet »
+
+30
+00:01:17,992 --> 00:01:22,028
+pour connecter votre ordinateur
+à votre périphérique réseau
+
+31
+00:01:22,028 --> 00:01:25,251
+souvent appelé « routeur » ou « box ».
+
+32
+00:01:25,251 --> 00:01:29,251
+La plupart des ordinateurs portables ont
+également la possibilité de se connecter
+
+33
+00:01:29,251 --> 00:01:33,317
+au réseau wi-fi qui est une forme
+de connexion sans fil.
+
+34
+00:01:33,317 --> 00:01:36,884
+De sorte que vous pouvez choisir
+entre une connexion câblée
+
+35
+00:01:36,884 --> 00:01:41,220
+et sans fil à partir de la plupart
+des ordinateurs portables.
+
+36
+00:01:41,220 --> 00:01:43,515
+Lorsque vous utilisez 
+des appareils portables
+
+37
+00:01:43,515 --> 00:01:46,241
+comme les téléphones mobiles
+et les tablettes,
+
+38
+00:01:46,241 --> 00:01:51,713
+vous pouvez vous connecter généralement
+à votre réseau via le wi-fi.
+
+39
+00:01:51,713 --> 00:01:54,813
+Si votre téléphone mobile 
+ou tablette a un forfait de données
+
+40
+00:01:54,813 --> 00:01:58,017
+par l'intermédiaire de votre fournisseur 
+de services mobiles,
+
+41
+00:01:58,017 --> 00:02:00,968
+vous pouvez également 
+vous connecter à internet sans fil
+
+42
+00:02:00,968 --> 00:02:05,177
+par rapport aussi au cellulaire
+lorsque le wi-fi n'est pas disponible.
+
+43
+00:02:05,177 --> 00:02:09,110
+C'est ce que l'on appelle
+le « haut débit mobile ».
+
+44
+00:02:09,110 --> 00:02:10,786
+Lorsque vous êtes en déplacement,
+
+45
+00:02:10,786 --> 00:02:14,417
+si la connexion au réseau wi-fi
+est généralement la meilleure option,
+
+46
+00:02:14,417 --> 00:02:18,718
+de nombreux fournisseurs mobiles
+limitent la quantité de données
+
+47
+00:02:18,718 --> 00:02:21,915
+que vous pouvez transférer
+sur le haut débit mobile.
+
+48
+00:02:21,915 --> 00:02:24,497
+Et donc, peut facturer 
+des frais supplémentaires
+
+49
+00:02:24,497 --> 00:02:27,366
+pour aller au-delà de votre limite.
+
+50
+00:02:27,366 --> 00:02:30,596
+Des réseaux wi-fi accessibles au public
+sont généralement disponibles
+
+51
+00:02:30,596 --> 00:02:36,046
+dans des endroits comme les aéroports,
+les hôtels, les centres commerciaux
+
+52
+00:02:36,046 --> 00:02:37,158
+et les restaurants.
+
+53
+00:02:37,158 --> 00:02:41,515
+Souvent, les réseaux wi-fi publics 
+sont protégés par mot de passe,
+
+54
+00:02:41,515 --> 00:02:46,565
+ce qui permet de sécuriser le réseau
+accessible par n'importe qui.
+
+55
+00:02:46,565 --> 00:02:49,705
+Par exemple, un café peut décider
+de ne partager le mot de passe
+
+56
+00:02:49,705 --> 00:02:52,242
+à son réseau wi-fi qu'avec ses clients.
+
+57
+00:02:52,242 --> 00:02:56,238
+De même, le réseau wi-fi que vous avez
+peut-être mis en place dans votre maison
+
+58
+00:02:56,238 --> 00:02:59,027
+est également protégé par mot de passe
+
+59
+00:02:59,027 --> 00:03:02,539
+pour empêcher les gens
+extérieurs à votre ménage
+
+60
+00:03:02,539 --> 00:03:04,026
+de se connecter à elle.
+
+61
+00:03:04,026 --> 00:03:06,226
+Les réseaux domestiques 
+sont généralement configurés
+
+62
+00:03:06,226 --> 00:03:09,600
+par votre fournisseur d'accès internet
+
+63
+00:03:09,600 --> 00:03:12,223
+que l'on appelle le « FAI ».
+
+64
+00:03:12,223 --> 00:03:16,776
+Votre FAI vous met en place
+un modem, une box
+
+65
+00:03:16,776 --> 00:03:20,147
+pour créer la connexion
+de votre maison à internet.
+
+66
+00:03:20,147 --> 00:03:22,834
+Et souvent, le service comprend un routeur
+
+67
+00:03:22,834 --> 00:03:25,797
+qui permet à plusieurs ordinateurs
+et appareils
+
+68
+00:03:25,797 --> 00:03:28,680
+de se connecter à internet en même temps,
+
+69
+00:03:28,680 --> 00:03:31,220
+soit câblés, soit sans fil.
+
+70
+00:03:31,220 --> 00:03:35,551
+Pour la plupart d'entre-nous, 
+se connecter en ligne est rapide et facile
+
+71
+00:03:35,551 --> 00:03:39,002
+tant bien sûr que l'on arrive à avoir
+un réseau disponible pour se connecter.
+

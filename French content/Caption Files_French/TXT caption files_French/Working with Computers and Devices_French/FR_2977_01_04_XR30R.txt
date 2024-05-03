@@ -1,0 +1,86 @@
+Alors, un autre appareil courant
+que vous utilisez probablement à un moment ou à un autre,
+est un disque dur externe ou un périphérique de stockage.
+Alors, il existe des périphériques externes de stockage,
+comme une simple clé USB.
+Vous avez dû en entendre parler,
+ce que l'on appelle également un lecteur flash.
+Donc, celui-ci se branche directement sur une prise de type USB
+à votre ordinateur ou à votre tablette.
+Vous pouvez en obtenir donc une variété de quantité et d'espace de stockage,
+c'est vraiment très varié.
+
+Si vous avez besoin de beaucoup de stockage,
+je vous conseille d'aller plutôt vers un disque dur externe
+où là, on a une technologie qui est meilleure pour du stockage à long terme
+et en plus de ça, vous pouvez les trouver avec ce même type de connexion,
+c'est-à-dire un connecteur USB.
+Alors, il est important d'être conscient de quel type de connecteur USB
+vous avez sur votre ordinateur.
+Regardons cette petite planche.
+Vous voyez qu'il y a de l'USB de Type A jusqu'à l'USB de type Lightning,
+en passant par le Type C et le Micro B.
+
+Alors, si vous avez un ordinateur de type de bureau
+avec une unité centrale séparée de l'écran, du clavier et de la souris,
+il est fort probable que vous ayez de l'USB de Type A.
+Peut-être, avez-vous de l'USB de Type C.
+En tous les cas, si vous avez une tablette ou un smartphone,
+il est fort probable que vous utilisiez alors de l'USB Micro B ou du Lightning.
+Attention donc de bien vérifier avant d'aller acheter
+un système de stockage externe,
+que vous soyez bien compatible avec les prises USB
+que vous avez sur votre ordinateur.
+
+Une fois que vous avez ce périphérique,
+eh bien, il suffit de le brancher sur le port USB
+de votre ordinateur de votre choix.
+J'ai reconstitué ici les deux notifications que vous aurez
+en branchant ce périphérique.
+La première notification, elle est ici en bas
+et le système vous avertit qu'il y a un nouveau lecteur,
+un nouveau disque, ici la lettre E dans mon exemple, qui est donc accessible.
+Le système a détecté donc que c'était un appareil périphérique de stockage.
+
+Et il associe une lettre comme un disque dur dans votre ordinateur.
+Puis, tout de suite après cette notification,
+vous aurez la fenêtre en haut
+qui vous demande quoi faire avec cet espace de stockage.
+Est-ce que vous voulez le configurer,
+est-ce que vous voulez l'ouvrir et mettre ainsi des dossiers, afficher des fichiers,
+voir ce qu'il y a dedans ou ne rien faire ;
+vous l'avez branché et vous verrez plus tard comment vous voulez l'utiliser.
+En cliquant sur ces différentes options,
+vous accédez alors au contenu ou pas de ce périphérique de stockage.
+
+Pour ma part, je vais cliquer sur Ouvrir le dossier et afficher les fichiers.
+Le gestionnaire de fichiers de mon Windows s'ouvre
+et je vois alors le contenu de mon espace de stockage.
+Lecteur USB, c'est donc un espace de stockage qui est bien branché
+sur un port USB et le système lui a associé une lettre.
+Et à l'intérieur de cet espace de stockage,
+eh bien, je vois qu'il y a un fichier Word qui s'appelle Evenement.
+Sur la partie gauche,
+je vois que mon ordinateur de bureau ici dispose déjà d'un disque interne
+et il dispose maintenant d'un deuxième disque qui est, lui, externe,
+qui est branché sur un port USB.
+
+C'est donc le contenu que je vois ici à droite.
+Si vous voulez arriver directement dans le gestionnaire de fichiers, par exemple,
+ou si vous voulez une exécution automatisée
+lorsque vous branchez votre périphérique de stockage,
+je vous invite alors à aller dans le menu Démarrer,
+puis Périphériques et Paramètres de Windows,
+choisissez la partie des périphériques.
+Et dans la partie des périphériques, descendez sur Exécution automatique.
+
+Si ce n'est pas le cas, activez l'exécution automatique
+et choisissez alors, lorsque vous branchez un lecteur amovible,
+un disque dur donc, périphérique
+ou simplement une carte mémoire comme une clé USB.
+Choisissez alors ce que doit faire Windows.
+Est-ce qu'il doit importer des photos,
+est-ce qu'il doit lire simplement le lecteur,
+est-ce qu'il doit ne rien faire, ouvrir le dossier, etc.
+Choisissez alors quelle est l'action que devra faire votre environnement
+lorsque vous branchez un périphérique de stockage.

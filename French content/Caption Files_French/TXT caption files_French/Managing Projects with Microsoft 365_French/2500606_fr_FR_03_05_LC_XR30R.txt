@@ -1,0 +1,75 @@
+Les grands projets sont réalisables lorsque vous les avez
+décomposés en tâches plus petites et que vous avez ajouté des
+dépendances pour voir ce qui doit être fait en premier.
+Dans cette leçon, j'utiliserai un exemple de projet
+de mariage client pour montrer comment ajouter des sous-tâches et
+des dépendances dans Microsoft Project afin que vous puissiez
+rester au courant de tous les détails.
+Depuis Office.com, sélectionnez le lanceur d'application dans le
+coin supérieur gauche et ouvrez Project.
+
+Notez que l'utilisation de Project pour le web nécessite un
+abonnement actif à Microsoft Project.
+Je veux ouvrir le projet Mariage client.
+Je suis en mode Grille par défaut.
+À partir de là, je peux commencer à décomposer
+certaines de ces tâches en sous-tâches plus petites.
+Par exemple, j'ai comme tâche Identifier un traiteur,
+mais je sais qu'il y a des sous-tâches associées à cet élément.
+
+Je vais ajouter des sous-tâches.
+Tout d'abord, je vais ajouter Déterminer les allergies en tant
+que tâche en sélectionnant en bas Ajoutez une nouvelle tâche.
+Placez votre curseur à gauche du numéro de la tâche nouvellement
+créée, puis faites glisser cette tâche sous
+la tâche Identifier un traiteur.
+
+Maintenant, pour faire de Déterminer les allergies
+une sous-tâche,
+je vais sélectionner Plus d'options et choisir Définir
+comme tâche subordonnée.
+Je vais ajouter une autre sous-tâche, Finaliser les budgets, et
+la faire glisser en dessous
+de Déterminer les allergies.
+
+Je vais confier ces tâches à Lynne,
+sélectionner la colonne Attribuée à
+pour déterminer les allergies,
+entrer Lynne,
+et, dans la colonne de durée,
+entrer 5 jours.
+Je vais répéter ces étapes pour la tâche
+Finaliser les budgets, mais cette fois,
+je vais saisir plutôt 2 jours.
+
+Notez que la durée de la tâche Identifier un traiteur est
+désormais automatiquement définie sur 5 jours,
+puisque la plus grande durée des deux sous-tâches est
+de cinq jours.
+Ces tâches dépendent les unes des autres,
+ce qui signifie que l'une des tâches doit être terminée avant
+que la tâche suivante puisse être lancée.
+Dans ce cas, la détermination des allergies doit avoir lieu avant
+que le budget puisse être finalisé.
+Pour créer des dépendances,
+je sélectionne Ouvrir les détails dans la sous-tâche
+Finaliser le budget.
+
+Dans la section Dépend de,
+je vais sélectionner Ajouter une dépendance,
+puis choisir Déterminer les allergies.
+Fermez le panneau des tâches en sélectionnant
+la croix en haut à droite.
+Notez que la durée de Identifier un traiteur est maintenant passée
+à 7 jours,
+car Finaliser le budget ne peut pas démarrer tant que la tâche
+Déterminer les allergies n'est pas terminée.
+
+Vous disposez maintenant de deux outils supplémentaires pour
+gérer vos projets :
+utiliser les sous-tâches lorsque vous devez décomposer des éléments
+de travail plus volumineux en tâches plus petites,
+et des dépendances pour identifier les tâches qui ne peuvent pas
+démarrer avant qu'une autre soit terminée.
+Essayez les sous-tâches et les dépendances pour vous aider à
+organiser votre prochain projet.

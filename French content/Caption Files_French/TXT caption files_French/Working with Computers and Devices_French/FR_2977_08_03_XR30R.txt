@@ -1,0 +1,85 @@
+Alors, dans une feuille de calcul,
+il peut être extrêmement utile de formater des cellules pour mieux les comprendre.
+Et il peut être également très utile de s'assurer du contenu qui sera saisi,
+d'autant plus, si vous partagez ce classeur avec d'autres personnes
+qui devraient saisir les informations.
+Pour déjà mieux comprendre ce qu'il y a à l'écran,
+je vous invite à aller sur les éléments et à les mettre en page.
+À partir de l'onglet Accueil, allez dans Styles de cellules, par exemple,
+et choisissez le titre de votre feuille.
+
+Sélectionnez l'en-tête du tableau, par exemple, et dans les styles,
+choisissez un autre élément
+vous permettant de mettre en forme ces en-têtes de tableaux.
+Et puis les quantités ici,
+ces quantités qui sont exprimées peuvent être non pas simplement
+avec du format standard, mais avec un format nombre.
+Ce format nombre va vous permettre d'afficher systématiquement
+deux décimales après la virgule.
+Farine 1,00 et non pas, par exemple, un kilo et demi,
+des œufs, 12, des carottes, une et demie,
+c'est-à-dire un kilo et demi et du soda, par exemple, 6.
+
+Il en va de même pour les prix à l'unité.
+Par exemple, la farine pour peut-être 1,10 euro.
+Alors, sélectionnons ces cellules pour saisir correctement les prix de l'unité
+et allons choisir non pas simplement un nombre,
+mais dans ce cas-là,
+plutôt quelque chose nous permettant d'afficher une valeur monétaire
+ou une valeur comptable, suivant l'affichage que vous voulez.
+Les deux concernent bien un affichage, comme vous le voyez ici,
+avec l'exemple 1,10.
+
+Eh bien, les deux concernent bien l'affichage avec le symbole monétaire.
+Le format monétaire pour toutes les cellules que j'ai sélectionnées.
+Le 1,10 devient donc 1,10 €.
+Les œufs 1 et je valide, c'est bien 1,00 €.
+Les carottes, par exemple, à 1,20 et le soda à 0,9.
+Vous voyez que l'affichage de ma feuille est déjà beaucoup plus explicite.
+Je sais instantanément ici que l'on parle d'euros,
+alors qu'ici, sans la valeur euros, on parle de quantité.
+
+Il peut être important également de guider l'utilisateur
+pour qu'il n'y ait pas de saisie incorrecte.
+Par exemple ici, le prix du soda,
+il n'est pas nécessaire de taper autre chose.
+Si je tape autre, ça ne veut rien dire.
+Alors, pour éviter ce genre de désagréments,
+vous pouvez sélectionner les cellules
+et demander à ce que ce qui est saisi puisse être contrôlé par Excel.
+Direction l'onglet des données,
+puis utilisez ce bouton ici de validation des données.
+
+Par défaut, tout est autorisé, mais dans le cas présent,
+je voudrais autoriser seulement non pas un nombre entier,
+pas une liste, pas une date ni une heure, mais une saisie d'un nombre décimal.
+Est-ce que cette valeur devra être comprise entre un mini et un maxi,
+non comprise entre, égale à une valeur différente, etc., etc.
+Dans le cas présent, nous allons choisir comprise entre un minimum de 0,01
+et un maximum, par exemple, de 100.
+
+Je clique sur OK.
+Dans le cas du prix de l'unité,
+eh bien, je pourrais répéter également une règle de validation.
+Je viens ici, je n'autorise pas tout.
+J'autorise une décimale également comprise avec un minimum de 0,01,
+c'est-à-dire un cent et un maximum,
+par exemple, de 20 euros, 20 euros l'unité.
+Et je clique sur OK.
+Dans cette première partie, si je mets simplement 0 et que je valide
+ou que j'utilise la touche Tab de mon clavier,
+eh bien, le système va contrôler la saisie et on voit ici que la saisie est refusée
+puisque ça n'entre pas entre le mini et le maxi désiré.
+
+Je ne peux donc que réessayer ou annuler.
+La même chose pour le prix de l'unité.
+Si je tape par exemple 21, eh bien le système va me le refuser
+puisque ça dépasse les bornes que j'ai définies,
+c'est-à-dire entre 0,01 et 20.
+Je peux par contre utiliser évidemment 0,01 pour le prix à l'unité.
+Vous voyez qu'il est très facile d'apporter des modifications
+afin que cette grille soit facilement compréhensible.
+On voit immédiatement là où on parle d'argent
+et là où on parle de quantité, par exemple,
+et la mise en page rend tout de suite ce tableau plus agréable à utiliser.
+

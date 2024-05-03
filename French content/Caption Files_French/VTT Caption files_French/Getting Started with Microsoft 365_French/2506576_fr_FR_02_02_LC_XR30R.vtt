@@ -1,0 +1,227 @@
+﻿WEBVTT
+
+00:00:00.515 --> 00:00:03.403
+Lorsque vous suivez des chiffres
+dans une feuille de calcul,
+
+00:00:03.403 --> 00:00:07.740
+Excel peut vous faire gagner du temps
+en effectuant les calculs rapidement
+
+00:00:07.740 --> 00:00:08.909
+et avec précision.
+
+00:00:08.909 --> 00:00:12.700
+Avec quelque chose d'aussi important
+et détaillé que vos dépenses mensuelles,
+
+00:00:12.700 --> 00:00:15.489
+le fait d'avoir tout additionné
+automatiquement
+
+00:00:15.489 --> 00:00:18.347
+vous aide à donner un sens
+à toutes ces informations.
+
+00:00:18.347 --> 00:00:21.006
+Avec la fonction Somme,
+vous pouvez facilement additionner
+
+00:00:21.006 --> 00:00:22.450
+de grandes quantités de données.
+
+00:00:22.450 --> 00:00:26.143
+Dans cette leçon, je vais vous montrer
+comment utiliser cet outil puissant
+
+00:00:26.143 --> 00:00:29.182
+pour transformer
+une longue liste de nombres
+
+00:00:29.182 --> 00:00:31.187
+en une simple somme totale.
+
+00:00:31.187 --> 00:00:33.713
+Pour commencer,
+téléchargez le fichier d'exercice
+
+00:00:33.713 --> 00:00:37.591
+et utilisez l'exemple
+de budget dans Excel.
+
+00:00:37.591 --> 00:00:40.698
+L'exemple de budget contient
+une liste de dépenses
+
+00:00:40.698 --> 00:00:43.249
+et chaque dépense
+est accompagnée d'un coût.
+
+00:00:43.249 --> 00:00:46.473
+Si vous voulez savoir combien
+vous devez payer pour toutes ces dépenses,
+
+00:00:46.473 --> 00:00:49.978
+vous devez connaître le coût total
+en une seule valeur.
+
+00:00:49.978 --> 00:00:51.188
+Avec la fonction Somme,
+
+00:00:51.188 --> 00:00:54.529
+vous pouvez additionner
+une grande quantité de données.
+
+00:00:54.529 --> 00:00:58.226
+Utilisez Somme pour
+additionner des valeurs :
+
+00:00:58.226 --> 00:01:01.583
+valeur individuelle,
+référence à des cellules,
+
+00:01:01.583 --> 00:01:06.542
+intervalles ou combinaison
+de ces trois éléments.
+
+00:01:06.542 --> 00:01:10.745
+Tout d'abord, réfléchissez à l'endroit
+où vous voulez afficher le montant total.
+
+00:01:10.745 --> 00:01:15.946
+La cellule E2 me semble le bon emplacement
+pour recevoir cette fonction Somme
+
+00:01:15.946 --> 00:01:18.712
+afin qu'elle soit en haut
+et facile à trouver.
+
+00:01:18.712 --> 00:01:23.344
+Maintenant, vous devez déterminer
+les différentes cellules à additionner.
+
+00:01:23.344 --> 00:01:25.989
+Soit cellule après cellule,
+
+00:01:25.989 --> 00:01:28.880
+soit la plage de cellules
+que vous souhaitez ajouter.
+
+00:01:28.880 --> 00:01:30.757
+Dans cet exemple de dépenses mensuelles,
+
+00:01:30.757 --> 00:01:33.821
+je souhaite inclure tous les éléments
+dans la somme totale.
+
+00:01:33.821 --> 00:01:39.212
+Ces dépenses commencent à B2
+et se terminent à B8.
+
+00:01:39.212 --> 00:01:42.150
+Je vais donc l'utiliser
+comme plage de données.
+
+00:01:42.150 --> 00:01:45.191
+Il est maintenant temps
+de mettre une formule au travail
+
+00:01:45.191 --> 00:01:47.054
+et de créer une fonction Somme.
+
+00:01:47.054 --> 00:01:50.998
+Tout d'abord, sélectionnez la cellule
+où vous souhaitez placer votre Somme,
+
+00:01:50.998 --> 00:01:54.680
+tapez =somme, puis ouvrez une parenthèse,
+
+00:01:54.680 --> 00:01:58.132
+ce qui indique au programme
+que vous voulez le montant total
+
+00:01:58.132 --> 00:02:01.027
+de tout ce qui se trouve
+à l'intérieur de la parenthèse.
+
+00:02:01.027 --> 00:02:03.781
+Une fois que cette parenthèse ouverte
+est ajoutée,
+
+00:02:03.781 --> 00:02:09.449
+je peux spécifier la plage
+en sélectionnant la première cellule B2,
+
+00:02:09.449 --> 00:02:13.720
+puis en faisant glisser
+vers la cellule finale B8.
+
+00:02:13.720 --> 00:02:17.309
+Fermez la parenthèse, appuyez sur Entrée
+et la somme s'affiche.
+
+00:02:17.309 --> 00:02:20.296
+Je vais ajouter un titre
+pour mes dépenses totales
+
+00:02:20.296 --> 00:02:25.749
+afin que je sache ce qui est affiché
+dans cette cellule.
+
+00:02:25.749 --> 00:02:29.555
+Si vous vouliez résumer
+des nombres non consécutifs,
+
+00:02:29.555 --> 00:02:32.516
+au lieu d'ajouter une plage de cellules
+à la parenthèse,
+
+00:02:32.516 --> 00:02:36.919
+sélectionnez simplement les cellules
+souhaitées dans cet espace.
+
+00:02:36.919 --> 00:02:39.720
+Par exemple, si je voulais
+seulement connaître
+
+00:02:39.720 --> 00:02:41.926
+le coût du logement et du transport,
+
+00:02:41.926 --> 00:02:46.244
+je sélectionnerais d'abord la cellule
+où je veux voir ma somme,
+
+00:02:46.244 --> 00:02:49.809
+sur la cellule, tapez =
+
+00:02:49.809 --> 00:02:53.689
+somme, ouvrir la parenthèse,
+
+00:02:53.689 --> 00:02:56.025
+puis sélectionnez B2,
+
+00:02:56.025 --> 00:03:00.502
+ajoutez un point virgule ou une virgule,
+
+00:03:00.502 --> 00:03:03.566
+puis sélectionnez B5.
+
+00:03:03.566 --> 00:03:05.432
+Fermez la parenthèse,
+
+00:03:05.432 --> 00:03:07.068
+appuyez sur Entrée
+
+00:03:07.068 --> 00:03:10.752
+et ces deux cellules sont additionnées.
+
+00:03:10.752 --> 00:03:13.747
+Vous pouvez désormais
+utiliser la fonction Somme
+
+00:03:13.747 --> 00:03:18.044
+chaque fois que vous avez besoin
+d'ajouter rapidement des valeurs à Excel.
+
+00:03:18.044 --> 00:03:20.039
+Aucune calculatrice n'est nécessaire !

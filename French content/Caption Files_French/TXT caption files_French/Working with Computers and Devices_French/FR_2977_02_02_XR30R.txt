@@ -1,0 +1,105 @@
+Alors, lorsque vous démarrez votre ordinateur,
+la première chose à charger est le système d'exploitation.
+Par exemple, Windows 10 est la version la plus récente
+du système d'exploitation Windows,
+qui est préinstallée sur de nombreux PC et tablettes.
+Ici, nous allons explorer les bases de la navigation
+autour d'un système d'exploitation utilisant Windows 10,
+mais beaucoup de ces concepts se reportent à d'autres systèmes d'exploitation.
+Lorsque vous démarrez l'ordinateur,
+un écran pour vous connecter à votre compte sur cet ordinateur apparaît.
+D'ailleurs, c'est une bonne idée que chaque personne
+puisse utiliser son propre compte plutôt que de charger un compte
+entre plusieurs utilisateurs.
+
+Les comptes individuels permettent donc à chaque utilisateur de garder ses fichiers
+et leur travail sécurisé.
+Par exemple,
+un utilisateur peut afficher le contenu en anglais
+alors qu'un autre utilisateur peut afficher le contenu en espagnol.
+Et parce que les environnements sont protégés par mot de passe,
+eh bien, aucun des utilisateurs ne peut voir les documents de l'autre.
+Pour vous connecter à l'ordinateur, donc,
+eh bien, sélectionnez votre nom d'utilisateur,
+ou parfois, entrez-le manuellement, puis vous entrez votre mot de passe.
+
+Dans Windows 10,
+il existe d'autres manières de se connecter,
+comme, par exemple, Windows Hello,
+qui vous permet, entre autres, d'avoir la reconnaissance faciale.
+Vous allez donc entrer un mot de passe et vous entrez dans le système.
+Une fois que vous êtes connecté,
+la première chose que vous voyez est votre bureau.
+Ce que l'on appelle le bureau,
+c'est ce fond ici avec l'image et le logo Windows.
+Dans la plupart des systèmes d'exploitation,
+vous pouvez personnaliser l'apparence de votre bureau
+en changeant, par exemple, cette image d'arrière-plan.
+Cette image d'arrière-plan, vous aurez l'occasion de voir que souvent,
+on l'appelle le papier peint,
+et on peut même utiliser dans ce cas-là une couleur unie.
+
+En bas du bureau de Windows 10 se trouve la barre des tâches,
+et à droite de cette barre des tâches, l'heure et la date, par exemple.
+Tout à fait à gauche de cette barre des tâches,
+le bouton Démarrer.
+En cliquant sur ce bouton Démarrer, je fais apparaître le menu Démarrer,
+et c'est à partir de ce menu Démarrer
+que je peux remonter ici sur l'image me représentant
+et voir que je peux me déconnecter ou verrouiller ma session,
+modifier les paramètres de compte.
+
+Et si je descends à l'inverse tout en bas, je peux alors décider de redémarrer,
+d'arrêter l'ordinateur ou simplement de le mettre en veille.
+Pour l'instant, je ferme ce menu Démarrer.
+À côté, la recherche.
+En cliquant sur la recherche,
+eh bien, je peux rechercher à l'intérieur de l'ordinateur différents éléments.
+Que ce soit des applications et programmes,
+des documents, des éléments sur le web et bien plus ou tout résultat.
+
+Alors que puis-je rechercher ?
+Par exemple, je recherche l'application me permettant de calculer.
+Alors, je vais commencer à taper c-a-l,
+et le système va alors me proposer ce qu'il trouve commençant par c-a-l.
+Nous avons cal-culatrice, cal-endrier, cla-vier visuel, etc.
+Bref, il va rechercher les éléments qui correspondent aux lettres
+que j'ai commencé à taper.
+Calculatrice, par exemple.
+Eh bien, il me suffit de cliquer dessus pour ouvrir cette application.
+
+Le système va alors chercher l'application du disque dur
+pour le mettre dans la mémoire RAM.
+Vous savez, il va la passer donc du buffet pour la mettre sur le bureau.
+Cette application est donc disponible et je peux utiliser donc cette calculatrice.
+Vous remarquerez que l'icône de calculatrice
+apparaît donc dans la barre des tâches avec une petite ligne de couleur
+me montrant que cette application est active.
+Si je réduis cette application, elle est bien toujours active,
+mais simplement pas visible sur le bureau,
+comme si je l'avais pliée.
+
+Il me suffit alors de cliquer de nouveau sur cette icône
+pour la déplier et la faire réapparaître.
+Si j'utilise la croix, je ferme alors cette application.
+Je libère donc cet espace sur le bureau et je la remets dans ce buffet.
+Elle n'utilise donc plus de mémoire RAM.
+Et puis cette application, si je veux l'utiliser souvent,
+eh bien, il me suffit d'aller dans le menu Démarrer,
+et sur l'icône correspondante,
+eh bien, je fais un clic droit avec ma souris
+et je peux alors l'épingler au menu Démarrer
+pour qu'elle apparaisse ici à droite.
+
+Ou alors l'épingler même à la barre des tâches
+et ainsi la retrouver facilement.
+Plutôt que de repasser par le menu Démarrer,
+si je l'épingle à la barre des tâches,
+elle sera donc toujours présente, accrochée ici à cette barre de tâches,
+même si je n'ai pas le petit trait me montrant qu'elle est active.
+Si jamais vous avez terminé d'utiliser votre session Windows,
+n'oubliez pas de démarrer et soit de vous déconnecter,
+soit de verrouiller votre session.
+
+Et puis sinon, en utilisant le bouton Marche/Arrêt,
+choisissez d'arrêter votre ordinateur.

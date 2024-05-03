@@ -1,0 +1,75 @@
+Imaginez que vous regardiez un tableau dans Excel et essayez de
+donner un sens aux relations entre plusieurs feuilles.
+Travailler avec des données signifie gérer la variété des
+formats dans lesquels elles apparaissent.
+Dans cette leçon, je vais vous montrer comment
+utiliser l'outil d'importation intelligent de Power BI, pour vous
+aider à créer des relations entre plusieurs sources de données.
+Vous pourrez joindre des données pour faciliter le travail.
+Vous pouvez installer Power BI Desktop sur votre PC, en accédant
+au Microsoft Store et en recherchant Power BI.
+
+Lorsque vous ouvrez Power BI Desktop,
+vous verrez l'écran de démarrage.
+Je vais continuer et le fermer.
+Je vais ouvrir le rapport sur lequel je travaille.
+Vous pouvez le télécharger dans les fichiers d'exercice,
+le fichier porte le nom
+Exemple Rapport de vente.
+
+Ce rapport contient une liste de noms et d'adresses de mes clients.
+J'ai également une feuille de calcul Excel séparée,
+avec leur commande.
+Je veux les combiner pour créer une aide visuelle pour l'équipe
+de livraison.
+Tout d'abord, sélectionnez Classeur Excel
+dans l'onglet Accueil du ruban supérieur.
+Recherchez ensuite le classeur
+Commandes, qui comporte deux feuilles.
+
+Vous pouvez le télécharger dans les fichiers d'exercice.
+Sélectionnez les deux feuilles
+puis sélectionnez Charger.
+Une fois les deux feuilles de calcul chargées,
+vous pouvez voir les tables dans le panneau Champs à droite.
+Sélectionnez Modèles dans le menu de gauche, et vous verrez les
+relations que Power BI a trouvées entre les différentes tables lors
+du chargement des deux feuilles.
+
+Un modèle de données représente les relations entre les
+différentes sources de données.
+Dans le ruban supérieur, sélectionnez Gérer les relations.
+Ici, je peux voir que ID
+Commande est le champ commun entre la table DétailCommandes
+et EnTeteCommandes.
+En outre,
+ID
+Client est le champ commun entre la table EnTeteCommandes
+et la table Client.
+
+Maintenant, les trois tables sont connectées.
+Explorons la relation IDClient en sélectionnant
+la deuxième ligne,
+puis en cliquant sur le bouton Modifier en bas.
+Le champ Cardinalité indique à Power BI quelle table contient
+l'enregistrement principal
+pour la colonne
+IDClient.
+Dans notre exemple, la table Client est
+l'enregistrement principal,
+donc chaque IDClient n'apparaît qu'une seule fois.
+
+Le client passera probablement de nombreuses commandes
+et, par conséquent, Power BI définit la cardinalité
+Plusieurs-à-un.
+Vous pouvez le modifier si nécessaire.
+Je sélectionne OK pour fermer.
+Extraire des données de plusieurs feuilles de calcul est
+un jeu d'enfant
+dans Power BI. Vous pouvez facilement créer des relations
+entre les tables en trouvant les champs communs entre elles.
+Cela signifie que vous pouvez créer des rapports sur
+plusieurs tables.
+
+Prenez le temps d'établir des relations dans Power BI avec vos
+feuilles de calcul existantes.

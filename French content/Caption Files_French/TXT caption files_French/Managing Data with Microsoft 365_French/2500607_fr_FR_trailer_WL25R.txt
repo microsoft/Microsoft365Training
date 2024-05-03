@@ -1,0 +1,25 @@
+Apprendre à gérer les données dans Microsoft 365 est une compétence
+clé qui vous permettra d'entreprendre n'importe quel
+projet avec certitude.
+La gestion des données peut sembler être une tâche destinée
+aux informaticiens, aux programmeurs ou aux
+bibliothécaires. Mais presque tout le monde dans
+son travail doit gérer des données quotidiennement.
+Microsoft 365 dispose d'outils extraordinaires pour vous aider à
+gérer des données comme un pro.
+
+Je m'appelle Nicolas Georgeault et je suis architecte de solutions
+chez MuBrain.
+Dans ce cours, je vais vous montrer comment collecter,
+organiser et distribuer des données à l'aide d'outils de
+données tels que Forms, Power Automate,  Excel et Power BI.
+Vous allez acquérir des compétences de haut niveau.
+Vous apprendrez notamment à personnaliser des formulaires,
+créer des tableaux croisés dynamiques, et même créer
+des rapports
+dans Power BI.
+Apprendre à gérer les données dans Microsoft 365 est une compétence
+clé qui vous permettra d'entreprendre n'importe quel
+projet avec certitude.
+
+Alors commençons.

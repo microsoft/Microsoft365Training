@@ -1,0 +1,104 @@
+Un aspect important du web
+est que l'information trouvée devrait être disponible et accessible à tout le monde.
+C'est pourquoi les sites web modernes et les navigateurs web modernes
+incluent des fonctionnalités d'accessibilité et des options
+pour aider les gens à naviguer sur le web
+de la manière qui convient le mieux à leurs besoins.
+Nous voici devant une page web, la page de « Microsoft.com ».
+Eh bien, vous pouvez utiliser le zoom
+en gardant le doigt sur la touche Ctrl de votre clavier,
+puis en appuyant sur la touche Plus ou moins à droite de votre clavier,
+eh bien, vous pouvez respectivement augmenter la taille de la page
+ou diminuer les informations.
+
+Vous pouvez faire la même chose avec la roulette de votre souris,
+la roulette centrale.
+Gardez le doigt sur la touche Ctrl de votre clavier,
+puis utilisez la roulette de votre souris
+afin de diminuer ou d'augmenter le rapport de zoom.
+Vous voyez que la barre apparaît alors cette loupe.
+En cliquant sur cette loupe,
+vous pouvez réinitialiser la valeur du zoom à 100 %.
+Vous pouvez également utiliser le raccourci clavier Ctrl
+plus la touche zéro de votre clavier
+pour réinitialiser le zoom à 100 %.
+
+Une autre option concerne le lecteur immersif.
+Ce lecteur immersif,
+c'est quelque chose qui n'apparaît pas systématiquement sur toutes les pages.
+Il faut que les pages aient du contenu à lire.
+Prenons, par exemple, cette page sur la résilience au travail.
+Eh bien, sur cette page, on voit apparaître dans la barre ici
+une icône avec un livre et un haut parleur.
+En cliquant sur cette icône,
+on arrive sur cette page qui ne contient plus d'autres éléments
+qui pourraient nous perturber dans la lecture.
+
+On a donc l'essentiel du contenu de la page.
+Le titre, les images et le texte s'y rapportant.
+Au-dessus, nous voyons plusieurs éléments.
+Nous pouvons demander au système de lire la page à haute voix.
+Nous pouvons voir des préférences de texte,
+des outils de grammaire, des préférences de lecture.
+Regardons justement ces préférences de lecture.
+On peut se concentrer sur la ligne.
+Une seule ligne, trois lignes, quelques lignes de plus
+et en utilisant le défilement vertical,
+eh bien, le système s'adapte aux images ou au nombre de lignes que l'on a choisi.
+
+Également, on peut choisir d'avoir un dictionnaire d'images
+pour nous expliquer certains mots.
+Si nous mettons ce curseur ici à On,
+eh bien, en nous déplaçant sur certains éléments,
+nous voyons que le curseur change, et en cliquant sur outils,
+on peut voir la représentation, l'explication par une image
+pour expliquer ce qu'est ce mot.
+Également la traduction.
+On peut sélectionner une partie du texte et demander la traduction
+ou traduire carrément toute la page.
+On peut accéder également à des outils de grammaire,
+séparer les syllabes des mots pour nous aider à le lire.
+
+On peut lui demander également
+de nous afficher dans une certaine couleur les noms,
+les verbes, les adjectifs et les adverbes.
+On peut au niveau de la préférence de texte
+grossir le texte, le diminuer par rapport à la moyenne,
+espacer un peu plus le texte,
+et puis choisir des thèmes pour rendre la page plus lisible.
+Et puis, il y a la lecture à haute voix.
+Positionnez-vous quelque part à l'intérieur du texte
+et demandez la lecture à haute voix.
+(voix masculine en lecture auto) « Résilience au travail.
+
+Les organisations qui savent naviguer et réussir en période de changement
+ont toutes une... ».
+Voici donc le système qui lit le texte,
+et vous avez en haut à droite Options de voix.
+Vous pouvez demander de lire plus rapidement ou moins rapidement,
+et puis choisir la voix si vous préférez la voix de Hortense, de Julie ou de Paul.
+Dans le cas présent, c'est la voix de Paul,
+choisissons, par exemple, Hortense et continuons la lecture.
+(voix féminine en lecture auto) « Une chose en commun,
+elles sont résiliente ».
+
+Etc.
+Je ferme ici.
+Pour revenir au mode normal, c'est-à-dire quitter ce lecteur immersif,
+il nous suffit de cliquer à nouveau sur le bouton du lecteur.
+Il existe dans Edge également plusieurs raccourcis clavier,
+comme, par exemple, la touche F6 du clavier
+pour parcourir les éléments du navigateur
+au niveau de la barre d'onglets et d'adresses.
+Quand vous êtes ici sur la barre d'adresses
+et que vous appuyez sur la touche F6 donc de votre clavier,
+vous naviguez sur les différentes options et les onglets,
+si vous avez plusieurs onglets.
+
+En appuyant également sur Shift et F10 de votre clavier,
+vous faites apparaître le menu contextuel correspondant.
+Cela vous permet alors de vous déplacer, par exemple avec les curseurs du clavier
+pour choisir telle ou telle option.
+Ce ne sont là que quelques exemples des fonctionnalités d'accessibilité
+intégrées à Microsoft Edge
+qui facilitent la navigation et l'interaction des pages web.

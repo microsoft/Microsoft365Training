@@ -1,0 +1,75 @@
+Que vous planifiiez une réunion de famille,
+un événement ou un projet professionnel,
+vous devez organiser et suivre votre travail en le décomposant
+en tâches.
+Dans cette leçon, je vais vous montrer comment gérer
+les tâches dans le planificateur et comment organiser les tâches de
+chacun pour garantir la réussite de votre projet.
+Je vais commencer à partir d'office.com,
+sélectionner le lanceur d'application, dans le coin
+supérieur gauche, et ouvrir Planner.
+
+Je vais ouvrir le plan Mariage juin sur lequel j'ai
+déjà travaillé.
+J'ai ajouté quelques dates d'échéance à l'avance.
+Lorsque vous êtes affecté à un projet,
+la première chose que vous voulez savoir est ce qui vous
+est affecté.
+Les différentes vues de groupement sont conçues pour vous aider.
+En haut à droite,
+il est indiqué que le plan est regroupé par compartiments.
+C'est une bonne vue à utiliser lorsque vous devez ajouter de
+nouvelles tâches. Dans la liste déroulante,
+choisissez Attribuer à, pour voir ce qui est attribué à chaque personne
+et la date d'échéance de chaque élément.
+
+Joni m'a dit qu'elle avait besoin d'aide supplémentaire pour
+accomplir la tâche d'envoi des invitations.
+Je peux affecter une deuxième personne à cette tâche, en la
+sélectionnant et en sélectionnant Affecter à pour y ajouter Isaiah.
+Maintenant, la tâche s'affiche dans leurs deux listes.
+
+Pour voir l'état de votre projet, vous pouvez basculer vers la vue
+graphique, en sélectionnant Graphiques en haut, au centre.
+La vue graphique donne un aperçu de haut niveau de la progression
+du projet.
+Cette vue affiche le nombre de tâches et la progression
+de chacune.
+Vous pouvez voir le nombre de tâches par priorité,
+par compartiment, et le nombre de tâches attribuées à chaque membre.
+Lorsque je travaille sur un gros projet,
+il y a des moments où j'ai besoin de voir les tâches dans
+une vue calendrier.
+
+J'aime donc utiliser la vue planning.
+Sélectionnez Planning dans le menu supérieur, à côté de Graphiques.
+Ici, vous pouvez voir les tâches du mois, ainsi que les dates
+d'échéance et le statut.
+Je vais continuer et définir la date de début d'une tâche.
+Je sélectionne Planifiez le dîner de répétition
+et, dans le menu déroulant de la date de début,
+je sélectionne une semaine avant la date d'échéance.
+
+Je vais fermer la boîte de dialogue.
+Planner affiche les dates pour lesquelles cette tâche est prévue.
+Je peux facilement déplacer la date en la faisant glisser jusqu'à
+la date souhaitée.
+Je peux aussi faire glisser le bord droit pour augmenter et
+diminuer la durée de cette tâche.
+
+La vue du calendrier est également idéale pour ajouter de nouvelles
+tâches et les affecter à une date d'échéance en une seule étape.
+Disons que le client a choisi un lieu qui n'inclut pas le traiteur.
+Je sélectionne Ajouter une tâche sur la droite et saisis
+le nom Sélectionner
+un traiteur,
+et je l'ajoute au segment 4 à 6 mois.
+
+Sélectionnez Ajouter une tâche
+et, à partir de là, je peux faire glisser cette tâche
+jusqu'à la date d'échéance.
+Voir ce qui doit être accompli, quand et par qui,
+est essentiel lorsqu'il s'agit de projets.
+Grâce aux différentes vues disponibles dans Planner,
+votre équipe peut afficher toutes les bonnes informations
+au bon moment.

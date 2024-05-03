@@ -1,0 +1,57 @@
+Avez-vous déjà décrit les étapes  d'une tâche complexe,
+pour vous rendre compte à la fin,
+qu'il aurait été plus simple d'organiser  les étapes dans un autre ordre ?
+Powerpoint vous donne  la possibilité de planifier
+et de réorganiser votre présentation
+de manière, à ce qu'elle ait du sens pour vous et votre public.
+Dans cette leçon,
+je vais vous montrer comment appliquer  des dispositions de diapositives,
+et modifier l'ordre des diapositives,
+afin que votre Powerpoint  se présente et se déroule parfaitement.
+
+Dans cet exemple,
+je vais ouvrir Powerpoint pour  modifier la présentation que je créé,
+pour un entretien d'embauche avenir.
+Vous pouvez suivre, en téléchargement, l'exemple de présentation
+à partir des Fichiers d'exercices.
+J'ai créé deux diapositives.
+Et je souhaite ajouter  une nouvelle diapositive
+qui partage des informations sur moi-même.
+Je vais choisir une diapositive  de dix traits de contenu
+pour afficher ces informations.
+Et je vais l'intituler : « À propos de moi ».
+
+Ensuite,
+j'ajoute quelques faits saillants pour me présenter,
+et présenter mon parcours.
+« J'aime aider les gens.
+J'ai suivi une formation  en service à la clientèle
+et je suis un travailleur acharné, qui aime apprendre »
+Maintenant, je vois la diapositive.
+Je pense que j'aimerai  changer la mise en page
+pour laisser de la place  pour ajouter l'image plus tard.
+Je peux sélectionner Mise en Page pour voir les options.
+
+Je vais changer la mise  en page actuelle en deux contenus.
+L'ordre des diapositives  ne me semble pas tout à fait correct.
+Je pense que je veux  la diapositive « À propos de moi »,
+devant ma diapositive Compétences,
+afin que mon public me connaisse avant mes compétences.
+Pour modifier l'ordre des diapositives,
+je sélectionne Afficher
+et m'assure que je suis dans  le paramètre d'affichage normal.
+Dans le paramètre d'affichage normal,
+je peux voir l'image de  mes diapositives sur le côté,
+dans le volet de navigation.
+
+Je vais dans le volet de navigation,
+je sélectionne la diapositive « À propos de moi »,
+puis, je la fais glisser,
+et la dépose au-dessus  de ma diapositive de Compétences.
+Mes diapositives sont maintenant dans un ordre logique.
+Et c'est tout.
+Vous pouvez maintenant modifer la disposition
+et l'ordre des diapositives.
+Utilisez cette compétence  pour recadrer la façon
+dont vous partagez des informations dans  l'une de vos présentations Powerpoint.
+

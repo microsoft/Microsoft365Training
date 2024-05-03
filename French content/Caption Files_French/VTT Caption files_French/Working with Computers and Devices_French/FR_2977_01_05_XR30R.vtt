@@ -1,0 +1,222 @@
+﻿WEBVTT
+
+00:00:00.898 --> 00:00:04.341
+Beaucoup d'ordinateurs aujourd'hui,
+en particulier les appareils portables
+
+00:00:04.341 --> 00:00:06.649
+comme les ordinateurs
+portables et les tablettes,
+
+00:00:06.649 --> 00:00:09.674
+utilisent une technologie
+appelée « Bluetooth ».
+
+00:00:09.674 --> 00:00:14.602
+Le Bluetooth est une technologie
+sans fil, à courte portée.
+
+00:00:14.602 --> 00:00:16.707
+Principalement, cette technologie
+
+00:00:16.707 --> 00:00:19.454
+est utilisée pour réduire
+l'utilisation des câbles.
+
+00:00:19.454 --> 00:00:21.985
+Vous êtes probablement familier
+avec cette technologie,
+
+00:00:21.985 --> 00:00:25.514
+sous la forme peut-être de casques
+connectés en Bluetooth avec,
+
+00:00:25.514 --> 00:00:28.338
+par exemple, votre téléphone mobile.
+
+00:00:28.338 --> 00:00:33.283
+Pour cet exemple, je vais configurer
+une souris Bluetooth.
+
+00:00:33.283 --> 00:00:35.081
+Alors, la première chose
+que vous devez faire
+
+00:00:35.081 --> 00:00:39.661
+est de définir votre appareil Bluetooth
+en mode appairement également,
+
+00:00:39.661 --> 00:00:41.891
+c'est appelé en mode détectable.
+
+00:00:41.891 --> 00:00:45.687
+Alors, vous devriez bien sûr
+vérifier ces instructions,
+
+00:00:45.687 --> 00:00:47.319
+liées à votre appareil.
+
+00:00:47.319 --> 00:00:50.899
+Peut-être existe-t-il un bouton
+sur lequel vous devez appuyer,
+
+00:00:50.899 --> 00:00:52.981
+peut-être appuyer cinq secondes ;
+
+00:00:52.981 --> 00:00:57.558
+cela dépend évidemment de l'appareil
+que vous voulez jumeler, connecter
+
+00:00:57.558 --> 00:00:59.608
+à votre ordinateur.
+
+00:00:59.608 --> 00:01:03.188
+Il se peut que cette simple
+manipulation sur l'appareil
+
+00:01:03.188 --> 00:01:06.451
+fasse que votre Windows
+détecte cet appareil
+
+00:01:06.451 --> 00:01:09.364
+et vous propose de le connecter.
+
+00:01:09.364 --> 00:01:12.961
+Si ce n'est pas le cas, rendez-vous
+dans les paramètres de Windows.
+
+00:01:12.961 --> 00:01:14.575
+Suivez-moi.
+
+00:01:14.575 --> 00:01:17.723
+Cliquez sur le menu Démarrer,
+
+00:01:17.723 --> 00:01:19.672
+puis Paramètres,
+
+00:01:19.672 --> 00:01:22.831
+allez ensuite dans la partie
+des périphériques :
+
+00:01:22.831 --> 00:01:25.439
+vous voyez ici Bluetooth,
+
+00:01:25.439 --> 00:01:31.706
+et cliquez sur Ajouter un appareil
+Bluetooth ou un autre appareil.
+
+00:01:31.706 --> 00:01:33.391
+En cliquant sur le « + » ici,
+
+00:01:33.391 --> 00:01:36.171
+choisissez alors la catégorie Bluetooth.
+
+00:01:36.171 --> 00:01:40.042
+C'est ce logo,
+que vous avez dû reconnaître
+
+00:01:40.042 --> 00:01:43.531
+ou que vous avez en tous les cas
+vu déjà plusieurs fois.
+
+00:01:43.531 --> 00:01:45.099
+En cliquant sur cette ligne,
+
+00:01:45.099 --> 00:01:49.125
+votre système va essayer donc
+de détecter cet appareil.
+
+00:01:49.125 --> 00:01:53.821
+Il me suffit alors d'appairer
+mon appareil pour qu'il le reconnaisse.
+
+00:01:53.821 --> 00:01:59.235
+Voyez ici, le système a détecté
+un système de haut-parleurs
+
+00:01:59.235 --> 00:02:01.214
+et un système de souris.
+
+00:02:01.214 --> 00:02:04.838
+Je vais cliquer sur cette souris
+pour connecter mon ordinateur,
+
+00:02:04.838 --> 00:02:07.990
+l'appairer donc avec cette souris.
+
+00:02:07.990 --> 00:02:13.065
+Il me suffit de cliquer sur OK
+pour que l'appareil soit reconnu
+
+00:02:13.065 --> 00:02:16.702
+et connecté à mon ordinateur.
+
+00:02:16.702 --> 00:02:18.416
+Alors, selon votre appareil,
+
+00:02:18.416 --> 00:02:21.835
+vous pouvez être invité
+à taper un code d'accès,
+
+00:02:21.835 --> 00:02:25.503
+afin de terminer
+le processus d'appairement,
+
+00:02:25.503 --> 00:02:27.388
+le processus de connexion.
+
+00:02:27.388 --> 00:02:30.282
+C'est une mesure
+de sécurité supplémentaire,
+
+00:02:30.282 --> 00:02:33.782
+pour être certain que cet appareil
+que vous voulez utiliser
+
+00:02:33.782 --> 00:02:37.189
+est bien connecté
+à cet ordinateur également.
+
+00:02:37.189 --> 00:02:39.349
+Voilà, j'ai donc connecté cette souris,
+
+00:02:39.349 --> 00:02:43.022
+je peux tout à fait fermer maintenant
+cet environnement de paramètres
+
+00:02:43.022 --> 00:02:48.718
+de Windows et utiliser pleinement
+cette souris connectée sans fil.
+
+00:02:48.718 --> 00:02:54.598
+Passons quelques secondes supplémentaires
+pour apprendre à déconnecter, découpler,
+
+00:02:54.598 --> 00:02:59.274
+en tous les cas retirer un périphérique
+Bluetooth de mon ordinateur.
+
+00:02:59.274 --> 00:03:02.570
+Rendez-vous
+dans les paramètres de Windows.
+
+00:03:02.570 --> 00:03:05.097
+Je clique donc sur le menu Démarrer
+
+00:03:05.097 --> 00:03:09.184
+&gt; Paramètres de Windows &gt; Périphériques.
+
+00:03:09.184 --> 00:03:14.139
+Je vois la liste des éléments connectés
+et je retrouve ici la souris ;
+
+00:03:14.139 --> 00:03:16.081
+je clique sur cet appareil
+
+00:03:16.081 --> 00:03:20.136
+et il me suffit alors
+de cliquer sur Supprimer.
+
+00:03:20.136 --> 00:03:26.447
+Je confirme et cette souris Bluetooth
+est alors déconnectée de mon ordinateur.

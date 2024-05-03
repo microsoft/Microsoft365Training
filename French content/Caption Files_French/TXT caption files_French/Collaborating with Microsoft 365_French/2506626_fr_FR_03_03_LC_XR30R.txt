@@ -1,0 +1,53 @@
+Une partie importante de la collaboration
+consiste à recueillir les commentaires des membres de l'équipe
+sur le travail que vous créez.
+Les canaux Teams facilitent le partage de votre travail.
+Dans cette leçon,
+je vais vous montrer comment transmettre des fichiers avec vos collègues
+dans vos canaux Microsoft Teams.
+Dans cet exemple,
+je travaille sur une conférence sur les compétences
+et j'ai configuré une équipe et des canaux.
+Il existe deux façons d'ajouter un fichier à un canal Teams.
+
+Vous pouvez partager un fichier dans les publications
+ou vous pouvez ajouter un fichier à l'onglet Fichiers du canal.
+Pour cet exemple, j'ai déjà ouvert Teams
+et créé une équipe pour collaborer à une conférence à venir.
+Je vais d'abord vous montrer comment partager un fichier
+dans une publication d'un canal.
+Je veux partager une liste des salles que nous avons pour la conférence
+et le nombre de personnes qui peuvent tenir dans chaque salle.
+
+Dans le canal Logistique, je vais créer une publication
+et sélectionner Attacher pour joindre mon fichier à la publication.
+Je sélectionne Joindre dans le menu de la conversation
+et navigue jusqu'au fichier que je veux joindre.
+Une fois le fichier sélectionné, je choisirais de charger une copie.
+Et le fichier est maintenant joint à mon message.
+
+Je peux maintenant sélectionner Envoyer
+et publier le fichier sur le canal Logistique.
+Une fois le fichier publié,
+je peux le retrouver dans l'onglet Fichiers de l'équipe Logistique.
+En plus de partager des fichiers dans une publication, dans un canal,
+je peux également charger des fichiers directement dans l'onglet Fichiers.
+L'ajout de fichiers directement à l'onglet Fichiers
+vous permet de gérer la structure des fichiers
+ou l'emplacement des fichiers.
+
+Je souhaite partager un dépliant dans le canal Marketing.
+Je vais donc commencer par là,
+puis, je sélectionne l'onglet Fichiers.
+Le dépliant que je charge est un brouillon de dépliants
+pour les présentateurs à la conférence.
+Donc, je sélectionne le dossier Marketing pour les présentateurs.
+J'ai déjà ce document.
+Je vais donc choisir Charger dans le menu.
+Je sélectionne Fichiers,
+puisque je sélectionne mon document Brouillon de dépliant conférence.
+
+Mon document est maintenant dans ce dossier.
+Maintenant que vous pouvez partager des fichiers avec votre équipe,
+par des publications et dans l'onglet Fichiers,
+vous collaborerez avec votre équipe, en un rien de temps.

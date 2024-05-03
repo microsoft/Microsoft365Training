@@ -1,0 +1,34 @@
+Bien que les formulaires et les sondages vous permettent de
+recueillir des données, vous pouvez également utiliser des
+questionnaires pour évaluer les connaissances de vos clients
+et de vos collègues.
+Dans le coin supérieur gauche
+d'Office.com, je sélectionne le lanceur d'applications, et j'ouvre
+Forms pour commencer.
+Les quiz peuvent être amusants.
+J'utilise ce quiz animalier pour briser la glace et ouvrir le
+dialogue avec mon équipe au début des réunions.
+
+Vous pouvez également accéder aux résultats du quiz avec l'onglet
+Réponses de Microsoft Forms.
+Jetons un coup d'œil à ce quiz sur les animaux.
+Je peux facilement faire défiler les résultats pour voir quelles
+questions étaient les plus difficiles, et lesquelles,
+les plus faciles.
+Ceci est indiqué sur mon écran, en recherchant les questions qui ont
+le moins de chiffres corrects ou celles qui ont le plus de
+chiffres corrects.
+
+Je peux également voir les résultats graphiquement,
+pour un aperçu rapide
+de la façon dont tout le monde s'en sort avec le matériel.
+Vous pouvez également télécharger les données dans Excel,
+ou les importer dans votre outil de rapports préférés pour
+effectuer une analyse plus approfondie.
+Microsoft Forms vous offre plusieurs possibilités de
+collecter des informations et d'évaluer des données.
+Cette semaine, créez un quiz amusant pour vos collègues,
+clients ou étudiants.
+
+Obtenir des données directement de votre public ne peut que servir
+à améliorer votre travail.

@@ -1,0 +1,53 @@
+SharePoint peut faire beaucoup de choses ;
+exécuter des sites web, stocker des fichiers,
+héberger des ressources,
+le tout à partir de votre navigateur.
+Dans cette leçon,
+je vais vous montrer les principales fonctionnalités de SharePoint
+afin que vous puissiez l'utiliser en toute confiance.
+Pour commencer,
+j'ouvre SharePoint à l'aide d'un navigateur web.
+Les organisations utilisent Microsoft SharePoint
+pour un certain nombre de raisons.
+
+SharePoint est une application à laquelle vous vous connectez
+par votre navigateur web à divers fins.
+Non seulement vous pouvez l'utiliser pour créer des sites web,
+mais vous pouvez également l'utiliser comme un lieu sécurisé
+pour stocker, organiser, partager,
+et accédez aux informations à partir de n'importe quel appareil.
+Je souhaite utiliser SharePoint pour partager des fichiers
+et des ressources de présentateur
+pour une conférence sur les compétences que je planifie avec mon équipe.
+
+Pour commencer,
+dans le coin supérieur gauche d'office.com,
+sélectionnez le lanceur d'application et ouvrez SharePoint.
+Je suis maintenant sur ma page de démarrage SharePoint.
+Dans le coin supérieur gauche de la page de démarrage de SharePoint,
+Vous voyez des options pour créer des sites.
+Ou Créer une publication d'actualités si vous souhaitez faire une annonce.
+Dans la barre de navigation à gauche,
+vous pouvez facilement accéder à votre page de démarrage,
+au site dont vous êtes membre,
+aux nouvelles publications de vos sites et à vos fichiers SharePoint.
+
+Au milieu de la page se trouve la section des actualités des sites.
+C'est ici que vous trouverez les actualités des sites
+dont vous êtes membre.
+Si vous voyez un article que vous souhaitez consulter plus tard,
+ajoutez-le simplement à votre liste de lecture
+en sélectionnant l'icône de signet sur l'article.
+Une fois mis en signet,
+l'article est ajouté à votre section Enregistré pour plus tard
+qui se trouve dans le volet de gauche.
+Directement sous Actualités des sites
+se trouve une section qui affiche vos sites SharePoint
+les plus fréquemment utilisés,
+et l'activité récente sur chacun de ces sites.
+
+Vous pouvez mettre un site en favori ici en sélectionnant l'étoile.
+Cela ajoutera le site à votre liste des sites suivis.
+Maintenant que vous maîtrisez SharePoint,
+vous êtes prêt à utiliser votre page de démarrage SharePoint
+dès aujourd'hui.

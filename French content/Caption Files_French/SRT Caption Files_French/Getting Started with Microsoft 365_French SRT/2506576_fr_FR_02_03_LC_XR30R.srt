@@ -1,0 +1,241 @@
+1
+00:00:00,990 --> 00:00:04,080
+Les données sont partout
+dans le monde numérique.
+
+2
+00:00:04,080 --> 00:00:07,434
+Avec autant d'informations
+sur vos écrans et dans votre vie,
+
+3
+00:00:07,434 --> 00:00:10,410
+il peut être difficile de tout suivre.
+
+4
+00:00:10,410 --> 00:00:12,252
+Ce qui est génial avec Excel,
+
+5
+00:00:12,252 --> 00:00:15,510
+c'est qu'une fois que vous avez
+vos données dans un tableau,
+
+6
+00:00:15,510 --> 00:00:20,130
+il est beaucoup plus facile d'organiser
+et de localiser ce que vous recherchez.
+
+7
+00:00:20,130 --> 00:00:21,321
+Dans cette leçon,
+
+8
+00:00:21,321 --> 00:00:25,368
+je vais vous montrer comment
+trier vos données dans un tableau
+
+9
+00:00:25,368 --> 00:00:29,130
+pour trouver les informations
+dont vous avez besoin.
+
+10
+00:00:29,130 --> 00:00:33,590
+Pour commencer, téléchargez
+et ouvrez l'exemple de fichier d'exercices
+
+11
+00:00:33,590 --> 00:00:35,730
+budget numéro deux.
+
+12
+00:00:35,730 --> 00:00:37,864
+Maintenant que le classeur est ouvert,
+
+13
+00:00:37,864 --> 00:00:41,498
+vous pouvez voir que les dépenses
+et les montants sont déjà formatés
+
+14
+00:00:41,498 --> 00:00:43,620
+sous forme de tableau.
+
+15
+00:00:43,620 --> 00:00:48,360
+Mai, ils ne sont pas
+dans un ordre particulier.
+
+16
+00:00:48,360 --> 00:00:51,570
+Je veux voir mes dépenses les plus chères.
+
+17
+00:00:51,570 --> 00:00:55,710
+Je vais donc devoir utiliser
+le tri et le filtre.
+
+18
+00:00:55,710 --> 00:01:00,540
+Le tri vous permet d'organiser
+les données dans un ordre spécifique.
+
+19
+00:01:00,540 --> 00:01:04,794
+Pour trier mes données,
+je vais dans l'en-tête de mon tableau
+
+20
+00:01:04,794 --> 00:01:07,784
+et je sélectionne
+le bouton de tri et de filtre
+
+21
+00:01:07,784 --> 00:01:10,630
+sur la colonne que je veux trier.
+
+22
+00:01:10,630 --> 00:01:12,171
+Dans le menu qui apparaît,
+
+23
+00:01:12,171 --> 00:01:18,230
+je peux choisir parmi une variété
+de façons de trier les données.
+
+24
+00:01:18,230 --> 00:01:21,548
+Parce que je veux voir
+mes articles les plus chers,
+
+25
+00:01:21,548 --> 00:01:27,300
+je sélectionne
+Trier du plus grand au plus petit.
+
+26
+00:01:27,300 --> 00:01:29,860
+Maintenant, les dépenses sont triées
+
+27
+00:01:29,860 --> 00:01:33,750
+de la dépense la plus élevée
+à la dépense la plus faible.
+
+28
+00:01:33,750 --> 00:01:37,368
+Le tri de cette manière peut être utile
+pour hiérarchiser les dépenses
+
+29
+00:01:37,368 --> 00:01:41,160
+qui ont le plus d'impact
+sur un budget mensuel.
+
+30
+00:01:41,160 --> 00:01:46,920
+En plus de trier les dépenses par coût,
+vous pouvez également les trier par nom.
+
+31
+00:01:46,920 --> 00:01:48,101
+Pour trier par nom,
+
+32
+00:01:48,101 --> 00:01:50,838
+revenez en haut
+de la colonne de l'élément,
+
+33
+00:01:50,838 --> 00:01:53,871
+sélectionnez le bouton Filtrer et trier
+
+34
+00:01:53,871 --> 00:01:57,511
+et choisissez de trier de A à Z.
+
+35
+00:01:57,511 --> 00:02:03,870
+Désormais, au lieu que la liste
+soit classée du plus cher au moins cher,
+
+36
+00:02:03,870 --> 00:02:08,190
+les postes budgétaires
+sont triés par ordre alphabétique.
+
+37
+00:02:08,190 --> 00:02:11,568
+Ceci est très utile si vous avez
+une longue liste d'éléments
+
+38
+00:02:11,568 --> 00:02:14,820
+et souhaitez en trouver un par son nom.
+
+39
+00:02:14,820 --> 00:02:18,680
+Vous pouvez également
+filtrer les données dans un tableau.
+
+40
+00:02:18,680 --> 00:02:20,993
+Le filtrage vous permet
+de voir plus facilement
+
+41
+00:02:20,993 --> 00:02:22,804
+les données que vous recherchez
+
+42
+00:02:22,804 --> 00:02:27,120
+en limitant temporairement
+ce qui est visible.
+
+43
+00:02:27,120 --> 00:02:31,193
+Par exemple, je peux filtrer mon tableau
+
+44
+00:02:31,193 --> 00:02:34,290
+pour n'afficher
+que les dépenses de 200 euros.
+
+45
+00:02:34,290 --> 00:02:37,694
+Sélectionnez simplement
+le filtre et le bouton de tri
+
+46
+00:02:37,694 --> 00:02:41,910
+et cochez 200 euros sous filtre.
+
+47
+00:02:41,910 --> 00:02:45,990
+Cela montrera seulement
+les dépenses qui sont de 200 euros.
+
+48
+00:02:45,990 --> 00:02:49,020
+Je peux sélectionner tout dans le filtre
+
+49
+00:02:49,020 --> 00:02:53,370
+pour sélectionner à nouveau
+toutes mes dépenses.
+
+50
+00:02:53,370 --> 00:02:57,001
+Maintenant que vous savez comment
+trier et filtrer les données dans Excel,
+
+51
+00:02:57,001 --> 00:03:00,401
+vous pouvez organiser
+n'importe quel type de tableau
+
+52
+00:03:00,401 --> 00:03:02,167
+d'une manière qui vous convient.
+

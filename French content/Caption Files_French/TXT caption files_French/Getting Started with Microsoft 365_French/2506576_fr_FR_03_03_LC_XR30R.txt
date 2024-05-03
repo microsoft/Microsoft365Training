@@ -1,0 +1,36 @@
+Un carnet papier est lié  par sa couverture,
+mais un carnet numérique va bien au-delà.
+L'établissement des liaisons avec le reste d'internet.
+Avec OneNote,
+vous pouvez utiliser votre bloc-notes comme un portail vers internet.
+Dans cette leçon, je vais vous montrer comment connecter facilement
+votre ordinateur portable à n'importe quel site web
+en ajoutant des liens.
+Cela peut être très utile lorsque vous ajoutez des informations clés
+comme le site web d'une entreprise dans votre recherche d'emploi.
+
+Tout d'abord, je vais ouvrir mon carnet de notes de recherche d'emploi.
+Alors, me voilà dans le cahier où je prends des notes
+sur ma recherche d'emploi.
+J'ai créé un modèle que je veux utiliser pour suivre chaque emploi qui m'intéresse.
+Je suis curieux de connaître les emplois que je pourrais trouver chez Microsoft.
+Je vais donc utiliser le modèle pour créer une page
+pour ma recherche d'emploi chez Microsoft.
+
+Je ne suis pas encore prêt  à rechercher ou à prendre des notes,
+mais je sais qu'il existe  un site de carrière chez Microsoft.
+Je souhaiterais donc lier mes notes directement à ces informations utiles.
+Je peux le faire en ajoutant  un lien vers la page.
+Si je connais déjà l'adresse, je peux l'ajouter directement.
+Je veux d'abord sélectionner le lien où ira ma page.
+Sélectionnez Insérer, puis Ajouter un lien.
+
+Une fois que j'ai sélectionné Ajouter un lien,
+je tape le texte que je veux faire apparaître pour ce lien,
+puis je tape l'adresse web correspondante.
+Je peux également accéder directement au site web dans mon navigateur
+et sélectionner l'adresse web,
+puis la copier et la coller  sur ma page OneNote.
+Vous pouvez désormais ajouter des liens vers des pages de vos blocs-notes
+pour établir des liens plus dynamiques qu'avec un bloc-notes papier seul.
+

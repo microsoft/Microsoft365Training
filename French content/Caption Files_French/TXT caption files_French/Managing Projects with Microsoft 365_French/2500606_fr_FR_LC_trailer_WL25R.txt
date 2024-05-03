@@ -1,0 +1,28 @@
+Souvent, dans la vie,
+arriver là où vous voulez aller commence par fixer des objectifs
+spécifiques et réalisables.
+Alors que certains de ces objectifs peuvent être atteints
+simplement et rapidement,
+d'autres nécessitent beaucoup plus de planification réfléchie,
+d'énergie, de temps, de coordination et d'exécution.
+Tout au long de votre vie et de votre carrière, vous entreprendrez
+probablement de nombreux projets.
+
+La gestion de ces projets n'est pas toujours simple.
+Il y a souvent différentes tâches,  personnes impliquées
+et étapes intermédiaires.
+Je m'appelle Nicolas Georgeault, et je suis architecte de solutions
+chez MuBrain.
+Dans ce cours, je vais vous montrer comment utiliser les
+applications Microsoft 365 pour augmenter vos compétences
+en gestion de projet.
+Microsoft 365 dispose d'outils extraordinaires pour vous aider à
+gérer vos projets comme un pro.
+
+Vous apprendrez à créer et partager des listes
+dans Microsoft
+Lists, à développer un plan avec Microsoft Planner, et à gérer
+votre projet avec Microsoft Project.
+Apprendre à gérer des projets dans Microsoft 365 renforcera votre
+capacité à entreprendre n'importe quelle tâche.
+Commençons.

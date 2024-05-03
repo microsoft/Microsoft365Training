@@ -1,0 +1,37 @@
+Faire défiler une boîte de réception sans fin
+pour trouver l'e-mail  dont vous avez besoin
+peut donner l'impression
+d'essayer de trouver une aiguille dans une botte de foin,
+mais Outlook dispose  d'un outil de recherche
+qui permet de trouver facilement n'importe quel e-mail.
+Dans cette leçon, je vais vous montrer comment effectuer une recherche
+dans votre boîte de réception.
+Je vais commencer  dans ma boîte de réception Outlook.
+Dans cet exemple, j'ai un entretien pour un emploi
+et l'entreprise m'a demandé  de créer une présentation PowerPoint
+pour mon entretien.
+
+L'entreprise m'a envoyé un e-mail avec les instructions de présentation,
+mais je ne me souviens pas de toutes les exigences.
+Pour connaître exactement ce qu'on attend de moi,
+je dois rechercher cet e-mail  dans Outlook.
+Je me souviens que ce post parlait d'une présentation,
+alors je vais dans la zone de recherche pour saisir le mot « présentation »,
+puis Entrée.
+Cela recherche dans mon e-mail  tous les e-mails avec ce titre de post
+et le mot « présentation ».
+
+Ah ! Voici l'e-mail que je cherchais !
+Je vais l'ouvrir pour voir les exigences de la présentation
+de l'entretien d'embauche.
+Si vous souhaitez affiner votre recherche pour ne trouver que les e-mails
+contenant des pièces jointes,
+vous pouvez utiliser le filtre.
+Si vous souhaitez uniquement  les e-mails contenant des pièces jointes,
+sélectionnez simplement le bouton filtre au-dessus de votre boîte aux lettres.
+Sélectionnez Pièces jointes ; désormais, vote boîte aux lettres
+ne vous montre que des e-mails contenant des pièces jointes.
+
+Maintenant que vous savez  comment rechercher vos e-mails,
+vous pourrez retrouver rapidement n'importe quel e-mail,
+même s'il est profondément enfoui dans votre boîte de réception.

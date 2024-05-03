@@ -1,0 +1,80 @@
+Vous avez probablement entendu parler du terme « système d'exploitation »,
+mais vous pourriez ne pas être exactement sûr de ce que cela signifie.
+Essentiellement, le système d'exploitation de votre ordinateur est le logiciel
+qui gère la façon dont vous, vous interagissez avec cet ordinateur,
+comment les programmes sur l'ordinateur utilisent et accèdent au matériel
+de l'ordinateur.
+Et c'est en grande partie de la façon dont votre ordinateur se comporte
+et fonctionne.
+Vous pouvez considérer le système d'exploitation
+comme le principal programme,
+le chef d'orchestre qui exécute et gère tous les programmes sur votre ordinateur.
+
+C'est l'épine dorsale de votre ordinateur et le programme le plus important,
+car il contrôle tout ce qui se passe,
+tout ce qui entre et sort de votre ordinateur :
+de l'allocation de la mémoire aux programmes
+à la copie de fichiers d'un lecteur à l'autre,
+à la réception des commandes de votre clavier ou de la souris,
+à vous dire l'heure de la journée, etc.
+Vous ne pouvez pas avoir un ordinateur sans système d'exploitation.
+Habituellement, le système d'exploitation est préinstallé sur votre ordinateur.
+
+Mais si vous avez eu un ordinateur pendant quelques années,
+il se peut que vous ayez besoin
+de mettre à niveau votre système d'exploitation
+à la version la plus actuelle.
+Sur les PC, le système d'exploitation le plus populaire est Windows.
+Sur Mac, le système d'exploitation s'appelle « macOS ».
+Ce sont probablement les deux systèmes d'exploitation les plus connus.
+Vous avez peut-être aussi entendu parler de Linux,
+un autre système d'exploitation informatique populaire.
+Et généralement, tout ordinateur ou appareil qui exécute des programmes,
+en particulier plusieurs programmes, a un système d'exploitation.
+
+Alors, votre téléphone mobile, votre smartphone, fonctionne
+sur un système d'exploitation.
+Par exemple, les appareils Android exécutent Android OS
+et le système d'exploitation de l'appareil mobile Apple est iOS.
+Maintenant, en plus de l'objectif essentiel
+de la gestion de votre ordinateur et des programmes que vous utilisez,
+la plupart des systèmes d'exploitation comme Windows et macOS
+sont généralement livrés avec des programmes intégrés :
+les applications ou des programmes ou des logiciels.
+
+Il peut s'agir de simples demandes de traitement de texte,
+d'applications pour la gestion de vos photos,
+d'applications pour l'envoi et la réception de courriers électroniques
+et ainsi de suite.
+Dans certains cas, vous pouvez vous en sortir
+avec les applications incluses dans votre système d'exploitation.
+Par exemple, Windows et macOS sont livrés avec des applications de navigation web
+intégrées pour naviguer sur le web.
+Mais vous êtes également libre d'installer et d'utiliser des applications
+faites par d'autres entreprises.
+
+Certaines applications peuvent être téléchargées gratuitement
+auprès des entreprises qui les fabriquent.
+D'autres doivent être achetées.
+Cela dépend vraiment de l'application dont nous parlons.
+Il est également très important de noter que vous devez généralement
+vous assurer que vous téléchargez ou achetez la version du logiciel
+qui est faite pour votre système d'exploitation.
+Par exemple, si vous utilisez Windows,
+vous devez exécuter des applications Windows.
+Si vous êtes sur Mac, vous devez avoir besoin d'applications Mac.
+
+Dans de nombreux cas, les développeurs de logiciels
+libèrent les deux versions de leurs logiciels.
+Mais il existe de nombreuses applications
+qui ne fonctionnent qu'avec l'une ou l'autre.
+Que vous téléchargiez un logiciel ou que vous achetiez dans un magasin,
+vous devriez toujours être en mesure
+de trouver une section appelée « Exigences système »,
+qui vous permettra de savoir sur quel système d'exploitation
+vous devez exécuter le logiciel,
+ainsi que la quantité minimale de mémoire RAM,
+l'espace du disque dur nécessaire pour installer l'application
+et toute autre exigence nécessaire à la bonne utilisation du programme
+que vous voulez acquérir.
+

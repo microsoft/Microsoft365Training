@@ -1,0 +1,79 @@
+SharePoint est la solution de stockage de fichiers ultime
+pour vous aider à garder vos ressources numériques organisées
+et accessibles pour vous et votre équipe.
+Dans cette leçon,
+je vais vous montrer comment créer et gérer des structures de fichiers
+dans SharePoint
+afin que vous puissiez facilement accéder et partager des fichiers
+avec votre équipe.
+Je vais commencer à partir de ma page de démarrage SharePoint.
+Je travaille sur la planification d'une conférence
+avec une équipe de personnes.
+
+Je veux créer un espace
+pour que mes conférenciers puissent soumettre leurs propositions.
+J'ai créé une équipe pour cette conférence.
+Elle est nommée « La conférence sur les compétences ».
+Lorsque vous créez une équipe dans Microsoft Teams,
+un site est automatiquement créé pour vos collègues dans SharePoint
+afin de stocker les données de votre groupe.
+Je vais maintenant accéder au site de l'équipe
+de la conférence sur les compétences.
+
+Je sélectionne Documents dans le volet de navigation
+pour accéder à ma bibliothèque de documents pour ce site.
+Après avoir sélectionné des documents,
+je peux voir qu'il existe des dossiers pour les différents canaux de l'équipe
+de la conférence sur la compétence que j'ai créée.
+Je veux créer un endroit
+où les conférenciers peuvent soumettre des propositions.
+Donc, je vais sélectionner le dossier Contenu
+et créer un sous-dossier ici.
+
+Je clique sur Nouveau.
+Puis, Dossier.
+Et je nomme ce dossier Propositions de session.
+Et je clique sur créer.
+Pour ajouter un fichier au dossier,
+je sélectionne le dossier Propositions de session que je viens de créer.
+Ensuite, je sélectionne Nouveau > Document Word.
+
+Cela m'amène à Word
+où je peux rédiger ma proposition de session.
+Je souhaite proposer d'animer une session sur la création d'un site SharePoint,
+donc, je vais renommer mon document « Comment créer un site SharePoint ».
+Je vais ajouter une brève description de ma session
+afin que les autres sachent de quoi il s'agit.
+Je vérifie que mon document Word est bien enregistré,
+et je quitte Word.
+
+Lorsque je reviens sur mon site,
+je peux voir mon fichier dans le dossier que j'ai créé.
+Je peux également charger des fichiers sur SharePoint
+comme un dépliant de conférenciers finalisé.
+Tout d'abord, je dois accéder à Documents.
+Je souhaite stocker ce fichier dans mon dossier Marketing et PR.
+Je sélectionne donc ce dossier.
+Ensuite, je sélectionne Charger.
+
+Puisque je charge un fichier, je vais choisir Fichiers.
+Et ensuite, je sélectionne le fichier que je veux charger.
+Ce fichier se trouve maintenant dans la bibliothèque de documents
+de mon site SharePoint.
+Mais je peux également trouver ce document dans Teams.
+Si vous sélectionnez plus d'actions pour un fichier,
+un menu s'ouvre,
+et vous pouvez sélectionner plusieurs actions différentes
+que vous pouvez utiliser dans une bibliothèque de documents.
+
+Vous pouvez les explorer par vous-même,
+mais je vais vous montrer l'historique des versions.
+La sélection de l'historique des versions
+vous permet de voir quand un fichier a été modifié
+et qui a modifié ce fichier.
+Si vous survolez l'horodatage des fichiers
+et sélectionnez le bouton déroulant,
+vous pouvez afficher Restaurer ou Supprimer une version de votre fichier.
+
+Maintenant que vous savez comment créer et charger des fichiers dans SharePoint,
+vous êtes prêt à commencer à collaborer avec votre équipe.

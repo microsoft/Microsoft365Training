@@ -1,0 +1,94 @@
+La collecte de commentaires est un élément essentiel de tout flux
+de travail dans l'entreprise.
+Dans cette leçon, je vais vous montrer comment
+partager des rapports Power BI avec votre équipe.
+Il est temps de raconter votre histoire avec les données.
+Le moyen le plus simple de partager vos données avec les
+parties prenantes et les collaborateurs consiste
+à exporter un PDF.
+Vous pouvez installer Power BI Desktop sur votre ordinateur, en
+accédant au Microsoft Store et en recherchant Power BI.
+
+Une fois que j'ai un rapport Power BI prêt à
+être distribué,
+j'exporte le fichier.
+Dans le menu supérieur gauche, je sélectionne Fichier,
+Exporter,
+Exporter au format PDF.
+Power BI exporte vos données au format PDF,
+les enregistre dans votre dossier Téléchargements et les ouvre
+dans la visionneuse PDF par défaut de votre ordinateur.
+
+Maintenant, je peux l'utiliser comme n'importe quel
+autre fichier.
+Je reviens à Power BI.
+Pour rendre vos rapports accessibles en ligne par vos
+collègues et clients, votre organisation devra disposer
+d'un abonnement à Power BI.
+Pour publier vos rapports dans le cloud,
+vous devez vous connecter à votre compte Microsoft 365
+avec le bouton dans le coin supérieur droit de l'écran.
+
+Ensuite, pour publier le fichier sur le web, depuis le
+ruban Accueil,
+sélectionnez Publier.
+Enregistrez votre document
+puis sélectionnez Mon espace de travail.
+Power BI commencera alors la publication.
+Depuis la fenêtre des résultats, sélectionnez Ouvrir dans Power BI.
+
+Le service Power BI s'ouvre et je peux voir le même
+rapport que j'ai créé dans Power BI Desktop.
+Je suis prêt à partager ce rapport avec mon équipe.
+Je sélectionne donc Partager
+puis je saisis les noms des personnes de mon organisation avec
+lesquelles je souhaite le partager.
+
+Je vais ajouter un message rapide
+puis sélectionner Envoyer.
+Un autre avantage d'avoir un abonnement en ligne à Power BI est
+la possibilité de créer des tableaux de bord.
+Alors que les rapports sont une page de visualisation,
+vous pouvez considérer les tableaux de bord comme une
+histoire basée sur des rapports.
+Je vais sélectionner Accueil, dans le menu de gauche,
+puis j'ouvrirai un exemple de rapport fourni par Power BI,
+l'exemple
+Sales & Returns.
+
+Quelques rapports sont listés sous Pages. Regardons les ventes
+nettes et les retours.
+Les deux rapports affichent la visualisation de la répartition
+par catégories
+et la répartition par magasins.
+Je souhaiterais créer un rapport en mettant côte à côte ces
+répartitions par catégories, ventes et retours.
+Au lieu de recréer la visualisation,
+je peux créer un tableau de bord en épinglant la visualisation à
+un nouveau tableau de bord.
+
+Dans le coin supérieur droit de chaque visualisation,
+sélectionnez l'icône Épingle.
+La boîte de dialogue Épingler au tableau de bord s'affiche alors.
+Je peux créer un nouveau tableau de bord et le nommer
+Tableau des ventes,
+puis sélectionner Épingler.
+Maintenant,
+depuis le menu de gauche, sélectionnez Espace de travail,
+Mon espace de travail,
+et sélectionnez Tableau de bord des ventes.
+
+C'est là que la visualisation est épinglée au tableau de bord.
+Je pourrais continuer et ajouter plus de visualisations à ce tableau
+de bord à partir d'autres rapports Power BI.
+De là, vous pouvez raconter votre histoire sur les ventes et la
+rentabilité des produits.
+Power BI propose plusieurs options pour collaborer et réviser
+des rapports.
+Essayez de partager vos rapports avec des collègues
+pour obtenir des commentaires.
+La collaboration est essentielle à la croissance et garantit que les
+parties prenantes aient la possibilité d'approuver les
+visualisations que vous créez avant qu'elles ne soient partagées
+avec tout le monde.
+

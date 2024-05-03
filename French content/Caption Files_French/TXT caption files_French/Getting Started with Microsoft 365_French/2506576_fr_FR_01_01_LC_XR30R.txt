@@ -1,0 +1,69 @@
+Souvent, le plus difficile dans la création de quelque chose
+est de commencer.
+Vous pouvez avoir toutes les meilleures idées,
+mais à moins que vous ne sachiez dans quelle direction vous voulez aller,
+faire le premier pas peut être intimidant.
+Les modèles Word éliminent les doutes dès la première étape
+et vous aident à créer de superbes documents,
+vous permettant ainsi de vous concentrer sur votre contenu.
+Après cette leçon, vous serez prêt à tirer parti des modèles
+et de faire ressortir vos projets.
+
+Pour commencer, dans le coin supérieur gauche d'Office.com,
+sélectionnez le lanceur d'application et ouvrez Word.
+Une fois Word ouvert, vous pouvez choisir un document vierge,
+ce qui signifie que vous partez de zéro, ou choisir un modèle prédéfini.
+Un modèle est un exemple de document que vous pouvez personnaliser
+pour créer le vôtre.
+Dans cet exemple, je commence une recherche d'emploi.
+Je souhaite donc à créer un curriculum vitae, également appelé C.V.,
+à l'aide de modèles.
+
+Ces options de modèle sont excellentes,
+mais elles ne correspondent pas tout à fait à ce que j'envisage.
+Je vais donc sélectionner Autres modèles.
+J'aime le look du modèle C.V. (vert), donc je vais choisir celui-là.
+Le nouveau document s'ouvre
+et commence avec une disposition de CV standard.
+Avant d'aller plus loin, je vais renommer et enregistrer mon document.
+Je choisis de l'enregistrer sous le nom « Mon CV ».
+
+Maintenant, comme vous pouvez le voir, le modèle est non seulement fourni
+avec un exemple de C.V. bien formaté,
+mais à l'intérieur de chaque section,
+le modèle comprend des instructions à suivre.
+Par exemple, dans la section Objectif, ce modèle affiche le titre
+et, dans le corps, vous indique clairement ce qu'il faut y mettre.
+Si vous avez un ancien C.V. et qui nécessite une mise à jour,
+vous pouvez copier le contenu de cet ancien C.V. dans le nouveau modèle.
+
+Copiez simplement le contenu de l'ancien C.V.
+et collez-le sous forme de texte dans ce modèle.
+Pour l'instant, je vais juste ajouter du nouveau contenu.
+Je vais commencer par ajouter le texte le plus simple en premier,
+en commençant par mon nom.
+D'abord, je sélectionne le texte que je veux remplacer
+et je tape mon nom.
+Je vois pour l'expérience, qu'il y a l'intitulé du poste et la fonction.
+Je n'ai besoin que de l'intitulé pour l'expérience,
+donc je supprimerai la fonction en utilisant Couper,
+Ctrl + X ou Cmd + X pour Mac.
+
+Je vais également dupliquer le texte dans l'expérience en utilisant Copier,
+Ctrl + C ou Cmd + C pour Mac
+et Coller, Ctrl + V ou Cmd + V pour Mac.
+Je n'ai pas besoin de la section des communications,
+donc je vais simplement la couper.
+Après avoir remplacé le texte du modèle par mon propre contenu,
+j'aurai un C.V. magnifiquement assemblé
+et je n'ai pas eu à réfléchir à deux fois au style de police, à la taille,
+aux marges ou à toute autre mise en forme.
+
+Tout est déjà compris dans le modèle.
+Maintenant que je vous ai expliqué le processus simple de création
+et de modification à partir d'un modèle,
+vous êtes prêt à l'essayer par vous-même.
+Quels documents pouvez-vous améliorer en utilisant des modèles ?
+Utilisez vos compétences
+en déplaçant un document existant dans un nouveau modèle
+et voyez votre contenu obtenir un nouveau format.

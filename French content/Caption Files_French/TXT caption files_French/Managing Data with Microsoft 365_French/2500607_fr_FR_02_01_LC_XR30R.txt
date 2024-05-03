@@ -1,0 +1,45 @@
+L'automatisation peut vous faire gagner beaucoup de temps,
+vous aider à maintenir les flux de travail sur la bonne voie et
+veiller à ce qu'ils se déroulent sans problème.
+Dans cette leçon, je vais vous donner un aperçu des
+avantages de Power Automate et de la façon dont l'automatisation
+des tâches peut aider votre entreprise.
+Vous retrouvez-vous à accomplir les mêmes tâches encore et encore,
+tout au long de la journée ? Dans de nombreux cas,
+l'automatisation peut alors vous aider à économiser du temps
+et de l'énergie.
+La suppression des tâches répétitives de votre flux de
+travail est une possibilité avec Power Automate.
+
+Tout d'abord, Power Automate propose plusieurs modèles qui vous
+aident à synchroniser votre travail dans OneDrive,
+envoyer un courriel pour les nouveaux tweets avec un mot-clé
+précis, ou vous avertir lorsqu'un étudiant soumet une
+réponse à un quiz.
+Quel que soit votre domaine de travail,
+Power Automate dispose des outils pour vous assister dans vos
+tâches quotidiennes.
+Power Automate est également un excellent outil pour garder votre
+boîte de réception sous contrôle.
+Vous pouvez enregistrer les pièces jointes des courriels sur
+OneDrive Entreprise, configurer un flux pour obtenir
+l'approbation des demandes de congés, ou répondre immédiatement
+aux clients qui remplissent un formulaire.
+
+Power Automate vous aide également dans vos tâches
+de gestion de projets.
+Vous pouvez facilement attribuer des tâches à des membres
+spécifiques de l'équipe,
+suivre les statuts de la documentation, et créer un résumé
+quotidien des tâches dans Microsoft Planner.
+Power Automate vous aide même à gérer votre temps, en vous
+permettant de bloquer votre calendrier pour des projets
+importants, en appuyant sur un simple bouton.
+Enfin, Power Automate vous suit partout.
+Si vous avez besoin de vérifier rapidement un flux de travail,
+vous pouvez le faire via les versions de bureau web et mobile.
+
+C'est vraiment un outil incroyable.
+Donc, si vous êtes prêt à augmenter votre productivité,
+explorez Power Automate pour voir comment il peut vous aider à
+organiser votre travail.

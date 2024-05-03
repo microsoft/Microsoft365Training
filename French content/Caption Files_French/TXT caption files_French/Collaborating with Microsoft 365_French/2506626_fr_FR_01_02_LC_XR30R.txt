@@ -1,0 +1,75 @@
+La construction d'une équipe prend du temps.
+Vous devez transférer ou recruter les bons membres,
+établir des relations et vous faire confiance.
+D'un autre côté,
+créer une équipe dans Microsoft Teams
+ne prend pratiquement pas de temps.
+Dans cette leçon, je vais utiliser un événement à venir
+sur lequel je travaille,
+Conférence sur les compétences,
+Pour vous montrer comment configurer une équipe à l'aide de modèles
+pour gagner encore plus de temps.
+
+Une fois dans Teams,
+je sélectionne équipes dans le menu de gauche,
+puis je sélectionne rejoindre ou créer une équipe
+à partir du lien en bas à gauche de l'interface.
+Si vous rejoignez une équipe que quelqu'un d'autre avait créé,
+vous avez pu recevoir un code
+afin de rejoindre une équipe spécifique
+et vous sélectionnez, Rejoindre une équipe.
+Étant donné que cette conférence n'a pas encore d'environnement d'équipe.
+En tant que responsable, je dois en créer une.
+
+Je sélectionne donc Créer une équipe.
+Je peux créer une équipe à partir de zéro
+ou à partir d'un modèle.
+Je vois un modèle de gestion d'événements qui fonctionne très bien pour cela.
+Je vais sélectionner cette option pour commencer.
+Ici, Teams affiche un aperçu des canaux
+et des applications associées à ce modèle.
+Sélectionnez simplement Suivant pour continuer.
+Vient ensuite le niveau de confidentialité
+parce que je ne veux pas que quelqu'un accède à mon équipe
+sans que je ne l'invite.
+
+Je vais le rendre privé.
+Pour nommer l'équipe,
+je veux être bref,
+mais descriptif
+puisque je planifie une conférence,
+je l'appelle, Conférence sur les compétences.
+J'inclus également une description
+pour donner aux membres un moyen de savoir
+en quoi consiste l'équipe.
+Comme tous les modèles,
+celui-ci est livré avec des canaux prédéfinis.
+Afin d'éviter de créer un brouhaha dans un seul endroit,
+considérez qu'un canal est un endroit
+où parler d'un sujet spécifique.
+
+Lorsque je gère des événements,
+je dois créer des canaux
+où toute l'équipe peut discuter de sujets généraux.
+Et d'autres canaux ou des groupes plus petits
+peuvent parler de sujets spécifiques.
+Le canal général est automatiquement créé avec chaque équipe
+et ne peut pas être supprimé.
+La plupart de ces autres canaux sont tous utiles ici,
+mais mon équipe ne participe à aucune conversation liées au budget.
+Je vais donc la renommée en Technologie.
+
+Je peux renommer cette chaîne en utilisant le menu déroulant,
+Personnaliser les canaux,
+je sélectionne Budget dans la liste,
+Supprimer remplace le nom de la chaîne.
+A ce stade, tout est configuré
+et je sélectionne Créer.
+La création de l'équipe est en cours.
+Comme vous pouvez le voir,
+il ne faut pas beaucoup d'efforts pour créer une équipe.
+Lorsque vous êtes en mesure de créer une équipe,
+vous êtes en mesure de commencer à rationaliser
+la communication et la collaboration
+pour votre prochain événement ou projet.
+

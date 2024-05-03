@@ -1,0 +1,88 @@
+Une part importante de votre activité
+dépend bien sûr d'avoir la bonne application
+pour réaliser ce que vous voulez faire.
+Par défaut, avec votre système d'exploitation,
+par exemple, le système d'exploitation Windows,
+vous trouvez des applications comme la calculatrice, le bloc-notes,
+le petit traitement de texte qui s'appelle le WordPad
+et certaines autres applications.
+Mais vous avez très certainement besoin
+d'aller installer de nouvelles applications plus performantes,
+plus complètes, en tous les cas mieux adaptées à votre besoin
+et mieux adaptées au domaine de votre application.
+
+Pour récupérer d'autres applications,
+eh bien, vous pouvez vous rendre sur le site web de différents éditeurs.
+Mais il existe également un endroit qui est le Microsoft Store,
+c'est-à-dire le magasin Microsoft d'applications pour Windows.
+Pour y accéder, rendez-vous dans Windows.
+Ce magasin est accessible à travers cette icône
+qui représente un petit sac avec le logo Windows.
+C'est le Microsoft Store.
+Si vous ne l'avez pas dans la barre des tâches,
+direction le menu Démarrer,
+cliquez sur ce bouton pour faire apparaître ce menu Démarrer
+et voir alors Microsoft Store.
+
+Et enfin, si vous ne l'avez toujours pas,
+mettez vous dans la zone de recherche et commencez à taper s-t-o-r-e
+pour voir apparaître Microsoft Store.
+Cliquez alors sur cette icône pour que le magasin des logiciels apparaisse.
+Ils sont classés par les jeux,
+les divertissements, la productivité et certaines offres.
+Si nous allons, par exemple, dans la partie Divertissement,
+nous allons rencontrer des films, des applications, des vidéos.
+Si nous allons dans la partie Productivité,
+nous allons rencontrer plutôt des programmes pour le bureau,
+pour travailler sur du texte, pour travailler sur du contenu.
+
+Bref, tout ceci est classé.
+Néanmoins, vous pouvez à travers ce magasin lancer des recherches.
+Il vous suffit pour cela d'aller sur cette zone en haut, Rechercher,
+et de taper les premières lettres du programme que vous voulez acquérir.
+Si, par exemple, vous voulez un programme comme WhatsApp,
+eh bien, commencez à taper les premières lettres
+pour que les logiciels contenant ces lettres apparaissent.
+Si vous voulez, par exemple, le tableau blanc de Microsoft
+qui s'appelle Whiteboard,
+eh bien, il vous suffit de taper également les premières lettres
+pour voir apparaître la liste qui contient ces mots.
+
+Ensuite, cliquez soit sur l'icône, soit sur les résultats de recherche
+pour arriver directement à la fiche de ce programme.
+Vous avez alors une présentation du programme, une description
+avec la configuration, parfois même avec des informations
+comme les copies d'écran ou d'autres, encore, informations.
+Une fois que votre choix est fait, rien de plus simple,
+il vous suffit d'installer le logiciel et parfois même de l'acheter si besoin.
+En installant ce logiciel,
+alors, l'application va pouvoir s'exécuter sur votre ordinateur.
+
+Il est important de bien comprendre que les types de fichiers
+nécessitent une application particulière pour s'afficher.
+Si vous recevez, par exemple, un fichier qui est un plan
+et que ce plan a été créé grâce à un programme particulier,
+eh bien, il vous faudra très certainement acquérir ce programme
+pour pouvoir lire le contenu de ce fichier.
+Si vous recevez une photo et que vous n'avez pas d'outils,
+pas de programme vous permettant de visualiser cette photo sur votre écran,
+vous seriez bien embêté.
+
+Alors, lorsque vous sélectionnez un fichier,
+utilisez le clic droit de la souris pour faire apparaître Ouvrir avec
+et vous voyez alors la liste des programmes
+vous permettant d'ouvrir ce fichier.
+Par exemple, ce fichier peut être ouvert avec l'application Bloc-notes,
+comme avec l'application WordPad.
+Et si jamais, je peux toujours aller rechercher dans le magasin Microsoft,
+dans le Microsoft Store,
+une autre application me permettant d'ouvrir ce type de fichier.
+Maintenant, si j'ouvre mon explorateur de fichiers
+que je viens dans le dossier des images,
+les images enregistrées et que je fais un clic sur ce document, Ouvrir avec,
+je vois que ce document de type photo
+peut être ouvert avec l'application Capture d'écran,
+Paint, Paint en 3D et Photos.
+
+J'ai donc des applications qui sont différentes
+suivant le type de contenu, suivant le type de fichier.

@@ -1,0 +1,77 @@
+Une autre caractéristique commune, trouvée dans les systèmes d'exploitation
+des appareils modernes, est l'assistant virtuel.
+Vous avez peut-être entendu parler de Cortana de Microsoft,
+Siri d'Apple ou de l'assistant Google.
+Les assistants virtuels utilisent l'intelligence artificielle,
+que l'on appelle aussi « IA ».
+Plus vous utilisez l'assistant, plus il devient performant,
+plus il devient utile.
+Jetons un coup d'œil à Cortana, l'assistant virtuel intégré
+dans Microsoft Windows 10.
+
+Pour interagir avec cette assistante, eh bien, direction la zone de recherche
+et tapez sur le clavier de votre ordinateur
+ou alors utilisez votre voix.
+Évidemment que votre ordinateur a besoin d'un microphone
+pour que Cortana vous écoute
+et pour écouter la réponse de votre assistante,
+il vous faut des haut-parleurs ou un casque
+ou encore des écouteurs.
+Pour utiliser Cortana, il suffit donc de cliquer dans la zone de recherche
+de la barre de tâches et de taper une question.
+Par exemple : « 10 + 10 »
+et le système vous affiche alors sur la partie de droite, le résultat.
+
+Vous avez un bouton ici
+vous permettant d'avoir les résultats de ce que vous avez demandé
+directement dans votre navigateur Internet.
+Vous pouvez aussi lui demander autre chose que de simples calculs,
+comme par exemple : « capitale de la France ».
+Et là, vous avez bien sûr le résultat qui apparaît,
+avec les différentes questions
+que les personnes ont l'habitude de demander dans ce moteur de recherche
+qu'est Bing.
+Je clique à côté.
+Pour le moment, les échanges ne se font que par le clavier ;
+je ne parle pas ni entends Cortana.
+
+Si vous voulez utiliser votre voix,
+eh bien, direction le symbole ici Cortana, cliquez sur ce symbole
+et utilisez alors le bouton micro.
+(Son bref)
+Quel temps fait-il à Acapulco ?
+(Son bref)
+(Voix féminine) Il fait 24 degrés, avec un beau ciel clair.
+J'ai donc pu utiliser ma voix
+pour demander quel temps il faisait à Acapulco
+et également Cortana m'a répondu en plus de m'afficher les résultats.
+
+Et vous pouvez même demander :
+(Son bref)
+Cortana, raconte-moi une blague.
+(Son bref)
+(Voix féminine) Qu'est-ce qui peut être servi, mais jamais mangé ?
+Une balle de tennis.
+Alors, vous voyez que l'usage d'un assistant est interactif,
+d'autant plus si vous utilisez la voix et si vous écoutez sa réponse.
+À gauche de cette fenêtre,
+« ... » vous permet d'afficher un menu
+et dans ce menu, vous avez votre compte de connexion, ainsi que les paramètres.
+
+En cliquant sur ces paramètres, vous avez quelques éléments,
+comme le raccourci clavier, l'utilisation ou pas du microphone,
+l'activation vocale ou pas
+et les niveaux de confidentialité.
+Quelques paramètres qui sont dépendants de votre géolocalisation,
+c'est-à-dire du pays d'appartenance ainsi que de la version de Windows.
+Si vous n'avez pas exactement le même écran que moi,
+peut-être n'avez-vous pas la même version de Windows 10.
+Ici, je suis en version 20H2, la version automne 2020.
+Retour à notre assistant.
+
+Un dernier point,
+si votre environnement Windows est configuré avec votre compte de messagerie,
+tel que votre système a accès à votre agenda,
+eh bien, Cortana pourra ajouter des éléments à votre calendrier
+et pourra vous prévenir à l'avance d'un rendez-vous, par exemple.
+C'est finalement comme un assistant ou une assistante.

@@ -1,0 +1,267 @@
+1
+00:00:00,766 --> 00:00:04,176
+Avez-vous déjà eu besoin de plus 
+que de simples mots
+
+2
+00:00:04,176 --> 00:00:07,616
+pour saisir correctement une idée ?
+
+3
+00:00:07,616 --> 00:00:10,911
+Il peut être utile d'avoir 
+des images et des vidéos
+
+4
+00:00:10,911 --> 00:00:13,155
+à référencer avec des notes.
+
+5
+00:00:13,155 --> 00:00:17,581
+Dans cette leçon, je vais vous montrer
+comment insérer des médias
+
+6
+00:00:17,581 --> 00:00:19,710
+et des tableaux dans OneNote
+
+7
+00:00:19,710 --> 00:00:23,632
+pour créer un bloc-notes plus interactif.
+
+8
+00:00:23,632 --> 00:00:26,694
+Alors d'abord, je vais ouvrir OneNote
+
+9
+00:00:26,694 --> 00:00:28,854
+avec un bloc-notes existant :
+
+10
+00:00:28,854 --> 00:00:37,983
+Évènement Client.
+
+11
+00:00:37,983 --> 00:00:39,906
+Pour ajouter une image,
+
+12
+00:00:39,906 --> 00:00:44,298
+placez le curseur à l'endroit
+où vous souhaitez l'ajouter,
+
+13
+00:00:44,298 --> 00:00:49,392
+puis sélectionnez Insertion
+dans le ruban supérieur,
+
+14
+00:00:49,392 --> 00:00:56,578
+puis Image et sélectionnez
+À partir d'un emplacement en ligne.
+
+15
+00:00:56,578 --> 00:01:00,943
+Dans la barre de recherche, entrez le nom 
+d'une image que vous recherchez
+
+16
+00:01:00,943 --> 00:01:07,817
+et appuyez sur Entrée.
+
+17
+00:01:07,817 --> 00:01:11,160
+Utilisez la barre de défilement
+sur le côté droit de la fenêtre
+
+18
+00:01:11,160 --> 00:01:18,995
+et sélectionnez l'image qui vous convient.
+
+19
+00:01:18,995 --> 00:01:22,926
+Sélectionnez Insérer
+lorsque vous avez terminé.
+
+20
+00:01:22,926 --> 00:01:26,676
+L'image s'ajoutera et apparaîtra 
+dans vos notes,
+
+21
+00:01:26,676 --> 00:01:30,052
+là où vous l'avez placée.
+
+22
+00:01:30,052 --> 00:01:32,324
+Supposons maintenant
+que vous souhaitiez faire référence
+
+23
+00:01:32,324 --> 00:01:41,391
+à un autre fichier dans vos notes.
+
+24
+00:01:41,391 --> 00:01:45,071
+Pour joindre une copie d'un fichier
+à votre bloc-notes,
+
+25
+00:01:45,071 --> 00:01:49,164
+placez le curseur à l'endroit
+où vous souhaitez lier le fichier,
+
+26
+00:01:49,164 --> 00:01:56,017
+puis sélectionnez Insertion et Fichier.
+
+27
+00:01:56,017 --> 00:02:00,445
+Sélectionnez alors 
+Insérer un fichier en pièce jointe.
+
+28
+00:02:00,445 --> 00:02:03,500
+Sélectionnez alors le fichier
+que vous souhaitez,
+
+29
+00:02:03,500 --> 00:02:11,171
+puis cliquez sur Ouvrir.
+
+30
+00:02:11,171 --> 00:02:15,932
+Vous pouvez également insérer des vidéos
+provenant d'internet dans vos notes.
+
+31
+00:02:15,932 --> 00:02:19,140
+Recherchez la vidéo
+que vous souhaitez en ligne,
+
+32
+00:02:19,140 --> 00:02:23,347
+copiez l'URL de la vidéo
+à partir de la barre d'adresse,
+
+33
+00:02:23,347 --> 00:02:41,578
+puis sélectionnez l'emplacement souhaité
+sur la page et collez-le.
+
+34
+00:02:41,578 --> 00:02:44,682
+Vous pourrez alors sélectionner
+le lien pour lire la vidéo
+
+35
+00:02:44,682 --> 00:02:47,918
+sur le site web d'origine
+
+36
+00:02:47,918 --> 00:02:52,533
+ou sélectionner le bouton de lecture
+sur la vidéo intégrée
+
+37
+00:02:52,533 --> 00:02:54,778
+et la regarder directement dans vos notes.
+
+38
+00:02:54,778 --> 00:02:58,976
+Lorsque les données doivent être triées
+et partagées dans un tableau,
+
+39
+00:02:58,976 --> 00:03:02,797
+vous pouvez en créer un
+directement dans votre bloc-notes.
+
+40
+00:03:02,797 --> 00:03:05,790
+L'ajout de tableau dans vos notes
+peut également être utile
+
+41
+00:03:05,790 --> 00:03:08,374
+pour conserver des groupes 
+d'information ensemble
+
+42
+00:03:08,374 --> 00:03:10,857
+et trier de manière appropriée.
+
+43
+00:03:10,857 --> 00:03:13,183
+Pour rajouter un tableau à vos notes,
+
+44
+00:03:13,183 --> 00:03:16,161
+sélectionnez
+
+45
+00:03:16,161 --> 00:03:22,095
+Insertion, puis Tableau.
+
+46
+00:03:22,095 --> 00:03:31,025
+Sélectionnez alors le nombre de lignes
+et de colonnes dont vous avez besoin.
+
+47
+00:03:31,025 --> 00:03:33,620
+Le nombre sélectionné
+sera mis en surbrillance.
+
+48
+00:03:33,620 --> 00:03:35,590
+Lorsque vous travaillez dans un tableau,
+
+49
+00:03:35,590 --> 00:03:42,394
+le menu Tableau devient 
+disponible dans le ruban.
+
+50
+00:03:42,394 --> 00:03:46,151
+Vous pouvez également cliquer 
+avec le bouton droit sur le tableau
+
+51
+00:03:46,151 --> 00:03:50,607
+pour faire apparaître le menu.
+
+52
+00:03:50,607 --> 00:03:54,359
+Sélectionnez alors le tableau pour
+personnaliser davantage votre tableau
+
+53
+00:03:54,359 --> 00:04:03,074
+comme Insérer ou Supprimer des lignes
+ou des colonnes.
+
+54
+00:04:03,074 --> 00:04:05,209
+Parfois, les mots ne suffisent pas.
+
+55
+00:04:05,209 --> 00:04:08,253
+L'ajout d'un fichier, 
+de vidéos et de tableaux
+
+56
+00:04:08,253 --> 00:04:12,248
+permettent d'ajouter de la dimension
+et de clarifier davantage vos notes.
+
+57
+00:04:12,248 --> 00:04:15,094
+Essayez d'ajouter des images
+ou un tableau à vos notes
+
+58
+00:04:15,094 --> 00:04:18,019
+pour vous aider à mieux expliquer
+et organiser les informations.
+

@@ -1,0 +1,244 @@
+1
+00:00:00,948 --> 00:00:02,275
+Le temps est précieux.
+
+2
+00:00:02,275 --> 00:00:05,305
+Lorsque votre équipe utilise
+fréquemment un document,
+
+3
+00:00:05,305 --> 00:00:07,741
+vous pouvez faire gagner
+du temps à tout le monde
+
+4
+00:00:07,741 --> 00:00:10,786
+en ajoutant ce document à un onglet.
+
+5
+00:00:10,786 --> 00:00:12,805
+Dans cette leçon, 
+je vais vous montrer comment
+
+6
+00:00:12,805 --> 00:00:15,200
+ajouter des onglets à vos chaînes
+
+7
+00:00:15,200 --> 00:00:17,972
+pour aider votre équipe
+à accéder rapidement
+
+8
+00:00:17,972 --> 00:00:21,434
+aux contenus dont elle a le plus besoin.
+
+9
+00:00:21,434 --> 00:00:22,789
+Dans cet exemple,
+
+10
+00:00:22,789 --> 00:00:25,532
+j'ai déjà ouvert des équipes
+et créé une équipe
+
+11
+00:00:25,532 --> 00:00:28,415
+pour collaborer
+sur une conférence à venir.
+
+12
+00:00:28,415 --> 00:00:32,095
+Je travaille sur une conférence
+sur les compétences avec mon équipe.
+
+13
+00:00:32,095 --> 00:00:35,232
+J'ai déjà créé une équipe
+avec des canaux spécifiques,
+
+14
+00:00:35,232 --> 00:00:36,933
+mais je souhaite
+
+15
+00:00:36,933 --> 00:00:40,678
+qu'il soit encore plus accessible
+pour mon équipe de collaborer
+
+16
+00:00:40,678 --> 00:00:42,962
+et de terminer son travail.
+
+17
+00:00:42,962 --> 00:00:44,732
+Mon équipe logistique
+
+18
+00:00:44,732 --> 00:00:47,169
+utilise et ajuste constamment les salles
+
+19
+00:00:47,169 --> 00:00:48,592
+qui seront utilisés
+
+20
+00:00:48,592 --> 00:00:51,563
+pour la conférence sur les compétences.
+
+21
+00:00:51,563 --> 00:00:53,565
+Tout le monde collabore
+sur le même dossier
+
+22
+00:00:53,565 --> 00:00:55,189
+et c'est très bien.
+
+23
+00:00:55,189 --> 00:00:58,002
+Le fichier se trouve
+dans l'onglet Fichiers
+
+24
+00:00:58,002 --> 00:00:59,900
+de mon canal logistique,
+
+25
+00:00:59,900 --> 00:01:04,704
+mais je veux leur faciliter encore plus
+l'accès à ce fichier fréquemment utilisé.
+
+26
+00:01:04,704 --> 00:01:08,693
+Je vais donc ajouter ce fichier
+sous la forme d'onglets
+
+27
+00:01:08,693 --> 00:01:10,782
+dans le canal logistique
+
+28
+00:01:10,782 --> 00:01:14,934
+afin qu'il soit accessible
+en une seule étape.
+
+29
+00:01:14,934 --> 00:01:20,271
+Tout d'abord, je dois accéder
+à mon canal logistique.
+
+30
+00:01:20,271 --> 00:01:23,074
+Ensuite, j'irai dans l'onglet Fichiers
+
+31
+00:01:23,074 --> 00:01:26,915
+et sélectionnerai Afficher les actions
+
+32
+00:01:26,915 --> 00:01:29,856
+à côté du nom du fichier.
+
+33
+00:01:29,856 --> 00:01:30,963
+Une fenêtre apparaît,
+
+34
+00:01:30,963 --> 00:01:35,286
+me donnant plusieurs actions
+que je peux prendre avec ce fichier.
+
+35
+00:01:35,286 --> 00:01:37,947
+Je peux l'ouvrir, le copier,
+
+36
+00:01:37,947 --> 00:01:40,065
+le renommer
+
+37
+00:01:40,065 --> 00:01:42,170
+et d'autres actions.
+
+38
+00:01:42,170 --> 00:01:43,456
+Mais pour le moment,
+
+39
+00:01:43,456 --> 00:01:46,182
+je veux juste faire
+de ce fichier un onglet
+
+40
+00:01:46,182 --> 00:01:48,816
+et je vais donc sélectionner
+
+41
+00:01:48,816 --> 00:01:51,182
+Convertir en onglet.
+
+42
+00:01:51,182 --> 00:01:53,981
+Le fichier est maintenant un onglet
+
+43
+00:01:53,981 --> 00:01:55,506
+dans mon canal logistique,
+
+44
+00:01:55,506 --> 00:02:00,325
+ce qui le rend facile d'accès
+pour tout le monde dans le canal.
+
+45
+00:02:00,325 --> 00:02:04,221
+Vous pouvez ajouter une variété
+d'onglets dans vos chaînes
+
+46
+00:02:04,221 --> 00:02:05,979
+pour voir toutes les options disponibles.
+
+47
+00:02:05,979 --> 00:02:07,946
+Pour ajouter des onglets dans vos chaines,
+
+48
+00:02:07,946 --> 00:02:11,117
+sélectionnez le bouton Ajouter un onglet,
+
+49
+00:02:11,117 --> 00:02:13,466
+vous pouvez ajouter des sites web,
+
+50
+00:02:13,466 --> 00:02:15,337
+des fichiers de différentes applications
+
+51
+00:02:15,337 --> 00:02:17,777
+comme Word, OneNote, Excel et Power Point.
+
+52
+00:02:17,777 --> 00:02:20,750
+Il y a tellement de choses à explorer.
+
+53
+00:02:20,750 --> 00:02:24,141
+Ajouter des onglets
+à vos chaînes est facile,
+
+54
+00:02:24,141 --> 00:02:26,176
+essayez-le pour permettre à votre équipe
+
+55
+00:02:26,176 --> 00:02:27,855
+d'accéder plus facilement aux éléments
+
+56
+00:02:27,855 --> 00:02:29,732
+dont elle a besoin rapidement.
+

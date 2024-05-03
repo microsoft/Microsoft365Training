@@ -1,0 +1,47 @@
+Il est naturel qu'avec le temps, un plan évolue et change.
+Les plans
+sont des documents vivants.
+Dans cette leçon, je vais vous montrer comment
+communiquer des modifications à l'aide de Microsoft Planner.
+Depuis office.com, dans le coin supérieur gauche,
+je sélectionne le lanceur d'application puis
+j'ouvre Planner.
+Je vais commencer par ouvrir le plan Mariage juin sur lequel
+j'ai déjà travaillé.
+
+Sélectionnez le menu Ellipse, dans le menu supérieur,
+puis choisissez Paramètres du plan.
+Tout d'abord, je peux mettre à jour mon plan pour avoir
+un fonds différent.
+Je vais essayer celui-ci.
+Ensuite, sélectionnez Notifications.
+Dans la section inférieure, je peux voir que mon Planner
+m'envoie déjà des notifications individuelles pour mes
+tâches personnelles.
+
+Je souhaite accroître la transparence au sein de mon équipe
+et informer tout le monde lorsque les tâches sont terminées.
+Étant donné que je suis le propriétaire du groupe,
+dans les paramètres des courriels de groupe
+je sélectionne Envoyer un courriel au groupe lorsqu'une tâche est
+attribuée ou terminée.
+Puis sélectionnez Enregistrer.
+Joni vient de m'informer que la licence de mariage a été obtenue.
+Je vais donc en profiter pour marquer cette tâche
+comme terminée.
+
+Maintenant, toute l'équipe recevra un courriel et nous pourrons
+informer le client.
+Enfin, je peux partager mon plan au sein de mon organisation.
+Je viens d'intégrer une nouvelle recrue et je veux qu'elle puisse
+voir sur quoi travaille l'équipe.
+Je peux sélectionner
+le menu Ellipse et choisir, dans le menu déroulant, Copier le
+lien vers le plan.
+Le lien est copié dans mon presse-papier et je peux maintenant
+l'envoyer dans un message ou dans un courriel.
+En créant une visibilité sur tous les plans,
+votre équipe peut être encore plus efficace.
+
+Pensez à activer les notifications et pensez à partager votre
+prochain plan.

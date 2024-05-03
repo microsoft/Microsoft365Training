@@ -1,0 +1,237 @@
+﻿WEBVTT
+
+00:00:00.472 --> 00:00:03.246
+La construction d'une équipe
+prend du temps.
+
+00:00:03.246 --> 00:00:07.260
+Vous devez transférer
+ou recruter les bons membres,
+
+00:00:07.260 --> 00:00:10.769
+établir des relations
+et vous faire confiance.
+
+00:00:10.769 --> 00:00:12.429
+D'un autre côté,
+
+00:00:12.429 --> 00:00:14.615
+créer une équipe dans Microsoft Teams
+
+00:00:14.615 --> 00:00:16.890
+ne prend pratiquement pas de temps.
+
+00:00:16.890 --> 00:00:20.483
+Dans cette leçon, je vais
+utiliser un événement à venir
+
+00:00:20.483 --> 00:00:22.096
+sur lequel je travaille,
+
+00:00:22.096 --> 00:00:24.364
+Conférence sur les compétences,
+
+00:00:24.364 --> 00:00:28.688
+Pour vous montrer comment
+configurer une équipe à l'aide de modèles
+
+00:00:28.688 --> 00:00:30.830
+pour gagner encore plus de temps.
+
+00:00:30.830 --> 00:00:32.446
+Une fois dans Teams,
+
+00:00:32.446 --> 00:00:36.170
+je sélectionne équipes
+dans le menu de gauche,
+
+00:00:36.170 --> 00:00:39.403
+puis je sélectionne rejoindre
+ou créer une équipe
+
+00:00:39.403 --> 00:00:43.434
+à partir du lien en bas
+à gauche de l'interface.
+
+00:00:43.434 --> 00:00:46.587
+Si vous rejoignez une équipe
+que quelqu'un d'autre avait créé,
+
+00:00:46.587 --> 00:00:48.485
+vous avez pu recevoir un code
+
+00:00:48.485 --> 00:00:51.227
+afin de rejoindre une équipe spécifique
+
+00:00:51.227 --> 00:00:54.583
+et vous sélectionnez,
+Rejoindre une équipe.
+
+00:00:54.583 --> 00:00:58.613
+Étant donné que cette conférence
+n'a pas encore d'environnement d'équipe.
+
+00:00:58.613 --> 00:01:01.866
+En tant que responsable,
+je dois en créer une.
+
+00:01:01.866 --> 00:01:05.211
+Je sélectionne donc Créer une équipe.
+
+00:01:05.211 --> 00:01:07.970
+Je peux créer une équipe à partir de zéro
+
+00:01:07.970 --> 00:01:09.719
+ou à partir d'un modèle.
+
+00:01:09.719 --> 00:01:14.213
+Je vois un modèle de gestion d'événements
+qui fonctionne très bien pour cela.
+
+00:01:14.213 --> 00:01:16.725
+Je vais sélectionner
+cette option pour commencer.
+
+00:01:16.725 --> 00:01:20.014
+Ici, Teams affiche un aperçu des canaux
+
+00:01:20.014 --> 00:01:23.685
+et des applications associées à ce modèle.
+
+00:01:23.685 --> 00:01:26.987
+Sélectionnez simplement
+Suivant pour continuer.
+
+00:01:26.987 --> 00:01:30.160
+Vient ensuite le niveau de confidentialité
+
+00:01:30.160 --> 00:01:33.023
+parce que je ne veux pas
+que quelqu'un accède à mon équipe
+
+00:01:33.023 --> 00:01:35.005
+sans que je ne l'invite.
+
+00:01:35.005 --> 00:01:37.727
+Je vais le rendre privé.
+
+00:01:37.727 --> 00:01:39.307
+Pour nommer l'équipe,
+
+00:01:39.307 --> 00:01:41.027
+je veux être bref,
+
+00:01:41.027 --> 00:01:43.530
+mais descriptif
+
+00:01:43.530 --> 00:01:45.580
+puisque je planifie une conférence,
+
+00:01:45.580 --> 00:01:50.183
+je l'appelle, Conférence
+sur les compétences.
+
+00:01:50.183 --> 00:01:53.028
+J'inclus également une description
+
+00:01:53.028 --> 00:01:55.797
+pour donner aux membres un moyen de savoir
+
+00:01:55.797 --> 00:01:57.813
+en quoi consiste l'équipe.
+
+00:01:57.813 --> 00:01:59.231
+Comme tous les modèles,
+
+00:01:59.231 --> 00:02:02.599
+celui-ci est livré
+avec des canaux prédéfinis.
+
+00:02:02.599 --> 00:02:06.187
+Afin d'éviter de créer un brouhaha
+dans un seul endroit,
+
+00:02:06.187 --> 00:02:08.700
+considérez qu'un canal est un endroit
+
+00:02:08.700 --> 00:02:11.617
+où parler d'un sujet spécifique.
+
+00:02:11.617 --> 00:02:13.407
+Lorsque je gère des événements,
+
+00:02:13.407 --> 00:02:14.898
+je dois créer des canaux
+
+00:02:14.898 --> 00:02:18.313
+où toute l'équipe peut
+discuter de sujets généraux.
+
+00:02:18.313 --> 00:02:21.424
+Et d'autres canaux
+ou des groupes plus petits
+
+00:02:21.424 --> 00:02:24.310
+peuvent parler de sujets spécifiques.
+
+00:02:24.310 --> 00:02:28.401
+Le canal général est automatiquement
+créé avec chaque équipe
+
+00:02:28.401 --> 00:02:30.951
+et ne peut pas être supprimé.
+
+00:02:30.951 --> 00:02:35.081
+La plupart de ces autres
+canaux sont tous utiles ici,
+
+00:02:35.081 --> 00:02:40.607
+mais mon équipe ne participe
+à aucune conversation liées au budget.
+
+00:02:40.607 --> 00:02:45.124
+Je vais donc la renommée en Technologie.
+
+00:02:45.124 --> 00:02:47.927
+Je peux renommer cette chaîne
+en utilisant le menu déroulant,
+
+00:02:47.927 --> 00:02:49.731
+Personnaliser les canaux,
+
+00:02:49.731 --> 00:02:51.797
+je sélectionne Budget dans la liste,
+
+00:02:51.797 --> 00:02:56.185
+Supprimer remplace le nom de la chaîne.
+
+00:02:56.185 --> 00:02:58.284
+A ce stade, tout est configuré
+
+00:02:58.284 --> 00:03:02.133
+et je sélectionne Créer.
+
+00:03:02.133 --> 00:03:06.397
+La création de l'équipe est en cours.
+
+00:03:06.397 --> 00:03:07.814
+Comme vous pouvez le voir,
+
+00:03:07.814 --> 00:03:11.142
+il ne faut pas beaucoup
+d'efforts pour créer une équipe.
+
+00:03:11.142 --> 00:03:14.004
+Lorsque vous êtes en mesure
+de créer une équipe,
+
+00:03:14.004 --> 00:03:16.351
+vous êtes en mesure
+de commencer à rationaliser
+
+00:03:16.351 --> 00:03:18.438
+la communication et la collaboration
+
+00:03:18.438 --> 00:03:20.697
+pour votre prochain
+événement ou projet.

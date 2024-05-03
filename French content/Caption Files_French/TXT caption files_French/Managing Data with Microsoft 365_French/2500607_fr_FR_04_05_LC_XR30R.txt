@@ -1,0 +1,108 @@
+L'ajout de visuels à vos rapports rendra vos présentations plus
+attrayantes et plus compréhensibles.
+Dans cette leçon, je vais vous expliquer comment
+Power BI vous permet de créer des rapports.
+Dans cet exemple, je vais créer plusieurs graphiques
+en utilisant des exemples de données
+sur les ventes d'une entreprise pour 2021.
+Vous pouvez installer Power BI Desktop sur votre PC, en accédant
+au Microsoft Store et en recherchant Power BI.
+
+J'ai déjà importé les données des fichiers Commandes et Clients que
+vous pouvez trouver dans les fichiers d'exercice. Sur le
+panneau Visualisations,
+il existe plusieurs options pour créer un graphique.
+Je vais en construire un montrant combien d'articles ont été
+vendus chaque mois.
+Je vais sélectionner l'histogramme empilé car il me permettra de
+placer le temps sur l'axe du bas et de compter les commandes
+sur l'axe vertical.
+Un visuel vierge est ajouté à mon espace de travail.
+
+Je sélectionne Date Commande dans le tableau EnTete
+Commandes dans la liste des champs.
+Date Commande est ajouté dans la zone Axe de la visualisation.
+Power BI a déterminé que le champ était une date et a
+automatiquement produit une hiérarchie de dates par années,
+trimestres, mois et jours.
+Je sélectionnerai le X à côté de l'année et du trimestre
+pour les supprimer
+de ma visualisation car je n'ai besoin que du mois et du jour.
+
+Ensuite, faites glisser QteCommandes de Détail
+Commandes vers Valeurs.
+Les valeurs des données affichées sur le graphique seront la somme
+des articles vendus par mois.
+Le visuel est maintenant alimenté, mais il est très petit.
+Je vais sélectionner le coin inférieur droit du visuel et le
+faire glisser pour remplir l'écran.
+Maintenant, je peux voir que la plupart des articles ont
+été vendus en février.
+
+Mais je préfèrerais peut-être voir cela avec la date sur
+l'axe vertical.
+Pour cela, je vais sélectionner Graphique à barres empilées.
+Le dernier changement que je veux apporter à ce tableau est de lui
+donner un nom facile à comprendre.
+En ce moment, c'est Quantité par month. Dans le panneau Visualisations,
+je sélectionne Mettre en forme votre visuel.
+Je développe Titre dans l'onglet Général
+et change le texte du titre en Commande mensuelle.
+
+Ces visualisations vous aideront à analyser rapidement les données
+en un coup d'oeil.
+Maintenant que j'ai créé ma première visualisation Power BI,
+je souhaite en créer une autre avant de terminer ce rapport.
+Je vais réduire le visuel des commandes mensuelles,
+ce qui me laisse de la place pour travailler.
+Maintenant, créons un graphique en secteurs, pour avoir un aperçu des
+entreprises qui achètent le plus.
+Le format graphique en secteurs me montrera rapidement les meilleurs
+acheteurs. Dans le ruban d'accueil,
+je sélectionne Nouveaux visuels.
+
+Depuis le volet Visualisations, je sélectionne Graphique en anneaux.
+Tout d'abord, je vais extraire le total des ventes à
+l'aide de Total.
+Cochez la case à côté de Total dans Détail Commandes.
+En regardant cela, nous voyons que le total est
+affiché sous forme de nombre décimal au lieu d'une
+somme monétaire.
+Je sélectionne donc Total
+et je modifie la mise en forme de ces données, en sélectionnant
+Afficher les valeurs de cette colonne en tant que devises.
+
+Nous voyons que le total de ce graphique est maintenant
+de 708 000 $ de ventes.
+Sélectionnez maintenant la case à cocher pour nom de l'entreprise
+dans le tableau Client, et les noms viendront s'ajouter au
+graphique en secteurs
+par ventes totales.
+Enfin, puisque ce rapport sera destiné à notre équipe commerciale
+québécoise, je veux appliquer un filtre à la page.
+
+Développez le panneau Filtres et faites glisser Région
+depuis Client vers la zone
+Filtres sur cette page.
+Cela me permettra d'appliquer un filtre de région = Québec à
+tous les visuels de la page.
+Je vais sélectionner Québec et voir les visuels changés.
+Février continue d'être le mois où la plupart des articles sont
+commandés par les clients québécois.
+
+Le magasin Eastside Departement Store
+est le plus gros acheteur du Québec.
+J'ai maintenant un rapport prêt à être partagé avec notre
+équipe québécoise.
+Les graphiques à barres et les graphiques en anneaux ne sont que
+le début de ce que vous pouvez accomplir avec ce logiciel.
+Power BI
+propose de nombreuses autres options
+pour vous aider à présenter vos données.
+Déterminez quelles données vous voulez représenter visuellement
+pour aider votre équipe à se développer et à collaborer.
+
+En trouvant des opportunités de faire des visualisations,
+vous pouvez clairement renforcer l'impact de vos communications et
+votre efficacité avec votre équipe,
+vos clients et les parties prenantes.

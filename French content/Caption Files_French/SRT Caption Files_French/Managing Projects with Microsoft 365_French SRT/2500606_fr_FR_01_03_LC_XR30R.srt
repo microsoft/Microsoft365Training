@@ -1,0 +1,426 @@
+1
+00:00:00,970 --> 00:00:03,879
+Pensez à un projet que vous
+vouliez démarrer.
+
+2
+00:00:03,879 --> 00:00:07,059
+Quel que soit le projet,
+il n'y a pas de meilleur endroit
+
+3
+00:00:07,059 --> 00:00:10,580
+pour écrire des idées
+que dans une liste.
+
+4
+00:00:10,580 --> 00:00:13,369
+Votre cerveau est déjà surchargé
+d'informations.
+
+5
+00:00:13,369 --> 00:00:17,699
+Laissez Lists vous aider à 
+garder vos projets organisés.
+
+6
+00:00:17,699 --> 00:00:20,039
+Dans cette leçon,
+je vais vous montrer comment
+
+7
+00:00:20,039 --> 00:00:23,100
+créer votre première liste.
+
+8
+00:00:23,100 --> 00:00:26,219
+Dans cet exemple,
+je vais utiliser des listes
+
+9
+00:00:26,219 --> 00:00:27,929
+pour suivre mon budget,
+
+10
+00:00:27,929 --> 00:00:30,629
+pour un des clients de mon
+entreprise de planification
+
+11
+00:00:30,629 --> 00:00:33,630
+de mariage.
+
+12
+00:00:33,630 --> 00:00:34,890
+Pour commencer,
+
+13
+00:00:34,890 --> 00:00:36,390
+dans le coin supérieur gauche
+
+14
+00:00:36,390 --> 00:00:37,409
+d'Office.
+
+15
+00:00:37,409 --> 00:00:44,310
+com, je sélectionne le lanceur
+d'applications, et j'ouvre Lists.
+
+16
+00:00:44,310 --> 00:00:50,390
+Pour créer une nouvelle liste,
+je sélectionne Nouvelle liste.
+
+17
+00:00:50,390 --> 00:00:54,109
+Cette boîte de dialogue vous
+permet de créer une liste vierge,
+
+18
+00:00:54,109 --> 00:00:59,200
+une liste à partir d'Excel ou à
+partir d'une liste existante.
+
+19
+00:00:59,200 --> 00:01:03,009
+Je peux également créer une liste
+à partir d'un modèle.
+
+20
+00:01:03,009 --> 00:01:05,920
+Aucun de ces modèles n'est
+exactement ce que je veux.
+
+21
+00:01:05,920 --> 00:01:10,510
+Je vais donc créer
+une liste vierge.
+
+22
+00:01:10,510 --> 00:01:12,579
+Pour le nom, je vais entrer
+
+23
+00:01:12,579 --> 00:01:15,750
+Budget de préparation du mariage.
+
+24
+00:01:15,750 --> 00:01:19,170
+Pour la description,
+je vais entrer Planification du
+
+25
+00:01:19,170 --> 00:01:24,269
+budget de mariage du
+nouveau client.
+
+26
+00:01:24,269 --> 00:01:26,819
+Je laisserai la couleur et
+l'icône comme paramètres
+
+27
+00:01:26,819 --> 00:01:27,989
+par défaut,
+
+28
+00:01:27,989 --> 00:01:32,489
+mais vous pouvez les modifier
+si vous le souhaitez.
+
+29
+00:01:32,489 --> 00:01:36,000
+Je vais enregistrer cette nouvelle
+liste dans Mes listes afin de
+
+30
+00:01:36,000 --> 00:01:38,230
+pouvoir la retrouver plus tard.
+
+31
+00:01:38,230 --> 00:01:39,879
+Ces détails me semblent bons.
+
+32
+00:01:39,879 --> 00:01:44,849
+Je peux maintenant sélectionner
+Créer.
+
+33
+00:01:44,849 --> 00:01:48,150
+Par défaut, une liste commence
+avec une seule colonne
+
+34
+00:01:48,150 --> 00:01:49,950
+nommée Titre.
+
+35
+00:01:49,950 --> 00:01:52,950
+Je vais renommer la colonne 
+Titre en Article,
+
+36
+00:01:52,950 --> 00:01:58,189
+en sélectionnant la flèche
+déroulante à côté de Titre,
+
+37
+00:01:58,189 --> 00:02:04,349
+puis en cliquant sur Paramètres
+de colonnes, et Renommer.
+
+38
+00:02:04,349 --> 00:02:08,969
+Je vais saisir Article,
+
+39
+00:02:08,969 --> 00:02:11,620
+puis cliquer sur Enregistrer.
+
+40
+00:02:11,620 --> 00:02:14,979
+J'utiliserai cette colonne pour
+entrer l'article que j'ai besoin
+
+41
+00:02:14,979 --> 00:02:16,569
+de prévoir dans mon budget,
+
+42
+00:02:16,569 --> 00:02:20,020
+comme un photographe, un fleuriste
+ou un lieu.
+
+43
+00:02:20,020 --> 00:02:23,590
+Mais le simple fait de savoir ce
+que je dois inclure à mon budget
+
+44
+00:02:23,590 --> 00:02:25,419
+n'est pas tout à fait suffisant.
+
+45
+00:02:25,419 --> 00:02:28,840
+Je vais utiliser une colonne de
+budget pour enregistrer le coût
+
+46
+00:02:28,840 --> 00:02:31,229
+estimé de chaque article.
+
+47
+00:02:31,229 --> 00:02:33,719
+J'aurai aussi besoin d'une colonne
+pour enregistrer le
+
+48
+00:02:33,719 --> 00:02:35,610
+montant dépensé.
+
+49
+00:02:35,610 --> 00:02:38,699
+De cette façon,
+nous pouvons voir si le client
+
+50
+00:02:38,699 --> 00:02:41,270
+respecte le budget ou non.
+
+51
+00:02:41,270 --> 00:02:44,629
+Pour ajouter une autre colonne,
+je sélectionne Ajouter
+
+52
+00:02:44,629 --> 00:02:48,729
+une colonne.
+
+53
+00:02:48,729 --> 00:02:52,509
+Les listes ont plusieurs types
+de colonnes standard.
+
+54
+00:02:52,509 --> 00:02:54,530
+Je vais choisir
+
+55
+00:02:54,530 --> 00:02:58,479
+Devise.
+
+56
+00:02:58,479 --> 00:03:13,330
+Ensuite, je l'appelle Budget,
+ et sélectionne Enregistrer.
+
+57
+00:03:13,330 --> 00:03:16,629
+Et maintenant je vais créer la
+colonne Dépense réelle.
+
+58
+00:03:16,629 --> 00:03:19,330
+Encore une fois,
+je sélectionne Ajouter
+
+59
+00:03:19,330 --> 00:03:21,400
+une colonne.
+
+60
+00:03:21,400 --> 00:03:21,969
+Je choisis
+
+61
+00:03:21,969 --> 00:03:24,729
+Devise pour le type.
+
+62
+00:03:24,729 --> 00:03:30,500
+Et je nommerai cette
+colonne Réel.
+
+63
+00:03:30,500 --> 00:03:35,169
+Cliquez sur Enregistrer,
+ et le tour est joué.
+
+64
+00:03:35,169 --> 00:03:37,900
+Maintenant que les colonnes
+sont configurées,
+
+65
+00:03:37,900 --> 00:03:41,270
+je peux saisir le budget
+de chaque fournisseur.
+
+66
+00:03:41,270 --> 00:03:44,090
+Je vais ajouter mon premier poste
+budgétaire en sélectionnant
+
+67
+00:03:44,090 --> 00:03:48,099
+Nouveau dans le coin
+supérieur gauche.
+
+68
+00:03:48,099 --> 00:03:52,599
+Je vais entrer un titre pour 
+l'article, Photographe, et ajouter
+
+69
+00:03:52,599 --> 00:03:58,520
+un budget de 1 200 €.
+
+70
+00:03:58,520 --> 00:03:59,990
+Je ne l'ai pas encore acheté.
+
+71
+00:03:59,990 --> 00:04:04,430
+Je vais donc laisser
+le champ Réel vide.
+
+72
+00:04:04,430 --> 00:04:07,159
+Je peux ensuite sélectionner
+Enregistrer pour ajouter
+
+73
+00:04:07,159 --> 00:04:10,969
+l'article Photographe.
+
+74
+00:04:10,969 --> 00:04:13,460
+Nous avons déjà payé pour ce lieu.
+
+75
+00:04:13,460 --> 00:04:16,850
+Je vais donc sélectionner
++ Nouveau,
+
+76
+00:04:16,850 --> 00:04:21,439
+nommer l'élément Lieu,
+puis saisir 5 000 $ dans
+
+77
+00:04:21,439 --> 00:04:24,149
+la zone de budget.
+
+78
+00:04:24,149 --> 00:04:27,600
+Nous avons en fait
+dépensé 5 225 $.
+
+79
+00:04:27,600 --> 00:04:31,620
+Donc je vais entrer cela dans
+la case Dépense réelle,
+
+80
+00:04:31,620 --> 00:04:37,829
+puis enregistrer l'article.
+
+81
+00:04:37,829 --> 00:04:40,920
+Si j'ai besoin de voir les
+colonnes dans un ordre différent,
+
+82
+00:04:40,920 --> 00:04:44,519
+je peux les réorganiser en faisant
+glisser la colonne là
+
+83
+00:04:44,519 --> 00:04:45,660
+où je le souhaite.
+
+84
+00:04:45,660 --> 00:04:49,019
+J'aimerais voir la dépense
+réelle avant le budget.
+
+85
+00:04:49,019 --> 00:04:52,019
+Alors je peux glisser
+la colonne avant
+
+86
+00:04:52,019 --> 00:04:54,959
+Budget, et c'est tout.
+
+87
+00:04:54,959 --> 00:04:58,889
+Essayez de déplacer un projet que
+vous suivez actuellement sur
+
+88
+00:04:58,889 --> 00:05:00,600
+papier dans une liste.
+
+89
+00:05:00,600 --> 00:05:04,000
+Cela peut vous aider à
+booster votre projet.
+
+90
+00:05:04,000 --> 00:05:06,399
+Pensez à une échéance
+de projets à venir,
+
+91
+00:05:06,399 --> 00:05:09,220
+et essayez de la créer dans
+Microsoft Lists.
+
+92
+00:05:09,220 --> 00:05:11,529
+Vous êtes sur la bonne voie
+pour rester organisé.
+

@@ -1,0 +1,416 @@
+1
+00:00:01,015 --> 00:00:04,558
+Il y a beaucoup de choses positives
+que nous pouvons faire en ligne.
+
+2
+00:00:04,558 --> 00:00:07,444
+Nous pouvons parler à nos amis
+et à notre famille.
+
+3
+00:00:07,444 --> 00:00:10,201
+Nous pouvons faire des achats
+et faire des affaires
+
+4
+00:00:10,201 --> 00:00:13,808
+tout en restant derrière
+son ordinateur ou son smartphone.
+
+5
+00:00:13,808 --> 00:00:17,418
+Malheureusement, les échanges en ligne
+ne sont pas toujours sûrs.
+
+6
+00:00:17,418 --> 00:00:20,391
+Il y a toujours des risques inhérents
+à être connecté.
+
+7
+00:00:20,391 --> 00:00:25,210
+Il est donc important d'être conscients
+des escroqueries rencontrées.
+
+8
+00:00:25,210 --> 00:00:31,711
+Une des escroqueries est le phishing,
+que l'on appelle également le hameçonnage.
+
+9
+00:00:31,711 --> 00:00:34,668
+Vos renseignements personnels
+sont un atout précieux
+
+10
+00:00:34,668 --> 00:00:39,131
+pour les personnes qui veulent
+les voler afin de les vendre à d'autres
+
+11
+00:00:39,131 --> 00:00:42,201
+et à ceux qui veulent
+vous usurper votre identité en ligne
+
+12
+00:00:42,201 --> 00:00:45,296
+afin d'accéder à vos différents comptes.
+
+13
+00:00:45,296 --> 00:00:47,768
+Par comparaison à la méthode
+pour attraper des poissons
+
+14
+00:00:47,768 --> 00:00:49,868
+en mettant des appâts sur un hameçon,
+
+15
+00:00:49,868 --> 00:00:53,735
+les pêcheurs entre guillemets
+ont de nombreux types d'appâts
+
+16
+00:00:53,735 --> 00:00:56,234
+qu'ils utilisent pour essayer
+de tromper les gens
+
+17
+00:00:56,234 --> 00:00:58,434
+en les incitant à partager
+des informations
+
+18
+00:00:58,434 --> 00:01:01,489
+comme leurs mots de passe,
+informations de cartes de crédit
+
+19
+00:01:01,489 --> 00:01:03,405
+et d'autres données privées.
+
+20
+00:01:03,405 --> 00:01:05,420
+Ils peuvent vous envoyer un e-mail,
+
+21
+00:01:05,420 --> 00:01:08,464
+un message instantané via
+un site de réseaux sociaux
+
+22
+00:01:08,464 --> 00:01:10,853
+ou à travers un jeu en ligne.
+
+23
+00:01:10,853 --> 00:01:13,360
+Ils peuvent prétendre
+être quelqu'un d'autre
+
+24
+00:01:13,360 --> 00:01:17,110
+ou vous faire croire qu'ils sont
+un employé d'un site que vous utilisez
+
+25
+00:01:17,110 --> 00:01:20,543
+comme une banque
+ou un fournisseur de services Internet.
+
+26
+00:01:20,543 --> 00:01:22,868
+Ils peuvent vous demander
+de cliquer sur des liens
+
+27
+00:01:22,868 --> 00:01:26,715
+pour terminer quelque chose sous
+le couvert de protéger vos informations.
+
+28
+00:01:26,715 --> 00:01:31,153
+Si vous cliquez sur leur lien
+ou si vous leur donnez des informations,
+
+29
+00:01:31,153 --> 00:01:34,371
+ils vous ont accroché, comme un poisson.
+
+30
+00:01:34,371 --> 00:01:37,834
+Jetons un coup d'œil à quatre
+pratiques que vous pouvez suivre
+
+31
+00:01:37,834 --> 00:01:41,102
+pour éviter d'être accroché
+par ces escrocs.
+
+32
+00:01:41,102 --> 00:01:45,534
+Tout d'abord, soyez prudents
+et prenez garde aux messages suspects.
+
+33
+00:01:45,534 --> 00:01:49,901
+Les escrocs essaient de rendre
+leurs messages officiels et familiers
+
+34
+00:01:49,901 --> 00:01:51,449
+pour gagner votre confiance,
+
+35
+00:01:51,449 --> 00:01:54,601
+demandant souvent de vous confirmer
+des informations personnelles
+
+36
+00:01:54,601 --> 00:01:55,841
+ou des mots de passe de compte.
+
+37
+00:01:55,841 --> 00:01:58,474
+Examinez attentivement les messages
+
+38
+00:01:58,474 --> 00:02:04,262
+et évitez de partager des informations
+par message ou par courriel.
+
+39
+00:02:04,262 --> 00:02:07,234
+Si vous recevez un message
+prétendant être d'une entreprise
+
+40
+00:02:07,234 --> 00:02:10,191
+avec laquelle vous avez fait vos achats,
+par exemple dans le passé,
+
+41
+00:02:10,191 --> 00:02:13,832
+pour vous demander de répondre par
+un mot de passe ou d'autres informations,
+
+42
+00:02:13,832 --> 00:02:15,706
+ne le faites pas.
+
+43
+00:02:15,706 --> 00:02:18,401
+Rendez-vous sur le site web
+de cette société
+
+44
+00:02:18,401 --> 00:02:22,701
+directement à partir de votre navigateur
+et connectez-vous à votre compte.
+
+45
+00:02:22,701 --> 00:02:25,543
+S'ils ont vraiment besoin
+d'information de votre part,
+
+46
+00:02:25,543 --> 00:02:29,124
+vous verrez probablement un message
+apparaître lorsque vous vous connectez.
+
+47
+00:02:29,124 --> 00:02:33,963
+Alternativement, appelez le service
+client de l'entreprise, par exemple.
+
+48
+00:02:33,963 --> 00:02:35,511
+Deuxièmement,
+
+49
+00:02:35,511 --> 00:02:39,768
+recherchez des signes indiquant
+qu'une page web est sûre et sécurisée
+
+50
+00:02:39,768 --> 00:02:44,134
+avant de fournir des informations de carte
+de crédit ou d'entrer un mot de passe
+
+51
+00:02:44,134 --> 00:02:46,275
+ou d'autres informations personnelles.
+
+52
+00:02:46,275 --> 00:02:51,088
+Jetez un coup d’œil à la barre
+d'adresse de votre navigateur
+
+53
+00:02:51,088 --> 00:02:54,674
+et vérifiez de voir
+une icône de verrouillage
+
+54
+00:02:54,674 --> 00:03:01,223
+ou que l'adresse web commence bien
+par https et pas seulement par http.
+
+55
+00:03:01,223 --> 00:03:07,530
+Le verrou https indique
+que le site est sécurisé et crypté,
+
+56
+00:03:07,530 --> 00:03:08,834
+et il est donc très peu probable
+
+57
+00:03:08,834 --> 00:03:11,721
+que vos informations
+puissent être interceptées.
+
+58
+00:03:11,721 --> 00:03:12,978
+En plus de cela,
+
+59
+00:03:12,978 --> 00:03:16,463
+assurez-vous que vous êtes
+bien sur la bonne page web.
+
+60
+00:03:16,463 --> 00:03:19,934
+Les escrocs utilisent des sites web
+avec des adresses très proches
+
+61
+00:03:19,934 --> 00:03:21,248
+des sites légitimes,
+
+62
+00:03:21,248 --> 00:03:24,924
+et conçoivent leur site pour
+ressembler à des sites légitimes.
+
+63
+00:03:24,924 --> 00:03:28,601
+Souvent, ils ont une faute d'orthographe
+ou alors ils utilisent un nom d'entreprise
+
+64
+00:03:28,601 --> 00:03:30,501
+qui utilise un domaine différent.
+
+65
+00:03:30,501 --> 00:03:35,501
+Par exemple, ils ont peut-être enregistré
+un domaine en version « .net »
+
+66
+00:03:35,501 --> 00:03:40,496
+alors que d'habitude, l'adresse de
+l'entreprise est normalement en « .com ».
+
+67
+00:03:40,496 --> 00:03:42,834
+Donc, vérifiez toujours l'adresse
+
+68
+00:03:42,834 --> 00:03:45,713
+pour vous assurer que vous êtes
+sur la bonne page.
+
+69
+00:03:45,713 --> 00:03:46,883
+Troisièmement,
+
+70
+00:03:46,883 --> 00:03:51,756
+gardez votre navigateur web
+et votre système d'exploitation à jour.
+
+71
+00:03:51,756 --> 00:03:54,268
+Vous pouvez activer
+les mises à jour automatiques
+
+72
+00:03:54,268 --> 00:03:56,634
+pour vous assurer que
+les dernières versions logicielles
+
+73
+00:03:56,634 --> 00:03:58,861
+sont automatiquement installées
+sur votre ordinateur.
+
+74
+00:03:58,861 --> 00:04:03,252
+Ce qui signifie que vous recevrez toujours
+les dernières mises à jour de sécurité
+
+75
+00:04:03,252 --> 00:04:05,893
+qui aident à protéger votre ordinateur.
+
+76
+00:04:05,893 --> 00:04:07,385
+Et quatrièmement,
+
+77
+00:04:07,385 --> 00:04:11,134
+envisagez d'installer un logiciel
+anti-malware sur votre ordinateur.
+
+78
+00:04:11,134 --> 00:04:15,715
+Il s'agit d'un logiciel spécial
+conçu pour protéger votre ordinateur
+
+79
+00:04:15,715 --> 00:04:17,934
+contre les logiciels
+malveillants et les pirates.
+
+80
+00:04:17,934 --> 00:04:21,068
+Parfois, les escrocs trompent les gens
+
+81
+00:04:21,068 --> 00:04:24,278
+en installant ce qui ressemble
+à un logiciel légitime,
+
+82
+00:04:24,278 --> 00:04:28,742
+mais il s'avère être un logiciel
+qui suit et qui vole les données.
+
+83
+00:04:28,742 --> 00:04:32,911
+Les logiciels anti-malware peuvent
+identifier ces programmes malveillants
+
+84
+00:04:32,911 --> 00:04:35,462
+et les supprimer de votre ordinateur.
+
+85
+00:04:35,462 --> 00:04:38,258
+Encore une fois, avec tous ces avantages,
+
+86
+00:04:38,258 --> 00:04:41,552
+il y a toujours
+les risques d'être en ligne.
+
+87
+00:04:41,552 --> 00:04:44,601
+Ainsi, restez toujours vigilant et prudent
+
+88
+00:04:44,601 --> 00:04:48,007
+pour vous protéger contre
+les escroqueries par hameçonnage.
+

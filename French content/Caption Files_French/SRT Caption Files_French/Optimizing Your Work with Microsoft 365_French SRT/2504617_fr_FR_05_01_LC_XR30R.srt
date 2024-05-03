@@ -1,0 +1,242 @@
+1
+00:00:00,840 --> 00:00:03,562
+Cela peut être frustrant,
+lorsque vous êtes en réunion
+
+2
+00:00:03,562 --> 00:00:07,500
+et que vous n'avez pas accès
+aux informations dont vous avez besoin.
+
+3
+00:00:07,500 --> 00:00:10,468
+Microsoft Teams
+vous permet d'appliquer des paramètres
+
+4
+00:00:10,468 --> 00:00:14,207
+afin que vous puissiez avoir
+une réunion fluide et productive
+
+5
+00:00:14,207 --> 00:00:15,638
+à chaque fois.
+
+6
+00:00:15,638 --> 00:00:17,070
+Dans cette leçon,
+
+7
+00:00:17,070 --> 00:00:19,301
+je vais vous montrer
+comment gérer les paramètres
+
+8
+00:00:19,301 --> 00:00:21,660
+et les autorisations d'une équipe.
+
+9
+00:00:21,660 --> 00:00:22,921
+Pour commencer,
+
+10
+00:00:22,921 --> 00:00:34,170
+je vais ouvrir Teams à partir
+de la page d'accueil de Microsoft 365.
+
+11
+00:00:34,170 --> 00:00:38,270
+En tant que propriétaire
+de l'équipe événements clients,
+
+12
+00:00:38,270 --> 00:00:40,230
+j'utiliserai cet exemple.
+
+13
+00:00:40,230 --> 00:00:42,750
+Pour définir les paramètres généraux,
+
+14
+00:00:42,750 --> 00:00:48,120
+sélectionnez votre photo de profil
+en haut de l'application.
+
+15
+00:00:48,120 --> 00:00:55,470
+Sélectionnez Gérer le compte,
+et la fenêtre des paramètres apparaîtra.
+
+16
+00:00:55,470 --> 00:00:58,980
+Vous pouvez modifier
+les paramètres de l'application,
+
+17
+00:00:58,980 --> 00:01:10,470
+des notifications, ou la langue.
+
+18
+00:01:10,470 --> 00:01:19,020
+Fermez la fenêtre des paramètres
+pour enregistrer les modifications.
+
+19
+00:01:19,020 --> 00:01:24,410
+Examinons ensuite les paramètres
+liés à une équipe spécifique.
+
+20
+00:01:24,410 --> 00:01:25,688
+Dans cet exemple,
+
+21
+00:01:25,688 --> 00:01:28,891
+je possède une équipe
+liée à un événement client
+
+22
+00:01:28,891 --> 00:01:32,408
+que je planifie.
+
+23
+00:01:32,408 --> 00:01:34,740
+À partir du nom de l'équipe,
+
+24
+00:01:34,740 --> 00:01:40,133
+je sélectionne les trois points
+pour Autres options,
+
+25
+00:01:40,133 --> 00:01:45,240
+puis Gérer l'équipe.
+
+26
+00:01:45,240 --> 00:01:47,400
+Dans l'onglet Paramètres,
+
+27
+00:01:47,400 --> 00:01:49,854
+Je peux sélectionner ou désélectionner
+
+28
+00:01:49,854 --> 00:01:58,290
+les options ou autorisations
+que je souhaite utiliser.
+
+29
+00:01:58,290 --> 00:02:00,768
+Pour modifier le nom, la description
+
+30
+00:02:00,768 --> 00:02:03,571
+ou les paramètres
+de confidentialité de l'équipe,
+
+31
+00:02:03,571 --> 00:02:06,120
+je vais accéder au nom de l'équipe
+
+32
+00:02:06,120 --> 00:02:12,420
+et sélectionner les trois points
+pour plus d'options,
+
+33
+00:02:12,420 --> 00:02:15,540
+puis sélectionner Modifier l'équipe.
+
+34
+00:02:15,540 --> 00:02:24,510
+J'ajouterai une description
+à cette équipe.
+
+35
+00:02:24,510 --> 00:02:29,250
+Lorsque j'aurai terminé,
+je sélectionnerez le bouton Terminé.
+
+36
+00:02:29,250 --> 00:02:31,571
+Si vous n'êtes pas propriétaire
+d'une équipe,
+
+37
+00:02:31,571 --> 00:02:35,024
+vous êtes soit un membre soit un invité.
+
+38
+00:02:35,024 --> 00:02:37,800
+Les membres
+sont les personnes de l'équipe.
+
+39
+00:02:37,800 --> 00:02:41,634
+Ils discutent avec d'autres membres
+de l'équipe dans les conversations
+
+40
+00:02:41,634 --> 00:02:46,500
+et peuvent afficher,
+télécharger et modifier des fichiers.
+
+41
+00:02:46,500 --> 00:02:50,788
+Les invités sont des personnes
+extérieures à votre organisation
+
+42
+00:02:50,788 --> 00:02:53,661
+qu'un propriétaire d'équipe aura invités,
+
+43
+00:02:53,661 --> 00:02:56,140
+tels que des partenaires
+ou des consultants
+
+44
+00:02:56,140 --> 00:02:58,830
+qui auront un accès limité.
+
+45
+00:02:58,830 --> 00:03:01,801
+Les invités ont moins
+de fonctionnalités que les membres
+
+46
+00:03:01,801 --> 00:03:03,720
+ou les propriétaires d'équipe.
+
+47
+00:03:03,720 --> 00:03:06,721
+Mais ils peuvent toujours
+participer aux conversations
+
+48
+00:03:06,721 --> 00:03:08,670
+et créer des canaux.
+
+49
+00:03:08,670 --> 00:03:10,188
+C'est aussi simple que ça.
+
+50
+00:03:10,188 --> 00:03:12,701
+Revérifiez vos paramètres Teams
+cette semaine
+
+51
+00:03:12,701 --> 00:03:16,148
+pour vous assurer que toutes les personnes
+avec lesquelles vous travaillez
+
+52
+00:03:16,148 --> 00:03:17,648
+disposent du bon accès.
+
+53
+00:03:17,648 --> 00:03:20,470
+C'est peut-être le bon moment
+pour changer votre photo de profil.
+

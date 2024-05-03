@@ -1,0 +1,236 @@
+1
+00:00:01,023 --> 00:00:04,015
+Lorsque vous accédez
+à votre environnement OneDrive,
+
+2
+00:00:04,015 --> 00:00:08,526
+eh bien, vous voyez que l'interface
+dispose de différentes zones.
+
+3
+00:00:08,526 --> 00:00:11,443
+Sur le côté gauche,
+eh bien, vous accédez à un menu
+
+4
+00:00:11,443 --> 00:00:14,733
+vous permettant d'accéder à vos fichiers
+que vous avez récemment modifiés
+
+5
+00:00:14,733 --> 00:00:17,848
+ou auxquels vous avez récemment
+apporté des modifications,
+
+6
+00:00:17,848 --> 00:00:19,467
+également vos photos,
+
+7
+00:00:19,467 --> 00:00:24,500
+photos que vous pouvez faire apparaître
+sous différentes formes.
+
+8
+00:00:24,500 --> 00:00:27,220
+Et puis, en cliquant sur ce symbole
+avec les petits traits,
+
+9
+00:00:27,220 --> 00:00:30,315
+vous faites réapparaître 
+cette zone de navigation
+
+10
+00:00:30,315 --> 00:00:33,637
+pour voir par exemple,
+les fichiers qui sont partagés ou accédés
+
+11
+00:00:33,637 --> 00:00:37,084
+à la corbeille, c'est-à-dire les fichiers
+que vous auriez supprimés.
+
+12
+00:00:37,084 --> 00:00:39,033
+Revenons aux fichiers.
+
+13
+00:00:39,033 --> 00:00:41,523
+Sur la partie haute au-dessus
+de la liste de vos fichiers,
+
+14
+00:00:41,523 --> 00:00:43,323
+eh bien, vous retrouvez 
+une barre d'outils,
+
+15
+00:00:43,323 --> 00:00:47,138
+cette barre avec des liens
+vous permettant pour l'instant, de créer
+
+16
+00:00:47,138 --> 00:00:49,467
+un nouveau document ou un nouveau dossier.
+
+17
+00:00:49,467 --> 00:00:52,360
+Ou de télécharger fichier ou dossier.
+
+18
+00:00:52,360 --> 00:00:56,408
+Cette bande ici s'adapte au contexte.
+
+19
+00:00:56,408 --> 00:00:59,642
+Également à droite,
+vous pouvez changer l'ordre de tri.
+
+20
+00:00:59,642 --> 00:01:02,426
+Par défaut, c'est trié par nom
+et par ordre croissant.
+
+21
+00:01:02,426 --> 00:01:05,160
+Mais vous pouvez très bien décider
+de trier votre liste
+
+22
+00:01:05,160 --> 00:01:07,652
+par date de modification par exemple
+
+23
+00:01:07,652 --> 00:01:09,552
+ou par taille.
+
+24
+00:01:09,552 --> 00:01:12,160
+Revenons au tri par nom.
+
+25
+00:01:12,160 --> 00:01:18,332
+Également à droite, vous avez un bouton
+vous permettant de voir la liste compactée
+
+26
+00:01:18,332 --> 00:01:21,941
+ou alors, de voir les éléments
+sous forme de vignette,
+
+27
+00:01:21,941 --> 00:01:25,665
+ou voir les éléments sous forme de photo.
+
+28
+00:01:25,665 --> 00:01:29,566
+Bref, vous avez différents modes
+vous permettant d'accéder
+
+29
+00:01:29,566 --> 00:01:31,545
+à votre contenu.
+
+30
+00:01:31,545 --> 00:01:35,366
+Et puis, lorsque vous avez ici
+différents éléments,
+
+31
+00:01:35,366 --> 00:01:39,193
+il vous suffit de cliquer alors
+pour sélectionner un élément
+
+32
+00:01:39,193 --> 00:01:43,076
+et voir les possibilités que vous avez
+avec ce document.
+
+33
+00:01:43,076 --> 00:01:44,854
+Comme par exemple l'ouvrir,
+
+34
+00:01:44,854 --> 00:01:48,037
+le partager, le télécharger
+sur cet ordinateur,
+
+35
+00:01:48,037 --> 00:01:50,768
+le supprimer, le déplacer, le copier,
+
+36
+00:01:50,768 --> 00:01:52,582
+trois petits points, etc.
+
+37
+00:01:52,582 --> 00:01:55,222
+Bref, vous avez 
+de nombreuses actions disponibles
+
+38
+00:01:55,222 --> 00:01:59,083
+suivant le type de document
+et suivant l'élément sur lequel
+
+39
+00:01:59,083 --> 00:02:01,259
+vous avez fait une sélection.
+
+40
+00:02:01,259 --> 00:02:03,679
+Et puis à droite, vous avez
+le « I » d'information,
+
+41
+00:02:03,679 --> 00:02:06,807
+vous permettant alors
+de voir des informations,
+
+42
+00:02:06,807 --> 00:02:08,810
+peut-être une description,
+
+43
+00:02:08,810 --> 00:02:12,110
+peut-être même ici
+un aperçu du document,
+
+44
+00:02:12,110 --> 00:02:14,214
+de voir qui a accès à ce document
+
+45
+00:02:14,214 --> 00:02:18,214
+et de retrouver toute l'activité 
+qu'il y a eu sur ce document
+
+46
+00:02:18,214 --> 00:02:20,642
+si bien sûr, il y en a eu.
+
+47
+00:02:20,642 --> 00:02:22,995
+Tout en bas, les différents détails :
+
+48
+00:02:22,995 --> 00:02:27,645
+le type, la dernière modification, 
+qui l'a ajoutée, sa date de création, etc.
+
+49
+00:02:27,645 --> 00:02:29,927
+concernant ce document.
+
+50
+00:02:29,927 --> 00:02:34,282
+Il suffit de recliquer sur le petit « I »
+pour fermer le volet d'information
+
+51
+00:02:34,282 --> 00:02:36,162
+et vous retrouver 
+sur la liste de vos fichiers.
+

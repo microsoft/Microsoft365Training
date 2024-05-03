@@ -1,0 +1,242 @@
+﻿WEBVTT
+
+00:00:01.159 --> 00:00:03.799
+Les grands projets sont
+réalisables lorsque vous les avez
+
+00:00:03.799 --> 00:00:07.820
+décomposés en tâches plus petites
+et que vous avez ajouté des
+
+00:00:07.820 --> 00:00:11.990
+dépendances pour voir ce qui
+doit être fait en premier.
+
+00:00:11.990 --> 00:00:15.140
+Dans cette leçon,
+j'utiliserai un exemple de projet
+
+00:00:15.140 --> 00:00:19.309
+de mariage client pour montrer
+comment ajouter des sous-tâches et
+
+00:00:19.309 --> 00:00:22.969
+des dépendances dans Microsoft
+Project afin que vous puissiez
+
+00:00:22.969 --> 00:00:26.710
+rester au courant de
+tous les détails.
+
+00:00:26.710 --> 00:00:30.309
+Depuis Office.com, sélectionnez le lanceur d'application dans le
+
+00:00:30.309 --> 00:00:36.490
+coin supérieur gauche
+et ouvrez Project.
+
+00:00:36.490 --> 00:00:40.689
+Notez que l'utilisation de Project
+pour le web nécessite un
+
+00:00:40.689 --> 00:00:43.820
+abonnement actif à Microsoft
+Project.
+
+00:00:43.820 --> 00:00:49.740
+Je veux ouvrir le projet Mariage client.
+
+00:00:49.740 --> 00:00:53.070
+Je suis en mode Grille par défaut.
+
+00:00:53.070 --> 00:00:56.219
+À partir de là,
+je peux commencer à décomposer
+
+00:00:56.219 --> 00:00:59.909
+certaines de ces tâches en
+sous-tâches plus petites.
+
+00:00:59.909 --> 00:01:03.450
+Par exemple, j'ai comme tâche Identifier un traiteur,
+
+00:01:03.450 --> 00:01:07.340
+mais je sais qu'il y a des sous-tâches associées à cet élément.
+
+00:01:07.340 --> 00:01:09.709
+Je vais ajouter des sous-tâches.
+
+00:01:09.709 --> 00:01:13.219
+Tout d'abord, je vais ajouter Déterminer les allergies en tant
+
+00:01:13.219 --> 00:01:30.200
+que tâche en sélectionnant en bas Ajoutez une nouvelle tâche.
+
+00:01:30.200 --> 00:01:34.069
+Placez votre curseur à gauche du
+numéro de la tâche nouvellement
+
+00:01:34.069 --> 00:01:36.799
+créée,
+puis faites glisser cette tâche sous
+
+00:01:36.799 --> 00:01:43.560
+la tâche Identifier un traiteur.
+
+00:01:43.560 --> 00:01:47.159
+Maintenant, pour faire de Déterminer
+les allergies
+
+00:01:47.159 --> 00:01:48.510
+une sous-tâche,
+
+00:01:48.510 --> 00:01:52.409
+je vais sélectionner Plus
+d'options et choisir Définir
+
+00:01:52.409 --> 00:01:57.269
+comme tâche subordonnée.
+
+00:01:57.269 --> 00:02:01.620
+Je vais ajouter une autre sous-tâche, Finaliser les budgets, et
+
+00:02:01.620 --> 00:02:03.540
+la faire glisser en dessous
+
+00:02:03.540 --> 00:02:21.860
+de Déterminer les allergies.
+
+00:02:21.860 --> 00:02:24.960
+Je vais confier ces
+tâches à Lynne,
+
+00:02:24.960 --> 00:02:27.150
+sélectionner la colonne Attribuée à
+
+00:02:27.150 --> 00:02:30.379
+pour déterminer les allergies,
+
+00:02:30.379 --> 00:02:35.069
+entrer Lynne,
+
+00:02:35.069 --> 00:02:36.479
+et, dans la colonne de durée,
+
+00:02:36.479 --> 00:02:41.930
+entrer 5 jours.
+
+00:02:41.930 --> 00:02:44.780
+Je vais répéter ces étapes
+pour la tâche
+
+00:02:44.780 --> 00:02:47.419
+Finaliser les budgets,
+mais cette fois,
+
+00:02:47.419 --> 00:02:57.349
+je vais saisir plutôt 2 jours.
+
+00:02:57.349 --> 00:03:00.289
+Notez que la durée de la tâche Identifier un traiteur est
+
+00:03:00.289 --> 00:03:03.620
+désormais automatiquement
+définie sur 5 jours,
+
+00:03:03.620 --> 00:03:06.169
+puisque la plus grande durée des
+deux sous-tâches est
+
+00:03:06.169 --> 00:03:08.449
+de cinq jours.
+
+00:03:08.449 --> 00:03:10.939
+Ces tâches dépendent les
+unes des autres,
+
+00:03:10.939 --> 00:03:14.150
+ce qui signifie que l'une des
+tâches doit être terminée avant
+
+00:03:14.150 --> 00:03:17.949
+que la tâche suivante
+puisse être lancée.
+
+00:03:17.949 --> 00:03:22.180
+Dans ce cas, la détermination des
+allergies doit avoir lieu avant
+
+00:03:22.180 --> 00:03:25.180
+que le budget puisse
+être finalisé.
+
+00:03:25.180 --> 00:03:27.099
+Pour créer des dépendances,
+
+00:03:27.099 --> 00:03:30.340
+je sélectionne Ouvrir les détails
+dans la sous-tâche
+
+00:03:30.340 --> 00:03:35.819
+Finaliser le budget.
+
+00:03:35.819 --> 00:03:38.430
+Dans la section Dépend de,
+
+00:03:38.430 --> 00:03:40.949
+je vais sélectionner Ajouter
+une dépendance,
+
+00:03:40.949 --> 00:03:48.009
+puis choisir Déterminer
+les allergies.
+
+00:03:48.009 --> 00:03:51.879
+Fermez le panneau des tâches
+en sélectionnant
+
+00:03:51.879 --> 00:03:54.819
+la croix en haut à droite.
+
+00:03:54.819 --> 00:03:59.560
+Notez que la durée de Identifier un traiteur est maintenant passée
+
+00:03:59.560 --> 00:04:00.729
+à 7 jours,
+
+00:04:00.729 --> 00:04:03.969
+car Finaliser le budget ne peut
+pas démarrer tant que la tâche
+
+00:04:03.969 --> 00:04:07.189
+Déterminer les allergies
+n'est pas terminée.
+
+00:04:07.189 --> 00:04:09.770
+Vous disposez maintenant de deux
+outils supplémentaires pour
+
+00:04:09.770 --> 00:04:11.780
+gérer vos projets :
+
+00:04:11.780 --> 00:04:15.349
+utiliser les sous-tâches lorsque
+vous devez décomposer des éléments
+
+00:04:15.349 --> 00:04:19.610
+de travail plus volumineux
+en tâches plus petites,
+
+00:04:19.610 --> 00:04:23.120
+et des dépendances pour identifier
+les tâches qui ne peuvent pas
+
+00:04:23.120 --> 00:04:27.790
+démarrer avant qu'une autre soit terminée.
+
+00:04:27.790 --> 00:04:31.060
+Essayez les sous-tâches et les
+dépendances pour vous aider à
+
+00:04:31.060 --> 00:04:32.860
+organiser votre prochain projet.

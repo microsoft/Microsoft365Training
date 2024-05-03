@@ -1,0 +1,57 @@
+Les données sont partout dans le monde numérique.
+Avec autant d'informations sur vos écrans et dans votre vie,
+il peut être difficile de tout suivre.
+Ce qui est génial avec Excel,
+c'est qu'une fois que vous avez vos données dans un tableau,
+il est beaucoup plus facile d'organiser et de localiser ce que vous recherchez.
+Dans cette leçon,
+je vais vous montrer comment trier vos données dans un tableau
+pour trouver les informations dont vous avez besoin.
+Pour commencer, téléchargez et ouvrez l'exemple de fichier d'exercices
+budget numéro deux.
+
+Maintenant que le classeur est ouvert,
+vous pouvez voir que les dépenses et les montants sont déjà formatés
+sous forme de tableau.
+Mai, ils ne sont pas dans un ordre particulier.
+Je veux voir mes dépenses les plus chères.
+Je vais donc devoir utiliser le tri et le filtre.
+Le tri vous permet d'organiser les données dans un ordre spécifique.
+Pour trier mes données, je vais dans l'en-tête de mon tableau
+et je sélectionne le bouton de tri et de filtre
+sur la colonne que je veux trier.
+
+Dans le menu qui apparaît,
+je peux choisir parmi une variété de façons de trier les données.
+Parce que je veux voir mes articles les plus chers,
+je sélectionne Trier du plus grand au plus petit.
+Maintenant, les dépenses sont triées
+de la dépense la plus élevée à la dépense la plus faible.
+Le tri de cette manière peut être utile pour hiérarchiser les dépenses
+qui ont le plus d'impact sur un budget mensuel.
+
+En plus de trier les dépenses par coût, vous pouvez également les trier par nom.
+Pour trier par nom,
+revenez en haut de la colonne de l'élément,
+sélectionnez le bouton Filtrer et trier
+et choisissez de trier de A à Z.
+Désormais, au lieu que la liste soit classée du plus cher au moins cher,
+les postes budgétaires sont triés par ordre alphabétique.
+Ceci est très utile si vous avez une longue liste d'éléments
+et souhaitez en trouver un par son nom.
+
+Vous pouvez également filtrer les données dans un tableau.
+Le filtrage vous permet de voir plus facilement
+les données que vous recherchez
+en limitant temporairement ce qui est visible.
+Par exemple, je peux filtrer mon tableau
+pour n'afficher que les dépenses de 200 euros.
+Sélectionnez simplement le filtre et le bouton de tri
+et cochez 200 euros sous filtre.
+Cela montrera seulement les dépenses qui sont de 200 euros.
+
+Je peux sélectionner tout dans le filtre
+pour sélectionner à nouveau toutes mes dépenses.
+Maintenant que vous savez comment trier et filtrer les données dans Excel,
+vous pouvez organiser n'importe quel type de tableau
+d'une manière qui vous convient.

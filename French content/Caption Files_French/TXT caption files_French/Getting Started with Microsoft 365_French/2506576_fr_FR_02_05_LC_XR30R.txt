@@ -1,0 +1,54 @@
+Gérer plusieurs listes de tableaux dans des fichiers différents
+peut être compliqué.
+Alors qu'avec le classeur de calcul Excel,
+vous pouvez garder votre travail organisé et facile d'accès
+en ajoutant plusieurs feuilles  dans un classeur.
+Dans cette leçon, je vais vous montrer
+comment gérer vos feuilles de calcul plus efficacement
+afin que vous puissiez garder  votre espace de travail numérique
+sans encombrement.
+J'ai créé un graphique  pour que vous puissiez voir
+une représentation visuelle de ce à quoi pourrait ressembler
+les dépenses mensuelles.
+
+Actuellement, j'ai un graphique à secteurs de mes dépenses
+dans l'une des feuilles de mon classeur intitulé Mon bugdet 4.
+La feuille dans laquelle  il se trouve en ce moment
+est étiquetée Dépenses.
+Et le graphique se trouve  à côté du tableau des valeurs.
+Mais je veux que le graphique soit dans sa propre feuille.
+Pour ce faire, je vais ajouter  une nouvelle feuille
+en sélectionnant le bouton + en bas du classeur.
+
+Une nouvelle feuille vierge est créée, vous pouvez lui donner un nom ;
+je nomme cette feuille « Camembert ».
+Afin de déplacer le graphique à secteurs vers cette nouvelle feuille,
+je vais sélectionner le graphique depuis l'ancienne feuille
+et le couper  avec le raccourci clavier Ctrl + X
+ou Cmd + X pour Mac.
+Ensuite, je sélectionne la nouvelle feuille Camembert
+et je me positionne sur la cellule là où je veux mettre le graphique.
+
+Je sélectionne la cellule B2,
+puis je colle le graphique en utilisant au clavier la combinaison Ctrl + V
+ou Cmd + V pour Mac.
+Je peux maintenant voir mon graphique dans la feuille de calcul Camembert
+et le tableau des dépenses existe toujours dans la feuille de calcul des dépenses.
+Si je voulais continuer à développer ce classeur,
+je pourrais facilement ajouter une autre feuille de calcul
+et l'utiliser pour une liste d'invités, des tâches ou tout autre besoin
+qui s'intègre dans le projet global.
+
+Pour conserver  plusieurs feuilles de calcul
+organisées dans le même classeur,
+je peux modifier l'ordre de mes feuilles
+en faisant simplement glisser les onglets.
+Maintenant que vous savez créer  un classeur et y inclure des feuilles,
+il sera beaucoup plus facile  de rassembler, d'organiser
+et de référencer toutes ces données.
+Que vous créez un nouveau budget
+ou que vous ayez besoin de suivre vos recherches d'emploi,
+je vous encourage à tirer le meilleur parti de vos classeurs
+en créant des feuilles  de calcul individuelles
+pour chaque élément de votre projet.
+

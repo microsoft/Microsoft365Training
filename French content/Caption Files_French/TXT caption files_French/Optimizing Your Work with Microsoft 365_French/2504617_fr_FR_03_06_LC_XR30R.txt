@@ -1,0 +1,67 @@
+Faire une présentation PowerPoint est une expérience passionnante.
+Vous avez consacré du temps à la création de la présentation
+et il est maintenant temps de la partager avec d'autres.
+Grâce aux notes de conférencier dans PowerPoint,
+vous pouvez avoir accès aux principaux points de discussion
+et aux informations importantes pendant votre présentation ;
+pas besoin de les mémoriser.
+Dans cette leçon,
+je vais vous montrer comment ajouter et utiliser les notes de présentation
+et partager votre présentation avec d'autres.
+
+Tout d'abord, je vais ouvrir une présentation PowerPoint.
+Vous pouvez suivre en téléchargeant l'exemple de présentation
+dans vos fichiers d'exercices.
+Le fichier s'appelle Exemple d'événement client (A).
+Pour créer des notes de présentation,
+je vais accéder au ruban supérieur et sélectionner l'onglet Affichage.
+Ensuite, je vais sélectionner Notes dans le ruban qui vient d'apparaître.
+
+Le panneau Notes apparaît dans la partie inférieure de la fenêtre PowerPoint
+avec un curseur clignotant prêt à recevoir ce que je vais y entrer.
+Je vais saisir mes notes de conférence.
+Si je n'ai pas besoin que les notes soient visibles,
+je peux sélectionner à nouveau l'onglet Notes,
+et le panneau des notes disparaîtra.
+Si je présente dans PowerPoint online,
+je ne pourrais voir les notes qu'à partir du panneau de notes.
+
+Vous pouvez les rendre visibles lors de l'édition et de l'impression,
+mais pas lors de la présentation.
+La version imprimée des notes est une bonne ressource à avoir
+pour vous-même lors de la présentation,
+ou si vous avez besoin de partager la présentation avec les notes.
+Pour imprimer vos diapositives avec les notes,
+accédez au ruban supérieur et sélectionnez Fichier.
+Sélectionnez ensuite Imprimer,
+puis Imprimer les pages de notes.
+
+Lors de l'impression de vos notes, chaque diapositive aura sa propre page
+avec les notes placées sur les diapositives.
+Vous pouvez également imprimer la présentation sous forme de document.
+Pour imprimer des documents,
+je vais dans le ruban supérieur et sélectionner Fichier à nouveau,
+puis Imprimer et Imprimer les documents.
+
+Cette fois, la page imprimée comportera trois diapositives par page par défaut,
+et des lignes pour la prise de note personnelle
+à droite de chaque diapositive.
+Pour partager la présentation,
+je vais accéder au ruban supérieur et sélectionner Fichier.
+Et cette fois, je vais sélectionner Partager,
+et enfin, Partager avec d'autres utilisateurs.
+À partir de là, je peux entrer les noms et les adresses e-mails des personnes
+avec lesquelles je souhaite partager.
+
+Pour modifier les autorisations,
+sélectionnez le menu déroulant à côté de l'icône en forme de crayon.
+Je vais inclure un message pour décrire la présentation.
+Et sélectionnez Envoyer.
+Sinon, je peux aussi sélectionner Copier le lien.
+
+Ceci créera un lien que je peux copier dans un e-mail
+pour partager ma présentation.
+Avoir vos notes et savoir comment partager votre présentation,
+vous prépare à une livraison fluide de vos présentations.
+Essayez de partager vos diapositives et vos notes
+la prochaine fois que vous aurez une présentation à effectuer.

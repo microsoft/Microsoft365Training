@@ -1,0 +1,76 @@
+Les systèmes d'exploitation modernes sont conçus pour tous.
+Par exemple, il existe un large éventail d'outils
+et de fonctionnalités d'accessibilité intégré à Windows 10.
+Ceci facilite l'utilisation de votre ordinateur
+si vous avez certains handicaps ou difficultés.
+Ces fonctionnalités doivent souvent être activées
+afin de pouvoir en profiter.
+Pour accéder aux activation de ces fonctionnalités,
+direction le menu Démarrer, puis Paramètres de Windows.
+
+Et dans les paramètres de Windows,
+je vous invite à aller dans Options d'ergonomie.
+Sur le côté gauche, différentes options d'ergonomie
+comme la vision, l'audition, l'interaction.
+Dans la vision, vous retrouvez l'affichage.
+Vous pouvez choisir d'agrandir le texte, le texte à l'intérieur des applications,
+comme ici, tout le texte à l'intérieur de cette application.
+Il vous suffit de sélectionner le coefficient que vous désirez,
+puis de cliquer sur Appliquer.
+
+Également, vous pouvez tout agrandir,
+à la fois le texte qui se trouve à l'intérieur des fenêtres,
+comme les menus et tous les éléments qui sont à l'intérieur des applications.
+Vous pouvez également descendre et rendre les informations plus claires.
+Vous pouvez donc modifier la luminosité de votre affichage,
+et pourquoi pas même passer à la luminosité automatique
+basée sur l'éclairage nocturne.
+Simplifiez et personnalisez Windows, par exemple,
+en définissant de ne pas activer les animations ou la transparence
+ou différents effets.
+
+Quelque chose d'important concerne les notifications.
+Par défaut,
+les notifications apparaissent sur le côté en bas à droite de votre Windows
+pendant 5 secondes.
+Mais si vous voulez que les notifications apparaissent plus longtemps,
+eh bien, sélectionnez tout simplement ici le temps que vous préférez
+entre cinq secondes et cinq minutes.
+Vous avez également le pointeur de souris.
+Vous pouvez modifier la taille de ce pointeur
+et avoir ainsi un curseur de souris bien plus gros que la normale.
+Modifiez la couleur également du pointeur, pourquoi pas,
+activez un pointeur avec différentes couleurs
+afin de mieux le percevoir dans l'écran.
+
+Vous pouvez également modifier la rétroaction.
+C'est-à-dire si vous voulez avoir
+de la rétroactivité visuelle sur certains points
+quand vous touchez l'écran.
+Vous pouvez changer également le curseur, sa taille,
+avoir une couleur également associée à ce curseur,
+et vous pouvez même modifier l'apparence du curseur
+en changeant la taille, par exemple,
+l'épaisseur et la hauteur du curseur dans du texte.
+Vous pouvez activer la loupe.
+
+La loupe s'active par la combinaison des touches Windows + Plus.
+Et là, vous avez un zoom à 200 %.
+Et si vous faites Windows + Échap, vous revenez à 100 %.
+Vous pouvez donc modifier cet effet de zoom
+et passer, par exemple, à 400 % quand vous faites Windows + Plus.
+À chaque fois que vous faites Windows + Plus,
+vous augmentez d'un pourcentage.
+Windows + Plus, 200 %, Windows + Plus, encore 200 %,
+Windows + Échap, je reviens à mes 100 %.
+
+Je vous laisserai regarder,
+vous avez les filtres de couleurs, des contrastes,
+mais vous pouvez également redescendre sur le côté interaction
+et pourquoi pas,
+utiliser le clavier visuel et utiliser votre écran tactile,
+ou alors utiliser votre souris afin de taper des informations
+plutôt que de le faire sur un clavier mécanique.
+Bref, vous avez ici différents éléments
+vous permettant d'adapter Windows à votre handicap ou à votre difficulté.
+

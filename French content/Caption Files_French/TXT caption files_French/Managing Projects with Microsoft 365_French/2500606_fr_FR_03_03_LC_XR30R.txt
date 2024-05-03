@@ -1,0 +1,71 @@
+En tant que chef de projet, vous utiliserez probablement l'un
+des deux processus de gestion de projet les plus courants,
+Cascade ou Agile.
+Dans cette leçon, Je vais vous montrer comment
+utiliser Microsoft Project pour créer rapidement une structure
+pour vos projets.
+Premièrement, Cascade est un processus de gestion de projet
+couramment utilisé.
+Dans les projets en cascade, chaque phase dépend de
+l'achèvement de la phase précédente.
+
+Ainsi, une fois cartographié, cela ressemble à une chute d'eau.
+Agile est un autre processus de gestion de projet couramment
+utilisé.
+Dans la méthodologie Agile, un projet est divisé en segments
+appelés sprints, qui sont de petits cycles pour accomplir les tâches
+prioritaires à partir d'un backlog de travail.
+Le backlog est la liste complète de toutes les tâches qui doivent
+être accomplies pour la réussite du projet.
+À partir d'Office.com,
+sélectionnez le lanceur d'applications dans le coin
+supérieur gauche
+et ouvrez Project.
+
+Notez que l'utilisation de Project pour le web nécessite un
+abonnement actif à Microsoft Project. Pour mettre en place la
+structure d'un projet Agile,
+je vais créer un nouveau projet en sélectionnant Nouveau
+projet vide.
+Je vais sélectionner le nom du projet et le renommer
+en Garde robe.
+
+Je vais définir la date de début sur le premier jour
+du mois prochain,
+puis fermer le panneau en utilisant le x en haut à droite, et
+ensuite, sélectionner la vue Tableau en haut.
+Je vais sélectionner Compartiment 1 pour le renommer Backlog.
+Puis je vais sélectionner Ajouter un compartiment et saisir
+Semaine 1 et Semaine 2 comme noms pour les prochains
+compartiments.
+
+Maintenant, je peux entrer quelques éléments dans
+mon backlog.
+Je sélectionne Ajouter une tâche, sous le backlog. Entrez
+Choisir la palette des couleurs
+et sélectionnez Ajouter une tâche.
+
+Vous pouvez maintenant continuer jusqu'à ce que toutes les
+tâches soient ajoutées,
+comme par exemple Choisir le fournisseur de la garde-robe
+du mariage, Commander une armoire
+pour le mariage, Signer le contrat de location,
+Trouver des tailleurs potentiels, Planifier le nettoyage à sec,
+Déterminer les pochettes de costumes
+et Louer un défroisseur à vapeur.
+
+Maintenant, faites glisser les tâches les plus prioritaires vers
+le compartiment Semaine 1.
+Ce sera notre premier sprint.
+Tout dépend du choix de la palette de couleurs, qui sera
+donc la première tâche.
+Ensuite, je glisserai quelques tâches supplémentaires qui
+appartiennent à la semaine
+1.
+
+Microsoft Project peut être utilisé comme cadre pour de
+nombreux processus de gestion de projet.
+Au fur et à mesure que vous aurez à gérer de plus en
+plus de projets,
+vous découvrirez rapidement quel processus convient le mieux
+à votre flux de travail.

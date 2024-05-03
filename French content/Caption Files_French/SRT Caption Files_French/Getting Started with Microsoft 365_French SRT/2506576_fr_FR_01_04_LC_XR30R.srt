@@ -1,0 +1,249 @@
+1
+00:00:00,980 --> 00:00:03,137
+Il y a un grand sentiment 
+d'accomplissement
+
+2
+00:00:03,137 --> 00:00:05,192
+lorsque vous terminez un projet
+
+3
+00:00:05,192 --> 00:00:08,227
+et que vous êtes prêt
+à la partager avec le monde.
+
+4
+00:00:08,227 --> 00:00:12,068
+Pour vous assurer que vous partagez
+la meilleure version de votre travail
+
+5
+00:00:12,068 --> 00:00:14,678
+avec quiconque a besoin de le voir,
+
+6
+00:00:14,678 --> 00:00:17,996
+vous devez transformer ce document en PDF
+
+7
+00:00:17,996 --> 00:00:22,574
+et Microsoft Word rend cela
+incroyablement facile à faire.
+
+8
+00:00:22,574 --> 00:00:25,716
+Alors, qu'est-ce qu'un PDF exactement ?
+
+9
+00:00:25,716 --> 00:00:29,872
+Un format de document portable 
+ou PDF en abrégé,
+
+10
+00:00:29,872 --> 00:00:32,419
+est un format de fichier informatique
+
+11
+00:00:32,419 --> 00:00:35,544
+pour la transmission
+d'un document multimédia
+
+12
+00:00:35,544 --> 00:00:39,108
+qui n'est pas destiné 
+à être modifié davantage
+
+13
+00:00:39,108 --> 00:00:43,569
+et qui apparaît inchangé dans la plupart
+des environnements informatiques.
+
+14
+00:00:43,569 --> 00:00:48,097
+Considérez-le comme une version numérique
+du papier imprimé.
+
+15
+00:00:48,097 --> 00:00:50,593
+Dans cette leçon, je vais vous montrer
+
+16
+00:00:50,593 --> 00:00:53,364
+comment imprimer 
+vos documents numériquement
+
+17
+00:00:53,364 --> 00:00:57,541
+en les transformant en PDF
+afin que vous puissiez les partager
+
+18
+00:00:57,541 --> 00:01:01,268
+avec le monde exactement
+comme vous l'avez prévu.
+
+19
+00:01:01,268 --> 00:01:03,837
+Pour commencer, 
+téléchargez le fichier d'exercice
+
+20
+00:01:03,837 --> 00:01:07,005
+et ouvrez l'exemple 
+de document Word Mon CV 3.
+
+21
+00:01:07,005 --> 00:01:12,614
+Mon CV ressemble à ce que je veux,
+je suis donc prêt à le finaliser.
+
+22
+00:01:12,614 --> 00:01:17,418
+Je vais aller au ruban en haut de Word
+et sélectionner Fichier.
+
+23
+00:01:17,418 --> 00:01:21,579
+Une nouvelle fenêtre apparaît
+avec plusieurs options.
+
+24
+00:01:21,579 --> 00:01:24,439
+Je peux créer un nouveau fichier,
+
+25
+00:01:24,439 --> 00:01:27,653
+ouvrir un fichier existant,
+enregistrer, partager,
+
+26
+00:01:27,653 --> 00:01:30,614
+exporter ou imprimer.
+
+27
+00:01:30,614 --> 00:01:35,076
+Pour créer un PDF, 
+je sélectionne Enregistrer sous.
+
+28
+00:01:35,076 --> 00:01:38,031
+Une fois que j'ai sélectionné
+Enregistrer sous,
+
+29
+00:01:38,031 --> 00:01:41,299
+quelques options s'ouvrent
+dans une nouvelle fenêtre.
+
+30
+00:01:41,299 --> 00:01:43,890
+Je veux faire de mon CV un PDF.
+
+31
+00:01:43,890 --> 00:01:49,401
+Je sélectionne donc Télécharger
+en tant que fichier PDF.
+
+32
+00:01:49,401 --> 00:01:52,559
+Après avoir sélectionné
+Télécharger au format PDF,
+
+33
+00:01:52,559 --> 00:01:55,143
+je dois choisir où je veux 
+enregistrer mon document
+
+34
+00:01:55,143 --> 00:01:57,297
+et comment je veux le nommer.
+
+35
+00:01:57,297 --> 00:02:01,850
+Pour le retrouver facilement plus tard,
+je veux l'enregistrer dans le même dossier
+
+36
+00:02:01,850 --> 00:02:04,723
+où j'ai stocké mon document Word de CV.
+
+37
+00:02:04,723 --> 00:02:13,039
+Donc, je navigue vers le dossier 
+de mon OneDrive où se trouve mon CV.
+
+38
+00:02:13,039 --> 00:02:17,567
+Et maintenant, je vais changer le nom.
+
+39
+00:02:17,567 --> 00:02:20,406
+Lorsque vous partagez des fichiers
+avec d'autres personnes,
+
+40
+00:02:20,406 --> 00:02:23,539
+vous voudrez certainement 
+nommer le fichier d'une manière
+
+41
+00:02:23,539 --> 00:02:27,279
+qui communique le contenu du document
+avant son ouverture.
+
+42
+00:02:27,279 --> 00:02:31,985
+Je l'appellerai 
+« J ROBERT Assistant Administratif ».
+
+43
+00:02:31,985 --> 00:02:35,249
+Ce type de nom de fichier
+permet à quiconque de savoir
+
+44
+00:02:35,249 --> 00:02:36,790
+qu'il s'agit de mon CV
+
+45
+00:02:36,790 --> 00:02:40,809
+pour ma candidature du poste
+d'assistant administratif.
+
+46
+00:02:40,809 --> 00:02:42,350
+Donc, c'est tout,
+
+47
+00:02:42,350 --> 00:02:45,720
+j'ai enregistré mon CV au format PDF
+
+48
+00:02:45,720 --> 00:02:49,644
+et vous savez maintenant comment 
+créer une version de vos documents
+
+49
+00:02:49,644 --> 00:02:55,220
+qui préserve parfaitement votre contenu
+et votre mise en forme à chaque fois.
+
+50
+00:02:55,220 --> 00:02:58,442
+L'enregistrement de vos documents
+au format PDF est un excellent moyen
+
+51
+00:02:58,442 --> 00:03:03,133
+de vous assurer que le document
+conserve toute la mise en forme souhaitée,
+
+52
+00:03:03,133 --> 00:03:07,463
+même si différentes personnes y accèdent
+à partir de différents appareils
+
+53
+00:03:07,463 --> 00:03:09,662
+à l'aide de divers logiciels.
+

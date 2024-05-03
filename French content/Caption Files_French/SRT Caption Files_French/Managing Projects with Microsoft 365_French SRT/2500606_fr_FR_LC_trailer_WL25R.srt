@@ -1,0 +1,120 @@
+1
+00:00:01,070 --> 00:00:02,270
+Souvent, dans la vie,
+
+2
+00:00:02,270 --> 00:00:05,750
+arriver là où vous voulez aller
+commence par fixer des objectifs
+
+3
+00:00:05,750 --> 00:00:08,609
+spécifiques et réalisables.
+
+4
+00:00:08,609 --> 00:00:10,949
+Alors que certains de ces
+objectifs peuvent être atteints
+
+5
+00:00:10,949 --> 00:00:13,380
+simplement et rapidement,
+
+6
+00:00:13,380 --> 00:00:18,539
+d'autres nécessitent beaucoup plus
+de planification réfléchie,
+
+7
+00:00:18,539 --> 00:00:25,269
+d'énergie, de temps,
+de coordination et d'exécution.
+
+8
+00:00:25,269 --> 00:00:29,469
+Tout au long de votre vie et de
+votre carrière, vous entreprendrez
+
+9
+00:00:29,469 --> 00:00:32,079
+probablement de nombreux projets.
+
+10
+00:00:32,079 --> 00:00:35,869
+La gestion de ces projets n'est
+pas toujours simple.
+
+11
+00:00:35,869 --> 00:00:39,909
+Il y a souvent différentes tâches,
+ personnes impliquées
+
+12
+00:00:39,909 --> 00:00:42,399
+et étapes intermédiaires.
+
+13
+00:00:42,399 --> 00:00:45,700
+Je m'appelle Nicolas Georgeault, et
+je suis architecte de solutions
+
+14
+00:00:45,700 --> 00:00:48,329
+chez MuBrain.
+
+15
+00:00:48,329 --> 00:00:51,479
+Dans ce cours, je vais vous
+montrer comment utiliser les
+
+16
+00:00:51,479 --> 00:00:55,500
+applications Microsoft 365 pour
+augmenter vos compétences
+
+17
+00:00:55,500 --> 00:00:58,359
+en gestion de projet.
+
+18
+00:00:58,359 --> 00:01:03,039
+Microsoft 365 dispose d'outils
+extraordinaires pour vous aider à
+
+19
+00:01:03,039 --> 00:01:05,870
+gérer vos projets comme un pro.
+
+20
+00:01:05,870 --> 00:01:08,569
+Vous apprendrez à créer et
+partager des listes
+
+21
+00:01:08,569 --> 00:01:09,379
+dans Microsoft
+
+22
+00:01:09,379 --> 00:01:14,030
+Lists, à développer un plan avec
+Microsoft Planner, et à gérer
+
+23
+00:01:14,030 --> 00:01:16,969
+votre projet avec Microsoft
+Project.
+
+24
+00:01:16,969 --> 00:01:21,260
+Apprendre à gérer des projets dans
+Microsoft 365 renforcera votre
+
+25
+00:01:21,260 --> 00:01:24,930
+capacité à entreprendre n'importe
+quelle tâche.
+
+26
+00:01:24,930 --> 00:01:25,930
+Commençons.
+

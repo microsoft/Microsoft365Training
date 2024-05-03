@@ -1,0 +1,43 @@
+Lorsque vous gérez un projet, vous devez suivre de nombreux
+changements et de nombreuses tâches.
+Microsoft Project dispose de puissantes fonctionnalités de
+gestion du travail, qui peuvent être utilisées à la fois par les
+chefs de projet et les membres de l'équipe.
+Dans cette leçon, je vais vous montrer les
+principales fonctionnalités de Microsoft Project.
+La première fonctionnalité que je souhaite mettre en évidence dans
+Project est la dépendance des tâches.
+Un projet est souvent constitué de tâches qui dépendent les
+unes des autres.
+
+Je vais commencer par ouvrir le projet Mariage août sur
+lequel j'ai travaillé, afin que vous puissiez voir
+comment Project répertorie les différentes pièces qui doivent
+être réunies pour l'événement.
+Par exemple, la tâche Déterminer le budget et la façon dont les
+dépenses seront partagées dépend de la discussion avec le couple
+sur la taille, le lieu et la portée du mariage.
+La vue Grille convient pour répertorier les tâches,
+mais il est beaucoup plus facile de comprendre les informations des
+dépendances à l'aide d'une chronologie.
+
+Sélectionnez alors Chronologie dans le menu supérieur.
+Cette vue me donne la chronologie de l'échéance des tâches
+et leurs dépendances.
+Une fois les dépendances créées, je peux voir le chemin critique.
+Le chemin critique montre les tâches spécifiques qui,
+si elles sont retardées, retarderont l'ensemble du projet.
+
+En analysant un chemin critique, vous pouvez également identifier
+comment raccourcir la durée du projet. Pour afficher
+le chemin critique,
+dans le menu supérieur, sélectionnez Filtres
+et activez Afficher le chemin d'accès critique.
+Toutes les tâches surlignées en rouge doivent être terminées à
+temps pour respecter le délai.
+Microsoft Project vous aidera à gérer des échéanciers et
+des projets importants.
+
+Si vous avez besoin d'identifier des dépendances ou le
+chemin critique,
+consultez Microsoft Project.

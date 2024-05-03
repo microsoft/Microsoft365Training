@@ -1,0 +1,59 @@
+La plupart des programmes de messagerie
+vous permettent de créer et d'enregistrer les coordonnées des personnes
+avec lesquelles vous communiquez.
+Il est ainsi facile non seulement de leur envoyer des courriels
+sans avoir à rechercher leurs informations à chaque fois,
+mais vous pouvez également enregistrer d'autres informations importantes
+sur vos contacts qui peuvent être facilement consultées à tout moment.
+Un contact peut aussi être basique qu'un nom et une adresse mail
+ou inclure des informations comme une adresse de rue,
+plusieurs numéros de téléphone, une photo ou tout autre une note pertinente.
+
+Alors nous voici ici devant le programme Outlook,
+le programme de messagerie de Microsoft et de la suite Office.
+Dans le cas de cet utilisateur,
+notre ami vient de recevoir un message de la part de Martial AUROY.
+En cliquant sur la photo de cet expéditeur trois petits points,
+nous pouvons directement ajouter les coordonnées de cette personne
+au contact.
+Apparaît alors le formulaire
+me permettant de remplir les renseignements de ce contact
+et la plupart des informations est d'ores et déjà renseignée
+grâce au système Microsoft 365.
+
+Martial AUROY alors, est renseigné avec son poste
+ainsi que les différentes informations que le système a retrouvé.
+Il me suffit donc de terminer ces informations,
+comme, par exemple, peut-être des notes supplémentaires.
+Le numéro de téléphone du domicile aussi je l'avais.
+L'adresse du site web, etc.
+Une fois que ces informations sont renseignées,
+je clique sur Enregistrer & Fermer.
+L'autre moyen de renseigner des contacts
+est alors de passer directement par la fiche des contacts
+et de l'ajouter manuellement.
+
+En bas à gauche, je clique sur ces silhouettes représentant...
+le [cut] représentant la liste des contacts.
+Je vois apparaître les contacts qui sont déjà enregistrés
+comme Martial AUROY et Pierre Delaroue,
+et je peux alors ajouter un nouveau contact.
+Nouveau contact, par exemple, mon ami Robert DUGUIDON.
+La société, si je la connais, eh bien, il me suffit de la renseigner.
+Quel poste il occupe.
+Classer sous, je préfère utiliser le prénom d'abord,
+je vais donc le classer sous Robert DUGUIDON.
+
+Puis, je peux ajouter, par exemple, son adresse de courrier.
+Voilà, Robert DUGUIDON.
+L'afficher comme, sa page web, etc.
+Et d'autres différentes informations.
+Je peux même, par exemple, aller récupérer sa photo.
+À partir de mon environnement de téléchargement,
+je dispose de sa photo que je peux donc ajouter à sa fiche.
+Il me suffit alors d'enregistrer et de fermer.
+Ainsi, lorsque je suis dans les messages et que je crée un nouveau courrier,
+dès que je vais taper les premières lettres de mon ami,
+je le vois apparaître ici, Robert DUGUIDON,
+Et il me suffit de cliquer sur son nom pour qu'il soit associé aux expéditeurs.
+

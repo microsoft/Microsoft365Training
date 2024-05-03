@@ -1,0 +1,219 @@
+1
+00:00:01,520 --> 00:00:04,770
+Une part importante 
+pour que votre ordinateur fonctionne
+
+2
+00:00:04,770 --> 00:00:07,196
+bien et mieux au fil du temps
+
+3
+00:00:07,196 --> 00:00:09,756
+est de continuer d'une manière périodique
+
+4
+00:00:09,756 --> 00:00:14,782
+à récupérer les mises à jour
+qui sont faites par l'éditeur.
+
+5
+00:00:14,782 --> 00:00:16,762
+Que vous utilisiez un ordinateur Apple,
+
+6
+00:00:16,762 --> 00:00:19,952
+ou que vous utilisiez un ordinateur 
+de Microsoft,
+
+7
+00:00:19,952 --> 00:00:22,858
+le système d'exploitation 
+est régulièrement mis à jour,
+
+8
+00:00:22,858 --> 00:00:24,558
+ce pour corriger des bogues,
+
+9
+00:00:24,558 --> 00:00:27,761
+ou alors pour ajouter des fonctionnalités
+nécessaires au système,
+
+10
+00:00:27,761 --> 00:00:29,313
+comme aux différents programmes.
+
+11
+00:00:29,313 --> 00:00:33,509
+Ces mises à jour permettent d'améliorer
+le fonctionnement de l'ensemble.
+
+12
+00:00:33,509 --> 00:00:37,697
+Bref, afin de maintenir 
+votre système d'exploitation à jour
+
+13
+00:00:37,697 --> 00:00:40,897
+dans le cadre de Windows,
+direction le menu Démarrer,
+
+14
+00:00:40,897 --> 00:00:43,337
+les paramètres de Windows.
+
+15
+00:00:43,337 --> 00:00:45,267
+Menu Démarrer.
+
+16
+00:00:45,267 --> 00:00:46,917
+Paramètres.
+
+17
+00:00:46,917 --> 00:00:49,097
+Puis, Mise à jour et sécurité.
+
+18
+00:00:49,097 --> 00:00:53,737
+Nous voyons que dans le cas présent,
+mon ordinateur redemande un redémarrage.
+
+19
+00:00:53,737 --> 00:00:56,454
+Il y a une mise à jour qui attend.
+
+20
+00:00:56,454 --> 00:00:58,344
+Il faudra donc que je redémarre 
+mon ordinateur
+
+21
+00:00:58,344 --> 00:01:02,373
+pour qu'il puisse terminer
+cette mise à jour.
+
+22
+00:01:02,373 --> 00:01:04,459
+C'est logique, il y a des programmes
+qui très certainement
+
+23
+00:01:04,459 --> 00:01:06,699
+utilisent des composantes 
+qui demandent à être mises à jour.
+
+24
+00:01:06,699 --> 00:01:09,039
+Le fait de redémarrer, les morceaux
+de ce système d'exploitation vont pouvoir
+
+25
+00:01:09,039 --> 00:01:13,229
+être échangés sans pour autant 
+qu'ils soient en même temps
+
+26
+00:01:13,229 --> 00:01:16,823
+utilisés par des programmes.
+
+27
+00:01:16,823 --> 00:01:18,941
+Je peux choisir de redémarrer maintenant.
+
+28
+00:01:18,941 --> 00:01:22,755
+Je peux choisir de planifier
+un redémarrage plus tard.
+
+29
+00:01:22,755 --> 00:01:23,925
+Et bien entendu, quand j'utilise 
+le menu Démarrer
+
+30
+00:01:23,925 --> 00:01:26,965
+et que je veux arrêter mon ordinateur,
+
+31
+00:01:26,965 --> 00:01:28,895
+j'ai le choix de mettre à jour
+et redémarrer ;
+
+32
+00:01:28,895 --> 00:01:31,165
+de mettre à jour et de l'arrêter ;
+
+33
+00:01:31,165 --> 00:01:35,673
+voire tout simplement le mettre en veille
+
+34
+00:01:35,673 --> 00:01:38,993
+pour attendre une autre fois
+que je veuille bien
+
+35
+00:01:38,993 --> 00:01:41,613
+utiliser la mise à jour de l'ordinateur.
+
+36
+00:01:41,613 --> 00:01:45,960
+Il y a possibilité également 
+qu'il y ait des mises à jour disponibles.
+
+37
+00:01:45,960 --> 00:01:47,876
+Par exemple ici, il y a une mise à jour
+concernant la sécurité de Windows.
+
+38
+00:01:47,876 --> 00:01:50,766
+Cette mise à jour est dont passée
+et voici mon ordinateur
+
+39
+00:01:50,766 --> 00:01:54,020
+qui est maintenant à jour.
+
+40
+00:01:54,020 --> 00:01:55,777
+Dernière vérification : aujourd'hui.
+
+41
+00:01:55,777 --> 00:01:58,487
+Et je peux forcer la recherche 
+de mises à jour si jamais je veux
+
+42
+00:01:58,487 --> 00:02:01,581
+absolument vérifier qu'il y ait bien
+une mise à jour qui aurait pu passer
+
+43
+00:02:01,581 --> 00:02:05,465
+ou qui est disponible alors que
+l'ordinateur n'a encore pas vérifié.
+
+44
+00:02:05,465 --> 00:02:09,665
+Pour cela, je clique sur le bouton,
+
+45
+00:02:09,665 --> 00:02:13,949
+le système va rechercher
+des mises à jour en cours.
+
+46
+00:02:13,949 --> 00:02:18,272
+Et s'il y en a, il va les récupérer
+
+47
+00:02:18,272 --> 00:02:22,747
+et les installer
+ou proposer de les installer.
+
+48
+00:02:22,747 --> 00:02:25,317
+Voilà, mon ordinateur est à jour !
+

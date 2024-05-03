@@ -1,0 +1,259 @@
+﻿WEBVTT
+
+00:00:00.869 --> 00:00:04.134
+SharePoint est la solution
+de stockage de fichiers ultime
+
+00:00:04.134 --> 00:00:08.101
+pour vous aider à garder
+vos ressources numériques organisées
+
+00:00:08.101 --> 00:00:11.430
+et accessibles pour vous et votre équipe.
+
+00:00:11.430 --> 00:00:12.600
+Dans cette leçon,
+
+00:00:12.600 --> 00:00:15.734
+je vais vous montrer comment
+créer et gérer des structures de fichiers
+
+00:00:15.734 --> 00:00:16.734
+dans SharePoint
+
+00:00:16.734 --> 00:00:20.068
+afin que vous puissiez facilement
+accéder et partager des fichiers
+
+00:00:20.068 --> 00:00:22.357
+avec votre équipe.
+
+00:00:22.357 --> 00:00:25.687
+Je vais commencer à partir
+de ma page de démarrage SharePoint.
+
+00:00:25.687 --> 00:00:28.401
+Je travaille sur la planification
+d'une conférence
+
+00:00:28.401 --> 00:00:30.300
+avec une équipe de personnes.
+
+00:00:30.300 --> 00:00:31.834
+Je veux créer un espace
+
+00:00:31.834 --> 00:00:35.966
+pour que mes conférenciers
+puissent soumettre leurs propositions.
+
+00:00:35.966 --> 00:00:38.468
+J'ai créé une équipe
+pour cette conférence.
+
+00:00:38.468 --> 00:00:42.619
+Elle est nommée
+« La conférence sur les compétences ».
+
+00:00:42.619 --> 00:00:45.360
+Lorsque vous créez une équipe
+dans Microsoft Teams,
+
+00:00:45.360 --> 00:00:50.666
+un site est automatiquement créé
+pour vos collègues dans SharePoint
+
+00:00:50.666 --> 00:00:54.556
+afin de stocker les données
+de votre groupe.
+
+00:00:54.556 --> 00:00:58.118
+Je vais maintenant
+accéder au site de l'équipe
+
+00:00:58.118 --> 00:01:07.890
+de la conférence sur les compétences.
+
+00:01:07.890 --> 00:01:10.769
+Je sélectionne Documents
+dans le volet de navigation
+
+00:01:10.769 --> 00:01:16.153
+pour accéder à ma bibliothèque
+de documents pour ce site.
+
+00:01:16.153 --> 00:01:18.179
+Après avoir sélectionné des documents,
+
+00:01:18.179 --> 00:01:22.501
+je peux voir qu'il existe des dossiers
+pour les différents canaux de l'équipe
+
+00:01:22.501 --> 00:01:26.700
+de la conférence
+sur la compétence que j'ai créée.
+
+00:01:26.700 --> 00:01:28.201
+Je veux créer un endroit
+
+00:01:28.201 --> 00:01:31.676
+où les conférenciers
+peuvent soumettre des propositions.
+
+00:01:31.676 --> 00:01:34.801
+Donc, je vais sélectionner
+le dossier Contenu
+
+00:01:34.801 --> 00:01:39.526
+et créer un sous-dossier ici.
+
+00:01:39.526 --> 00:01:41.403
+Je clique sur Nouveau.
+
+00:01:41.403 --> 00:01:43.980
+Puis, Dossier.
+
+00:01:43.980 --> 00:01:50.049
+Et je nomme ce dossier
+Propositions de session.
+
+00:01:50.049 --> 00:01:52.860
+Et je clique sur créer.
+
+00:01:52.860 --> 00:01:54.887
+Pour ajouter un fichier au dossier,
+
+00:01:54.887 --> 00:02:01.620
+je sélectionne le dossier Propositions
+de session que je viens de créer.
+
+00:02:01.620 --> 00:02:12.080
+Ensuite, je sélectionne
+Nouveau &gt; Document Word.
+
+00:02:12.080 --> 00:02:13.846
+Cela m'amène à Word
+
+00:02:13.846 --> 00:02:20.970
+où je peux rédiger
+ma proposition de session.
+
+00:02:20.970 --> 00:02:25.634
+Je souhaite proposer d'animer une session
+sur la création d'un site SharePoint,
+
+00:02:25.634 --> 00:02:31.230
+donc, je vais renommer mon document
+« Comment créer un site SharePoint ».
+
+00:02:31.230 --> 00:02:34.431
+Je vais ajouter une brève
+description de ma session
+
+00:02:34.431 --> 00:02:38.959
+afin que les autres
+sachent de quoi il s'agit.
+
+00:02:38.959 --> 00:02:42.720
+Je vérifie que mon document Word
+est bien enregistré,
+
+00:02:42.720 --> 00:02:46.433
+et je quitte Word.
+
+00:02:46.433 --> 00:02:48.750
+Lorsque je reviens sur mon site,
+
+00:02:48.750 --> 00:02:53.490
+je peux voir mon fichier
+dans le dossier que j'ai créé.
+
+00:02:53.490 --> 00:02:56.343
+Je peux également charger
+des fichiers sur SharePoint
+
+00:02:56.343 --> 00:02:59.490
+comme un dépliant
+de conférenciers finalisé.
+
+00:02:59.490 --> 00:03:04.470
+Tout d'abord, je dois accéder à Documents.
+
+00:03:04.470 --> 00:03:08.301
+Je souhaite stocker ce fichier
+dans mon dossier Marketing et PR.
+
+00:03:08.301 --> 00:03:14.553
+Je sélectionne donc ce dossier.
+
+00:03:14.553 --> 00:03:19.170
+Ensuite, je sélectionne Charger.
+
+00:03:19.170 --> 00:03:22.980
+Puisque je charge un fichier,
+je vais choisir Fichiers.
+
+00:03:22.980 --> 00:03:32.706
+Et ensuite, je sélectionne
+le fichier que je veux charger.
+
+00:03:32.706 --> 00:03:35.801
+Ce fichier se trouve maintenant
+dans la bibliothèque de documents
+
+00:03:35.801 --> 00:03:37.034
+de mon site SharePoint.
+
+00:03:37.034 --> 00:03:46.290
+Mais je peux également
+trouver ce document dans Teams.
+
+00:03:46.290 --> 00:03:50.640
+Si vous sélectionnez
+plus d'actions pour un fichier,
+
+00:03:50.640 --> 00:03:52.068
+un menu s'ouvre,
+
+00:03:52.068 --> 00:03:55.101
+et vous pouvez sélectionner
+plusieurs actions différentes
+
+00:03:55.101 --> 00:03:58.080
+que vous pouvez utiliser
+dans une bibliothèque de documents.
+
+00:03:58.080 --> 00:03:59.958
+Vous pouvez les explorer par vous-même,
+
+00:03:59.958 --> 00:04:03.097
+mais je vais vous montrer
+l'historique des versions.
+
+00:04:03.097 --> 00:04:07.800
+La sélection de l'historique des versions
+
+00:04:07.800 --> 00:04:11.760
+vous permet de voir
+quand un fichier a été modifié
+
+00:04:11.760 --> 00:04:16.980
+et qui a modifié ce fichier.
+
+00:04:16.980 --> 00:04:22.500
+Si vous survolez
+l'horodatage des fichiers
+
+00:04:22.500 --> 00:04:25.631
+et sélectionnez le bouton déroulant,
+
+00:04:25.631 --> 00:04:32.923
+vous pouvez afficher Restaurer
+ou Supprimer une version de votre fichier.
+
+00:04:32.923 --> 00:04:37.334
+Maintenant que vous savez comment créer
+et charger des fichiers dans SharePoint,
+
+00:04:37.334 --> 00:04:41.130
+vous êtes prêt à commencer
+à collaborer avec votre équipe.

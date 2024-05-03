@@ -1,0 +1,50 @@
+Combien de listes utilisez-vous pour garder une trace de vos
+activités ? Au travail,
+les listes ne manquent pas :  ce que je dois faire aujourd'hui,
+les futurs clients potentiels,
+les courriels que je dois envoyer, etc.
+Dans cette leçon, je vais vous montrer comment
+identifier les avantages de l'utilisation de Microsoft Lists
+afin que vous puissiez commencer à réfléchir à des façons
+de les utiliser.
+Tout d'abord, Microsoft Lists est un excellent outil pour
+rester organisé.
+
+Vous pouvez facilement organiser vos tâches, et vos listes de tâches
+dans un ordre structuré.
+Je vais commencer à partir d'Office.com :
+sélectionner le lanceur d'applications dans le coin
+supérieur gauche et ouvrir Lists.
+Par exemple, je fais des listes de tâches hebdomadaires pour garder
+une trace de tous les différents éléments que je dois terminer.
+Si une nouvelle tâche m'est assignée cette semaine,
+j'ouvrirai simplement ma liste de tâches,
+sélectionnerai + Nouveau.
+
+Puis j'ajouterai le titre.
+Un autre avantage de Microsoft Lists  est la disponibilité.
+Vous pouvez accéder à votre liste depuis votre ordinateur,
+votre téléphone, sur le web, et même depuis Microsoft Teams.
+Et enfin, Microsoft Lists  s'intègre de manière transparente
+aux applications Microsoft 365. Parce que Microsoft Lists
+s'exécute dans le Cloud,
+vous pouvez fournir des données à d'autres applications, sans
+chargement ni téléchargement.
+
+Depuis ma liste de tâches,
+je sélectionne Intégrer dans les menus  supérieurs, et je vois toutes les
+applications Microsoft 365 dans lesquelles je peux utiliser
+mes données.
+Avec Power Apps, vous pouvez créer une application à l'aide des
+données de votre liste.
+Avec Power Automate, vous pouvez automatiser votre routine à l'aide
+de votre liste. Et avec Power BI,
+vous pouvez créer une visualisation à l'aide des
+données de votre liste.
+
+l'organisation, la disponibilité et l'intégration
+transparente font de Microsoft Lists un outil puissant pour vous
+permettre de rester organisé et d'aller de l'avant.
+Donc la prochaine fois que vous aurez besoin d'écrire une liste,
+je vous encourage à essayer
+Microsoft Lists.

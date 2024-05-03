@@ -1,0 +1,125 @@
+Garder une trace de toutes les communications,
+documents, événements d'un projet peut être intimidant.
+Heureusement, la création d'un site d'équipe SharePoint
+peut vous aider à suivre tous ces éléments
+en un seul endroit.
+Dans cette leçon, je vais vous montrer comment créer
+votre propre site d'équipe SharePoint
+afin que vous puissiez collaborer et rester organisé.
+Je travaille avec une équipe de personnes pour organiser ensemble
+une conférence sur les compétences.
+Nous allons utiliser SharePoint
+comme lieu d'organisation de notre travail.
+
+Je dois donc créer un site d'équipe pour nous.
+A partir de ma page de démarrage SharePoint
+qui ressemble à mon propre petit tableau de bord SharePoint.
+Je sélectionne Créer un site,
+cela ouvre une fenêtre
+où je peux choisir le type de site que je souhaite créer.
+Je peux choisir soit un site d'équipe,
+soit un site de communication.
+Un site d'équipe peut être utilisé
+pour collaborer avec une équipe,
+tandis qu'un site de communication
+peut être utilisé pour partager du contenu
+qui tient d'autres personnes informées.
+
+Je choisirai un site d'équipe pour m'aider à collaborer
+avec les présentateurs de la conférence sur les compétences.
+La création d'un site d'équipe
+connecte vos collègues dans un groupe
+et fournit à chacun un bloc-notes,
+une adresse mail
+et un calendrier d'équipe partagée.
+Je nommerai les présentateurs de la conférence
+sur les compétences de mon site d'équipe.
+Lorsque vous entrez un nom pour votre site,
+SharePoint vous indique si le nom du site est disponible,
+choisissez un nombre d'équipes disponibles
+et continuer.
+
+J'ajouterai une description du site plus tard.
+Pour l'instant,
+je veux choisir les options de confidentialité.
+Je vais rendre mon site privé
+afin que seuls les membres désignés
+puissent accéder à ce site
+et je clique sur Suivant.
+Cela m'ouvre la possibilité d'ajouter des propriétaires
+et des membres du site.
+Je peux ajouter des membres de mon organisation
+en tapant leurs noms.
+
+Je ne partage ce site
+qu'avec quelques personnes
+afin que nous puissions travailler ensemble
+et ajouter du contenu.
+Puis je serais prêt à le partager avec le reste de mes collègues.
+J'ajoute Joni, Isaiah et Lynne.
+Au départ, tout le monde est ajouté en tant que membre,
+mais je peux faire de mon membre
+un propriétaire du site
+en sélectionnant le bouton déroulant
+à côté de ces rôles
+et en sélectionnant Propriétaires.
+
+Les propriétaires des sites
+ont un rôle administratif total sur le site et son contenu,
+tandis que les membres du site
+peuvent uniquement modifier et afficher le contenu du site.
+Je vais ajouter
+Isaiah, propriétaire de mon site.
+Au cas où je serai malade ou en vacances,
+je veux que quelqu'un d'autre partagent
+le contrôle total du site avec moi.
+Une fois que j'ai décidé qui seront les propriétaires,
+je sélectionnerait Terminer
+pour ajouter des utilisateurs
+et publier le site.
+
+Je suis maintenant sur la page d'accueil
+de mon site d'équipe nouvellement créé.
+Sur notre page d'accueil,
+nous avons plusieurs options
+dans le volet de navigation.
+Etant donné que j'utilise le site
+pour partager des fichiers et des ressources
+pour la conférence sur la compétence,
+je vais me concentrer sur la partie documents et pages de mon site.
+Dans la section des documents,
+je peux télécharger des documents
+et ajouter de nouveaux dossiers ou de nouveaux fichiers.
+
+Dans les pages,
+je peux voir toutes les pages de mon site SharePoint.
+Pour l'instant, je n'ai que la page d'accueil.
+Maintenant, je veux partager
+une information importante avec mon équipe.
+Je vais donc devoir ajouter une nouvelle sur mon site,
+une actualité.
+Sur la page d'accueil de mon site,
+je clique sur Ajouter puis Publication d'actualités.
+Cela m'amène au modèle
+où je vais sélectionner le modèle vide.
+
+Ensuite, je clique sur Créer un billet.
+Je vais utiliser ce message pour compter les semaines
+jusqu'à la conférence sur les compétences.
+Donc je vais nommer le message
+pour refléter cela.
+Je vais rappeler à tout le monde que nous avons quatre mois
+avant la conférence sur les compétences
+et leur demander de soumettre leurs propositions
+pour les sessions de la conférence cette semaine.
+Ensuite, je clique sur
+Publier les actualités.
+
+Désormais, lorsque je vais sur la page d'accueil
+de mon site SharePoint,
+je peux voir mon article d'actualité.
+Finalement, je partagerai le site avec toute mon équipe
+et le compte à rebours aidera tout le monde
+à s'enthousiasmer pour notre prochaine conférence.
+Maintenant que vous savez comment créer un site d'équipe,
+vous vous rapprocher un peu plus de la collaboration dans SharePoint.

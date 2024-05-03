@@ -1,0 +1,161 @@
+1
+00:00:00,885 --> 00:00:03,289
+Faire défiler
+une boîte de réception sans fin
+
+2
+00:00:03,289 --> 00:00:05,304
+pour trouver l'e-mail 
+dont vous avez besoin
+
+3
+00:00:05,304 --> 00:00:06,471
+peut donner l'impression
+
+4
+00:00:06,471 --> 00:00:09,778
+d'essayer de trouver une aiguille
+dans une botte de foin,
+
+5
+00:00:09,778 --> 00:00:13,638
+mais Outlook dispose 
+d'un outil de recherche
+
+6
+00:00:13,638 --> 00:00:17,655
+qui permet de trouver facilement
+n'importe quel e-mail.
+
+7
+00:00:17,655 --> 00:00:21,203
+Dans cette leçon, je vais vous montrer
+comment effectuer une recherche
+
+8
+00:00:21,203 --> 00:00:23,590
+dans votre boîte de réception.
+
+9
+00:00:23,590 --> 00:00:27,188
+Je vais commencer 
+dans ma boîte de réception Outlook.
+
+10
+00:00:27,188 --> 00:00:30,536
+Dans cet exemple,
+j'ai un entretien pour un emploi
+
+11
+00:00:30,536 --> 00:00:33,419
+et l'entreprise m'a demandé 
+de créer une présentation PowerPoint
+
+12
+00:00:33,419 --> 00:00:35,116
+pour mon entretien.
+
+13
+00:00:35,116 --> 00:00:39,813
+L'entreprise m'a envoyé un e-mail
+avec les instructions de présentation,
+
+14
+00:00:39,813 --> 00:00:43,496
+mais je ne me souviens pas
+de toutes les exigences.
+
+15
+00:00:43,496 --> 00:00:45,984
+Pour connaître exactement
+ce qu'on attend de moi,
+
+16
+00:00:45,984 --> 00:00:48,427
+je dois rechercher cet e-mail 
+dans Outlook.
+
+17
+00:00:48,427 --> 00:00:52,428
+Je me souviens que ce post
+parlait d'une présentation,
+
+18
+00:00:52,428 --> 00:00:57,754
+alors je vais dans la zone de recherche
+pour saisir le mot « présentation »,
+
+19
+00:00:57,754 --> 00:01:00,139
+puis Entrée.
+
+20
+00:01:00,139 --> 00:01:05,181
+Cela recherche dans mon e-mail 
+tous les e-mails avec ce titre de post
+
+21
+00:01:05,181 --> 00:01:07,193
+et le mot « présentation ».
+
+22
+00:01:07,193 --> 00:01:10,349
+Ah ! Voici l'e-mail que je cherchais !
+
+23
+00:01:10,349 --> 00:01:13,605
+Je vais l'ouvrir pour voir
+les exigences de la présentation
+
+24
+00:01:13,605 --> 00:01:15,401
+de l'entretien d'embauche.
+
+25
+00:01:15,401 --> 00:01:19,465
+Si vous souhaitez affiner votre recherche
+pour ne trouver que les e-mails
+
+26
+00:01:19,465 --> 00:01:21,593
+contenant des pièces jointes,
+
+27
+00:01:21,593 --> 00:01:24,266
+vous pouvez utiliser le filtre.
+
+28
+00:01:24,266 --> 00:01:27,440
+Si vous souhaitez uniquement 
+les e-mails contenant des pièces jointes,
+
+29
+00:01:27,440 --> 00:01:33,269
+sélectionnez simplement le bouton filtre
+au-dessus de votre boîte aux lettres.
+
+30
+00:01:33,269 --> 00:01:37,562
+Sélectionnez Pièces jointes ;
+désormais, vote boîte aux lettres
+
+31
+00:01:37,562 --> 00:01:41,290
+ne vous montre que des e-mails
+contenant des pièces jointes.
+
+32
+00:01:41,290 --> 00:01:44,557
+Maintenant que vous savez 
+comment rechercher vos e-mails,
+
+33
+00:01:44,557 --> 00:01:47,400
+vous pourrez retrouver rapidement
+n'importe quel e-mail,
+
+34
+00:01:47,400 --> 00:01:51,116
+même s'il est profondément enfoui
+dans votre boîte de réception.
+

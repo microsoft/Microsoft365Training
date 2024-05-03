@@ -1,0 +1,227 @@
+﻿WEBVTT
+
+00:00:00.688 --> 00:00:03.237
+L'un des avantages des programmes
+de feuilles de calcul
+
+00:00:03.237 --> 00:00:07.050
+est qu'ils peuvent effectuer
+rapidement des calculs complexes
+
+00:00:07.050 --> 00:00:09.791
+une fois que vous les avez configurés,
+bien sûr, pour le faire.
+
+00:00:09.791 --> 00:00:12.672
+Prenons notre exemple ici
+de Liste de courses.
+
+00:00:12.672 --> 00:00:16.466
+J'ai une colonne qui concerne
+un élément que j'ai appelé, Quoi,
+
+00:00:16.466 --> 00:00:18.461
+Farine, Œufs, Carottes, Soda.
+
+00:00:18.461 --> 00:00:21.420
+Des quantités correspondantes
+avec un prix unitaire.
+
+00:00:21.420 --> 00:00:22.846
+J'aimerais dans un premier temps
+
+00:00:22.846 --> 00:00:27.746
+demander à Excel de me calculer
+horizontalement le prix du total,
+
+00:00:27.746 --> 00:00:30.703
+c'est-à-dire combien représente
+pour chaque article
+
+00:00:30.703 --> 00:00:34.566
+le produit de la quantité
+et du prix de l'unité.
+
+00:00:34.566 --> 00:00:39.452
+J'ai donc dans cette colonne à ajouter,
+par exemple, le prix total.
+
+00:00:39.452 --> 00:00:41.511
+Ce prix est donc égal,
+
+00:00:41.511 --> 00:00:45.818
+je commence donc par le symbole égal
+pour demander quelque chose à Excel.
+
+00:00:45.818 --> 00:00:48.449
+C'est donc égal à la quantité,
+
+00:00:48.449 --> 00:00:52.636
+je clique dessus avec la souris,
+je lui montre à Excel ce que je veux.
+
+00:00:52.636 --> 00:00:54.337
+C'est donc cette quantité
+
+00:00:54.337 --> 00:00:59.714
+qui est dans la cellule
+de coordonnées colonne C, ligne 5.
+
+00:00:59.714 --> 00:01:06.008
+C'est donc ce qu'il y a en C5
+que je multiplie par le prix de l'unité.
+
+00:01:06.008 --> 00:01:07.817
+Qui est en D5.
+
+00:01:07.817 --> 00:01:11.434
+Vous voyez que l'opération
+fera ce qu'il y a en bleu
+
+00:01:11.434 --> 00:01:14.550
+multiplié par ce qu'il y a en rouge.
+
+00:01:14.550 --> 00:01:17.704
+Notez que la multiplication
+est bien le symbole étoile
+
+00:01:17.704 --> 00:01:21.299
+et non pas le X qu'on a
+l'habitude parfois de voir.
+
+00:01:21.299 --> 00:01:24.320
+Je valide au clavier ou j'utilise Tab.
+
+00:01:24.320 --> 00:01:26.028
+Le résultat apparaît.
+
+00:01:26.028 --> 00:01:30.398
+1 fois 1,10 fait bien 1,10.
+
+00:01:30.398 --> 00:01:34.486
+Je sélectionne
+cette cellule et je la copie.
+
+00:01:34.486 --> 00:01:37.966
+Puis, avec la souris, et en gardant
+le doigt enfoncé sur la souris,
+
+00:01:37.966 --> 00:01:41.202
+je vais sélectionner
+les trois cellules en dessous.
+
+00:01:41.202 --> 00:01:46.504
+Donc je clique sur E6,
+je garde le doigt enfoncé et je descends
+
+00:01:46.504 --> 00:01:50.767
+pour sélectionner ces trois cellules,
+et là, je clique sur Coller.
+
+00:01:50.767 --> 00:01:55.017
+Le système a alors recopié
+la formule que j'avais copiée
+
+00:01:55.017 --> 00:01:57.847
+puis il a adapté aux différentes lignes.
+
+00:01:57.847 --> 00:02:00.050
+C'est-à-dire dire que
+dans la ligne en dessous,
+
+00:02:00.050 --> 00:02:04.383
+il a bien fait le calcul du produit
+correspondant à la quantité d'ici
+
+00:02:04.383 --> 00:02:06.661
+multiplié par le prix d'ici,
+
+00:02:06.661 --> 00:02:14.398
+donc 12 fois 1 fait bien 12,
+1,5 fois 1,1 fait 1,80, etc.
+
+00:02:14.398 --> 00:02:18.387
+Bien sûr, nous pouvons encore
+effectuer des calculs dans l'autre sens.
+
+00:02:18.387 --> 00:02:19.841
+Nous avons fait ici à l'horizontale,
+
+00:02:19.841 --> 00:02:22.890
+pourquoi pas faire
+des calculs à la verticale ?
+
+00:02:22.890 --> 00:02:25.439
+Là, j'aimerais faire la somme
+de cette colonne
+
+00:02:25.439 --> 00:02:28.986
+pour savoir à combien
+me revient ces courses.
+
+00:02:28.986 --> 00:02:32.186
+C'est donc le total
+de toutes ces courses.
+
+00:02:32.186 --> 00:02:36.318
+Eh bien, pour faire ceci,
+cela correspond à une somme,
+
+00:02:36.318 --> 00:02:39.212
+et à partir de l'onglet Accueil,
+nous avons ici un bouton
+
+00:02:39.212 --> 00:02:42.132
+que j'appelle souvent
+dans mes formations le bouton magique.
+
+00:02:42.132 --> 00:02:44.866
+Cliquez dessus
+et le système vous dit alors
+
+00:02:44.866 --> 00:02:47.405
+qu'il vous propose de faire la somme
+
+00:02:47.405 --> 00:02:50.470
+de toutes les cases
+qu'il a marqué ici en bleu.
+
+00:02:50.470 --> 00:02:54.786
+Donc, toutes les cellules
+entre E5 jusqu'à E9.
+
+00:02:54.786 --> 00:03:00.481
+Il me suffit de valider
+et le résultat est bien de 20,30.
+
+00:03:00.481 --> 00:03:02.536
+Le système est complètement interactif.
+
+00:03:02.536 --> 00:03:07.455
+Imaginons que je n'achète pas 6 sodas,
+mais que j'aie une grosse grosse soif
+
+00:03:07.455 --> 00:03:10.876
+et que j'achète 60 sodas.
+
+00:03:10.876 --> 00:03:15.077
+Je valide, tous les calculs se sont
+refaits d'une manière automatique
+
+00:03:15.077 --> 00:03:18.499
+et j'ai donc un prix total de sodas de 54
+
+00:03:18.499 --> 00:03:21.484
+et un prix maintenant total,
+l'addition de mes courses,
+
+00:03:21.484 --> 00:03:25.615
+qui s'élève maintenant à 68,90 euros.
+
+00:03:25.615 --> 00:03:30.543
+Vous voyez, l'utilisation d'Excel
+vous permet de calculer des valeurs
+
+00:03:30.543 --> 00:03:33.535
+entre les cellules afin
+d'émettre des résultats.

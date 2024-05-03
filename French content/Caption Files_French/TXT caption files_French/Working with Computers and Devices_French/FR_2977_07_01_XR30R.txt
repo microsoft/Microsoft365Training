@@ -1,0 +1,47 @@
+La première étape pour travailler dans Microsoft Word
+est d'ouvrir un document existant ou de créer un tout nouveau document.
+Si vous créez un nouveau document,
+vous pouvez bien sûr partir de zéro avec un document complètement vierge.
+Mais vous pouvez également utiliser l'un des nombreux modèles disponibles
+qui sont inclus dans Office.
+Ainsi, vous allez pouvoir créer des documents
+comme des curriculum vitae, dépliants, des rapports, des cartes, que sais-je.
+Afin de créer un nouveau document cliquons sur le menu Démarrer,
+allons dans les applications d'Office, ouvrons Word.
+
+Nous pouvons, comme je vous disais, démarrer d'un document vierge
+et démarrer ce document.
+Mais également, vous pouvez partir d'un modèle existant.
+Vous voyez qu'il existe de très nombreux modèles
+à partir desquels vous pouvez donc créer votre document
+et modifier bien entendu, pour ainsi le personnaliser.
+Prenons un exemple.
+Je voudrais faire une affichette.
+Eh bien, je vais partir des différents modèles de prospectus
+pour m'en inspirer et faire ainsi mon affiche.
+
+Vous voyez qu'il existe de nombreux modèles.
+Partons, par exemple, sur ce modèle.
+Je clique sur Créer.
+Le système, alors télécharge ce modèle et me le présente.
+Et partant de ce modèle, je n'ai plus qu'à le personnaliser.
+Par exemple, remplaçons ce texte.
+Mettons, par exemple, « RENDEZ-VOUS SPORTIF POUR LA FAMILLE ».
+Etc., etc.
+Vous allez donc pouvoir modifier ce modèle afin de le personnaliser
+et faire ainsi votre document.
+
+À partir de l'onglet Fichier, allez sur Enregistrer
+et choisissez où vous désirez enregistrer ce prospectus.
+Peut-être, avez-vous un compte sur un espace digital,
+un espace OneDrive ou un espace SharePoint,
+et vous pouvez de toute façon aller l'enregistrer dans votre ordinateur.
+Dans cet ordinateur,
+le système vous propose de l'enregistrer dans vos documents.
+Il vous suffit alors de rentrer le nom du fichier.
+« Course pour la famille », par exemple, et cliquez sur Enregistrer.
+
+On retrouve bien évidemment, à partir du menu Démarrer les documents.
+Vous retrouvez le document que vous venez d'enregistrer.
+Il vous suffira ultérieurement de double cliquer sur ce fichier
+pour que Word s'ouvre et vous présente à nouveau le document prêt à être modifié.

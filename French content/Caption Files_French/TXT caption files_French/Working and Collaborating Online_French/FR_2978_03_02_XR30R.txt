@@ -1,0 +1,57 @@
+Si vous envoyez souvent un courriel au même groupe de personnes,
+par exemple, votre équipe au travail,
+eh bien, au lieu d'avoir à créer un courriel
+et d'y ajouter chaque personne  en tant que destinataire
+individuellement à chaque fois,
+eh bien, vous pouvez  créer un groupe de contacts,
+de sorte que vous n'aurez qu'à taper le nom du groupe pour envoyer ce courriel
+à toutes les personnes de ce groupe.
+Me voici dans Outlook.
+Afin d'envoyer un message, donc à un groupe de personnes,
+j'ai besoin en premier bien sûr, de définir quel est ce groupe.
+
+Direction pour cela, les contacts.
+Je vois apparaître ici la liste de mes différents contacts.
+dans l'immédiat,  ce sont des contacts individuels.
+Je viens alors sur la partie de gauche cliquer sur la petite flèche
+afin de choisir de créer un nouveau groupe de contacts.
+Attention de ne pas créer un nouveau groupe simple :
+c'est quelque chose qui au contraire crée un groupe avec les conversations,
+un espace pour les fichiers,  un calendrier, etc.,
+ce n'est pas ce que l'on veut.
+Ce que l'on veut,  c'est créer un groupe de contacts.
+
+Je clique sur Groupe de contacts, apparaît alors le nom.
+Par exemple :
+« Les amis de la société Duguidon. »
+Quels sont ses membres ?
+Eh bien, je viens cliquer sur le bouton Membres
+afin de les choisir,
+il me suffit pour cela d'Ajouter,
+ajouter des membres  à partir de mes contacts d'Outlook.
+Je vais choisir donc Josette qui fait partie de la société Duguidon
+ainsi que Robert
+et je clique sur OK.
+
+Les deux personnes  sont donc associées à cette liste.
+Ainsi, il me suffira de saisir « Les amis de la société Duguidon »
+pour qu'automatiquement, le message soit envoyé à ces deux personnes.
+J'enregistre
+et je viens maintenant sur la partie Message.
+Je crée un nouveau courrier
+et je commence à saisir L-E-S, etc.
+et on voit que le système  me propose d'envoyer un message
+aux amis de la société Duguidon.
+Ce groupe est donc sélectionné,
+il me suffit de rentrer l'objet et le contenu du message
+pour que ce message soit bien envoyé
+aux personnes faisant partie de ce groupe.
+
+Si je voulais vérifier le contenu,
+ou alors, me servir de ce groupe, mais d'enlever une ou deux personnes,
+par exemple de ce groupe et d'envoyer alors ce message
+qu'à quelques personnes parmi le groupe,
+eh bien, il me suffirait  de cliquer sur le petit +.
+de développer la liste,
+pour voir apparaître alors la liste de ces personnes
+indépendamment les unes des autres.

@@ -1,0 +1,36 @@
+Jetons un petit coup d'œil à la façon de créer une feuille de calcul simple,
+une feuille de calcul à partir de zéro.
+Allons dans le menu Démarrer, Office, cliquons sur Excel
+et démarrons un nouveau classeur.
+Dans ce nouveau classeur, je vais partir sur une liste de courses.
+Dans cette liste, je vais choisir quoi ?
+La quantité, le prix de l'unité,
+puis je vais remplir les premiers éléments.
+
+Par exemple de la farine, des œufs, des carottes et du soda.
+Puis les quantités.
+Eh bien, la farine, je vais en prendre un kilo,
+des œufs, je vais en prendre 12,
+des carottes, je vais en prendre 1,5 kilo,
+et du soda, j'en prendrai 6 bouteilles.
+Vous remarquez que les textes sont alignés à gauche
+alors que les nombres sont alignés sur la droite.
+Dans le cas où on utilise Excel en français,
+eh bien, le séparateur des décimales est la virgule.
+
+Prenons un petit exemple.
+Je me positionne ici sur la cellule C10 et je saisis au clavier 1.
+J'utilise le point du clavier alphanumérique,
+c'est-à-dire donc le point qui se trouve au dessus du point-virgule, et je tape 5.
+Donc, 1.5 et je valide.
+Vous voyez que le système a gardé le texte à gauche.
+Ce n'est pas une valeur numérique,
+donc, je ne pourrais pas faire du calcul avec.
+Alors que si je tape un 1,5 et que je valide,
+le système met bien la valeur collée à droite de la case.
+
+C'est donc pour lui un chiffre ou un nombre
+et il pourra être utilisé pour les calculs.
+Attention donc au format entre les anglo-saxons, par exemple,
+qui utilisent le point comme séparateur,
+et en France, on utilise la virgule comme séparateur.

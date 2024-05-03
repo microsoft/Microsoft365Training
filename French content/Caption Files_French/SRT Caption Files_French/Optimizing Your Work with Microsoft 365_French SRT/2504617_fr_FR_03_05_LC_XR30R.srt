@@ -1,0 +1,513 @@
+1
+00:00:00,930 --> 00:00:03,471
+Créer et délivrer des présentations
+
+2
+00:00:03,471 --> 00:00:07,920
+sont des compétences importantes
+à posséder dans votre travail.
+
+3
+00:00:07,920 --> 00:00:12,944
+Lorsque vous créez une présentation,
+vous devez tenir compte de l'accessibilité
+
+4
+00:00:12,944 --> 00:00:17,790
+pour vous assurer qu'elle soit
+délivrée de manière inclusive.
+
+5
+00:00:17,790 --> 00:00:19,134
+Dans cette leçon,
+
+6
+00:00:19,134 --> 00:00:23,448
+je vais vous montrer comment rendre
+vos présentations plus accessibles,
+
+7
+00:00:23,448 --> 00:00:27,030
+et vous assurer que personne
+n'est laissé de côté.
+
+8
+00:00:27,030 --> 00:00:28,454
+Avant de vous lancer,
+
+9
+00:00:28,454 --> 00:00:33,090
+je souhaite passer en revue
+quelques termes clés.
+
+10
+00:00:33,090 --> 00:00:35,368
+Le vérificateur d'accessibilité
+
+11
+00:00:35,368 --> 00:00:38,831
+vous permet de vérifier
+l'accessibilité de votre présentation.
+
+12
+00:00:38,831 --> 00:00:41,871
+Il suggère comment résoudre les problèmes
+
+13
+00:00:41,871 --> 00:00:47,310
+en utilisant un texte alternatif
+pour tous les éléments visuels.
+
+14
+00:00:47,310 --> 00:00:50,771
+Lorsque vous utilisez
+le vérificateur d'accessibilité,
+
+15
+00:00:50,771 --> 00:00:55,159
+vous verrez un panneau
+d'accessibilité avec quatre zones.
+
+16
+00:00:55,159 --> 00:00:58,100
+Les erreurs, les avertissements,
+
+17
+00:00:58,100 --> 00:01:01,920
+les conseils,
+et les services intelligents.
+
+18
+00:01:01,920 --> 00:01:05,401
+Les erreurs sont des éléments
+de votre présentation
+
+19
+00:01:05,401 --> 00:01:10,184
+qui la rendent difficile à utiliser
+pour une personne malvoyante.
+
+20
+00:01:10,184 --> 00:01:15,334
+Les avertissements portent sur du contenu
+qui pourrait être difficile à comprendre
+
+21
+00:01:15,334 --> 00:01:17,356
+pour les personnes souffrant d'un handicap
+
+22
+00:01:17,356 --> 00:01:20,768
+qui pourrait être lié
+au contraste ou au format.
+
+23
+00:01:20,768 --> 00:01:23,823
+Les conseils,
+traitent des problèmes d'accessibilité
+
+24
+00:01:23,823 --> 00:01:27,600
+qui pourraient être
+mieux présentés ou décrits.
+
+25
+00:01:27,600 --> 00:01:30,990
+Le texte de remplacement,
+ou texte alternatif,
+
+26
+00:01:30,990 --> 00:01:33,161
+est un texte descriptif
+
+27
+00:01:33,161 --> 00:01:37,111
+qui transmet le sens
+et le contexte d'un élément visuel
+
+28
+00:01:37,111 --> 00:01:39,390
+dans un environnement digital.
+
+29
+00:01:39,390 --> 00:01:42,868
+Le texte de remplacement
+permet au logiciel de lecture d'écran
+
+30
+00:01:42,868 --> 00:01:44,401
+ou le narrateur,
+
+31
+00:01:44,401 --> 00:01:48,668
+de décrire les images
+et autre contenu non textuel
+
+32
+00:01:48,668 --> 00:01:51,240
+qu'un utilisateur ne peut pas voir.
+
+33
+00:01:51,240 --> 00:01:54,751
+Les services intelligents
+utilisent un texte alternatif
+
+34
+00:01:54,751 --> 00:01:57,630
+pour décrire des images ou des graphiques
+
+35
+00:01:57,630 --> 00:02:01,421
+qui provoqueraient
+des problèmes de compréhension
+
+36
+00:02:01,421 --> 00:02:04,144
+sur des personnes
+qui souffriraient de mauvaise vision.
+
+37
+00:02:04,144 --> 00:02:07,650
+Bon. Maintenant, je veux
+vous montrer ces outils en action.
+
+38
+00:02:07,650 --> 00:02:14,610
+Pour commencer,
+ouvrez la présentation dans PowerPoint.
+
+39
+00:02:14,610 --> 00:02:18,268
+Vous pouvez suivre l'exercice
+en téléchargeant l'exemple de présentation
+
+40
+00:02:18,268 --> 00:02:20,670
+dans vos fichiers d'exercices.
+
+41
+00:02:20,670 --> 00:02:29,070
+Il s'appelle
+Exemple d'événements client (B).
+
+42
+00:02:29,070 --> 00:02:34,590
+Accédez au ruban supérieur
+et sélectionnez Révision,
+
+43
+00:02:34,590 --> 00:02:37,828
+puis Vérification de l'accessibilité.
+
+44
+00:02:37,828 --> 00:02:41,234
+Le panneau Accessibilité apparaît
+à droite de l'écran,
+
+45
+00:02:41,234 --> 00:02:43,041
+à côté de la diapositive.
+
+46
+00:02:43,041 --> 00:02:46,621
+Cette présentation comporte
+des erreurs et des avertissements.
+
+47
+00:02:46,621 --> 00:02:49,401
+Tout d'abord,
+je sélectionne l'icône Erreurs
+
+48
+00:02:49,401 --> 00:02:57,630
+pour voir quelle est l'erreur
+et comment elle peut être résolue.
+
+49
+00:02:57,630 --> 00:03:01,380
+L'erreur indique :
+Texte de remplacement manquant.
+
+50
+00:03:01,380 --> 00:03:03,468
+Cela signifie
+que le texte de remplacement
+
+51
+00:03:03,468 --> 00:03:05,741
+doit être ajoutée à l'image.
+
+52
+00:03:05,741 --> 00:03:09,840
+Sélectionnez le message,
+
+53
+00:03:09,840 --> 00:03:13,023
+et PowerPoint vous amène
+directement à l'erreur,
+
+54
+00:03:13,023 --> 00:03:14,068
+sur la présentation.
+
+55
+00:03:14,068 --> 00:03:22,290
+Faites un clic droit sur l'image
+et sélectionnez Texte de remplacement.
+
+56
+00:03:22,290 --> 00:03:24,134
+Et Entrez une courte description.
+
+57
+00:03:24,134 --> 00:03:28,068
+Il est préférable de transmettre
+le contenu et le but de l'image
+
+58
+00:03:28,068 --> 00:03:31,654
+avec une courte description ;
+pas plus de deux phrases.
+
+59
+00:03:31,654 --> 00:03:39,780
+Je vais entrer
+Poignée de main entre deux personnes.
+
+60
+00:03:39,780 --> 00:03:44,240
+Je peux également sélectionner le bouton
+Générer une description automatiquement
+
+61
+00:03:44,240 --> 00:03:45,734
+sous la zone de description.
+
+62
+00:03:45,734 --> 00:03:48,840
+Il peut arriver dans la version française
+
+63
+00:03:48,840 --> 00:03:51,773
+que cette version
+ne soit pas très précise.
+
+64
+00:03:51,773 --> 00:03:54,368
+Mais le système
+s'améliore de jour en jour.
+
+65
+00:03:54,368 --> 00:03:56,872
+D'accord, cette erreur est résolue.
+
+66
+00:03:56,872 --> 00:04:00,600
+Je peux donc fermer la zone
+Texte de remplacement
+
+67
+00:04:00,600 --> 00:04:06,368
+et sélectionner Revérifier
+dans la fenêtre d'accessibilité.
+
+68
+00:04:06,368 --> 00:04:09,914
+L'erreur est corrigée,
+mais il y a toujours des avertissements.
+
+69
+00:04:09,914 --> 00:04:12,436
+Sélectionnez alors
+l'onglet Avertissements.
+
+70
+00:04:12,436 --> 00:04:14,490
+Le vérificateur de l'accessibilité
+
+71
+00:04:14,490 --> 00:04:18,930
+m'indique qu'il y a
+un contraste de texte dur à lire.
+
+72
+00:04:18,930 --> 00:04:24,120
+Je vais sélectionner le menu déroulant
+et sélectionner le problème.
+
+73
+00:04:24,120 --> 00:04:26,769
+Le tableau a des problèmes de contraste,
+
+74
+00:04:26,769 --> 00:04:30,450
+ce qui signifie que les couleurs
+sont trop similaires.
+
+75
+00:04:30,450 --> 00:04:37,200
+Pour résoudre ce problème,
+sélectionnez le tableau,
+
+76
+00:04:37,200 --> 00:04:42,300
+puis accédez au ruban supérieur
+et sélectionnez Tableau.
+
+77
+00:04:42,300 --> 00:04:43,634
+À partir de là,
+
+78
+00:04:43,634 --> 00:04:51,330
+sélectionnez Ombrage de cellule,
+
+79
+00:04:51,330 --> 00:04:54,368
+et choisissez une couleur
+qui a un ton plus profond
+
+80
+00:04:54,368 --> 00:04:59,730
+pour différencier les couleurs.
+
+81
+00:04:59,730 --> 00:05:09,360
+Je vais choisir le bleu.
+
+82
+00:05:09,360 --> 00:05:12,840
+Je sélectionnerai à nouveau Revérifier
+
+83
+00:05:12,840 --> 00:05:18,030
+pour m'apercevoir que l'avertissement
+a désormais disparu.
+
+84
+00:05:18,030 --> 00:05:20,479
+Lorsque vient le temps
+de faire votre présentation,
+
+85
+00:05:20,479 --> 00:05:24,510
+il est important de penser également
+aux personnes malentendantes.
+
+86
+00:05:24,510 --> 00:05:28,499
+L'ajout de sous-titres garantit
+que tout le monde peut suivre
+
+87
+00:05:28,499 --> 00:05:31,120
+ce qui se dit pendant la présentation.
+
+88
+00:05:31,120 --> 00:05:33,620
+Pour ajouter des sous-titres,
+
+89
+00:05:33,620 --> 00:05:41,460
+accédez à l'onglet Diaporama
+dans le ruban supérieur.
+
+90
+00:05:41,460 --> 00:05:47,040
+Puis sélectionnez
+Toujours utiliser les sous-titres,
+
+91
+00:05:47,040 --> 00:05:51,340
+qui vous donne accès aux langues parlées
+
+92
+00:05:51,340 --> 00:06:03,090
+et aux sous-titres
+dans la liste déroulante.
+
+93
+00:06:03,090 --> 00:06:07,151
+Vous pouvez également spécifier
+où les sous-titres apparaîtront
+
+94
+00:06:07,151 --> 00:06:11,610
+et quel microphone
+l'application utilisera.
+
+95
+00:06:11,610 --> 00:06:14,910
+Maintenant,
+lorsque vous ferez une présentation,
+
+96
+00:06:14,910 --> 00:06:20,434
+l'icône du microphone sera rouge
+pour vous indiquer qu'il est en direct
+
+97
+00:06:20,434 --> 00:06:22,864
+et prêt à vous écouter.
+
+98
+00:06:22,864 --> 00:06:26,711
+Il fera une transcription
+de votre voix pendant votre présentation
+
+99
+00:06:26,711 --> 00:06:37,860
+et les sous-titres
+correspondants apparaîtront.
+
+100
+00:06:37,860 --> 00:06:44,367
+« Les calendriers aident les gens
+à organiser leur emploi du temps ».
+
+101
+00:06:44,367 --> 00:06:47,888
+Assurez-vous de parler
+clairement et lentement
+
+102
+00:06:47,888 --> 00:06:52,300
+afin que votre voix
+soit correctement transcrite.
+
+103
+00:06:52,300 --> 00:06:54,529
+Si vous souhaitez
+désactiver les sous-titres
+
+104
+00:06:54,529 --> 00:06:56,620
+pendant votre présentation,
+
+105
+00:06:56,620 --> 00:07:01,020
+sélectionnez Désactiver les sous-titres,
+
+106
+00:07:01,020 --> 00:07:04,650
+indiquée dans l'icône du moniteur.
+
+107
+00:07:04,650 --> 00:07:10,350
+Dans la barre d'outils qui apparaît
+dans le coin inférieur gauche.
+
+108
+00:07:10,350 --> 00:07:13,301
+Essayez d'utiliser
+ces fonctionnalités d'accessibilité
+
+109
+00:07:13,301 --> 00:07:15,301
+dans votre prochaine présentation
+
+110
+00:07:15,301 --> 00:07:18,392
+pour vous aider à partager
+vos idées de manière inclusive.
+

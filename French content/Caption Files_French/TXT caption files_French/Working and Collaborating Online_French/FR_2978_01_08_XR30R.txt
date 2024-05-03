@@ -1,0 +1,68 @@
+Les moteurs de recherche sont conçus pour nous fournir les meilleurs résultats
+qui sont les plus susceptibles d'être pertinents pour notre recherche.
+Ils ne peuvent pas toujours prédire avec exactitude ce que vous recherchez,
+mais il y a quelques techniques que vous pouvez utiliser
+pour le rendre plus probable, plus précis dans ce que vous recherchez.
+Alors, faisons une recherche sur Internet.
+Par exemple, je recherche sur le web un gâteau au chocolat
+et je valide.
+
+Les résultats gâteau au chocolat, eh bien, le système m'en propose 11 100 000,
+11 100 000 gâteau au chocolat à travers le monde.
+Peut-être que le résultat n'est peut-être pas aussi précis.
+Alors, plutôt que gâteau au chocolat,
+ben, peut être que c'est gâteau au chocolat aux poires
+et là, déjà, beaucoup moins de résultat.
+Peut-être que c'est gâteau au chocolat aux poires et sans sucre,
+auquel cas j'aurai encore moins de résultats, etc., etc.
+
+Bref, je vais préciser l'information.
+Et on voit entre le gâteau au chocolat aux poires
+et le gâteau au chocolat aux poires et sans sucre
+j'ai plus de résultats dernièrement
+puisque sans sucre me donne plus de résultat.
+Ou alors il faudrait dans ce cas-là mettre la phrase ici entre guillemets
+pour avoir cette phrase exacte.
+Et là, vous voyez que je n'ai que quelques résultats à travers le monde
+pour un gâteau au chocolat aux poires sans sucre marqué dans cet ordre-là.
+
+Bref, il est important de bien saisir sa recherche
+pour avoir un maximum de résultats pertinents.
+Également, le système vous propose des résultats
+et vous propose des mots dans la recherche.
+Si je commence à taper, par exemple, paris,
+eh bien, paris, paris, le système va me proposer paris turf,
+paris match, paris fashion.
+Et puis, bien sûr, si je continue à taper, par exemple,
+« mété », « mété », eh bien, il va me dire ben, « paris météo ».
+
+En cliquant sur le lien,
+alors le système va me donner des informations sur la météo
+en ce moment à Paris.
+Et puis, je peux demander à Bing des choses un peu plus poussées.
+Par exemple, l'Aire d'un cercle.
+Et le système, alors va me donner des informations pour l'aire d'un cercle.
+Je pourrais lui demander de me calculer des choses, par exemple,
+100 dollars en euros,
+et le système va me donner le cours
+pour transformer 100 dollars américains en euros.
+
+Et comme ceci, le système va alors me proposer des éléments,
+même si en dessous, il y a toujours des pages,
+évidemment, d'Internet pouvant me donner des résultats
+par rapport à ce que je recherche,
+mais en en-tête, eh bien, je vais pouvoir interagir.
+On pourrait également demander de la traduction.
+Par exemple, Bonjour en anglais.
+Bonjour en anglais se dit good morning.
+
+Je peux l'écouter :
+(voix en anglais) good morning.
+Et puis je peux saisir autre chose
+à la place de bonjour, eh bien, pourquoi pas Au revoir.
+Et comme ça, avoir la traduction simultanée
+d'un pays à l'autre, d'une langue à l'autre.
+Vous voyez, il y a donc interaction entre les résultats
+et une motorisation derrière, qui va me donner des informations
+avec un minimum d'interactivité.
+

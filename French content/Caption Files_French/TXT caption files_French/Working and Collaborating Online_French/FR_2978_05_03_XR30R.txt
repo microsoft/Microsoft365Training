@@ -1,0 +1,55 @@
+Lorsque vous accédez à votre environnement OneDrive,
+eh bien, vous voyez que l'interface dispose de différentes zones.
+Sur le côté gauche, eh bien, vous accédez à un menu
+vous permettant d'accéder à vos fichiers que vous avez récemment modifiés
+ou auxquels vous avez récemment apporté des modifications,
+également vos photos,
+photos que vous pouvez faire apparaître sous différentes formes.
+Et puis, en cliquant sur ce symbole avec les petits traits,
+vous faites réapparaître  cette zone de navigation
+pour voir par exemple, les fichiers qui sont partagés ou accédés
+à la corbeille, c'est-à-dire les fichiers que vous auriez supprimés.
+
+Revenons aux fichiers.
+Sur la partie haute au-dessus de la liste de vos fichiers,
+eh bien, vous retrouvez  une barre d'outils,
+cette barre avec des liens vous permettant pour l'instant, de créer
+un nouveau document ou un nouveau dossier.
+Ou de télécharger fichier ou dossier.
+Cette bande ici s'adapte au contexte.
+Également à droite, vous pouvez changer l'ordre de tri.
+Par défaut, c'est trié par nom et par ordre croissant.
+Mais vous pouvez très bien décider de trier votre liste
+par date de modification par exemple
+ou par taille.
+
+Revenons au tri par nom.
+Également à droite, vous avez un bouton vous permettant de voir la liste compactée
+ou alors, de voir les éléments sous forme de vignette,
+ou voir les éléments sous forme de photo.
+Bref, vous avez différents modes vous permettant d'accéder
+à votre contenu.
+Et puis, lorsque vous avez ici différents éléments,
+il vous suffit de cliquer alors pour sélectionner un élément
+et voir les possibilités que vous avez avec ce document.
+
+Comme par exemple l'ouvrir,
+le partager, le télécharger sur cet ordinateur,
+le supprimer, le déplacer, le copier,
+trois petits points, etc.
+Bref, vous avez  de nombreuses actions disponibles
+suivant le type de document et suivant l'élément sur lequel
+vous avez fait une sélection.
+Et puis à droite, vous avez le « I » d'information,
+vous permettant alors de voir des informations,
+peut-être une description,
+peut-être même ici un aperçu du document,
+de voir qui a accès à ce document
+et de retrouver toute l'activité  qu'il y a eu sur ce document
+si bien sûr, il y en a eu.
+
+Tout en bas, les différents détails :
+le type, la dernière modification,  qui l'a ajoutée, sa date de création, etc.
+concernant ce document.
+Il suffit de recliquer sur le petit « I » pour fermer le volet d'information
+et vous retrouver  sur la liste de vos fichiers.

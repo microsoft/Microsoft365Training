@@ -1,0 +1,96 @@
+Il y a beaucoup de choses positives que nous pouvons faire en ligne.
+Nous pouvons parler à nos amis et à notre famille.
+Nous pouvons faire des achats et faire des affaires
+tout en restant derrière son ordinateur ou son smartphone.
+Malheureusement, les échanges en ligne ne sont pas toujours sûrs.
+Il y a toujours des risques inhérents à être connecté.
+Il est donc important d'être conscients des escroqueries rencontrées.
+Une des escroqueries est le phishing, que l'on appelle également le hameçonnage.
+
+Vos renseignements personnels sont un atout précieux
+pour les personnes qui veulent les voler afin de les vendre à d'autres
+et à ceux qui veulent vous usurper votre identité en ligne
+afin d'accéder à vos différents comptes.
+Par comparaison à la méthode pour attraper des poissons
+en mettant des appâts sur un hameçon,
+les pêcheurs entre guillemets ont de nombreux types d'appâts
+qu'ils utilisent pour essayer de tromper les gens
+en les incitant à partager des informations
+comme leurs mots de passe, informations de cartes de crédit
+et d'autres données privées.
+
+Ils peuvent vous envoyer un e-mail,
+un message instantané via un site de réseaux sociaux
+ou à travers un jeu en ligne.
+Ils peuvent prétendre être quelqu'un d'autre
+ou vous faire croire qu'ils sont un employé d'un site que vous utilisez
+comme une banque ou un fournisseur de services Internet.
+Ils peuvent vous demander de cliquer sur des liens
+pour terminer quelque chose sous le couvert de protéger vos informations.
+Si vous cliquez sur leur lien ou si vous leur donnez des informations,
+ils vous ont accroché, comme un poisson.
+
+Jetons un coup d'œil à quatre pratiques que vous pouvez suivre
+pour éviter d'être accroché par ces escrocs.
+Tout d'abord, soyez prudents et prenez garde aux messages suspects.
+Les escrocs essaient de rendre leurs messages officiels et familiers
+pour gagner votre confiance,
+demandant souvent de vous confirmer des informations personnelles
+ou des mots de passe de compte.
+Examinez attentivement les messages
+et évitez de partager des informations par message ou par courriel.
+
+Si vous recevez un message prétendant être d'une entreprise
+avec laquelle vous avez fait vos achats, par exemple dans le passé,
+pour vous demander de répondre par un mot de passe ou d'autres informations,
+ne le faites pas.
+Rendez-vous sur le site web de cette société
+directement à partir de votre navigateur et connectez-vous à votre compte.
+S'ils ont vraiment besoin d'information de votre part,
+vous verrez probablement un message apparaître lorsque vous vous connectez.
+Alternativement, appelez le service client de l'entreprise, par exemple.
+Deuxièmement,
+recherchez des signes indiquant qu'une page web est sûre et sécurisée
+avant de fournir des informations de carte de crédit ou d'entrer un mot de passe
+ou d'autres informations personnelles.
+
+Jetez un coup d’œil à la barre d'adresse de votre navigateur
+et vérifiez de voir une icône de verrouillage
+ou que l'adresse web commence bien par https et pas seulement par http.
+Le verrou https indique que le site est sécurisé et crypté,
+et il est donc très peu probable
+que vos informations puissent être interceptées.
+En plus de cela,
+assurez-vous que vous êtes bien sur la bonne page web.
+
+Les escrocs utilisent des sites web avec des adresses très proches
+des sites légitimes,
+et conçoivent leur site pour ressembler à des sites légitimes.
+Souvent, ils ont une faute d'orthographe ou alors ils utilisent un nom d'entreprise
+qui utilise un domaine différent.
+Par exemple, ils ont peut-être enregistré un domaine en version « .net »
+alors que d'habitude, l'adresse de l'entreprise est normalement en « .com ».
+Donc, vérifiez toujours l'adresse
+pour vous assurer que vous êtes sur la bonne page.
+Troisièmement,
+gardez votre navigateur web et votre système d'exploitation à jour.
+
+Vous pouvez activer les mises à jour automatiques
+pour vous assurer que les dernières versions logicielles
+sont automatiquement installées sur votre ordinateur.
+Ce qui signifie que vous recevrez toujours les dernières mises à jour de sécurité
+qui aident à protéger votre ordinateur.
+Et quatrièmement,
+envisagez d'installer un logiciel anti-malware sur votre ordinateur.
+Il s'agit d'un logiciel spécial conçu pour protéger votre ordinateur
+contre les logiciels malveillants et les pirates.
+Parfois, les escrocs trompent les gens
+en installant ce qui ressemble à un logiciel légitime,
+mais il s'avère être un logiciel qui suit et qui vole les données.
+
+Les logiciels anti-malware peuvent identifier ces programmes malveillants
+et les supprimer de votre ordinateur.
+Encore une fois, avec tous ces avantages,
+il y a toujours les risques d'être en ligne.
+Ainsi, restez toujours vigilant et prudent
+pour vous protéger contre les escroqueries par hameçonnage.

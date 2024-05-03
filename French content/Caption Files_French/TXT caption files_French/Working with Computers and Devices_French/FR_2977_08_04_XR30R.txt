@@ -1,0 +1,67 @@
+L'un des avantages des programmes de feuilles de calcul
+est qu'ils peuvent effectuer rapidement des calculs complexes
+une fois que vous les avez configurés, bien sûr, pour le faire.
+Prenons notre exemple ici de Liste de courses.
+J'ai une colonne qui concerne un élément que j'ai appelé, Quoi,
+Farine, Œufs, Carottes, Soda.
+Des quantités correspondantes avec un prix unitaire.
+J'aimerais dans un premier temps
+demander à Excel de me calculer horizontalement le prix du total,
+c'est-à-dire combien représente pour chaque article
+le produit de la quantité et du prix de l'unité.
+
+J'ai donc dans cette colonne à ajouter, par exemple, le prix total.
+Ce prix est donc égal,
+je commence donc par le symbole égal pour demander quelque chose à Excel.
+C'est donc égal à la quantité,
+je clique dessus avec la souris, je lui montre à Excel ce que je veux.
+C'est donc cette quantité
+qui est dans la cellule de coordonnées colonne C, ligne 5.
+C'est donc ce qu'il y a en C5 que je multiplie par le prix de l'unité.
+
+Qui est en D5.
+Vous voyez que l'opération fera ce qu'il y a en bleu
+multiplié par ce qu'il y a en rouge.
+Notez que la multiplication est bien le symbole étoile
+et non pas le X qu'on a l'habitude parfois de voir.
+Je valide au clavier ou j'utilise Tab.
+Le résultat apparaît.
+1 fois 1,10 fait bien 1,10.
+Je sélectionne cette cellule et je la copie.
+Puis, avec la souris, et en gardant le doigt enfoncé sur la souris,
+je vais sélectionner les trois cellules en dessous.
+
+Donc je clique sur E6, je garde le doigt enfoncé et je descends
+pour sélectionner ces trois cellules, et là, je clique sur Coller.
+Le système a alors recopié la formule que j'avais copiée
+puis il a adapté aux différentes lignes.
+C'est-à-dire dire que dans la ligne en dessous,
+il a bien fait le calcul du produit correspondant à la quantité d'ici
+multiplié par le prix d'ici,
+donc 12 fois 1 fait bien 12, 1,5 fois 1,1 fait 1,80, etc.
+
+Bien sûr, nous pouvons encore effectuer des calculs dans l'autre sens.
+Nous avons fait ici à l'horizontale,
+pourquoi pas faire des calculs à la verticale ?
+Là, j'aimerais faire la somme de cette colonne
+pour savoir à combien me revient ces courses.
+C'est donc le total de toutes ces courses.
+Eh bien, pour faire ceci, cela correspond à une somme,
+et à partir de l'onglet Accueil, nous avons ici un bouton
+que j'appelle souvent dans mes formations le bouton magique.
+Cliquez dessus et le système vous dit alors
+qu'il vous propose de faire la somme
+de toutes les cases qu'il a marqué ici en bleu.
+
+Donc, toutes les cellules entre E5 jusqu'à E9.
+Il me suffit de valider et le résultat est bien de 20,30.
+Le système est complètement interactif.
+Imaginons que je n'achète pas 6 sodas, mais que j'aie une grosse grosse soif
+et que j'achète 60 sodas.
+Je valide, tous les calculs se sont refaits d'une manière automatique
+et j'ai donc un prix total de sodas de 54
+et un prix maintenant total, l'addition de mes courses,
+qui s'élève maintenant à 68,90 euros.
+
+Vous voyez, l'utilisation d'Excel vous permet de calculer des valeurs
+entre les cellules afin d'émettre des résultats.

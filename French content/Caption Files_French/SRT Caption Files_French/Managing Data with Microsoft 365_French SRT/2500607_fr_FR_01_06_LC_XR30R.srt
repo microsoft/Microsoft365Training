@@ -1,0 +1,221 @@
+1
+00:00:00,300 --> 00:00:05,450
+La collaboration est la clé de la
+réussite de toute entreprise.
+
+2
+00:00:05,450 --> 00:00:07,790
+Comme l'a dit un jour le
+consultant en affaires et
+
+3
+00:00:07,790 --> 00:00:10,039
+auteur Ken Blanchard,
+
+4
+00:00:10,039 --> 00:00:13,759
+aucun de nous n'est aussi
+intelligent que nous tous réunis.
+
+5
+00:00:13,759 --> 00:00:16,160
+Dans cette leçon,
+je vais vous montrer comment
+
+6
+00:00:16,160 --> 00:00:19,219
+partager votre formulaire
+avec des collaborateurs
+
+7
+00:00:19,219 --> 00:00:23,600
+afin qu'ils puissent afficher,
+modifier et réviser les résultats
+
+8
+00:00:23,600 --> 00:00:24,679
+de votre formulaire.
+
+9
+00:00:24,679 --> 00:00:27,620
+Je vais vous montrer les deux
+meilleures options de partage avec
+
+10
+00:00:27,620 --> 00:00:31,699
+votre équipe et votre organisation, afin que vous puissiez décider
+
+11
+00:00:31,699 --> 00:00:34,759
+laquelle vous convient le mieux. Dans le coin supérieur
+
+12
+00:00:34,759 --> 00:00:35,630
+gauche d'office.com,
+
+13
+00:00:35,630 --> 00:00:38,689
+je sélectionne le
+lanceur d'applications
+
+14
+00:00:38,689 --> 00:00:42,429
+et j'ouvre Forms.
+
+15
+00:00:42,429 --> 00:00:44,890
+À partir de là, j'ouvre
+le formulaire
+
+16
+00:00:44,890 --> 00:00:49,240
+Intérêt pour le conseil en
+planification de mariage.
+
+17
+00:00:49,240 --> 00:00:51,939
+Pour partager ce formulaire avec
+une personne spécifique
+
+18
+00:00:51,939 --> 00:00:53,140
+de mon équipe,
+
+19
+00:00:53,140 --> 00:00:58,140
+je sélectionne Partager, dans
+le coin supérieur droit.
+
+20
+00:00:58,140 --> 00:01:03,119
+Tout en bas, se trouve Partager pour
+collaborer, et je sélectionne
+
+21
+00:01:03,119 --> 00:01:06,670
+Obtenir un lien de consultation
+et modification.
+
+22
+00:01:06,670 --> 00:01:08,620
+Si je sélectionne le
+menu déroulant
+
+23
+00:01:08,620 --> 00:01:12,340
+Utilisateurs disposant d'un
+compte Office 365,
+
+24
+00:01:12,340 --> 00:01:15,760
+deux options supplémentaires
+s'affichent.
+
+25
+00:01:15,760 --> 00:01:19,629
+Je partagerai ceci uniquement
+avec ceux qui en ont besoin,
+
+26
+00:01:19,629 --> 00:01:22,989
+en sélectionnant Certains membres
+de mon organisation
+
+27
+00:01:22,989 --> 00:01:28,200
+peuvent consulter et modifier
+le contenu.
+
+28
+00:01:28,200 --> 00:01:31,469
+Je peux maintenant entrer le
+membre de l'équipe qui m'aidera
+
+29
+00:01:31,469 --> 00:01:33,090
+dans ce formulaire,
+
+30
+00:01:33,090 --> 00:01:41,469
+Isaiah.
+
+31
+00:01:41,469 --> 00:01:45,700
+Maintenant, deux personnes ont
+accès, Isaiah et moi-même. Si, à la place,
+
+32
+00:01:45,700 --> 00:01:48,340
+je souhaite partager ce formulaire
+avec toute personne de
+
+33
+00:01:48,340 --> 00:01:53,730
+mon organisation,
+je modifierai en
+
+34
+00:01:53,730 --> 00:01:56,849
+Les membres de mon organisation
+peuvent consulter et modifier
+
+35
+00:01:56,849 --> 00:02:01,280
+le contenu.
+
+36
+00:02:01,280 --> 00:02:04,670
+Je peux donc maintenant copier le
+lien et l'envoyer à ma collègue
+
+37
+00:02:04,670 --> 00:02:05,989
+Line pour examen.
+
+38
+00:02:05,989 --> 00:02:09,469
+Je vais sélectionner Copier et ainsi je peux
+
+39
+00:02:09,469 --> 00:02:10,520
+envoyer le lien
+
+40
+00:02:10,520 --> 00:02:13,870
+à Line. Line et moi pouvons
+maintenant collaborer et préparer
+
+41
+00:02:13,870 --> 00:02:16,639
+ce formulaire à envoyer aux
+clients potentiels.
+
+42
+00:02:16,639 --> 00:02:18,439
+Lorsque vous créez
+des formulaires,
+
+43
+00:02:18,439 --> 00:02:21,530
+veillez à inclure au moins un
+autre membre de l'équipe dans
+
+44
+00:02:21,530 --> 00:02:23,180
+son processus de révision.
+
+45
+00:02:23,180 --> 00:02:28,039
+La co-création et la collaboration
+dans Microsoft 365 sont un
+
+46
+00:02:28,039 --> 00:02:31,219
+excellent moyen de vous assurer
+que vos formulaires sont prêts à
+
+47
+00:02:31,219 --> 00:02:33,020
+être partagés avec
+le monde entier.
+

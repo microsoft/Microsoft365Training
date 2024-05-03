@@ -1,0 +1,496 @@
+﻿WEBVTT
+
+00:00:00.330 --> 00:00:04.500
+Que votre formulaire comporte 5
+questions ou 500 questions,
+
+00:00:04.500 --> 00:00:06.990
+il doit être bien organisé.
+
+00:00:06.990 --> 00:00:09.300
+Dans cette leçon,
+je vais vous montrer comment
+
+00:00:09.300 --> 00:00:13.080
+personnaliser et créer des
+enquêtes propres et dynamiques
+
+00:00:13.080 --> 00:00:15.750
+dans Microsoft Forms.
+
+00:00:15.750 --> 00:00:17.160
+Dans le coin supérieur gauche
+
+00:00:17.160 --> 00:00:17.730
+d'Office.
+
+00:00:17.730 --> 00:00:20.879
+com, je sélectionne le
+lanceur d'applications,
+
+00:00:20.879 --> 00:00:23.910
+et j'ouvre Forms.
+
+00:00:23.910 --> 00:00:26.760
+Maintenant, je vais ouvrir
+le formulaire
+
+00:00:26.760 --> 00:00:31.410
+Intérêt pour le conseil en
+planification de mariage.
+
+00:00:31.410 --> 00:00:35.429
+Tout d'abord, je vais déterminer
+quels champs sont obligatoires
+
+00:00:35.429 --> 00:00:38.250
+pour une soumission.
+
+00:00:38.250 --> 00:00:39.600
+Pour ce formulaire de contact,
+
+00:00:39.600 --> 00:00:42.450
+l'information minimale dont
+j'aurai besoin pour pouvoir
+
+00:00:42.450 --> 00:00:44.850
+donner suite est une
+adresse courriel.
+
+00:00:44.850 --> 00:00:48.030
+Sans cela, je ne saurai pas qui contacter.
+
+00:00:48.030 --> 00:00:51.869
+Je vais donc faire de l'adresse
+courriel une question obligatoire.
+
+00:00:51.869 --> 00:00:54.299
+Si je sélectionne la
+question Courriel,
+
+00:00:54.299 --> 00:00:58.530
+je peux activer le bouton
+obligatoire dans le coin inférieur
+
+00:00:58.530 --> 00:01:02.409
+droit, et je vais répéter
+cela pour le Prénom.
+
+00:01:02.409 --> 00:01:04.840
+Lorsque le client visualise
+le formulaire,
+
+00:01:04.840 --> 00:01:09.340
+les questions obligatoires sont
+indiquées par un astérisque rouge.
+
+00:01:09.340 --> 00:01:11.500
+Maintenant que j'ai défini
+ les champs obligatoires,
+
+00:01:11.500 --> 00:01:14.200
+je peux organiser mon
+enquête en sections.
+
+00:01:14.200 --> 00:01:17.620
+Cette fonctionnalité ajoutera de
+la logique au flux
+
+00:01:17.620 --> 00:01:19.060
+de vos sondages.
+
+00:01:19.060 --> 00:01:22.659
+Les sections aident à organiser
+l'enquête, de sorte que la personne
+
+00:01:22.659 --> 00:01:26.109
+qui y répond voit les questions
+dans un flux logique.
+
+00:01:26.109 --> 00:01:29.560
+J'ai trois questions relatives
+au contact,
+
+00:01:29.560 --> 00:01:32.280
+qui correspondent à une section :
+
+00:01:32.280 --> 00:01:33.849
+Courriel,
+
+00:01:33.849 --> 00:01:36.040
+Prénom et Nom.
+
+00:01:36.040 --> 00:01:40.090
+Sélectionnez la question Nom
+ et Ajouter apparaît,
+
+00:01:40.090 --> 00:01:41.620
+juste en dessous.
+
+00:01:41.620 --> 00:01:46.930
+Cliquez alors sur Ajouter,
+puis + de type de questions sur
+
+00:01:46.930 --> 00:01:50.709
+la droite, et sélectionnez
+alors Section.
+
+00:01:50.709 --> 00:01:54.159
+Cela ajoutera la section 2
+ sous le nom.
+
+00:01:54.159 --> 00:01:57.670
+La première section se trouve en
+haut du formulaire, et contient les
+
+00:01:57.670 --> 00:02:00.250
+3 questions sur
+les coordonnées.
+
+00:02:00.250 --> 00:02:03.519
+Maintenant, vous pouvez étiqueter
+chacune des sections en
+
+00:02:03.519 --> 00:02:04.569
+sélectionnant l'en-tête.
+
+00:02:04.569 --> 00:02:07.750
+Je vais saisir « Coordonnées »,
+ et laisser la zone
+
+00:02:07.750 --> 00:02:09.960
+de description vide.
+
+00:02:09.960 --> 00:02:15.229
+La section suivante tourne autour
+de la planification.
+
+00:02:15.229 --> 00:02:16.099
+Je vais donc entrer
+
+00:02:16.099 --> 00:02:19.879
+« Date du mariage ».
+
+00:02:19.879 --> 00:02:23.360
+Maintenant, je vais ajouter une
+dernière section en sélectionnant
+
+00:02:23.360 --> 00:02:26.819
+la dernière question, Ajouter,
+
+00:02:26.819 --> 00:02:29.729
++ de type de questions,
+
+00:02:29.729 --> 00:02:31.020
+et Section.
+
+00:02:31.020 --> 00:02:34.800
+Cela va créer une section sous
+ cette question, et je vais pouvoir
+
+00:02:34.800 --> 00:02:35.969
+entrer « Services ».
+
+00:02:35.969 --> 00:02:38.669
+Je vais maintenant déplacer la
+question sur le degré de
+
+00:02:38.669 --> 00:02:39.780
+confort du client
+
+00:02:39.780 --> 00:02:43.590
+dans cette section.
+Sélectionnez la question,
+
+00:02:43.590 --> 00:02:44.789
+puis la flèche
+
+00:02:44.789 --> 00:02:47.819
+Déplacer la question vers le bas,
+ dans le coin supérieur droit.
+
+00:02:47.819 --> 00:02:48.900
+Fantastique,
+
+00:02:48.900 --> 00:02:52.139
+j'ai maintenant les questions sur
+la date du mariage dans la bonne
+
+00:02:52.139 --> 00:02:54.330
+section et le formulaire
+est organisé.
+
+00:02:54.330 --> 00:02:57.419
+Vous pouvez également ajouter des
+branches à vos formulaires
+
+00:02:57.419 --> 00:02:59.280
+pour mieux les organiser.
+
+00:02:59.280 --> 00:03:03.599
+La création de branches modifie
+les questions posées en fonction
+
+00:03:03.599 --> 00:03:07.110
+de la réponse aux questions
+précédentes. Pour ce formulaire,
+
+00:03:07.110 --> 00:03:10.889
+si le client veut avoir un mariage
+dans les six prochains mois,
+
+00:03:10.889 --> 00:03:13.889
+je veux qu'il réponde à des
+questions supplémentaires.
+
+00:03:13.889 --> 00:03:18.210
+Donc je vais d'abord créer une
+nouvelle section après Services.
+
+00:03:18.210 --> 00:03:21.969
+Je vais sélectionner la dernière
+question et sélectionner Ajouter,
+
+00:03:21.969 --> 00:03:24.599
+Autres types de questions,
+puis Section.
+
+00:03:24.599 --> 00:03:25.439
+Je vais entrer
+
+00:03:25.439 --> 00:03:31.169
+« Informations supplémentaires »
+ comme nom.
+
+00:03:31.169 --> 00:03:33.990
+Ensuite, je vais ajouter
+une nouvelle question.
+
+00:03:33.990 --> 00:03:36.849
+Sélectionnez Texte,
+
+00:03:36.849 --> 00:03:38.620
+et activez la bascule
+
+00:03:38.620 --> 00:03:41.530
+Réponse longue, pour que les
+clients puissent écrire un
+
+00:03:41.530 --> 00:03:43.090
+paragraphe de texte.
+
+00:03:43.090 --> 00:03:46.150
+Et cette question aura pour titre :
+« Quelles réservations avez-vous
+
+00:03:46.150 --> 00:03:52.389
+déjà faites pour votre mariage ? ».
+
+00:03:52.389 --> 00:03:56.840
+Ensuite, je reviendrai à la
+question d'évaluation,
+
+00:03:56.840 --> 00:03:58.039
+et sélectionnerai
+
+00:03:58.039 --> 00:04:01.280
+Copier la question, dans le
+coin supérieur droit.
+
+00:04:01.280 --> 00:04:02.419
+Je sélectionnerai
+
+00:04:02.419 --> 00:04:04.430
+Déplacer la question vers le bas.
+
+00:04:04.430 --> 00:04:06.439
+J'ai donc maintenant la question
+en double qui se trouve dans
+
+00:04:06.439 --> 00:04:08.360
+la section 4.
+
+00:04:08.360 --> 00:04:12.030
+J'ajouterai des éléments à
+cette question plus tard.
+
+00:04:12.030 --> 00:04:13.560
+Pour ajouter une branche,
+
+00:04:13.560 --> 00:04:16.110
+je reviendrai à la
+question 4,
+
+00:04:16.110 --> 00:04:19.319
+car la réponse à cette question
+déterminera quelle sera
+
+00:04:19.319 --> 00:04:20.399
+la question suivante.
+
+00:04:20.399 --> 00:04:23.360
+Pour ajouter une branche,
+
+00:04:23.360 --> 00:04:26.959
+sélectionnez Paramètres
+supplémentaires pour la question,
+
+00:04:26.959 --> 00:04:30.019
+puis ajoutez un embranchement.
+
+00:04:30.019 --> 00:04:32.839
+Si le client répond
+moins de 6 mois,
+
+00:04:32.839 --> 00:04:37.269
+je passerai à la section 4,
+ Informations supplémentaires,
+
+00:04:37.269 --> 00:04:39.189
+en utilisant le menu déroulant,
+
+00:04:39.189 --> 00:04:41.170
+Aller à,
+
+00:04:41.170 --> 00:04:44.740
+afin de pouvoir rassembler les
+informations dont j'ai besoin.
+
+00:04:44.740 --> 00:04:48.220
+Pour les autres réponses,
+je les laisserai comme Aller à
+
+00:04:48.220 --> 00:04:52.319
+Suivant, et elles passeront
+à la section 3.
+
+00:04:52.319 --> 00:04:55.670
+À la fin de la section 3,
+
+00:04:55.670 --> 00:04:58.889
+je vais modifier
+
+00:04:58.889 --> 00:05:01.000
+le menu déroulant,
+
+00:05:01.000 --> 00:05:04.889
+afin de me rendre à la
+fin du formulaire,
+
+00:05:04.889 --> 00:05:08.370
+pour que les gens n'aient pas
+à remplir la section 4.
+
+00:05:08.370 --> 00:05:11.189
+Pour finaliser ces sections
+et ces branchements,
+
+00:05:11.189 --> 00:05:12.779
+je sélectionnerai
+
+00:05:12.779 --> 00:05:16.779
+Précédent pour enregistrer
+mes modifications.
+
+00:05:16.779 --> 00:05:20.110
+Désormais, le formulaire ne
+demande des détails
+
+00:05:20.110 --> 00:05:22.870
+supplémentaires que si leur
+mariage a lieu dans les
+
+00:05:22.870 --> 00:05:25.100
+6 prochains mois.
+
+00:05:25.100 --> 00:05:27.620
+Bien sûr, vous voudrez
+tester le sondage.
+
+00:05:27.620 --> 00:05:31.279
+Les tests sont essentiels pour
+s'assurer que votre enquête
+
+00:05:31.279 --> 00:05:34.629
+fonctionne comme vous
+l'aviez prévu.
+
+00:05:34.629 --> 00:05:36.430
+Tout d'abord, je sélectionnerai
+
+00:05:36.430 --> 00:05:39.839
+Aperçu dans le coin
+supérieur droit.
+
+00:05:39.839 --> 00:05:42.589
+Et je vais entrer quelques
+données de test.
+
+00:05:42.589 --> 00:05:46.430
+Comme courriel, je vais entrer
+Jean@dupont,
+
+00:05:46.430 --> 00:05:49.399
+puis le prénom Jean
+et le nom Dupont.
+
+00:05:49.399 --> 00:05:52.879
+Lorsque je sélectionne Suivant,
+le formulaire passe à la
+
+00:05:52.879 --> 00:05:56.420
+section Date du mariage.
+
+00:05:56.420 --> 00:06:01.060
+Je dirai que mon mariage aura
+lieu dans les 6 prochains mois.
+
+00:06:01.060 --> 00:06:04.050
+Et je laisserai la date vide.
+
+00:06:04.050 --> 00:06:07.680
+Lorsque je sélectionne Suivant,
+je suis redirigé vers la section
+
+00:06:07.680 --> 00:06:10.920
+Informations supplémentaires.
+
+00:06:10.920 --> 00:06:14.670
+Ainsi, l'embranchement de la
+question que vous avez ajouté a
+
+00:06:14.670 --> 00:06:18.300
+convenablement fonctionné. Pour
+finaliser ces sections et
+
+00:06:18.300 --> 00:06:19.860
+ces embranchements,
+
+00:06:19.860 --> 00:06:20.759
+je sélectionnerai
+
+00:06:20.759 --> 00:06:25.319
+Précédent pour enregistrer mes
+modifications. Avec les sections
+
+00:06:25.319 --> 00:06:26.730
+et les embranchements,
+
+00:06:26.730 --> 00:06:30.329
+vous pouvez créer des sondages qui
+emmènent les clients au travers
+
+00:06:30.329 --> 00:06:33.089
+de votre questionnaire.
+
+00:06:33.089 --> 00:06:36.480
+Je vous encourage à essayer
+par vous-même.
+
+00:06:36.480 --> 00:06:39.060
+En utilisant ces outils,
+vous pourrez créer des sondages
+
+00:06:39.060 --> 00:06:41.910
+attrayants et utiles pour
+vous et vos clients.

@@ -1,0 +1,48 @@
+Au travail, vous n'avez pas toujours le temps ou un espace calme
+pour prendre un appel téléphonique.
+Donc, la conversation, que l'on appelle aussi « chat »,
+peut être beaucoup plus pratique.
+L'utilisation de la fonction de conversation dans les équipes
+vous permet d'avoir une conversation flexible
+lorsque vous souhaitez contacter rapidement
+les personnes de votre organisation.
+Dans cette leçon, je vais vous montrer comment utiliser Teams
+pour communiquer facilement et rapidement.
+
+Dans cet exemple, je vais vous montrer ce que je fais
+si je voulais contacter un collègue juste pour vérifier l'état d'une réunion.
+Allons-y.
+Une fois dans Teams,
+je sélectionne la conversation pour commencer.
+J'ai un accès rapide à mes discussions récentes ici.
+Mais si vous souhaitez démarrer une nouvelle discussion,
+ou si vous ne trouvez pas la discussion dont vous avez besoin
+dans vos discussions récentes,
+vous pouvez sélectionner le bouton Nouvelle conversation.
+
+Lorsque la fenêtre de conversation s'ouvre,
+vous pouvez entrer à qui vous souhaitez envoyer le message,
+soit une personne spécifique, soit un groupe.
+Tapez simplement le nom ou l'e-mail
+de la personne avec qui vous souhaitez discuter
+et sélectionnez son nom ou son e-mail pour l'ajouter au chat.
+De là, vous pouvez également ajouter d'autres personnes.
+Si vous souhaitez supprimer quelqu'un du message,
+vous pouvez sélectionner le X à côté de son nom.
+
+À ce stade, je peux commencer à taper mon message.
+Isaiah travaille avec moi
+sur une prochaine conférence sur les compétences.
+Je veux savoir si Isaiah prévoit de venir à la réunion de planification
+la semaine prochaine.
+Alors, je vais juste lui envoyer un message pour lui demander.
+Je vais taper mon message :
+« Venez-vous à la réunion de planification la semaine prochaine ? »
+Et j'envoie le message.
+
+Une fois qu'Isaiah a répondu à mon message,
+je pourrai voir cette mise à jour dans mon flux d'actualité
+et dans les discussions récentes.
+Maintenant que vous savez comment communiquer avec les chats dans Teams,
+vous pouvez vous sentir en confiance pour contacter n'importe qui
+dans votre organisation.

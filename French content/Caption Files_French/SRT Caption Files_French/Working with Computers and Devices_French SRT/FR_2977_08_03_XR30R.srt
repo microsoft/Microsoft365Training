@@ -1,0 +1,361 @@
+1
+00:00:01,010 --> 00:00:02,770
+Alors, dans une feuille de calcul,
+
+2
+00:00:02,770 --> 00:00:06,831
+il peut être extrêmement utile de formater
+des cellules pour mieux les comprendre.
+
+3
+00:00:06,831 --> 00:00:11,039
+Et il peut être également très utile
+de s'assurer du contenu qui sera saisi,
+
+4
+00:00:11,039 --> 00:00:15,423
+d'autant plus, si vous partagez
+ce classeur avec d'autres personnes
+
+5
+00:00:15,423 --> 00:00:17,652
+qui devraient saisir les informations.
+
+6
+00:00:17,652 --> 00:00:20,553
+Pour déjà mieux comprendre
+ce qu'il y a à l'écran,
+
+7
+00:00:20,553 --> 00:00:25,031
+je vous invite à aller sur les éléments
+et à les mettre en page.
+
+8
+00:00:25,031 --> 00:00:29,157
+À partir de l'onglet Accueil, allez dans
+Styles de cellules, par exemple,
+
+9
+00:00:29,157 --> 00:00:31,429
+et choisissez le titre de votre feuille.
+
+10
+00:00:31,429 --> 00:00:35,142
+Sélectionnez l'en-tête du tableau,
+par exemple, et dans les styles,
+
+11
+00:00:35,142 --> 00:00:36,671
+choisissez un autre élément
+
+12
+00:00:36,671 --> 00:00:40,384
+vous permettant de mettre en forme
+ces en-têtes de tableaux.
+
+13
+00:00:40,384 --> 00:00:42,892
+Et puis les quantités ici,
+
+14
+00:00:42,892 --> 00:00:46,948
+ces quantités qui sont exprimées
+peuvent être non pas simplement
+
+15
+00:00:46,948 --> 00:00:52,038
+avec du format standard,
+mais avec un format nombre.
+
+16
+00:00:52,038 --> 00:00:55,290
+Ce format nombre va vous permettre
+d'afficher systématiquement
+
+17
+00:00:55,290 --> 00:00:57,642
+deux décimales après la virgule.
+
+18
+00:00:57,642 --> 00:01:02,281
+Farine 1,00 et non pas,
+par exemple, un kilo et demi,
+
+19
+00:01:02,281 --> 00:01:05,366
+des œufs, 12, des carottes, une et demie,
+
+20
+00:01:05,366 --> 00:01:09,985
+c'est-à-dire un kilo et demi
+et du soda, par exemple, 6.
+
+21
+00:01:09,985 --> 00:01:12,660
+Il en va de même pour les prix à l'unité.
+
+22
+00:01:12,660 --> 00:01:17,282
+Par exemple, la farine
+pour peut-être 1,10 euro.
+
+23
+00:01:17,282 --> 00:01:23,456
+Alors, sélectionnons ces cellules pour
+saisir correctement les prix de l'unité
+
+24
+00:01:23,456 --> 00:01:26,760
+et allons choisir non pas
+simplement un nombre,
+
+25
+00:01:26,760 --> 00:01:27,760
+mais dans ce cas-là,
+
+26
+00:01:27,760 --> 00:01:32,814
+plutôt quelque chose nous permettant
+d'afficher une valeur monétaire
+
+27
+00:01:32,814 --> 00:01:36,225
+ou une valeur comptable,
+suivant l'affichage que vous voulez.
+
+28
+00:01:36,225 --> 00:01:39,688
+Les deux concernent bien un affichage,
+comme vous le voyez ici,
+
+29
+00:01:39,688 --> 00:01:42,139
+avec l'exemple 1,10.
+
+30
+00:01:42,139 --> 00:01:46,415
+Eh bien, les deux concernent bien
+l'affichage avec le symbole monétaire.
+
+31
+00:01:46,415 --> 00:01:49,540
+Le format monétaire pour toutes
+les cellules que j'ai sélectionnées.
+
+32
+00:01:49,540 --> 00:01:53,165
+Le 1,10 devient donc 1,10 €.
+
+33
+00:01:53,165 --> 00:01:58,794
+Les œufs 1 et je valide,
+c'est bien 1,00 €.
+
+34
+00:01:58,794 --> 00:02:04,685
+Les carottes, par exemple,
+à 1,20 et le soda à 0,9.
+
+35
+00:02:04,685 --> 00:02:09,802
+Vous voyez que l'affichage de ma feuille
+est déjà beaucoup plus explicite.
+
+36
+00:02:09,802 --> 00:02:13,195
+Je sais instantanément ici
+que l'on parle d'euros,
+
+37
+00:02:13,195 --> 00:02:17,902
+alors qu'ici, sans la valeur euros,
+on parle de quantité.
+
+38
+00:02:17,902 --> 00:02:21,865
+Il peut être important également
+de guider l'utilisateur
+
+39
+00:02:21,865 --> 00:02:24,741
+pour qu'il n'y ait pas
+de saisie incorrecte.
+
+40
+00:02:24,741 --> 00:02:27,107
+Par exemple ici, le prix du soda,
+
+41
+00:02:27,107 --> 00:02:30,685
+il n'est pas nécessaire
+de taper autre chose.
+
+42
+00:02:30,685 --> 00:02:33,312
+Si je tape autre, ça ne veut rien dire.
+
+43
+00:02:33,312 --> 00:02:36,190
+Alors, pour éviter
+ce genre de désagréments,
+
+44
+00:02:36,190 --> 00:02:38,726
+vous pouvez sélectionner les cellules
+
+45
+00:02:38,726 --> 00:02:44,203
+et demander à ce que ce qui est saisi
+puisse être contrôlé par Excel.
+
+46
+00:02:44,203 --> 00:02:46,519
+Direction l'onglet des données,
+
+47
+00:02:46,519 --> 00:02:51,090
+puis utilisez ce bouton ici
+de validation des données.
+
+48
+00:02:51,090 --> 00:02:54,237
+Par défaut, tout est autorisé,
+mais dans le cas présent,
+
+49
+00:02:54,237 --> 00:02:57,517
+je voudrais autoriser seulement
+non pas un nombre entier,
+
+50
+00:02:57,517 --> 00:03:01,631
+pas une liste, pas une date ni une heure,
+mais une saisie d'un nombre décimal.
+
+51
+00:03:01,631 --> 00:03:06,037
+Est-ce que cette valeur devra être
+comprise entre un mini et un maxi,
+
+52
+00:03:06,037 --> 00:03:11,399
+non comprise entre, égale à une valeur
+différente, etc., etc.
+
+53
+00:03:11,399 --> 00:03:18,426
+Dans le cas présent, nous allons choisir
+comprise entre un minimum de 0,01
+
+54
+00:03:18,426 --> 00:03:21,253
+et un maximum, par exemple, de 100.
+
+55
+00:03:21,253 --> 00:03:23,347
+Je clique sur OK.
+
+56
+00:03:23,347 --> 00:03:25,202
+Dans le cas du prix de l'unité,
+
+57
+00:03:25,202 --> 00:03:28,968
+eh bien, je pourrais répéter
+également une règle de validation.
+
+58
+00:03:28,968 --> 00:03:31,830
+Je viens ici, je n'autorise pas tout.
+
+59
+00:03:31,830 --> 00:03:37,282
+J'autorise une décimale également
+comprise avec un minimum de 0,01,
+
+60
+00:03:37,282 --> 00:03:39,728
+c'est-à-dire un cent et un maximum,
+
+61
+00:03:39,728 --> 00:03:43,439
+par exemple, de 20 euros,
+20 euros l'unité.
+
+62
+00:03:43,439 --> 00:03:45,210
+Et je clique sur OK.
+
+63
+00:03:45,210 --> 00:03:49,739
+Dans cette première partie,
+si je mets simplement 0 et que je valide
+
+64
+00:03:49,739 --> 00:03:52,303
+ou que j'utilise la touche
+Tab de mon clavier,
+
+65
+00:03:52,303 --> 00:03:56,962
+eh bien, le système va contrôler la saisie
+et on voit ici que la saisie est refusée
+
+66
+00:03:56,962 --> 00:04:01,268
+puisque ça n'entre pas entre
+le mini et le maxi désiré.
+
+67
+00:04:01,268 --> 00:04:04,836
+Je ne peux donc que réessayer ou annuler.
+
+68
+00:04:04,836 --> 00:04:07,600
+La même chose pour le prix de l'unité.
+
+69
+00:04:07,600 --> 00:04:11,950
+Si je tape par exemple 21,
+eh bien le système va me le refuser
+
+70
+00:04:11,950 --> 00:04:14,992
+puisque ça dépasse
+les bornes que j'ai définies,
+
+71
+00:04:14,992 --> 00:04:17,770
+c'est-à-dire entre 0,01 et 20.
+
+72
+00:04:17,770 --> 00:04:22,624
+Je peux par contre utiliser
+évidemment 0,01 pour le prix à l'unité.
+
+73
+00:04:22,624 --> 00:04:26,400
+Vous voyez qu'il est très facile
+d'apporter des modifications
+
+74
+00:04:26,400 --> 00:04:30,294
+afin que cette grille soit
+facilement compréhensible.
+
+75
+00:04:30,294 --> 00:04:32,840
+On voit immédiatement
+là où on parle d'argent
+
+76
+00:04:32,840 --> 00:04:35,367
+et là où on parle
+de quantité, par exemple,
+
+77
+00:04:35,367 --> 00:04:39,742
+et la mise en page rend tout de suite
+ce tableau plus agréable à utiliser.
+

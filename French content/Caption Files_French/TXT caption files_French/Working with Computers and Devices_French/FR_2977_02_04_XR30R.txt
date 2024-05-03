@@ -1,0 +1,66 @@
+Voici un élément essentiel de l'utilisation de votre ordinateur :
+apprendre le clic droit.
+Le clic droit fait référence au bouton trouvé sur le côté de la souris
+avec deux boutons ou plus.
+En général, si vous êtes droitier,
+vous cliquez sur le bouton gauche de la souris, la plupart du temps,
+avec votre index droit,
+par opposition au bouton droit qui est le bouton pour les options.
+Pour un droitier, le bouton gauche de la souris est le bouton principal,
+qui permet de sélectionner des éléments,
+de double-cliquer et de faire des sélections.
+
+Mais à la fois le système d'exploitation
+et la plupart des applications que vous utiliserez
+ont des actions spéciales qui apparaissent lorsque vous cliquez sur les éléments
+avec le bouton droit de la souris.
+Si vous êtes gaucher, il est probable que les boutons soient inversés.
+Alors, ce que j'appelle ici « bouton droit » est alors pour vous le gauche.
+Prenons l'exemple ici du bureau.
+Je dispose d'un fichier.
+Clic gauche sur le fichier me permet de le sélectionner.
+
+Clic gauche sur Corbeille me permet de sélectionner la corbeille.
+Si je double-clique avec le bouton gauche, j'ouvre alors mon fichier
+et je vois le contenu avec l'application associée à ce type de fichier.
+Je peux donc saisir directement dans cette application.
+Je ferme et j'enregistre.
+Mais si je clique avec le bouton droit,
+alors, un menu apparaît, un menu que l'on appelle « menu contextuel ».
+
+Ce menu est adapté à l'objet sur lequel je clique.
+Ce menu me propose, dans le cadre de mon fichier texte,
+de l'ouvrir, de l'imprimer, de le modifier et d'autres options adaptées à cet objet.
+Si je sélectionne la corbeille avec un clic gauche,
+puis clic droit sur ma souris,
+alors j'ai d'autres options qui apparaissent,
+comme ouvrir la corbeille, la vider, l'épingler, etc.
+Si je décide alors de l'ouvrir, je fais un clic gauche sur l'option ;
+ceci m'ouvre alors le contenu de la corbeille
+et vous voyez que dans cette corbeille, il y a différents éléments.
+
+Je peux cliquer sur un élément pour le sélectionner
+et, clic droit avec la souris,
+j'ai donc différentes options qui me sont proposées,
+pour restaurer ce fichier, le couper, le supprimer.
+Également sur la corbeille,
+si je retourne et que je clique avec le bouton droit,
+je vois que je peux également vider la corbeille.
+Bref, le clic droit de la souris,
+ce clic du bouton qui n'est pas le bouton principal,
+me permet de faire apparaître un menu contextuel.
+
+Je clique sur le bureau : j'ai les paramètres du bureau.
+Si je clique sur la barre des tâches,
+j'ai les paramètres et le menu contextuel des options de la barre des tâches.
+Je parlais de la différence pour la souris entre gauchers et droitiers.
+Eh bien, si vous êtes gaucher,
+rendez-vous dans les paramètres Windows en cliquant sur le menu Démarrer,
+puis Paramètres, et recherchez les informations concernant la souris.
+Modifier les paramètres de votre souris.
+
+Et là, vous choisissez le bouton principal.
+Est-ce que le bouton principal est celui de gauche ou celui de droite ?
+Si vous êtes gaucher,
+il est probable que le bouton principal soit celui de droite
+et si vous êtes droitier, le bouton principal est très certainement le gauche.

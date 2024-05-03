@@ -1,0 +1,176 @@
+﻿WEBVTT
+
+00:00:01.317 --> 00:00:03.257
+Les systèmes d'exploitation
+de bureaux modernes
+
+00:00:03.257 --> 00:00:07.257
+ont des fonctionnalités intégrées pour
+vous aider à protéger votre ordinateur
+
+00:00:07.257 --> 00:00:10.820
+contre des problèmes
+comme les virus ou les pirates.
+
+00:00:10.820 --> 00:00:14.271
+Vous pouvez toujours faire plus
+pur assurer la sécurité de vos données,
+
+00:00:14.271 --> 00:00:17.051
+mais au strict minimum,
+vous devez vérifier
+
+00:00:17.051 --> 00:00:20.245
+que les fonctionnalités de sécurité
+de base de votre ordinateur
+
+00:00:20.245 --> 00:00:22.130
+sont bien activées.
+
+00:00:22.130 --> 00:00:24.203
+Par exemple, dans Windows 10,
+
+00:00:24.203 --> 00:00:26.576
+eh bien, cliquons sur le menu Démarrer,
+
+00:00:26.576 --> 00:00:28.596
+puis commençons à taper
+les premières lettres
+
+00:00:28.596 --> 00:00:31.338
+de Panneau de configuration.
+
+00:00:31.338 --> 00:00:33.518
+Cliquons alors
+sur Panneau de configuration
+
+00:00:33.518 --> 00:00:35.396
+pour faire apparaître ce programme
+
+00:00:35.396 --> 00:00:38.784
+pour ensuite aller
+dans Système et sécurité.
+
+00:00:38.784 --> 00:00:41.084
+Je passe cette fenêtre en plein écran
+
+00:00:41.084 --> 00:00:44.840
+et allons voir
+le Pare-feu Windows Defender.
+
+00:00:44.840 --> 00:00:47.406
+Ceci est un service intégré.
+
+00:00:47.406 --> 00:00:51.437
+Cela aide à protéger votre ordinateur
+contre l'accès non autorisé
+
+00:00:51.437 --> 00:00:54.231
+sur votre réseau et sur Internet.
+
+00:00:54.231 --> 00:00:58.038
+Il peut se défendre ce système
+contre des logiciels malveillants
+
+00:00:58.038 --> 00:01:01.686
+et des pirates
+qui voudraient tenter d'accéder
+
+00:01:01.686 --> 00:01:03.318
+à votre ordinateur.
+
+00:01:03.318 --> 00:01:06.430
+Windows Defender
+doit être activé par défaut.
+
+00:01:06.430 --> 00:01:10.787
+Pour cela, allez
+sur Activer ou désactiver le Pare-feu
+
+00:01:10.787 --> 00:01:15.715
+et choisissez bien sûr d'Activer
+le Pare-feu Windows Defender
+
+00:01:15.715 --> 00:01:18.768
+aussi bien sur les réseaux publics
+que sur les réseaux privés.
+
+00:01:18.768 --> 00:01:22.145
+Windows 10 inclut également
+des fonctionnalités antivirus
+
+00:01:22.145 --> 00:01:24.159
+intégrées dans son système d'exploitation.
+
+00:01:24.159 --> 00:01:26.609
+Pour vérifier et configurer
+ces paramètres,
+
+00:01:26.609 --> 00:01:31.061
+allez dans le menu Démarrer de Windows,
+puis Paramètres de Windows
+
+00:01:31.061 --> 00:01:34.794
+pour aller ensuite
+dans Mise à jour et sécurité,
+
+00:01:34.794 --> 00:01:37.806
+descendez ensuite sur Sécurité Windows,
+
+00:01:37.806 --> 00:01:41.251
+puis Protection contre les virus
+et menaces.
+
+00:01:41.251 --> 00:01:42.731
+Nous voyons dans le cas présent
+
+00:01:42.731 --> 00:01:45.601
+les icônes surmontées
+d'une petite coche verte,
+
+00:01:45.601 --> 00:01:48.568
+cela signifie que c'est bien actif.
+
+00:01:48.568 --> 00:01:50.328
+Paramètres de protection contre les virus,
+
+00:01:50.328 --> 00:01:52.338
+Mise à jour de la protection
+contre les virus,
+
+00:01:52.338 --> 00:01:54.912
+Protection contre les ransomware, etc.
+
+00:01:54.912 --> 00:01:57.052
+Vous pouvez même faire,
+en cliquant sur ce bouton,
+
+00:01:57.052 --> 00:01:59.834
+une analyse rapide afin de vérifier
+
+00:01:59.834 --> 00:02:02.294
+que votre ordinateur
+n'a pas laissé passer un fichier
+
+00:02:02.294 --> 00:02:08.846
+qui aurait des menaces ou un fichier
+qui serait composé d'un virus.
+
+00:02:08.846 --> 00:02:13.107
+Voici l'analyse de Windows Defender
+a analysé que mon appareil
+
+00:02:13.107 --> 00:02:15.385
+n'avait aucune menace de détectée.
+
+00:02:15.385 --> 00:02:18.549
+Il est toujours judicieux
+de vérifier votre propre ordinateur
+
+00:02:18.549 --> 00:02:21.518
+pour vous assurer
+qu'il n'y a pas eu d'activation
+
+00:02:21.518 --> 00:02:24.761
+d'éléments en cours d'exécution
+qui seraient malveillants.

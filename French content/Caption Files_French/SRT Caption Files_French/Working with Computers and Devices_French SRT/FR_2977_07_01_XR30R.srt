@@ -1,0 +1,204 @@
+1
+00:00:00,837 --> 00:00:03,338
+La première étape pour travailler
+dans Microsoft Word
+
+2
+00:00:03,338 --> 00:00:07,608
+est d'ouvrir un document existant
+ou de créer un tout nouveau document.
+
+3
+00:00:07,608 --> 00:00:09,784
+Si vous créez un nouveau document,
+
+4
+00:00:09,784 --> 00:00:13,896
+vous pouvez bien sûr partir de zéro
+avec un document complètement vierge.
+
+5
+00:00:13,896 --> 00:00:17,452
+Mais vous pouvez également utiliser
+l'un des nombreux modèles disponibles
+
+6
+00:00:17,452 --> 00:00:19,526
+qui sont inclus dans Office.
+
+7
+00:00:19,526 --> 00:00:21,808
+Ainsi,
+vous allez pouvoir créer des documents
+
+8
+00:00:21,808 --> 00:00:27,008
+comme des curriculum vitae, dépliants,
+des rapports, des cartes, que sais-je.
+
+9
+00:00:27,008 --> 00:00:31,010
+Afin de créer un nouveau document
+cliquons sur le menu Démarrer,
+
+10
+00:00:31,010 --> 00:00:35,494
+allons dans les applications d'Office,
+ouvrons Word.
+
+11
+00:00:35,494 --> 00:00:39,439
+Nous pouvons, comme je vous disais,
+démarrer d'un document vierge
+
+12
+00:00:39,439 --> 00:00:43,048
+et démarrer ce document.
+
+13
+00:00:43,048 --> 00:00:48,286
+Mais également, vous pouvez
+partir d'un modèle existant.
+
+14
+00:00:48,286 --> 00:00:50,958
+Vous voyez qu'il existe
+de très nombreux modèles
+
+15
+00:00:50,958 --> 00:00:54,178
+à partir desquels vous pouvez
+donc créer votre document
+
+16
+00:00:54,178 --> 00:00:59,384
+et modifier bien entendu,
+pour ainsi le personnaliser.
+
+17
+00:00:59,384 --> 00:01:01,146
+Prenons un exemple.
+
+18
+00:01:01,146 --> 00:01:02,564
+Je voudrais faire une affichette.
+
+19
+00:01:02,564 --> 00:01:05,964
+Eh bien, je vais partir des différents
+modèles de prospectus
+
+20
+00:01:05,964 --> 00:01:09,313
+pour m'en inspirer
+et faire ainsi mon affiche.
+
+21
+00:01:09,313 --> 00:01:11,672
+Vous voyez qu'il existe
+de nombreux modèles.
+
+22
+00:01:11,672 --> 00:01:14,901
+Partons, par exemple, sur ce modèle.
+
+23
+00:01:14,901 --> 00:01:16,287
+Je clique sur Créer.
+
+24
+00:01:16,287 --> 00:01:19,883
+Le système, alors télécharge
+ce modèle et me le présente.
+
+25
+00:01:19,883 --> 00:01:23,361
+Et partant de ce modèle,
+je n'ai plus qu'à le personnaliser.
+
+26
+00:01:23,361 --> 00:01:26,720
+Par exemple, remplaçons ce texte.
+
+27
+00:01:26,720 --> 00:01:33,345
+Mettons, par exemple,
+« RENDEZ-VOUS SPORTIF POUR LA FAMILLE ».
+
+28
+00:01:33,345 --> 00:01:34,454
+Etc., etc.
+
+29
+00:01:34,454 --> 00:01:38,600
+Vous allez donc pouvoir modifier
+ce modèle afin de le personnaliser
+
+30
+00:01:38,600 --> 00:01:40,801
+et faire ainsi votre document.
+
+31
+00:01:40,801 --> 00:01:44,430
+À partir de l'onglet Fichier,
+allez sur Enregistrer
+
+32
+00:01:44,430 --> 00:01:47,752
+et choisissez où vous désirez
+enregistrer ce prospectus.
+
+33
+00:01:47,752 --> 00:01:51,696
+Peut-être, avez-vous un compte
+sur un espace digital,
+
+34
+00:01:51,696 --> 00:01:54,553
+un espace OneDrive
+ou un espace SharePoint,
+
+35
+00:01:54,553 --> 00:01:58,965
+et vous pouvez de toute façon aller
+l'enregistrer dans votre ordinateur.
+
+36
+00:01:58,965 --> 00:02:00,254
+Dans cet ordinateur,
+
+37
+00:02:00,254 --> 00:02:04,039
+le système vous propose
+de l'enregistrer dans vos documents.
+
+38
+00:02:04,039 --> 00:02:06,907
+Il vous suffit alors
+de rentrer le nom du fichier.
+
+39
+00:02:06,907 --> 00:02:14,366
+« Course pour la famille », par exemple,
+et cliquez sur Enregistrer.
+
+40
+00:02:14,366 --> 00:02:19,346
+On retrouve bien évidemment,
+à partir du menu Démarrer les documents.
+
+41
+00:02:19,346 --> 00:02:22,312
+Vous retrouvez le document
+que vous venez d'enregistrer.
+
+42
+00:02:22,312 --> 00:02:26,547
+Il vous suffira ultérieurement
+de double cliquer sur ce fichier
+
+43
+00:02:26,547 --> 00:02:30,975
+pour que Word s'ouvre et vous présente
+à nouveau le document prêt à être modifié.
+

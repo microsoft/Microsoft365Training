@@ -1,0 +1,58 @@
+Il y a un grand sentiment  d'accomplissement
+lorsque vous terminez un projet
+et que vous êtes prêt à la partager avec le monde.
+Pour vous assurer que vous partagez la meilleure version de votre travail
+avec quiconque a besoin de le voir,
+vous devez transformer ce document en PDF
+et Microsoft Word rend cela incroyablement facile à faire.
+Alors, qu'est-ce qu'un PDF exactement ?
+Un format de document portable  ou PDF en abrégé,
+est un format de fichier informatique
+pour la transmission d'un document multimédia
+qui n'est pas destiné  à être modifié davantage
+et qui apparaît inchangé dans la plupart des environnements informatiques.
+
+Considérez-le comme une version numérique du papier imprimé.
+Dans cette leçon, je vais vous montrer
+comment imprimer  vos documents numériquement
+en les transformant en PDF afin que vous puissiez les partager
+avec le monde exactement comme vous l'avez prévu.
+Pour commencer,  téléchargez le fichier d'exercice
+et ouvrez l'exemple  de document Word Mon CV 3.
+Mon CV ressemble à ce que je veux, je suis donc prêt à le finaliser.
+Je vais aller au ruban en haut de Word et sélectionner Fichier.
+
+Une nouvelle fenêtre apparaît avec plusieurs options.
+Je peux créer un nouveau fichier,
+ouvrir un fichier existant, enregistrer, partager,
+exporter ou imprimer.
+Pour créer un PDF,  je sélectionne Enregistrer sous.
+Une fois que j'ai sélectionné Enregistrer sous,
+quelques options s'ouvrent dans une nouvelle fenêtre.
+Je veux faire de mon CV un PDF.
+Je sélectionne donc Télécharger en tant que fichier PDF.
+
+Après avoir sélectionné Télécharger au format PDF,
+je dois choisir où je veux  enregistrer mon document
+et comment je veux le nommer.
+Pour le retrouver facilement plus tard, je veux l'enregistrer dans le même dossier
+où j'ai stocké mon document Word de CV.
+Donc, je navigue vers le dossier  de mon OneDrive où se trouve mon CV.
+Et maintenant, je vais changer le nom.
+Lorsque vous partagez des fichiers avec d'autres personnes,
+vous voudrez certainement  nommer le fichier d'une manière
+qui communique le contenu du document avant son ouverture.
+
+Je l'appellerai  « J ROBERT Assistant Administratif ».
+Ce type de nom de fichier permet à quiconque de savoir
+qu'il s'agit de mon CV
+pour ma candidature du poste d'assistant administratif.
+Donc, c'est tout,
+j'ai enregistré mon CV au format PDF
+et vous savez maintenant comment  créer une version de vos documents
+qui préserve parfaitement votre contenu et votre mise en forme à chaque fois.
+L'enregistrement de vos documents au format PDF est un excellent moyen
+de vous assurer que le document conserve toute la mise en forme souhaitée,
+même si différentes personnes y accèdent à partir de différents appareils
+à l'aide de divers logiciels.
+

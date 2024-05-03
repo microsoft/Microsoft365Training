@@ -1,0 +1,123 @@
+Pour atteindre vos objectifs,
+dresser une liste des tâches de la journée peut vous aider à rester
+sur la bonne voie.
+Pour libérer encore plus de temps à consacrer à ce qui
+compte vraiment,
+vous pouvez aller au-delà d'une liste de tâches grâce à
+son automatisation.
+Dans cette leçon, je vais vous montrer comment
+utiliser Power Automate pour créer et attribuer des tâches aux
+membres de l'équipe à l'aide de modèles. Dans le coin
+supérieur gauche
+d'office.com, je sélectionne le lanceur d'applications
+et j'ouvre Power Automate.
+
+À partir de là, je sélectionnerai Modèles
+dans le panneau de gauche.
+Les modèles sont triés par popularité et, en haut de la liste,
+il y a différentes catégories
+organisées par connecteurs et déclencheurs.
+Le flux que je souhaite créer sera déclenché lorsqu'un client
+remplira le formulaire d'intérêt de conseil en préparation
+de mariage.
+Recherchons alors planificateurs et formulaires en saisissant
+Planner et Forms dans le champ de recherche.
+
+Certains modèles tirant parti de ces produits se chargent,
+et je sélectionnerai alors Créer une tâche dans Planner à partir de
+Microsoft Forms et poster un message dans Teams.
+De cette façon, je pourrai suivre les demandes
+entrantes dans Planner, mais aussi informer mon équipe
+lorsque de nouveaux clients demandent de l'aide.
+Cette première page affiche une vue d'ensemble du modèle
+et de ses connecteurs,
+Microsoft Forms, Planner et Microsoft Teams.
+
+Vous aurez probablement à valider le connecteur en cliquant
+sur Se connecter.
+Sélectionnez
+Avant de commencer à ajouter du contenu,
+j'aime faire une analyse rapide du modèle et m'assurer qu'il répondra
+bien à mes besoins.
+Le flux sera donc déclenché lorsqu'une nouvelle réponse au
+formulaire sera soumise.
+Il utilisera les détails de la réponse pour créer une tâche
+puis publiera enfin un message dans Teams.
+
+Parfait.
+Je vais sélectionner le formulaire
+Intérêt pour le conseil en planification de mariage
+comme déclencheur,
+en sélectionnant Choisir un formulaire dans la case
+ID du formulaire.
+Ensuite, je vais utiliser le même formulaire dans l'étape
+Obtenir les détails de la réponse,
+en allant sélectionner ici Intérêt pour le conseil en
+planification de mariage.
+L'ID de réponse est déjà prérempli par le modèle.
+
+Dans la section suivante,
+pour l'identifiant du plan
+j'utiliserai le plan existant
+appelé ici Intérêt de préparation de mariage.
+Je vais entrer un titre,
+Contacter un nouveau client,
+et utiliser alors le lien
+Ajouter du contenu dynamique pour ajouter le nom et l'adresse email.
+
+Je laisserai les champs ID de compartiment et Date
+vides pour ce flux.
+Étant donné que cette tâche est destinée à Isaiah,
+je vais saisir son adresse courriel dans le champ Identifiant
+d'utilisateur attribué.
+Enfin, dans la section Publier un message dans la conversation
+ou dans un canal,
+je configurerai une notification qui apparaîtra dans le canal
+Teams qui s'appelle Formulaire de conseil.
+
+De cette façon, tout le monde saura quand un
+formulaire est soumis.
+Je laisserai les deux premiers paramètres sur
+Bot de flux et Canal.
+Power Automate a un robot automatisé qui publiera un message dans
+le canal de mon équipe,
+ce qui est parfait.
+Maintenant, je dois définir le nom de mon équipe.
+Je vais choisir Conseil en organisation de mariage.
+
+Je dois définir le canal dans lequel le bot publiera.
+Je vais choisir
+Formulaire de conseil.
+Enfin, je vais définir le message comme : Le nouveau formulaire
+d'intérêt est arrivé, et ajouter le prénom,
+le nom et l'adresse courriel depuis le contenu dynamique.
+
+Désormais, toute l'équipe saura qu'une nouvelle demande
+est arrivée.
+Maintenant, il ne me reste plus qu'à cliquer sur Enregistrer,
+dans le coin supérieur droit.
+Je vérifie toujours les erreurs en sélectionnant Vérificateur
+de flux
+et, une fois que je vois qu'il n'y a pas d'erreur ni d'avertissement,
+je peux alors tester mon flux en cliquant sur Test
+puis manuellement,
+puis sur le bouton Test.
+
+Line a ouvert le formulaire
+et soumettra une réponse test.
+
+Lorsque le formulaire est soumis, le flux s'exécute automatiquement.
+Je vois maintenant que le flux a parfaitement fonctionné.
+Le flux a automatiquement affecté l'intérêt de Line à Isaiah, et a
+publié un message dans le canal Teams,
+qui s'appelle Formulaire de conseil.
+Utiliser les modèles est un excellent moyen pour démarrer
+la création de vos flux.
+Il y a de fortes chances que le flux dont vous avez besoin
+existe déjà.
+
+Prenez le temps, cette semaine,
+de vous familiariser avec les options de modèles dans
+Power Automate.
+La beauté des modèles est que vous pouvez quand même personnaliser
+le flux selon vos besoins.

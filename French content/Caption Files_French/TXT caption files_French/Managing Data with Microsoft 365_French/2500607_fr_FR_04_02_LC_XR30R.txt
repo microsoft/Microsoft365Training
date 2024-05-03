@@ -1,0 +1,78 @@
+Avant de pouvoir commencer à créer des visualisations intéressantes,
+vous devez connaître les fonctions courantes et les écrans utilisés
+pour importer et examiner les données.
+Dans cette leçon, je vais vous montrer comment
+naviguer dans Power BI Desktop et vous permettre de connecter tous
+les éléments du programme.
+Vous pouvez installer Power BI Desktop sur votre PC en accédant
+au Microsoft Store et en recherchant Power BI.
+Lorsque vous ouvrez Power BI Desktop,
+vous verrez l'écran de démarrage.
+
+Ici, vous pouvez voir les nouveautés, le blog Power BI,
+les forums et divers didacticiels.
+Sur la gauche se trouve un menu d'options, où vous pouvez
+obtenir des données, accéder à des sources récentes
+ou ouvrir d'autres rapports.
+Une fois que vous fermez la fenêtre,
+vous serez dans l'espace de travail.
+En haut, vous verrez le ruban Accueil.
+Ce ruban contient les fonctions Power BI les plus courantes :
+Nouveau visuel, qui ajoute une visualisation à votre
+espace de travail.
+
+Classeur Excel, pour importer les données dans le programme
+et transformer les données pour les fusionner.
+Sur la gauche se trouve une barre avec trois boutons pour
+les écrans Rapports,
+Données
+et Modèles.
+Power BI Desktop démarre sur l'écran
+Rapports.
+C'est ici que vous allez créer vos visualisations.
+Je vais vous montrer un rapport sur lequel je travaille pour
+mon équipe de vente.
+
+Vous pouvez le télécharger dans les fichiers d'exercice,
+il s'appelle Exemple Rapport de vente.
+Dans mon espace de travail, il y a deux visualisations.
+Lorsque je sélectionne l'onglet Données, je peux voir
+toutes les données qui ont été utilisées pour créer ce rapport.
+
+Il s'agit de la table Client,
+elle ressemble à un tableau Excel. Sur la droite, se trouve une
+liste des autres ensembles de données importés par Power Bi.
+Ensuite, je sélectionne l'onglet Modèles.
+Cela vous donne une représentation graphique de vos données
+et de leurs relations.
+Dans cet exemple, vous examinez les clients,
+leur commande, les détails de la commande et les produits
+qu'ils ont achetés.
+
+Maintenant, je reviens à l'écran de Rapports.
+Sur le côté droit de l'espace de travail
+Rapports, vous verrez trois panneaux :
+filtres, visualisations et champs.
+Vous pouvez utiliser des filtres pour modifier vos visualisations
+afin de n'afficher qu'un sous-ensemble de données.
+Power BI permet aux utilisateurs de changer facilement de type de
+visualisation, en sélectionnant simplement des styles visuels dans
+le panneau de visualisation.
+
+Il y a les habituels graphiques à barres,
+les graphiques à secteurs ainsi que les graphiques avancés.
+Le panneau des champs vous permet de sélectionner les données sur
+lesquelles vous souhaitez créer un rapport.
+Lorsque vous importez des sources de données dans Power BI,
+elles s'affichent dans le panneau Champs.
+Vous utiliserez ce panneau pour sélectionner des champs pour
+vos visualisations.
+Enfin, l'espace de travail du rapport est décomposé en
+différentes pages.
+
+Vous pouvez en ajouter d'autres en sélectionnant le +
+en bas de l'écran.
+Voilà donc un aperçu rapide de Power BI.
+Commencez
+petit et importez des données d'un classeur Excel dans Power BI,
+et familiarisez-vous avec l'outil.

@@ -1,0 +1,97 @@
+Les réseaux wi-fi vous permettent de vous connecter
+sans l'utilisation  d'une connexion ethernet câblée
+dans un endroit comme la maison, votre bureau, dans les hôtels
+et ainsi de suite.
+Alors, jetons un coup d’œil à la façon de se connecter à un réseau Wi-Fi.
+Alors, la première étape consiste à vérifier votre statut Wi-Fi.
+Est-ce que vous êtes bien connecté en réseau Wi-Fi ?
+Pour cela, en bas à droite de votre écran,
+j'ai le symbole d'un ordinateur avec un câble,
+c'est-à-dire que mon ordinateur portable est actuellement connecté au réseau.
+
+Direction les paramètres et dans les paramètres de Windows,
+allez sur Réseau et Internet.
+Actuellement, comme je vous disais,
+mon ordinateur est donc connecté avec un câble.
+Et cette connexion lui permet d'accéder à internet.
+Je suis connecté à un réseau privé.
+Sur le côté gauche, vous voyez Wi-Fi.
+Le Wi-Fi est actuellement activé.
+C'est-à-dire que cet ordinateur portable
+est capable de se connecter à un réseau sans fil
+et qu'il a la technologie puisque j'ai pu activer ce réseau Wi-Fi.
+
+Je peux voir quels sont les réseaux
+disponibles auxquels je pourrais me connecter
+en cliquant sur ce lien ou en cliquant directement
+sur le symbole qui est en bas à droite.
+Peut-être que le symbole en bas à droite
+est le même que ce symbole Wi-Fi.
+Ou peut-être avez-vous comme symbole un globe
+un peu comme celui  que l'on voit derrière l'écran.
+Quoi qu'il en soit, c'est bien
+une icône que vous avez en bas dans la barre des tâches
+qui symbolise le réseau.
+
+En cliquant sur ce symbole
+ou en cliquant sur le lien Afficher les réseaux disponibles,
+le système vous affiche alors les différents réseaux
+auxquels vous pouvez peut-être vous connecter si vous avez
+les mots de passe ou si les réseaux sont ouverts.
+Ici, FreeWifi,  vous voyez qu'il y a un réseau
+qui semble être ouvert,
+mais qui demande pour autant une authentification.
+Et puis, les autres réseaux  sont sécurisés.
+Comme la Maisonnette 2,4G le FreeWifi, la Freebox,
+la Maisonnette 5G.
+
+Ce sont des points d'accès, certes, mais qui sont sécurisés,
+c'est-à-dire qui demandent  un mot de passe pour s'y connecter.
+Alors, faisons un essai.
+Je me connecte par exemple sur Maisonnette 2,4G.
+Je peux m'y connecter automatiquement.
+C'est-à-dire,
+une fois que je me serai connecté à ce réseau
+et que j'ai entré le mot de passe,
+alors, l'ordinateur sera capable de se reconnecter tout seul
+d'une manière automatique la prochaine fois
+que il va trouver ce réseau.
+
+Donc, je réallume mon ordinateur,
+l'ordinateur trouve le réseau,
+il tente de se connecter automatiquement à ce réseau.
+Juste avant de nous connecter à ce réseau,
+il est bon de rappeler qu'il faut éviter
+de se connecter  à des réseaux Wi-Fi inconnus
+pour des raisons de sécurité et même des raisons d'éthique.
+Alors, lorsque l'on veut  se connecter à un réseau Wi-Fi,
+eh bien, il nous suffit
+d'appuyer sur le bouton Se connecter
+et le système nous invite alors à rentrer la clé de sécurité.
+
+Si vous êtes sur une connexion par exemple à un hôtel,
+eh bien, il est fort probable  que en cliquant sur Se connecter,
+le système vous ouvre alors une page dans votre navigateur internet,
+une page à travers laquelle vous devrez vous identifier.
+Parfois, votre adresse e-mail suffit.
+Dans le cas présent, il faut rentrer la clé de sécurité réseau.
+Ça peut être une clé que l'on appelle « WEP » également.
+Si vous vous connectez  directement à votre box par exemple,
+eh bien, vous avez une clé de sécurité réseau
+qui doit être étiquetée sur votre box.
+
+Et dans ce cas-là, vous allez pouvoir rentrer ici cette clé
+et vous connecter au réseau.
+Si vous êtes sur un réseau d'entreprise, eh bien, votre service informatique
+a dû vous donner cette clé afin de vous connecter au réseau.
+Dan le cas présent, je rentre
+la clé de sécurité et je clique sur Suivant.
+Le système tente alors de se connecter au réseau
+via le mot de passe que je lui ai donné.
+Une fois que la connexion est faite,
+me voici donc connecté à un réseau sécurisé.
+
+Si jamais je n'avais pas de connexion à internet,
+vous auriez ici un message qui vous indique
+que vous n'avez pas  de connexion à internet,
+mais que vous êtes pour autant connecté à un réseau Wi-Fi.

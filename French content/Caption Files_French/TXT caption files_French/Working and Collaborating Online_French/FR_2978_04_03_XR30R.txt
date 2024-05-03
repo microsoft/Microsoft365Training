@@ -1,0 +1,55 @@
+La capacité de Microsoft Word à suivre les modifications
+vous permet d'effectuer librement ces modifications sur un document
+et vos collaborateurs  pourront voir exactement
+quelles modifications vous avez apportées.
+Alors pour cela, direction l'onglet Révision.
+À partir de cet onglet Révision, allez dans la partie Suivi
+et activez le suivi des modifications.
+Choisissez Aucune marque dans un premier temps.
+Et retournez donc à votre document.
+
+Changez alors ce qui est nécessaire.
+« Il était une fois » par exemple,
+je pourrais choisir de le mettre en gras.
+« un prince », je pourrais choisir  d'utiliser par exemple la couleur bleue
+et la princesse, eh bien pourquoi pas, de la couleur rose.
+Etc.
+« Il faisait beau, le ciel était bleu » et j'en passe.
+Et puis, cette zone de texte, je décide, pourquoi pas, de la supprimer.
+Les autres personnes vont pouvoir  alors suivre les modifications.
+
+Pour cela,
+il suffit qu'ils aillent dans cet onglet Révision,
+puis dans Suivi
+et de faire apparaître alors
+Toutes les marques ou de simples marques dans un premier temps.
+En faisant apparaître de simples marques, un trait rouge
+qui montre qu'il y a eu modification dans cette partie du texte.
+Si je fais apparaître Toutes les marques,
+alors les personnes voient non seulement l'endroit, mais le détail.
+La personne qui a mis en forme, police gras,
+qui a mis également en forme avec de la couleur ;
+en l'occurrence ici,  une couleur accentuée numéro un
+et la couleur de police rose.
+
+Et également, sur cette zone, il y a eu suppression, on le voit bien
+puisque le texte est barré et il apparaît en rouge.
+Alors, retournons dans le suivi du document.
+À partir de cette liste,  je peux également choisir
+de ne voir Aucune marque
+et de voir, pourquoi pas,  le document tel qu'il était à l'original.
+C'est-à-dire avant que le bouton Suivi des modifications soit sélectionné.
+Et puis également, je peux filtrer.
+En choisissant ici de voir Toutes les marques,
+eh bien, dans Afficher les marques, je peux choisir de ne voir
+que les commentaires ou d'enlever les commentaires,
+de ne voir que les insertions  et suppressions,
+ou d'enlever insertions  et suppressions, etc.
+
+Bref, je vais pouvoir choisir  quoi voir dans les différentes marques.
+Et puis bien sûr, en final,
+je peux passer par les modifications me permettant
+d'accepter chaque modification et de passer à la suivante
+ou d'accepter toutes les modifications.
+Et pourquoi pas ici, de refuser la modification,
+puis de passer à la suivante ou de refuser toutes les modifications.

@@ -1,0 +1,112 @@
+Entre les nouvelles conversations,
+les documents et les messages,
+si vous n'organisez pas votre boîte de réception,
+tous les e-mails que vous recevez peuvent être difficiles à trier.
+Dans cette leçon,
+je vais vous montrer quelques bonnes pratiques
+pour organiser votre boîte de réception dans Outlook
+afin que vous puissiez mieux suivre les informations
+au fur et à mesure qu'elles arrivent.
+L'un des meilleurs moyens de garder l'e-mail à l'esprit
+est d'utiliser les drapeaux.
+Les drapeaux sont un moyen facile d'indiquer l'importance d'un e-mail
+sur lequel vous n'allez pas agir immédiatement.
+
+Dans cet exemple,
+je marquerai les e-mails liés à l'événement que je gère.
+Donc d'abord, je vais commencer
+à partir de la page d'accueil de Microsoft 365
+et ouvrir Outlook.
+Me voici dans ma boîte de réception,
+il y a de nouveaux messages non lus
+ainsi que des messages que j'ai déjà lu.
+Pour définir un indicateur,
+placez votre curseur sur le message électronique.
+
+Ensuite, sélectionnez l'icône du drapeau
+dans le coin supérieur droit du message.
+Le drapeau passe au rouge
+et lorsque le message électronique est ouvert,
+un message de suivi apparaît dans l'en-tête de l'email.
+Pour supprimer un drapeau,
+sélectionnez l'icône du drapeau,
+l'indicateur suivi se transforme en coche.
+Lorsque l'email est ouvert dans l'en-tête supérieure,
+il indique la date à laquelle l'indicateur a été complété.
+
+Une autre façon de garder les emails organisés
+consiste à utiliser des catégories de couleurs.
+Les catégories de couleurs vous permet d'identifier et de regrouper
+les éléments associés dans Outlook
+afin de rapidement pouvoir les suivre et les organiser.
+Avant d'utiliser une catégorie de couleur,
+vous devez d'abord en créer une.
+Sélectionnez l'email que vous souhaitez ajouter à une catégorie,
+accédez au ruban
+et identifiez l'icône catégorisée.
+
+Sélectionnez le menu déroulant,
+puis Nouvelle catégorie.
+Ajoutez un nom à la catégorie et sélectionnez une couleur.
+Je nommerai la mienne Événement client.
+Sélectionnez ensuite Enregistrer.
+Cette catégorie de couleur est maintenant prête à être utilisée.
+Ensuite, je clique avec le bouton droit sur un message
+dans la liste des messages,
+je sélectionne Catégoriser
+et sélectionne la catégorie que je viens de créer dans la liste.
+
+Vous pouvez même attribuer une catégorie de couleur
+à partir du volet de lecture
+ou d'un message ouvert.
+Le prochain outil d'organisation de la boîte de réception
+que je recommande
+est d'utiliser la réponse automatique.
+La réponse automatique vous permet de répondre aux emails
+lorsque vous êtes absent du bureau ou indisponible.
+Pour configurer la réponse automatique,
+sélectionnez l'icône Paramètres,
+puis Afficher tous les paramètres Outlook,
+puis Réponse automatique.
+
+Activez l'option activer les réponses automatiques
+et vous pouvez ensuite saisir votre message dans la boîte de message.
+Tapez votre message d'absence du bureau.
+J'aime utiliser quelque chose comme
+Merci pour votre e-mail,
+je suis hors du bureau,
+je répondrai à mon retour.
+Si vous ne voulez pas que votre message d'absence du bureau
+soit envoyée en permanence,
+sélectionnez Envoyer des réponses pendant une période de temps.
+
+Ensuite, choisissez les dates et heures
+pour lesquels vous souhaitez définir votre réponse automatique.
+Vous pouvez également choisir, si vous le souhaitez,
+que Outlook bloque votre calendrier pour cette période,
+refuse de nouvelles invitations
+ou annule toute réunion
+que vous pourriez avoir pendant cette période.
+
+Vous pouvez formater le texte à l'aide de la barre d'outils
+ou couper et coller un texte
+que vous auriez déjà formaté,
+y compris les liens hypertextes.
+Lorsque vous avez terminé avec le message et les paramètres,
+sélectionnez Enregistrer.
+Désormais, Outlook est programmé
+pour envoyer la réponse automatisée
+en réponse au message
+pendant les heures que vous avez sélectionné.
+Le tri et l'organisation de vos emails
+sont des compétences clés
+pour garder les communications et les informations importantes,
+facile à retrouver.
+
+Une boîte de réception organisée
+vous permettra de rester concentré
+et de concentrer votre temps
+à des tâches plus importantes.
+Essayez d'utiliser ces outils pour mettre de l'ordre
+dans votre boîte de réception cette semaine
+et voyez combien de temps vous pouvez gagner.

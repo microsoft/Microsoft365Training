@@ -1,0 +1,427 @@
+1
+00:00:01,066 --> 00:00:05,314
+Avez-vous déjà pris des notes détaillées
+pour les parcourir ensuite
+
+2
+00:00:05,314 --> 00:00:09,387
+afin de retrouver quelque chose
+d'important que vous aviez noté ?
+
+3
+00:00:09,387 --> 00:00:11,580
+Que c'est compliqué.
+
+4
+00:00:11,580 --> 00:00:12,800
+Dans cette leçon,
+
+5
+00:00:12,800 --> 00:00:15,673
+je vais vous expliquer comment
+vous pouvez utiliser OneNote
+
+6
+00:00:15,673 --> 00:00:18,090
+pour vous aider à organiser vos notes.
+
+7
+00:00:18,090 --> 00:00:22,390
+Je vais ommencer sur la page d'accueil
+de Microsoft 365.
+
+8
+00:00:22,390 --> 00:00:31,956
+Sélectionnez OneNote
+dans le menu de gauche.
+
+9
+00:00:31,956 --> 00:00:33,226
+Dans cet exemple,
+
+10
+00:00:33,226 --> 00:00:37,573
+je vais créer un bloc-note
+pour un événement que j'organise.
+
+11
+00:00:37,573 --> 00:00:42,652
+En sélectionnant Nouveau bloc-notes,
+
+12
+00:00:42,652 --> 00:00:47,790
+vous pouvez alors nommer
+votre bloc-notes.
+
+13
+00:00:47,790 --> 00:00:54,270
+Je vais nommer le mien Évènement client,
+
+14
+00:00:54,270 --> 00:00:59,460
+puis je vais sélectionner Créer.
+
+15
+00:00:59,460 --> 00:01:04,380
+Chaque bloc-notes OneNote
+contient des sections
+
+16
+00:01:04,380 --> 00:01:07,530
+et chaque section contient des pages.
+
+17
+00:01:07,530 --> 00:01:13,560
+Comme vous pouvez le voir
+sous le menu sur le côté gauche.
+
+18
+00:01:13,560 --> 00:01:19,440
+Pour ajouter du contenu à un bloc-note
+vous devez créer une structure.
+
+19
+00:01:19,440 --> 00:01:22,980
+D'abord avec des sections,
+puis des pages
+
+20
+00:01:22,980 --> 00:01:26,250
+et des sous-pages
+dans chacune de ces sections.
+
+21
+00:01:26,250 --> 00:01:29,550
+Étant donné qu'il y a beaucoup
+de réunions pour cet événement,
+
+22
+00:01:29,550 --> 00:01:32,234
+je vais créer une section
+en appuyant sur Entrée
+
+23
+00:01:32,234 --> 00:01:42,366
+sur cette page de bloc-notes vide
+et nommer la section Agenda.
+
+24
+00:01:42,366 --> 00:01:45,220
+À l'intérieur de cette nouvelle section,
+
+25
+00:01:45,220 --> 00:01:48,346
+une page vierge est
+automatiquement créée.
+
+26
+00:01:48,346 --> 00:01:51,709
+Pour garder chaque page
+de notes organisée,
+
+27
+00:01:51,709 --> 00:01:57,720
+je vais intituler cette page
+Sessions en petits groupes.
+
+28
+00:01:57,720 --> 00:02:00,990
+Et maintenant, dans la page
+Sessions en petits groupes,
+
+29
+00:02:00,990 --> 00:02:05,264
+dans la session Agenda
+dans le bloc-notes de l'événement client,
+
+30
+00:02:05,264 --> 00:02:08,740
+je peux enfin commencer
+à noter mes réflexions.
+
+31
+00:02:08,740 --> 00:02:11,931
+Pour ajouter plus de pages
+à chaque section,
+
+32
+00:02:11,931 --> 00:02:18,330
+naviguez vers le bas
+et sélectionnez Ajouter une page
+
+33
+00:02:18,330 --> 00:02:21,270
+puis donnez-lui un titre.
+
+34
+00:02:21,270 --> 00:02:23,468
+Je vais ajouter
+deux pages supplémentaires :
+
+35
+00:02:23,468 --> 00:02:33,840
+Groupe A et Groupe B.
+
+36
+00:02:33,840 --> 00:02:36,068
+Pour ajouter plus de sections
+au bloc-notes,
+
+37
+00:02:36,068 --> 00:02:43,860
+sélectionnez Ajouter une section
+en bas et donnez-lui un titre.
+
+38
+00:02:43,860 --> 00:02:51,570
+Je vais ajouter une section supplémentaire
+et l'appeler planification.
+
+39
+00:02:51,570 --> 00:02:56,196
+Pour renommer une page ou une section,
+sélectionnez-la
+
+40
+00:02:56,196 --> 00:03:01,434
+puis cliquez dessus avec le bouton droit
+et choisissez Renommer.
+
+41
+00:03:01,434 --> 00:03:03,956
+Entrez ensuite le nouveau nom.
+
+42
+00:03:03,956 --> 00:03:16,650
+Je vais renommer cette section
+en Logistique.
+
+43
+00:03:16,650 --> 00:03:18,834
+Pour ajouter encore
+plus de structure à vos notes,
+
+44
+00:03:18,834 --> 00:03:22,406
+vous pouvez transformer vos pages
+en sous-pages.
+
+45
+00:03:22,406 --> 00:03:26,621
+Par exemple, vous pouvez transformer
+les pages Groupe A et Groupe B
+
+46
+00:03:26,621 --> 00:03:30,546
+en sous-pages de la page
+Sessions en petits groupes.
+
+47
+00:03:30,546 --> 00:03:33,390
+Pour transformer une page en sous-pages,
+
+48
+00:03:33,390 --> 00:03:35,685
+cliquez dessus avec le bouton
+droit de la souris
+
+49
+00:03:35,685 --> 00:03:42,210
+et sélectionnez Créer une sous-page.
+
+50
+00:03:42,210 --> 00:03:44,634
+Vous verrez alors le titre
+se placer en retrait
+
+51
+00:03:44,634 --> 00:03:47,171
+juste en dessous de votre page principale,
+
+52
+00:03:47,171 --> 00:03:49,810
+indiquant qu'il s'agit maintenant
+d'une sous-page.
+
+53
+00:03:49,810 --> 00:03:53,033
+Pour convertir à nouveau
+la sous-page en une page principale,
+
+54
+00:03:53,033 --> 00:03:56,070
+cliquez dessus avec le bouton
+droit de la souris
+
+55
+00:03:56,070 --> 00:03:59,080
+et sélectionnez
+Hausser la sous-page d'un niveau.
+
+56
+00:03:59,080 --> 00:04:04,520
+En dehors de la hiérarchie structurelle,
+OneNote permet de faciliter la recherche
+
+57
+00:04:04,520 --> 00:04:08,690
+de ce que vous souhaitez retrouver
+grâce aux balises et à la recherche.
+
+58
+00:04:08,690 --> 00:04:12,568
+Les balises peuvent être utilisées
+pour classer et hiérarchiser les notes
+
+59
+00:04:12,568 --> 00:04:13,941
+dans votre classeur.
+
+60
+00:04:13,941 --> 00:04:17,569
+Avec les balises,
+vous pouvez revenir rapidement aux notes,
+
+61
+00:04:17,569 --> 00:04:22,218
+vous souvenir des éléments d'action ou
+simplement marquer ce qui est important.
+
+62
+00:04:22,218 --> 00:04:23,688
+Pour appliquer une balise,
+
+63
+00:04:23,688 --> 00:04:26,627
+accédez à la page sur laquelle
+vous souhaitez travailler.
+
+64
+00:04:26,627 --> 00:04:31,701
+Ensuite, placez le curseur
+au début de la ligne de texte
+
+65
+00:04:31,701 --> 00:04:33,750
+que vous souhaitez baliser.
+
+66
+00:04:33,750 --> 00:04:39,533
+Je vais ajouter ici le nom d'une personne.
+
+67
+00:04:39,533 --> 00:04:43,488
+Ensuite, allez à Accueil
+dans le ruban supérieur
+
+68
+00:04:43,488 --> 00:04:47,580
+et sélectionnez balises.
+
+69
+00:04:47,580 --> 00:04:50,620
+Choisissez la balise que
+vous souhaitez appliquer.
+
+70
+00:04:50,620 --> 00:04:55,950
+Sélectionnez-la
+pour qu'elle apparaisse à côté du texte.
+
+71
+00:04:55,950 --> 00:04:58,938
+Lorsque vous avez terminé
+avec une note balisée,
+
+72
+00:04:58,938 --> 00:05:01,500
+vous pouvez supprimer la balise.
+
+73
+00:05:01,500 --> 00:05:03,238
+Pour supprimer une balise,
+
+74
+00:05:03,238 --> 00:05:06,176
+placez votre curseur
+juste après la balise
+
+75
+00:05:06,176 --> 00:05:08,730
+et utilisez la touche Suppr.
+
+76
+00:05:08,730 --> 00:05:11,001
+Pour rechercher dans votre bloc-notes.
+
+77
+00:05:11,001 --> 00:05:15,799
+Allez dans le menu de gauche
+et sélectionnez l'icône Loupe.
+
+78
+00:05:15,799 --> 00:05:26,040
+Dans la zone de recherche,
+saisissez un mot-clé ou une expression.
+
+79
+00:05:26,040 --> 00:05:28,133
+Au fur et à mesure que vous tapez,
+
+80
+00:05:28,133 --> 00:05:32,573
+OneNote commence à renvoyer des résultats
+correspondant à votre recherche.
+
+81
+00:05:32,573 --> 00:05:36,557
+Choisissez un résultat
+pour récupérer la note correspondante.
+
+82
+00:05:36,557 --> 00:05:38,943
+Lorsque vous avez terminé la recherche,
+
+83
+00:05:38,943 --> 00:05:42,005
+appuyez sur la touche Échap
+de votre clavier.
+
+84
+00:05:42,005 --> 00:05:44,229
+Maintenant
+que vous avez organisé vos notes,
+
+85
+00:05:44,229 --> 00:05:46,839
+il est important de savoir
+où elles sont enregistrées.
+
+86
+00:05:46,839 --> 00:05:51,263
+Les notes sont automatiquement et
+continuellement enregistrés dans le cloud
+
+87
+00:05:51,263 --> 00:05:53,790
+dans votre OneDrive.
+
+88
+00:05:53,790 --> 00:05:58,819
+OneNote est un outil très utile
+pour capturer et organiser les notes.
+
+89
+00:05:58,819 --> 00:06:03,270
+Essayez d'utiliser des balises
+et des sous-pages dans OneNote
+
+90
+00:06:03,270 --> 00:06:05,194
+dans vos réunions cette semaine,
+
+91
+00:06:05,194 --> 00:06:07,350
+et utilisez les outils
+pour organiser vos notes.
+

@@ -1,0 +1,74 @@
+La création de mots de passe forts est d'une importance vitale
+pour maintenir la sécurité de votre compte sur votre ordinateur,
+mais également pour vous sécuriser en ligne.
+Si votre mot de passe est facilement deviné,
+tous vos documents et autres fichiers pourraient potentiellement être consultés
+par n'importe qui ayant accès à votre ordinateur.
+Lorsque vous créez pour la première fois un compte sur votre système d'exploitation
+ou lorsqu'un compte est créé pour vous
+par une personne qui administre votre ordinateur,
+un mot de passe est créé pour que vous accédiez à votre compte.
+
+Vous pouvez modifier votre mot de passe à tout moment,
+ce que vous voudrez peut-être faire,
+si vous sentez que votre mot de passe n'est pas assez fort
+ou que quelqu'un peut avoir deviné votre mot de passe.
+Mais qu'est-ce qui fait exactement un mot de passe fort ?
+La sagesse conventionnelle suggère souvent des lignes directrices.
+Votre mot de passe doit avoir au moins huit caractères.
+Les mots de passe courts sont plus faciles à deviner.
+Il devrait s'agir d'une combinaison de lettres, de chiffres et de symboles.
+
+Il devrait y avoir au moins une majuscule
+et vous voudrez éviter d'en faire la première lettre,
+car c'est une pratique assez courante.
+Il serait souhaitable également d'avoir au moins un numéro
+et au moins un symbole.
+Alors les points d'exclamation, le hashtag sont assez communs.
+Alors cependant, essayez des symboles moins utilisés.
+Peut-être le point-virgule ou la virgule.
+Évitez également d'utiliser des dates, des chiffres et des noms
+que les gens connaissent.
+Ne mettez pas votre date de naissance.
+Ne mettez pas non plus le nom de jeune fille.
+
+Évitez d'écrire votre mot de passe sur papier, évidemment.
+Si vous deviez l'écrire, gardez-le physiquement sécurisé et verrouillé
+dans le coffre, par exemple,
+et pas seulement sous votre clavier avec un Post-it.
+Maintenant, cela dit, comment pouvez vous créer un mot de passe sécurisé
+que vous pouvez vous rappeler ?
+Il y a différentes écoles de pensée à ce sujet.
+Alors, une suggestion est de penser à une courte phrase
+qui a du sens pour vous, mais pas une connexion directe.
+Par exemple, quatre points et il y a sept ans
+ou quatre lustres et sept semaines, etc.
+
+Pour en faire un mot de passe,
+je pourrais échanger, par exemple, avec a4l&7S.
+Bref, je vais utiliser les différents éléments des mots
+comme les premières lettres
+et je remplace les mots qui signifient des chiffres par les chiffres.
+Il s'agit là, d'un mot de passe assez sécurisé pour une phrase clé
+que vous pouvez garder dans votre tête sans l'écrire.
+Maintenant, il n'a pas au moins huit caractères,
+mais je pourrais ajouter quelques symboles
+que je vais facilement me rappeler avant ou après la phrase, comme je veux.
+
+Je vous donne quelques autres exemples.
+Par exemple, une phrase d'au moins quatre ou cinq mots,
+MonChienMaxEstSuperActif! ou alors LesBiscuitsVontBienAvecLeCafé!!
+Et avec ceci, eh bien, vous avez différentes lettres.
+Vous pouvez ajouter des chiffres et pourquoi pas des caractères au bout.
+Maintenant, un ordinateur puissant
+pourrait être en mesure de deviner ces mots de passe.
+Mais la plupart des systèmes vous verrouillent
+dès que vous dépassez un nombre raisonnable de tentatives.
+Par exemple, autour de 10 tentatives.
+Donc, ces mots de passe doivent être complexes,
+mais ils doivent également être facilement mémorables
+pour que vous puissiez les entrer relativement facilement.
+
+Assurez-vous de prendre un certain temps
+pour développer votre propre mot de passe fort,
+pour votre information de connexion sur votre ordinateur.

@@ -1,0 +1,51 @@
+La collaboration est la clé de la réussite de toute entreprise.
+Comme l'a dit un jour le consultant en affaires et
+auteur Ken Blanchard,
+aucun de nous n'est aussi intelligent que nous tous réunis.
+Dans cette leçon, je vais vous montrer comment
+partager votre formulaire avec des collaborateurs
+afin qu'ils puissent afficher, modifier et réviser les résultats
+de votre formulaire.
+Je vais vous montrer les deux meilleures options de partage avec
+votre équipe et votre organisation, afin que vous puissiez décider
+laquelle vous convient le mieux. Dans le coin supérieur
+gauche d'office.com,
+je sélectionne le lanceur d'applications
+et j'ouvre Forms.
+
+À partir de là, j'ouvre le formulaire
+Intérêt pour le conseil en planification de mariage.
+Pour partager ce formulaire avec une personne spécifique
+de mon équipe,
+je sélectionne Partager, dans le coin supérieur droit.
+Tout en bas, se trouve Partager pour collaborer, et je sélectionne
+Obtenir un lien de consultation et modification.
+Si je sélectionne le menu déroulant
+Utilisateurs disposant d'un compte Office 365,
+deux options supplémentaires s'affichent.
+
+Je partagerai ceci uniquement avec ceux qui en ont besoin,
+en sélectionnant Certains membres de mon organisation
+peuvent consulter et modifier le contenu.
+Je peux maintenant entrer le membre de l'équipe qui m'aidera
+dans ce formulaire,
+Isaiah.
+Maintenant, deux personnes ont accès, Isaiah et moi-même. Si, à la place,
+je souhaite partager ce formulaire avec toute personne de
+mon organisation, je modifierai en
+Les membres de mon organisation peuvent consulter et modifier
+le contenu.
+
+Je peux donc maintenant copier le lien et l'envoyer à ma collègue
+Line pour examen.
+Je vais sélectionner Copier et ainsi je peux
+envoyer le lien
+à Line. Line et moi pouvons maintenant collaborer et préparer
+ce formulaire à envoyer aux clients potentiels.
+Lorsque vous créez des formulaires,
+veillez à inclure au moins un autre membre de l'équipe dans
+son processus de révision.
+La co-création et la collaboration dans Microsoft 365 sont un
+excellent moyen de vous assurer que vos formulaires sont prêts à
+être partagés avec le monde entier.
+

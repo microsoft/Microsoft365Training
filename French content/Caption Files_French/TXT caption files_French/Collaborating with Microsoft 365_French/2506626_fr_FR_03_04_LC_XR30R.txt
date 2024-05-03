@@ -1,0 +1,60 @@
+Le temps est précieux.
+Lorsque votre équipe utilise fréquemment un document,
+vous pouvez faire gagner du temps à tout le monde
+en ajoutant ce document à un onglet.
+Dans cette leçon,  je vais vous montrer comment
+ajouter des onglets à vos chaînes
+pour aider votre équipe à accéder rapidement
+aux contenus dont elle a le plus besoin.
+Dans cet exemple,
+j'ai déjà ouvert des équipes et créé une équipe
+pour collaborer sur une conférence à venir.
+Je travaille sur une conférence sur les compétences avec mon équipe.
+
+J'ai déjà créé une équipe avec des canaux spécifiques,
+mais je souhaite
+qu'il soit encore plus accessible pour mon équipe de collaborer
+et de terminer son travail.
+Mon équipe logistique
+utilise et ajuste constamment les salles
+qui seront utilisés
+pour la conférence sur les compétences.
+Tout le monde collabore sur le même dossier
+et c'est très bien.
+Le fichier se trouve dans l'onglet Fichiers
+de mon canal logistique,
+mais je veux leur faciliter encore plus l'accès à ce fichier fréquemment utilisé.
+
+Je vais donc ajouter ce fichier sous la forme d'onglets
+dans le canal logistique
+afin qu'il soit accessible en une seule étape.
+Tout d'abord, je dois accéder à mon canal logistique.
+Ensuite, j'irai dans l'onglet Fichiers
+et sélectionnerai Afficher les actions
+à côté du nom du fichier.
+Une fenêtre apparaît,
+me donnant plusieurs actions que je peux prendre avec ce fichier.
+
+Je peux l'ouvrir, le copier,
+le renommer
+et d'autres actions.
+Mais pour le moment,
+je veux juste faire de ce fichier un onglet
+et je vais donc sélectionner
+Convertir en onglet.
+Le fichier est maintenant un onglet
+dans mon canal logistique,
+ce qui le rend facile d'accès pour tout le monde dans le canal.
+Vous pouvez ajouter une variété d'onglets dans vos chaînes
+pour voir toutes les options disponibles.
+
+Pour ajouter des onglets dans vos chaines,
+sélectionnez le bouton Ajouter un onglet,
+vous pouvez ajouter des sites web,
+des fichiers de différentes applications
+comme Word, OneNote, Excel et Power Point.
+Il y a tellement de choses à explorer.
+Ajouter des onglets à vos chaînes est facile,
+essayez-le pour permettre à votre équipe
+d'accéder plus facilement aux éléments
+dont elle a besoin rapidement.

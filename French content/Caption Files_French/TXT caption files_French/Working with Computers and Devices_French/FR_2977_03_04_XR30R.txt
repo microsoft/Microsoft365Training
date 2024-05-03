@@ -1,0 +1,98 @@
+Suivant les applications que vous utilisez,
+vous avez besoin d'un temps d'apprentissage.
+Vous avez besoin de vous documenter,
+pourquoi pas même d'avoir besoin de formation.
+Mais la plupart des applications ont des commandes et des tâches communes.
+Enregistrer, imprimer, vérifier l'orthographe, etc.
+Regardons cette simple application de bloc-notes.
+Direction le menu, et lorsque je clique sur Fichier,
+eh bien, Nouveau, Ouvrir, Enregistrer, Enregistrer sous, Imprimer,
+sont des fonctions, des actions qui sont communes à bien des programmes.
+
+Nouveau me permet ici de faire un nouveau document,
+mais cela pourrait être un nouveau plan ou une nouvelle vidéo
+ou un nouveau enregistrement.
+Ouvrir me permet d'ouvrir quelque chose
+que j'avais précédemment fait avec ce programme.
+Encore une fois, peut-être d'ouvrir une image,
+une vidéo, un son, un enregistrement.
+Enregistrer me permet de garder ce que je viens de faire,
+et d'enregistrer sous, de le garder avec un autre nom.
+Et enfin, dans certains cas,
+d'imprimer afin d'exporter ce contenu sur un format papier
+ou un format exporté.
+
+Il existe d'autres fonctions que vous allez souvent retrouver.
+Par exemple, dans le menu Édition.
+Dans ce menu, les commandes Couper, Copier, Coller
+sont très souvent présentes dans les programmes.
+Il est rare de ne pas les trouver dans les différents programmes.
+De retour dans mon bloc-notes,
+allons dans Édition et nous voyons que nous pouvons couper,
+copier et coller,
+et d'autres actions qui sont plus ou moins spécifiques à ce programme.
+
+Prenons un exemple, « Je peux continuer ».
+Je peux sélectionner ce mot en double cliquant dessus
+ou en gardant le doigt enfoncé sur le bouton principal de la souris,
+sélectionner un mot entier avec par exemple, son espace.
+Il me suffit alors de faire Édition > Copier
+pour que ce que j'ai sélectionné passe en mémoire,
+puis de me positionner à côté et de faire Édition > Coller
+pour le coller à nouveau.
+Et pourquoi pas une autre fois et encore une autre fois.
+
+Je peux donc continuer, continuer, continuer, continuer.
+Même si j'utilise un autre programme, allez, par exemple, j'utilise Excel,
+eh bien, je retrouve l'équivalent du menu Fichier.
+Accueil, Nouveau, Ouvrir, par exemple ici.
+Également, lorsque je suis sur un classeur et que je clique sur Fichier,
+je vais bien pouvoir faire un nouveau classeur,
+en ouvrir un, l'enregistrer,
+enregistrer sous et imprimer, entre autres.
+Lorsque je suis également dans ma feuille de calcul,
+je retrouve ici le Couper.
+
+Je retrouve ici le Copier et le bouton Coller.
+Bref, nous retrouvons ici les différentes actions communes
+à différents programmes.
+Quels que soient ces programmes,
+vous avez une forte probabilité de retrouver toutes ces actions communes.
+Cela va donc vous aider à vous familiariser avec les programmes.
+Vous allez trouver d'autres éléments communs,
+comme par exemple ici dans Excel,
+si je viens dans Fichier et que je descends tout en bas sur Autre,
+je peux trouver encore Options.
+
+Différentes options qui vont me permettre de paramétrer ce programme
+afin de le personnaliser ou de l'adapter à mes besoins.
+Si j'ouvre maintenant l'explorateur Edge,
+eh bien, dans mon explorateur Edge, en face de trois petits points,
+je vais pouvoir descendre également sur Paramètres.
+Et dans les paramètres, je vais pouvoir personnaliser différents éléments.
+Ces différents éléments que je vais pouvoir personnaliser
+vont donc me permettre d'ajuster ce programme pour mes besoins.
+
+Une dernière action commune à quasiment tous les programmes
+qui devrait bien vous aider concerne effectivement la page d'aide.
+Dans Edge, trois petits points,
+vous pouvez aller sur Aide et commentaires et demander l'aide.
+En cliquant sur ce lien aide,
+vous accédez alors à la page web mise à jour donc par l'éditeur
+vous permettant d'accéder à l'aide, pour utiliser ce programme.
+Vous retrouverez différents éléments depuis comment démarrer
+jusqu'à la personnalisation et d'autres pages d'aide,
+évidemment, suivant le programme.
+
+Si nous allons dans Excel, on retrouve le même système.
+Cliquons sur Aide.
+Allons alors sur le bouton Aide pour voir apparaître sur le côté
+l'aide concernant l'utilisation d'Excel.
+La prise en main, la collaboration, les formules, les fonctions, etc.
+Voici donc un petit tour d'horizon de certaines fonctionnalités
+que vous allez retrouver à peu près dans toutes les applications.
+Et plus vous allez utiliser les applications
+dans votre système d'exploitation, plus vous aurez d'éléments communs,
+plus vous serez à l'aise à utiliser d'autres applications
+par éléments communs.
+

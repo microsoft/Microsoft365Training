@@ -1,0 +1,371 @@
+﻿WEBVTT
+
+00:00:00.350 --> 00:00:04.258
+Faire référence à des ressources
+spécifiques dans un document
+
+00:00:04.258 --> 00:00:06.320
+peut prendre beaucoup de place.
+
+00:00:06.320 --> 00:00:08.606
+Avec les notes de bas de page,
+
+00:00:08.606 --> 00:00:12.510
+vous pouvez garder vos références
+organisées et faciles à lire.
+
+00:00:12.510 --> 00:00:13.620
+Dans cette leçon,
+
+00:00:13.620 --> 00:00:16.823
+je vais vous montrer comment
+référencer votre contenu dans Word
+
+00:00:16.823 --> 00:00:18.813
+avec des notes de bas de page,
+
+00:00:18.813 --> 00:00:21.038
+et ajouter une table des matières.
+
+00:00:21.038 --> 00:00:24.751
+Les notes de bas de page
+sont utilisées pour expliquer,
+
+00:00:24.751 --> 00:00:30.150
+commenter ou fournir des références
+à quelque chose dans un document.
+
+00:00:30.150 --> 00:00:34.401
+Une table des matières vous aide
+à localiser les informations spécifiques
+
+00:00:34.401 --> 00:00:35.434
+dans un document.
+
+00:00:35.434 --> 00:00:37.568
+Pour commencer, je vais ouvrir Word
+
+00:00:37.568 --> 00:00:42.780
+à partir de la page d'accueil
+de Microsoft 365.
+
+00:00:42.780 --> 00:00:46.020
+Vous pouvez suivre l'exemple
+de document Word
+
+00:00:46.020 --> 00:00:48.270
+dans vos fichiers d'exercices.
+
+00:00:48.270 --> 00:00:58.500
+C'est le document appelé
+Document d'événements produit client.
+
+00:00:58.500 --> 00:01:02.250
+Dans cet exemple,
+je vais modifier un document produit
+
+00:01:02.250 --> 00:01:04.920
+pour préparer un événement client
+que j'organise.
+
+00:01:04.920 --> 00:01:08.790
+Tout d'abord,
+je vais ajouter des notes de bas de page.
+
+00:01:08.790 --> 00:01:11.298
+Les notes de bas de page
+sont des citations
+
+00:01:11.298 --> 00:01:15.270
+qui apparaissent au pied de page
+ou au bas de la page.
+
+00:01:15.270 --> 00:01:18.151
+Une fois qu'une note
+de bas de page a été ajoutée,
+
+00:01:18.151 --> 00:01:22.710
+vous aurez un petit numéro en exposant
+après le texte cité,
+
+00:01:22.710 --> 00:01:25.468
+et la citation complète
+sur le pied de page
+
+00:01:25.468 --> 00:01:27.500
+de cette page.
+
+00:01:27.500 --> 00:01:30.150
+Pour insérer une note de bas de page,
+
+00:01:30.150 --> 00:01:41.750
+je placerai mon curseur
+à droite du texte que je veux citer.
+
+00:01:41.750 --> 00:01:45.544
+À partir de là,
+je vais accéder au ruban supérieur
+
+00:01:45.544 --> 00:01:49.740
+et sélectionner Références.
+
+00:01:49.740 --> 00:01:53.070
+À partir de là,
+je vais accéder au ruban supérieur.
+
+00:01:53.070 --> 00:01:55.560
+sélectionnez Références,
+
+00:01:55.560 --> 00:02:00.480
+puis sélectionner
+Insérer une note de bas de page.
+
+00:02:00.480 --> 00:02:03.510
+À ce stade, une fenêtre apparaît
+
+00:02:03.510 --> 00:02:05.701
+dans laquelle
+je peux spécifier les détails
+
+00:02:05.701 --> 00:02:08.700
+de l'œuvre originale que je cite.
+
+00:02:08.700 --> 00:02:10.123
+Je vais entrer :
+
+00:02:10.123 --> 00:02:11.864
+« St. Claire Housen.
+
+00:02:11.864 --> 00:02:20.760
+"Être un boss". Chapitre 3,
+page 46, ligne 22. »
+
+00:02:20.760 --> 00:02:24.139
+C'est la première note de bas de page
+que j'ajoute au document.
+
+00:02:24.139 --> 00:02:29.640
+Donc, le numéro un
+est dans la petite case.
+
+00:02:29.640 --> 00:02:33.234
+Appuyez sur la touche Échap
+de votre clavier
+
+00:02:33.234 --> 00:02:35.934
+ou sélectionnez
+le corps de votre document
+
+00:02:35.934 --> 00:02:44.100
+pour enregistrer
+et fermer la note de bas de page.
+
+00:02:44.100 --> 00:02:46.680
+Lorsque je suis en mode Édition,
+
+00:02:46.680 --> 00:02:50.700
+je ne peux pas voir le texte
+de la citation au bas de page,
+
+00:02:50.700 --> 00:02:54.630
+mais le numéro de la note
+de bas de page sera là.
+
+00:02:54.630 --> 00:02:56.971
+Si je sélectionne le numéro,
+
+00:02:56.971 --> 00:03:02.490
+je peux modifier les détails
+de la note de bas de page.
+
+00:03:02.490 --> 00:03:06.174
+Pour voir comment la note de bas de page
+apparaît dans votre document,
+
+00:03:06.174 --> 00:03:08.850
+je dois être en mode Lecture.
+
+00:03:08.850 --> 00:03:11.378
+Accédez au ruban supérieur,
+
+00:03:11.378 --> 00:03:14.910
+sélectionnez Affichage,
+
+00:03:14.910 --> 00:03:20.940
+puis sélectionnez Mode Lecture.
+
+00:03:20.940 --> 00:03:24.120
+Maintenant,
+lorsque je fais défiler le document,
+
+00:03:24.120 --> 00:03:30.300
+je peux voir que les notes de bas de page
+sont en bas de la page.
+
+00:03:30.300 --> 00:03:33.084
+Maintenant, je vais
+sélectionner l'onglet Modifier le document
+
+00:03:33.084 --> 00:03:34.831
+dans le ruban supérieur,
+
+00:03:34.831 --> 00:03:43.320
+puis je vais cliquer sur Modifier.
+
+00:03:43.320 --> 00:03:46.356
+Word vous ramène alors en mode Édition
+
+00:03:46.356 --> 00:03:49.890
+où vous pouvez continuer
+à éditer votre document.
+
+00:03:49.890 --> 00:03:51.656
+Si une note de bas de page
+
+00:03:51.656 --> 00:03:54.811
+n'est pas la méthode de citation
+que vous souhaitez utiliser,
+
+00:03:54.811 --> 00:03:59.151
+envisagez une note de fin
+qui ajoute le texte de pied de page
+
+00:03:59.151 --> 00:04:05.430
+à la fin du document
+au lieu de le mettre au bas de la page.
+
+00:04:05.430 --> 00:04:09.120
+Accédez alors au ruban supérieur,
+
+00:04:09.120 --> 00:04:12.330
+sélectionnez Références,
+
+00:04:12.330 --> 00:04:15.840
+puis Insérer une note de fin.
+
+00:04:15.840 --> 00:04:18.434
+Une autre façon de garder
+votre document organisé
+
+00:04:18.434 --> 00:04:21.990
+est d'ajouter une table des matières.
+
+00:04:21.990 --> 00:04:24.673
+Mais avant de créer
+une table des matières,
+
+00:04:24.673 --> 00:04:29.520
+vous devez sélectionner votre texte
+et y appliquer un titre.
+
+00:04:29.520 --> 00:04:32.023
+Word utilise les titres de votre document
+
+00:04:32.023 --> 00:04:35.061
+pour créer
+une table des matières automatique
+
+00:04:35.061 --> 00:04:38.268
+qui peut être mise à jour
+lorsque vous modifiez le texte,
+
+00:04:38.268 --> 00:04:41.880
+la séquence ou le niveau d'un titre.
+
+00:04:41.880 --> 00:04:51.120
+Mettez en surbrillance le texte
+auquel vous souhaitez appliquer un titre.
+
+00:04:51.120 --> 00:04:56.220
+Ensuite, accédez à l'onglet Accueil,
+
+00:04:56.220 --> 00:04:59.740
+et dans la galerie des styles,
+sélectionnez le style de titre
+
+00:04:59.740 --> 00:05:08.310
+et le texte prend automatiquement
+cette forme de style.
+
+00:05:08.310 --> 00:05:09.723
+Si vous avez des sous-titres,
+
+00:05:09.723 --> 00:05:14.128
+sélectionnez un texte différent
+que vous aimeriez alors voir
+
+00:05:14.128 --> 00:05:15.920
+sous le premier titre,
+
+00:05:15.920 --> 00:05:34.230
+et appliquez-lui un style différent.
+
+00:05:34.230 --> 00:05:39.210
+Vous êtes maintenant prêt à créer
+et à ajouter votre table des matières.
+
+00:05:39.210 --> 00:05:40.734
+Placez maintenant votre curseur
+
+00:05:40.734 --> 00:05:48.660
+à l'endroit où vous souhaitez
+insérer la table des matières.
+
+00:05:48.660 --> 00:05:52.058
+Je la place généralement
+vers le début du document
+
+00:05:52.058 --> 00:05:55.470
+ou après une page de titre.
+
+00:05:55.470 --> 00:06:02.010
+Dans le ruban supérieur,
+sélectionnez Références.
+
+00:06:02.010 --> 00:06:07.830
+Ensuite, sélectionnez Table des matières.
+
+00:06:07.830 --> 00:06:14.760
+Dans le menu déroulant,
+choisissez Insérer une table des matières.
+
+00:06:14.760 --> 00:06:18.134
+La table des matières est insérée,
+montrant les titres
+
+00:06:18.134 --> 00:06:22.170
+et la numérotation des pages
+dans votre document.
+
+00:06:22.170 --> 00:06:25.068
+Si vous apportez
+des modifications à votre document
+
+00:06:25.068 --> 00:06:27.218
+qui affectent la table des matières,
+
+00:06:27.218 --> 00:06:31.029
+vous pouvez la mettre à jour
+en sélectionnant l'option Mise à jour
+
+00:06:31.029 --> 00:06:33.501
+qui apparaît au-dessus
+de la table des matières
+
+00:06:33.501 --> 00:06:41.700
+lorsque vous la sélectionnez.
+
+00:06:41.700 --> 00:06:44.701
+L'ajout de références sous forme
+de notes de bas de page
+
+00:06:44.701 --> 00:06:46.568
+et la création d'une table des matières
+
+00:06:46.568 --> 00:06:49.261
+est un excellent moyen
+d'améliorer vos documents.
+
+00:06:49.261 --> 00:06:52.360
+Essayez d'ajouter ces références
+à votre prochain document.

@@ -1,0 +1,63 @@
+Les meilleures équipes, les groupes qui se démarquent des autres
+travaillent incroyablement bien ensemble.
+Chaque membre de l'équipe  comprend l'objectif final,
+reste concentré et collabore volontairement avec enthousiasme.
+L'espace de travail  est basé sur la discussion,
+le chat de Microsoft Teams
+et l'endroit idéal pour concrétiser cet engagement et cette collaboration
+sur votre lieu de travail.
+Dans cette leçon, je vais vous montrer pourquoi Teams est un excellent outil
+pour tirer le meilleur parti  de votre équipe.
+
+Plongeons dedans.
+Dans le coin supérieur gauche d'office.com,
+sélectionnez le lanceur d'applications et ouvrez Teams.
+Avant de parler de fonctionnalités spécifiques dans Teams,
+je voudrais vous expliquer l'interface.
+La page d'accueil de Teams comporte un menu à gauche
+et une barre de recherche en haut.
+Sélectionnez Activité pour voir votre flux
+où vous trouverez des mentions, des réponses et d'autres notifications.
+
+Si vous sélectionnez le bouton Filtre,
+vous pouvez rechercher un type d'activité spécifique
+comme les mentions,  les réponses, les réactions.
+La conversation  qu'on appelle aussi le « chat »
+est l'un des principaux moyens de communication rapide
+avec des personnes ou des groupes.
+Sélectionnez Conversation pour voir les différentes conversations
+que vous avez avec des groupes ou des individus.
+Vous pouvez filtrer les conversations pour afficher les conversations non lues
+les réunions, celles issues des applications
+ou encore les conversations qui ont les notifications désactivées.
+
+Les équipes vous permettent de voir  l'ensemble des équipes dans lesquelles
+vous êtes membre ou propriétaire.
+Teams est le chemin ultime en matière de flux de travail.
+Une équipe peut héberger aussi bien la communication que vos fichiers
+en un seul endroit afin que vous puissiez organiser votre travail en projets
+ou groupes spécifiques.
+Besoin de passer un appel ? Vous pouvez appeler une personne
+ou participer à une conférence  téléphonique avec voix et/ou bien vidéo.
+
+Si vous sélectionnez des appels, vous pouvez voir votre historique d'appels
+et vos contacts.
+Sélectionnez des contacts et vous pouvez  voir une liste de tous vos contacts.
+Vous pouvez également  ajouter des contacts ici.
+La barre de recherche peut vous faire gagner du temps précieux
+en recherchant du contenu dans Teams.
+Vous pouvez rechercher des contacts, des messages, des fichiers
+et plus encore ; le tout, au même endroit.
+Avec une intégration avec Outlook,
+vous avez accès à votre calendrier là où vous travaillez.
+
+Lorsque vous travaillez et collaborez avec des collègues,
+vous voulez peut-être savoir  quand vous êtes libre
+pour une discussion de suivi ou pour travailler sur une tâche.
+Sélectionnez Calendrier pour trouver vos réunions programmées.
+Et enfin, vous avez accès à OneDrive ici.
+Besoin d'accéder rapidement à un fichier sur lequel vous collaborez ?
+Fichiers vous permet d'accéder  aux fichiers de Teams et de OneDrive.
+Maintenant que vous en savez plus à propos de l'interface de Teams,
+vous êtes prêt à passer à l'action.
+

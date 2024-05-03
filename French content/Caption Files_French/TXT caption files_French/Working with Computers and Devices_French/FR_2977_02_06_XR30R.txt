@@ -1,0 +1,54 @@
+Alors, regardons comment organiser vos fenêtres
+sur le bureau de votre Windows.
+Ouvrons l'explorateur de fichiers,
+l'explorateur Internet, votre navigateur
+et, pourquoi pas, ici, le magasin des applications Windows,
+ce que l'on appelle le Microsoft Store.
+Voici trois applications qui sont ouvertes dans différentes fenêtres.
+Revenons au gestionnaire de fichiers.
+En amenant le curseur de la souris à la hauteur du bandeau de l'application,
+en gardant le bouton enfoncé sur le bouton principal de la souris,
+par exemple le bouton gauche si vous êtes droitier,
+déplacez alors la fenêtre où vous voulez.
+
+Je relâche, je prends, en cliquant sur le bouton de ma souris,
+je déplace la fenêtre et je relâche.
+Si je déplace ce curseur jusqu'à un bord de mon écran,
+par exemple le bord gauche,
+je déplace là,
+vous voyez apparaître un cadre et je lâche le doigt sur la souris.
+Alors, l'application prend 50 % de mon écran, accrochée à gauche
+et Windows me propose d'autres applications qui sont ouvertes,
+pour mettre dans l'autre 50 % de mon écran,
+par exemple, l'explorateur Internet.
+
+Vous voyez que les deux fenêtres prennent respectivement 50 % ;
+j'ai donc tout mon écran occupé par ces deux fenêtres.
+En passant ma souris juste entre les deux,
+vous voyez que le curseur change.
+Lorsqu'il est à cette forme, ces deux petites flèches horizontales,
+j'appuie sur le bouton principal de ma souris et je garde le doigt
+sur ce bouton enfoncé
+et je me déplace à gauche
+ou je me déplace à droite,
+pour changer la proportion des fenêtres à 50 % ou à 70 ou 80 %
+et ainsi partager mon écran entre deux applications.
+
+Si je prends le bandeau et que je viens le déplacer,
+la fenêtre reprend alors sa taille qu'elle avait avant le partage.
+Si je prends ce bandeau
+et que je viens déplacer le curseur de ma souris dans un angle,
+alors, la fenêtre va prendre un quart
+et je peux choisir une autre application pour cet autre quart.
+Bien entendu, entre les fenêtres,
+je dispose d'une zone me permettant de les élargir
+et de modifier le pourcentage qu'elles prennent respectivement,
+les unes avec les autres.
+
+Me voici avec trois fenêtres ouvertes en simultané ;
+ces trois fenêtres qui sont bien organisées dans mon écran.
+N'oubliez pas, prenez le bandeau
+et remettez la fenêtre où vous le souhaitez
+pour qu'elle reprenne sa taille initiale,
+double-cliquez sur le bandeau
+pour que cette fenêtre prenne la taille du plein écran.

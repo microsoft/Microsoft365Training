@@ -1,0 +1,56 @@
+1
+00:00:01,202 --> 00:00:02,484
+Eh bien voilà,
+
+2
+00:00:02,484 --> 00:00:06,115
+notre cours sur la collaboration
+est maintenant terminé.
+
+3
+00:00:06,115 --> 00:00:08,085
+Je suis content de vous avoir guidé 
+dans ce cours
+
+4
+00:00:08,085 --> 00:00:11,181
+pour aborder les différentes facettes
+de la collaboration :
+
+5
+00:00:11,181 --> 00:00:12,905
+comment accéder à l'information,
+
+6
+00:00:12,905 --> 00:00:16,561
+comment connecter même son ordinateur
+sur les différents réseaux,
+
+7
+00:00:16,561 --> 00:00:18,149
+naviguer sur le web.
+
+8
+00:00:18,149 --> 00:00:20,895
+Nous avons vu également
+comment utiliser internet
+
+9
+00:00:20,895 --> 00:00:25,360
+en toute sécurité
+et surtout, de façon responsable.
+
+10
+00:00:25,360 --> 00:00:28,530
+J'espère que ce cours vous aura permis
+de mieux utiliser les outils
+
+11
+00:00:28,530 --> 00:00:31,488
+et ainsi de mieux collaborer
+à travers internet.
+
+12
+00:00:31,488 --> 00:00:32,728
+Merci et à bientôt.
+

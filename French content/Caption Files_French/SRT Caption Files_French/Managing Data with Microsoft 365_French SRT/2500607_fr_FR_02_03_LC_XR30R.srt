@@ -1,0 +1,505 @@
+1
+00:00:00,550 --> 00:00:04,360
+Manquer une conversation ou un
+message d'un client peut signifier
+
+2
+00:00:04,360 --> 00:00:07,360
+manquer une communication
+importante. Avec Power
+
+3
+00:00:07,360 --> 00:00:08,439
+Automate,
+
+4
+00:00:08,439 --> 00:00:11,619
+vous pouvez répondre
+immédiatement, même lorsque vous
+
+5
+00:00:11,619 --> 00:00:12,849
+êtes absent.
+
+6
+00:00:12,849 --> 00:00:15,369
+Dans cette leçon,
+je vais vous expliquer comment
+
+7
+00:00:15,369 --> 00:00:19,839
+créer une réponse automatique par
+courriel à la réponse à un
+
+8
+00:00:19,839 --> 00:00:24,699
+formulaire Microsoft Forms, à l'aide
+de Power Automate, afin que vous
+
+9
+00:00:24,699 --> 00:00:28,300
+puissiez organiser votre
+communication et éviter
+
+10
+00:00:28,300 --> 00:00:30,039
+les messages manqués.
+
+11
+00:00:30,039 --> 00:00:33,670
+Dans cet exemple,
+j'ai créé un formulaire de contact
+
+12
+00:00:33,670 --> 00:00:36,340
+pour les clients potentiels qui
+souhaitent en savoir plus sur les
+
+13
+00:00:36,340 --> 00:00:38,649
+conseils en préparation
+de mariage.
+
+14
+00:00:38,649 --> 00:00:42,549
+Je souhaite alors créer une
+réponse automatisée pour informer
+
+15
+00:00:42,549 --> 00:00:47,170
+le client que j'ai reçu sa demande
+d'information dès qu'il a rempli
+
+16
+00:00:47,170 --> 00:00:49,090
+le formulaire de contact.
+
+17
+00:00:49,090 --> 00:00:52,179
+Je vais créer un flux dans Power Automate pour envoyer cette
+
+18
+00:00:52,179 --> 00:00:55,450
+réponse automatique. Dans le
+coin supérieur gauche
+
+19
+00:00:55,450 --> 00:00:55,990
+d'office.com,
+
+20
+00:00:55,990 --> 00:01:00,340
+je sélectionne le lanceur
+d'applications et je sélectionne
+
+21
+00:01:00,340 --> 00:01:03,179
+Power Automate.
+
+22
+00:01:03,179 --> 00:01:06,810
+À partir de là,
+je sélectionne Créer dans
+
+23
+00:01:06,810 --> 00:01:10,370
+le panneau de gauche,
+
+24
+00:01:10,370 --> 00:01:13,290
+pour créer un flux vide.
+
+25
+00:01:13,290 --> 00:01:16,769
+Ensuite, je choisirai Flux
+de cloud automatisé,
+
+26
+00:01:16,769 --> 00:01:20,379
+la première option dans votre
+espace de travail.
+
+27
+00:01:20,379 --> 00:01:23,469
+Vous choisissez cette option
+quand vous souhaitez que votre
+
+28
+00:01:23,469 --> 00:01:27,010
+flux se déclenche lorsqu'une
+action précise se produit.
+
+29
+00:01:27,010 --> 00:01:31,180
+J'utilise ceci parce que mon flux
+s'exécutera chaque fois
+
+30
+00:01:31,180 --> 00:01:33,159
+que mon formulaire sera rempli.
+
+31
+00:01:33,159 --> 00:01:35,560
+Une boîte de dialogue
+s'ouvre alors,
+
+32
+00:01:35,560 --> 00:01:39,650
+dans laquelle vous pourrez nommer
+le flux et choisir un déclencheur.
+
+33
+00:01:39,650 --> 00:01:41,510
+Je vais nommer mon flux
+
+34
+00:01:41,510 --> 00:01:47,239
+Réponse automatique.
+
+35
+00:01:47,239 --> 00:01:51,079
+Power Automate fournit une liste
+des déclencheurs courants, dans
+
+36
+00:01:51,079 --> 00:01:55,459
+laquelle je sélectionne Lorsqu'une
+nouvelle réponse est envoyée,
+
+37
+00:01:55,459 --> 00:01:58,250
+puis je sélectionne Créer.
+
+38
+00:01:58,250 --> 00:02:02,469
+Power Automate m'amène alors
+dans le concepteur de flux,
+
+39
+00:02:02,469 --> 00:02:02,620
+où
+
+40
+00:02:02,620 --> 00:02:06,340
+je peux préciser que je souhaite
+utiliser le formulaire d'intérêt
+
+41
+00:02:06,340 --> 00:02:12,530
+pour le conseil en planification
+de mariage.
+
+42
+00:02:12,530 --> 00:02:15,080
+Le flux sera déclenché à chaque
+fois que ce formulaire
+
+43
+00:02:15,080 --> 00:02:16,370
+sera rempli.
+
+44
+00:02:16,370 --> 00:02:19,789
+Vous aurez peut-être à vous
+connecter à Microsoft Forms avant
+
+45
+00:02:19,789 --> 00:02:22,039
+de pouvoir sélectionner
+votre formulaire.
+
+46
+00:02:22,039 --> 00:02:25,159
+Mon flux aura besoin des
+informations du formulaire,
+
+47
+00:02:25,159 --> 00:02:28,639
+en particulier le nom et l'adresse
+courriel du client. Pour
+
+48
+00:02:28,639 --> 00:02:29,719
+obtenir les données,
+
+49
+00:02:29,719 --> 00:02:32,919
+je sélectionne Nouvelle étape.
+
+50
+00:02:32,919 --> 00:02:36,969
+Je vais rechercher Obtenir,
+
+51
+00:02:36,969 --> 00:02:40,250
+sélectionner Microsoft Forms
+
+52
+00:02:40,250 --> 00:02:43,500
+et choisir Obtenir les détails
+de la réponse.
+
+53
+00:02:43,500 --> 00:02:47,580
+Comme identifiant du formulaire,
+je sélectionne à nouveau mon
+
+54
+00:02:47,580 --> 00:02:49,139
+formulaire d'intérêt
+
+55
+00:02:49,139 --> 00:02:53,669
+pour le conseil en planification
+de mariage.
+
+56
+00:02:53,669 --> 00:02:56,219
+Je vais sélectionner identifiant de réponse,
+
+57
+00:02:56,219 --> 00:02:59,129
+puis sélectionner Ajouter
+du contenu dynamique.
+
+58
+00:02:59,129 --> 00:03:01,319
+Cela me permet d'extraire
+l'identifiant de la
+
+59
+00:03:01,319 --> 00:03:02,669
+réponse générée
+
+60
+00:03:02,669 --> 00:03:05,250
+lorsqu'une nouvelle réponse
+est soumise.
+
+61
+00:03:05,250 --> 00:03:07,169
+Maintenant que j'ai les
+détails de la réponse,
+
+62
+00:03:07,169 --> 00:03:11,310
+je peux créer l'étape pour
+envoyer mon courriel.
+
+63
+00:03:11,310 --> 00:03:14,289
+Je vais ajouter une
+nouvelle étape et
+
+64
+00:03:14,289 --> 00:03:17,370
+sélectionner Standard.
+
+65
+00:03:17,370 --> 00:03:22,349
+J'utiliserai alors Office 365
+Outlook puisque je souhaite que
+
+66
+00:03:22,349 --> 00:03:26,889
+les courriels proviennent de mon
+adresse courriel professionnelle.
+
+67
+00:03:26,889 --> 00:03:29,860
+Si j'utilisais le service
+courriel,
+
+68
+00:03:29,860 --> 00:03:32,409
+les courriels seraient envoyés
+depuis mon adresse courriel
+
+69
+00:03:32,409 --> 00:03:33,550
+personnelle.
+
+70
+00:03:33,550 --> 00:03:36,250
+Je vais utiliser Envoyer un email
+
+71
+00:03:36,250 --> 00:03:38,370
+( V2 )
+
+72
+00:03:38,370 --> 00:03:41,340
+et commencer à rédiger la réponse
+automatique par courriel.
+
+73
+00:03:41,340 --> 00:03:43,449
+Dans le champ À,
+
+74
+00:03:43,449 --> 00:03:47,479
+je sélectionne Ajouter
+du contenu dynamique
+
+75
+00:03:47,479 --> 00:03:51,650
+et je sélectionne ici Voir plus, pour rechercher
+
+76
+00:03:51,650 --> 00:03:56,000
+l'adresse courriel de mon client.
+
+77
+00:03:56,000 --> 00:03:58,199
+Pour le sujet,
+
+78
+00:03:58,199 --> 00:04:05,659
+je saisirai Intérêt à la préparation
+de mariage.
+
+79
+00:04:05,659 --> 00:04:07,219
+Dans le corps,
+
+80
+00:04:07,219 --> 00:04:11,949
+j'ajouterai le prénom de l'auteur
+pour le rendre plus personnel.
+
+81
+00:04:11,949 --> 00:04:15,789
+Je vais ajouter du contenu
+dynamique et sélectionner
+
+82
+00:04:15,789 --> 00:04:18,040
+le prénom
+
+83
+00:04:18,040 --> 00:04:20,639
+puis entrer mon message :
+
+84
+00:04:20,639 --> 00:04:23,910
+Bonjour, merci de nous
+avoir contactés.
+
+85
+00:04:23,910 --> 00:04:26,879
+Nous sommes impatients de faire de
+votre jour de mariage
+
+86
+00:04:26,879 --> 00:04:28,529
+un jour spécial.
+
+87
+00:04:28,529 --> 00:04:31,899
+Un de nos associés vous
+contactera sous peu.
+
+88
+00:04:31,899 --> 00:04:34,319
+Après avoir créé un flux,
+
+89
+00:04:34,319 --> 00:04:39,370
+je sélectionne tout simplement Enregistrer, en haut à droite,
+
+90
+00:04:39,370 --> 00:04:42,759
+avant de pouvoir tester mon flux.
+
+91
+00:04:42,759 --> 00:04:46,810
+Je vérifie toujours mon flux pour
+voir s'il n'y a pas d'erreur, en
+
+92
+00:04:46,810 --> 00:04:49,180
+sélectionnant Vérificateur
+de flux
+
+93
+00:04:49,180 --> 00:04:52,290
+ici, en haut à droite.
+
+94
+00:04:52,290 --> 00:04:54,509
+Je n'ai aucune erreur
+
+95
+00:04:54,509 --> 00:04:56,759
+ni aucun avertissement,
+
+96
+00:04:56,759 --> 00:05:01,259
+je peux donc fermer ce panneau et
+sélectionner Test. Depuis
+
+97
+00:05:01,259 --> 00:05:01,740
+le panneau
+
+98
+00:05:01,740 --> 00:05:03,550
+Tester le flux,
+
+99
+00:05:03,550 --> 00:05:09,300
+je peux choisir de le déclencher
+manuellement.
+
+100
+00:05:09,300 --> 00:05:35,170
+Isaiah a ouvert le formulaire et
+va soumettre une réponse.
+
+101
+00:05:35,170 --> 00:05:39,279
+Lorsque le formulaire est soumis,
+le flux que j'ai créé s'exécute
+
+102
+00:05:39,279 --> 00:05:43,470
+automatiquement.
+
+103
+00:05:43,470 --> 00:05:45,870
+Je vois maintenant que
+l'historique contient une
+
+104
+00:05:45,870 --> 00:05:49,509
+exécution qui a réussi.
+
+105
+00:05:49,509 --> 00:05:55,959
+Le flux a automatiquement envoyé
+une réponse à Isaiah.
+
+106
+00:05:55,959 --> 00:05:58,689
+Rester au top des communications
+est essentiel.
+
+107
+00:05:58,689 --> 00:06:02,980
+Imaginez où vous pouvez créer un
+flux qui répondra immédiatement
+
+108
+00:06:02,980 --> 00:06:04,870
+à vos clients potentiels.
+
+109
+00:06:04,870 --> 00:06:08,709
+Power Automate vous permet de
+créer rapidement des processus
+
+110
+00:06:08,709 --> 00:06:12,009
+qui renforcent la stratégie de
+communication de votre entreprise.
+

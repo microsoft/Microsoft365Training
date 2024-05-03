@@ -1,0 +1,77 @@
+Les filtres offrent de nombreux avantages,
+en particulier lorsque vous travaillez avec des données.
+Dans cette leçon, je vais vous montrer comment créer
+des tableaux croisés dynamiques,
+sélectionner des champs et utiliser des filtres avec vos
+propres données dans Excel, pour éclairer vos décisions
+commerciales.
+Dans le coin supérieur gauche
+d'office.com, je sélectionne le lanceur d'applications
+et j'ouvre Excel.
+À partir de là, j'ouvre la feuille de calcul
+Essai Commandes.
+
+Vous pouvez trouver ce document dans vos fichiers d'exercice.
+Cette feuille de calcul contient les ensembles de données
+Commandes Clients et leurs détails.
+Disons que j'aie besoin de voir les données par produit
+puis par client,
+afin d'avoir un aperçu des produits qui fonctionnent le mieux
+et des clients qui les achètent.
+Pour ce faire, je vais créer un tableau croisé dynamique qui me
+permettra de voir le lien entre les produits et les clients.
+
+Tout d'abord, je sélectionne la cellule A1,
+la première cellule
+de mon ensemble de données.
+Ensuite, je sélectionne l'onglet Insérer
+dans le ruban supérieur et je sélectionne Tableau croisé
+dynamique pour choisir
+à partir d'un tableau ou d'une plage.
+La boîte de dialogue
+Créer un tableau croisé dynamique apparaît et me propose d'utiliser
+Tableau/Plage par défaut, pour obtenir les données
+de cette feuille.
+
+Je peux voir qu'Excel a sélectionné la feuille DétailCommandes
+et sélectionné toutes les valeurs de ma table. Depuis la
+boîte de dialogue,
+je vais utiliser Nouvelle feuille de calcul
+et cliquer sur OK.
+De cette façon, je peux personnaliser le tableau
+croisé dynamique selon mes besoins et il sera séparé de mes
+données actuelles.
+Cela ouvre une nouvelle feuille avec un tableau croisé dynamique à
+gauche, et le panneau des champs du tableau croisé dynamique à droite.
+
+Dans ce panneau, je peux voir qu'il y
+a deux colonnes :
+une avec les en-tête de ma table de données,
+puis une avec les filtres, les lignes, les colonnes et
+les valeurs.
+Je choisirai les données dont j'ai besoin,
+les produits triés par commandes clients les plus importantes.
+Tout d'abord, je sélectionne Produit qui remplit la colonne A
+avec tous les produits vendus.
+Ensuite, puisque je veux voir chaque client qui a acheté
+ces produits,
+j'ajouterai Client à la section Filtres et Total à la
+section Valeurs.
+
+Cela regroupe
+la somme des totaux de chaque client.
+Filtrons maintenant tout cela sur le client Channel Outlet, pour voir
+ce qu'ils ont acheté.
+Je sélectionne le menu déroulant
+Client qui se trouve en cellule B2.
+Je désélectionne Sélectionner tout, sélectionne uniquement Channel
+Outlet et valide en cliquant sur OK.
+Je peux également ajouter la colonne Quantité Commande aux
+lignes, afin de voir clairement le nombre d'unités achetées
+par client.
+
+C'est maintenant à vous de jeter un coup d'oeil aux feuilles de
+calcul de votre organisation et de créer des tableaux croisés
+dynamiques
+dans Excel. Vous aurez vos données dans un format facile à consulter.
+Essayez-la cette semaine.

@@ -1,0 +1,161 @@
+1
+00:00:00,824 --> 00:00:04,663
+Lorsque vous devez présenter 
+visuellement des idées importantes,
+
+2
+00:00:04,663 --> 00:00:06,966
+Powerpoint est l'outil
+
+3
+00:00:06,966 --> 00:00:10,288
+qui amène votre communication 
+à un autre niveau.
+
+4
+00:00:10,288 --> 00:00:11,484
+Dans cette leçon,
+
+5
+00:00:11,484 --> 00:00:14,759
+je vais vous expliquer comment 
+créer une présentation dans Powerpoint,
+
+6
+00:00:14,759 --> 00:00:17,889
+et ajouter votre première diapositive.
+
+7
+00:00:17,889 --> 00:00:18,997
+Tout d'abord,
+
+8
+00:00:18,997 --> 00:00:21,966
+dans le coin supérieur
+gauche d'Office.com,
+
+9
+00:00:21,966 --> 00:00:26,307
+sélectionnez le lanceur d'application
+et ouvrez Powerpoint.
+
+10
+00:00:26,307 --> 00:00:27,536
+Dans cet exemple,
+
+11
+00:00:27,536 --> 00:00:31,106
+j'ai été sélectionné pour 
+un entretien d'embauche à distance.
+
+12
+00:00:31,106 --> 00:00:34,762
+Et on m'a demandé de créer 
+une présentation Powerpoint
+
+13
+00:00:34,762 --> 00:00:36,986
+pour présenter mes compétences.
+
+14
+00:00:36,986 --> 00:00:38,327
+Je sélectionne
+
+15
+00:00:38,327 --> 00:00:39,849
+« Nouvelles Présentations »
+
+16
+00:00:39,849 --> 00:00:42,464
+pour créer une présentation vierge.
+
+17
+00:00:42,464 --> 00:00:44,466
+Avant d'aller plus loin,
+
+18
+00:00:44,466 --> 00:00:49,137
+je veux m'assurer d'avoir renommé
+et enregistré ma présentation.
+
+19
+00:00:49,137 --> 00:00:53,049
+Je peux voir le statut Enregistrer
+à côté du titre de la présentation,
+
+20
+00:00:53,049 --> 00:00:55,047
+et il est enregistré.
+
+21
+00:00:55,047 --> 00:00:58,270
+Si je sélectionne le titre,
+une nouvelle fenêtre s'ouvre,
+
+22
+00:00:58,270 --> 00:01:00,467
+et je peux renommer la présentation :
+
+23
+00:01:00,467 --> 00:01:04,877
+« Diapositive d'entretien ».
+
+24
+00:01:04,877 --> 00:01:07,661
+Après avoir renommé la présentation,
+
+25
+00:01:07,661 --> 00:01:14,462
+je peux cliquer n'importe où,
+en dehors de cette fenêtre pour la fermer.
+
+26
+00:01:14,462 --> 00:01:17,915
+Je veux me concentrer sur mon contenu.
+
+27
+00:01:17,915 --> 00:01:22,326
+Je ferme le volet du concepteur.
+
+28
+00:01:22,326 --> 00:01:25,962
+La première diapositive 
+est une diapositive de titre.
+
+29
+00:01:25,962 --> 00:01:28,569
+Donc, j'écrirai le titre :
+
+30
+00:01:28,569 --> 00:01:31,916
+« Aperçu des compétences »,
+
+31
+00:01:31,916 --> 00:01:37,781
+puis, j'ajouterai mon nom sous le titre
+pour que mon public se souvienne de moi.
+
+32
+00:01:37,781 --> 00:01:41,484
+J'ai maintenant la première 
+diapositive de ma présentation,
+
+33
+00:01:41,484 --> 00:01:44,847
+et je suis prêt à ajouter
+d'autres diapositives.
+
+34
+00:01:44,847 --> 00:01:48,149
+Vous savez maintenant comment 
+créer une présentation Powerpoint.
+
+35
+00:01:48,149 --> 00:01:50,630
+Allez-y, et essayez 
+d'ajouter une diapositive
+
+36
+00:01:50,630 --> 00:01:52,138
+à votre propre présentation.
+

@@ -1,0 +1,72 @@
+Afin de vous protéger, de garder les accès à vos informations privées en ligne
+afin de sécuriser vos comptes, votre ordinateur,
+utilisez des mots de passe forts.
+Un mot de passe fort est comme un verrou pour votre maison.
+Vous voulez un verrou qui soit difficile à briser
+et vous ne voulez pas que quelqu'un d'autre trouve la clé de votre serrure.
+Voici quelques conseils pour créer un mot de passe fort.
+Utilisez une combinaison de lettres,
+de chiffres et de symboles dans votre mot de passe.
+
+L'utilisation d'une combinaison de majuscules et de minuscules
+ainsi que de chiffres peut améliorer la protection de votre mot de passe.
+Évitez d'utiliser des mots courants comme « motdepasse ».
+Cela inclut des mots et des expressions courants, des noms de sites web.
+Évitez des mots-clés personnels
+qui pourraient être facilement devinés comme votre anniversaire,
+votre nom de ville natale.
+Les pirates peuvent facilement deviner
+et rechercher ces phrases dans votre mot de passe.
+
+Une combinaison unique de caractères
+et de nombres crée un mot de passe plus fort.
+Par exemple,
+disons que je veuille utiliser le mot de passe « pingouin ».
+C'est un mot un peu trop commun,
+donc une astuce, c'est de penser à des façons d'obscurcir
+ce mot de passe que vous voulez utiliser.
+mais assurez-vous évidemment toujours que vous pouvez vous en souvenir.
+Quand il est temps d'entrer votre mot de passe,
+il faudra bien, effectivement, que vous vous rappeliez de cette combinaison.
+
+Disons que l'année 1972 est personnellement une date importante,
+mais ce n'est pas une date évidente comme mon année de naissance
+qui pourrait facilement être devinée par d'autres.
+Alors, je pourrais utiliser un mot de passe comme celui-ci
+où j'ai placé pingouin entre les chiffres de l'année 19 et 72.
+Et en plus,
+j'ai choisi de mettre en majuscule la seconde et la dernière lettre.
+Et puis, comme c'est souvent demandé,
+j'ajoute un symbole à la fin de ce mot de passe
+pour le rendre beaucoup plus difficile à deviner.
+
+C'est beaucoup plus sûr que d'utiliser le mot pingouin par lui même
+et c'est un mot de passe que je me souviens
+sans avoir besoin de l'écrire.
+Vous pouvez trouver votre propre stratégie
+pour créer des mots de passe avec des méthodes similaires à cela.
+Maintenant, cela dit, n'utilisez pas le même mot de passe
+pour plusieurs sites.
+Utilisez plutôt différents mots de passe pour différents comptes.
+Si quelqu'un devine votre mot de passe de messagerie,
+votre sécurité et votre vie privée peuvent être en difficulté
+si vous utilisez le même mot de passe pour votre compte bancaire, par exemple.
+
+Assurez-vous d'utiliser différents mots de passe
+pour chaque compte en ligne que vous avez.
+Et votre mot de passe est réservé à vous.
+Évitez de le partager avec d'autres, même des amis et de la famille,
+car, il sera plus probable
+qu'ils ne garderont pas en sécurité ce mot de passe.
+Gardez vos mots de passe pour vous.
+Lorsque vous vous connectez à des comptes,
+assurez-vous de vous déconnecter lorsque vous avez terminé
+et n'enregistrez pas vos informations de connexion sur un ordinateur public.
+
+Et en règle générale,
+vous devriez éviter d'utiliser des données personnelles
+sur des ordinateurs publics et les réseaux publics.
+Cela rend plus facile l'accès à vos informations aux pirates.
+N'oubliez pas qu'il est important d'utiliser des mots de passe forts
+et de les protéger pour votre sécurité et votre vie privée en ligne.
+Gardez ces conseils à l'esprit lorsque vous créez des mots de passe.

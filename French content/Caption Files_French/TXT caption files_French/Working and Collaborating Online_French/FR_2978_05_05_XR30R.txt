@@ -1,0 +1,67 @@
+Lorsque vous téléchargez  des fichiers sur One Drive,
+vous pouvez y accéder  en toute sécurité.
+Les mettre à jour  et les partager de n'importe où,
+du moment que vous disposez d'une connexion internet.
+Dès lors, lorsque je suis sur mon interface de One Drive,
+j'accède à mon espace Mes fichiers
+dans lesquels je vois les différents  dossiers auxquels j'ai accès.
+Puis au-dessus, j'ai le bouton  me permettant de créer
+un nouveau document ou un nouveau dossier
+et de charger des éléments à l'intérieur de cet espace.
+
+Vous voyez que la flèche  est tournée vers le haut :
+cela symbolise que je vais mettre des éléments au-dessus
+dans les nuages,  c'est-à-dire dans le cloud.
+Je vais donc prendre des éléments qui sont dans mon ordinateur
+pour les transférer dans cet espace stocké dans le cloud.
+Je clique alors sur Charger
+et j'ai le choix de télécharger des fichiers
+ou directement un dossier.
+Dans le cas présent,
+choisissons de télécharger un fichier.
+Le système me propose alors de me rendre dans mon environnement de PC,
+je peux alors aller  dans Documents par exemple,
+pour choisir un document  ou pourquoi pas, deux documents
+à télécharger.
+
+Je sélectionne donc ces fichiers et je clique sur Ouvrir,
+le système télécharge alors ces deux éléments.
+Une fois que les éléments  sont chargés bien sûr,
+je vais les voir apparaître  avec ces petites plumes d'indien
+me permettant de visualiser que  ces éléments sont nouveaux dans ma liste.
+Un autre moyen de charger des éléments dans cet espace
+est d'utiliser le simple glisser-déplacer.
+Ou glisser-copier.
+
+Je réduis un petit peu cette fenêtre
+et je laisse apparaître derrière
+l'explorateur de fichier de Windows.
+Dans cet explorateur de fichier, je vois qu'il y a différents éléments.
+Je peux prendre alors un document
+et le faire glisser directement au-dessus de mon navigateur
+et de lâcher.
+Ce document alors sera chargé là où je l'ai glissé,
+en l'occurrence,  dans les documents partagés ;
+je l'ai donc mis directement sur ce dossier.
+
+Si j'avais voulu le mettre à la racine,
+il m'aurait suffit alors de faire un glisser-déplacer de ce fichier
+quelque part dans cet espace.
+Il aurait donc été copié dans ce dossier,
+en l'occurrence,  directement dans mes fichiers.
+Si je viens dans les documents partagés,
+le fichier a été positionné ici,
+je pourrais bien sûr, pourquoi pas le sélectionner
+afin de le déplacer
+ou de le copier dans un autre endroit de mon One Drive.
+Voire évidemment de le supprimer afin de le mettre dans la corbeille.
+
+Revenons à mes fichiers.
+Au même titre que j'ai déplacé ici des documents,
+des fichiers, je peux également copier tout un dossier.
+Il suffit alors de sélectionner le dossier
+et de faire un glisser sur cet emplacement.
+Et le système va récupérer le dossier ainsi que tout ce qu'il y a à l'intérieur
+pour le transférer.
+Évitez quand même de déplacer des dossiers contenant beaucoup de fichiers,
+faites-le plutôt petit à petit.

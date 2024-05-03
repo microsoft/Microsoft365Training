@@ -1,0 +1,32 @@
+Grâce à internet,
+nous pouvons stocker des informations en ligne
+à partir d'un appareil
+et y accéder à partir d'un autre appareil presque instantanément.
+C'est ce que l'on appelle communément
+le « stockage d'informations  dans le cloud ».
+Le cloud est essentiellement une collection de services logiciel
+qui s'exécutent à plusieurs endroits sur internet
+au lieu de s'exécuter sur l'ordinateur d'un seul utilisateur.
+Cela signifie que le stockage est contenu dans le cloud.
+Il est facile d'accéder à vos informations à partir de n'importe quel appareil
+dans n'importe quel endroit où vous avez accès à internet.
+
+Alors, certains services basés sur le cloud
+dont vous avez peut-être entendu parler
+incluent Dropbox,  le lecteur cloud de Apple,
+Google Drive
+et bien sûr Microsoft OneDrive.
+Ainsi par exemple, au lieu  d'enregistrer vos documents importants
+et d'autres fichiers sur votre ordinateur, vous pouvez les enregistrer sur OneDrive.
+Ce qui vous permettra  d'y arriver de n'importe où.
+Cela signifie que si vous travaillez sur un fichier sur votre ordinateur domestique
+et l'enregistrez sur OneDrive  et plus tard,
+vous êtes sur la route avec seulement votre téléphone mobile,
+eh bien, vous pouvez toujours accéder et télécharger ce fichier
+via OneDrive sur votre téléphone.
+
+Dans ce chapitre,  nous allons donc jeter un œil
+à la façon d'enregistrer et à la façon d'accéder aux fichiers
+à partir de OneDrive.
+Mais bien sûr, le processus que l'on va aborder est très similaire
+à celui que vous auriez avec d'autres services basés sur le cloud.

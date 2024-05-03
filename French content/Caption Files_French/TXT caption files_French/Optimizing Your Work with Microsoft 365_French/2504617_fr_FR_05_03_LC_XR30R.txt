@@ -1,0 +1,45 @@
+Travailler avec  des organisations extérieures
+fait partie intégrante de la collaboration.
+Et il est important de rendre toute expérience de partenariat
+aussi simple que possible.
+Dans Teams, les invités peuvent participer à des réunions,
+des discussions et travailler sur des documents.
+Dans cette leçon,
+je vais vous montrer comment  inviter des invités externes
+et gérer les paramètres, et les autorisations nécessaires
+pour travailler avec eux dans Teams.
+
+Pour commencer, je vais ouvrir Teams
+à partir de la page d'accueil de Microsoft 365.
+Dans cet exemple, je coordonne des fournisseurs externes
+pour un évènement client que je planifie.
+Tout d'abord, je sélectionne l'équipe à laquelle je souhaite ajouter des invités.
+Dans cette équipe, je sélectionnerais les trois points pour d'autres options
+à droite du nom de l'équipe.
+
+Et je sélectionnerais Ajouter un nombre.
+Ici, je vais saisir les adresses  courriels de mes invités.
+Lorsque j'ai terminé  de sélectionner tous les invités,
+sélectionnez Ajouter
+et les invités recevront une invitation par courriel.
+Ils devront accepter l'invitation pour pouvoir commencer.
+
+Un invité aura l'étiquette Invité attachée à son nom
+partout où il est affiché  dans Microsoft Teams.
+Vous pouvez également vérifier dans le haut de n'importe quel canal
+pour voir combien d'invités y sont en sélectionnant l'icône Information
+en haut à droite.
+Pour le fermer,
+sélectionnez à nouveau  l'icône Information.
+
+Pour assigner des permissions spécifiques aux invités,
+sélectionnez les trois points  à côté du nom de l'équipe
+pour Autres options.
+À partir de là, sélectionnez Gérer l'équipe.
+Dans l'onglet Paramètres, sélectionnez l'option Autorisations de compte d'invité
+pour sélectionner ou désélectionner les options ou les autorisations
+que vous souhaitez utiliser.
+
+Bien joué ! Vous êtes maintenant prêt à ajouter un invité externe
+et à définir des autorisations spécifiques pour lui.
+Vous collaborerez en un rien de temps !

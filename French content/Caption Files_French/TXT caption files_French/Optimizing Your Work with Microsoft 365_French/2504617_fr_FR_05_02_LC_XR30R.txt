@@ -1,0 +1,58 @@
+L'application appel est un excellent outil pour les réunions d'équipe
+et les discussions rapides.
+Il est important d'avoir  les bons paramètres
+au cas où vous manqueriez un appel.
+Dans cette leçon, je vais vous montrer comment gérer vos paramètres d'appel
+sur Teams.
+Pour commencer, je vais ouvrir Teams
+à partir de la page d'accueil  de Microsoft 365.
+
+À côté de votre photo de profil en haut,
+sélectionnez les trois points pour plus d'options,
+puis sélectionnez Paramètres.
+Maintenant, disons que vous serez absent du bureau
+et que vous souhaitez transférer vos appels entrants.
+Dans le menu de gauche, sélectionnez Appels
+et sous Règles de répondeur automatique,
+choisissez Transférer mes appels
+et Teams transférera tous les appels directement vers votre messagerie vocale.
+
+Si vous sélectionnez Configurer la messagerie vocale
+sous Messagerie vocale,
+vous pourrez enregistrer un message d'accueil.
+Vous pouvez également sélectionner la façon dont vous souhaitez
+que Teams gère les appels
+lorsqu'un appelant accède à la messagerie vocale.
+Ils peuvent enregistrer un message,
+choisir d'enregistrer un message
+ou d'être transféré à une autre personne,
+mettre fin à l'appel sans lire votre message d'accueil,
+lire le message d'accueil  et mettre fin à l'appel,
+ou simplement être transféré à une autre personne de votre choix.
+
+Si vous sélectionnez  Transférer l'appel à une autre personne,
+vous devrez alors désigner une personne à qui transférer l'appel.
+Je vais sélectionner Isaiah.
+Lorsque quelqu'un vous appellera, l'appel sera alors transféré
+à la personne désignée.
+Vous pouvez également spécifier la langue de votre message d'accueil
+et personnaliser une option  de message d'accueil par synthèse vocale.
+
+Cette option vous permet de personnaliser le message d'accueil écrit
+qui remplacera celui  de votre message vocal.
+Si vous souhaitez créer  un message d'accueil personnalisé,
+en cas d'absence du bureau,
+placez votre curseur  en dessous de l'endroit
+où est écrit votre message  d'accueil personnalisé.
+Et écrivez votre propre message d'accueil en cas d'absence du bureau ;
+par exemple :
+« Je ne suis pas au bureau, n'hésitez pas à m'envoyer un e-mail. »
+En dessous, vous pouvez sélectionner le moment où votre message d'accueil
+personnalisé d'absence  ou de bureau s'affichera.
+
+Sélectionnez OK pour enregistrer vos modifications.
+Je vous encourage à mettre en place
+des paramètres appropriés  pour gérer vos appels
+afin que vous puissiez vous assurer que tous les appels reçoivent une réponse
+en fonction de votre disponibilité.
+Essayez !

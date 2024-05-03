@@ -1,0 +1,65 @@
+Avez-vous déjà eu besoin de plus  que de simples mots
+pour saisir correctement une idée ?
+Il peut être utile d'avoir  des images et des vidéos
+à référencer avec des notes.
+Dans cette leçon, je vais vous montrer comment insérer des médias
+et des tableaux dans OneNote
+pour créer un bloc-notes plus interactif.
+Alors d'abord, je vais ouvrir OneNote
+avec un bloc-notes existant :
+Évènement Client.
+
+Pour ajouter une image,
+placez le curseur à l'endroit où vous souhaitez l'ajouter,
+puis sélectionnez Insertion dans le ruban supérieur,
+puis Image et sélectionnez À partir d'un emplacement en ligne.
+Dans la barre de recherche, entrez le nom  d'une image que vous recherchez
+et appuyez sur Entrée.
+
+Utilisez la barre de défilement sur le côté droit de la fenêtre
+et sélectionnez l'image qui vous convient.
+Sélectionnez Insérer lorsque vous avez terminé.
+L'image s'ajoutera et apparaîtra  dans vos notes,
+là où vous l'avez placée.
+Supposons maintenant que vous souhaitiez faire référence
+à un autre fichier dans vos notes.
+
+Pour joindre une copie d'un fichier à votre bloc-notes,
+placez le curseur à l'endroit où vous souhaitez lier le fichier,
+puis sélectionnez Insertion et Fichier.
+Sélectionnez alors  Insérer un fichier en pièce jointe.
+Sélectionnez alors le fichier que vous souhaitez,
+puis cliquez sur Ouvrir.
+
+Vous pouvez également insérer des vidéos provenant d'internet dans vos notes.
+Recherchez la vidéo que vous souhaitez en ligne,
+copiez l'URL de la vidéo à partir de la barre d'adresse,
+puis sélectionnez l'emplacement souhaité sur la page et collez-le.
+
+Vous pourrez alors sélectionner le lien pour lire la vidéo
+sur le site web d'origine
+ou sélectionner le bouton de lecture sur la vidéo intégrée
+et la regarder directement dans vos notes.
+Lorsque les données doivent être triées et partagées dans un tableau,
+vous pouvez en créer un directement dans votre bloc-notes.
+L'ajout de tableau dans vos notes peut également être utile
+pour conserver des groupes  d'information ensemble
+et trier de manière appropriée.
+Pour rajouter un tableau à vos notes,
+sélectionnez
+Insertion, puis Tableau.
+
+Sélectionnez alors le nombre de lignes et de colonnes dont vous avez besoin.
+Le nombre sélectionné sera mis en surbrillance.
+Lorsque vous travaillez dans un tableau,
+le menu Tableau devient  disponible dans le ruban.
+Vous pouvez également cliquer  avec le bouton droit sur le tableau
+pour faire apparaître le menu.
+Sélectionnez alors le tableau pour personnaliser davantage votre tableau
+comme Insérer ou Supprimer des lignes ou des colonnes.
+
+Parfois, les mots ne suffisent pas.
+L'ajout d'un fichier,  de vidéos et de tableaux
+permettent d'ajouter de la dimension et de clarifier davantage vos notes.
+Essayez d'ajouter des images ou un tableau à vos notes
+pour vous aider à mieux expliquer et organiser les informations.

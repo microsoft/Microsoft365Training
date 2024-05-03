@@ -1,0 +1,43 @@
+Microsoft Project dispose d'une grande variété d'outils très
+utiles. Afin de tirer le meilleur parti de ces outils,
+vous devez les connaître et savoir où les trouver.
+Dans cette leçon, je vais vous montrer comment
+localiser les fonctionnalités clés dans Microsoft Project.
+Je vais partir d'office.com,
+sélectionner le lanceur d'applications, dans le coin
+supérieur gauche,
+et ouvrir Project.
+Notez que l'utilisation de Project pour le web nécessite un
+abonnement actif à Microsoft Project.
+
+La page d'accueil de Project est l'endroit où vous trouverez tous
+les projets auxquels vous avez accès.
+En haut, il y a le bouton Nouveau projet vide.
+Je peux également voir deux sections principales sur la page
+d'accueil : Favoris et Récents.
+Les favoris contiennent tous les projets que j'ai marqués
+comme importants.
+Je travaille actuellement sur le projet de mariage Mariage juin.
+Je peux marquer ce projet comme favori, en survolant le projet et
+en sélectionnant Marquer comme favori. Au fur et à mesure que
+je termine des projets,
+je peux les supprimer des favoris en sélectionnant Plus d'options
+et en choisissant Supprimer des favoris.
+
+La section Récents contient les projets que vous avez ouverts
+le plus récemment.
+Lorsque j'ai besoin de revenir sur des projets antérieurs, Récents
+m'aide à les retrouver rapidement.
+Lorsque vous travaillez avec Project,
+les membres de l'équipe peuvent partager leurs projets avec vous.
+Vous pouvez voir les projets partagés en sélectionnant l'onglet
+Partagés avec moi.
+Enfin, si vous souhaitez affiner votre recherche pour ne voir que
+les projets que vous avez créés,
+filtrez en sélectionnant l'onglet Créés par moi.
+
+Désormais, seuls les projets que j'ai créés sont affichés.
+Je vous encourage à explorer l'interface Project avant de
+créer votre premier projet.
+Vous serez à l'aise avec cet outil de gestion de projets en
+un rien de temps.

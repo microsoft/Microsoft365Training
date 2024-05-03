@@ -1,0 +1,113 @@
+Lorsque nous utilisons  le terme « ordinateur »,
+nous faisons généralement référence à un ensemble de composants divers et variés
+qui composent l'ordinateur dans son ensemble.
+Alors, même s'il existe
+de nombreux types d'ordinateurs disponibles aujourd'hui,
+ils sont tous composés d'un ensemble similaire de pièces détachées
+comme l'unité de base, le moniteur,
+le clavier, la souris et les haut-parleurs.
+C'est ce que nous appelons « l'unité centrale ».
+L'unité centrale contient tous les composants matériels nécessaires
+au fonctionnement de l'ordinateur.
+Alors par exemple, dans cette unité centrale,
+c'est là que vous trouverez le disque dur
+qui stocke les informations de votre ordinateur.
+
+C'est un peu comme un buffet
+qui contiendrait  des classeurs et des livres.
+C'est dans cet espace que votre ordinateur stocke
+les programmes,  les documents, les vidéos ;
+fondamentalement, tout  ce qui est stocké dans votre ordinateur
+est stocké sur le disque dur.
+Vous trouverez également  dans cette unité centrale
+la mémoire RAM.
+C'est une mémoire volatile.
+Un peu comme un bureau ou une table que vous débarrasseriez
+à chaque fois que vous éteigniez votre ordinateur.
+Afin de travailler,
+vous sortez des classeurs et des livres de votre buffet,
+vous savez le disque dur,
+et vous les posez sur votre bureau pour travailler.
+
+Vous avez besoin d'un bureau plus grand
+si vous voulez ouvrir beaucoup de classeurs et de livres en même temps.
+La mémoire RAM de votre ordinateur réagit de la même manière :
+il vous faut plus de mémoire RAM si vous voulez ouvrir de gros classeurs
+ou beaucoup de classeurs en même temps.
+Alors, plus le bureau est petit,
+moins les classeurs et autres livres pourront tenir en même temps
+sur votre bureau.
+Eh bien, de même : moins vous avez de RAM,
+moins il peut y avoir de documents et d'applications en cours d'exécution
+à la fois sur votre ordinateur.
+C'est pourquoi la RAM est l'une des mises à niveau les plus courantes
+que les gens ont fait sur leur ordinateur.
+
+On trouve également que l'unité centrale est composée du micro-processeur.
+Ce processeur est un peu comme la baguette du chef d'orchestre :
+elle désigne qui fait quoi quand.
+Si cette baguette va trop doucement,
+eh bien, c'est tout l'ordinateur qui joue lentement.
+Si elle va trop vite,
+eh bien, cette baguette passe son temps à attendre les instruments.
+Le micro-processeur est aussi celui qui réalise tous les calculs
+et qui traite les instructions des programmes que vous exécutez.
+
+Alors, l'unité centrale est également l'endroit
+où vous trouverez les différentes prises que l'on appelle des « ports ».
+Ces ports vous permettent de connecter
+du matériel supplémentaire  à votre ordinateur
+comme les imprimantes, les disques durs externes, etc.
+Pour certains ordinateurs, l'unité centrale est séparée
+par d'autres composants, alors que les appareils
+comme les ordinateurs portables ou les tablettes,
+eh bien, tous les composants que j'ai mentionnés
+comme le disque dur, la mémoire, etc.,
+ils sont intégrés dans l'ordinateur.
+
+De même, sur les ordinateurs portables et les tablettes,
+le moniteur est intégré dans l'ordinateur,
+tandis qu'avec d'autres ordinateurs, le moniteur est un dispositif distinct
+que vous connectez à l'unité de base, l'unité centrale.
+Le moniteur, parfois appelé « l'affichage » ou « l'écran »
+est celui qui vous permet de voir ce qui est affiché par l'ordinateur
+quel qu'il soit : des documents texte, des vidéos, des photos.
+Pour interagir avec l'ordinateur, eh bien, vous avez besoin de communiquer avec lui.
+Le clavier et la souris sont donc  des outils des plus communs pour cela.
+
+Le clavier vous permet d'entrer du texte, des nombres et autres caractères
+dans l'application que vous utilisez et la souris,
+eh bien, c'est un dispositif qui vous permet de pointer,
+ce qui vous permet de faire fonctionner l'ordinateur en pointant
+et en interagissant avec les éléments qui sont à l'écran.
+Encore une fois, sur certains ordinateurs, tout est intégré.
+Alors que sur d'autres, ce sont des éléments séparés.
+La plupart des ordinateurs portables utilisent généralement
+un dispositif de pointage appelé « pad » ou « track pad ».
+C'est une zone rectangulaire qui reçoit votre doigt.
+
+Bougez-le sur la surface et cela fait comme si vous bougiez une souris
+sur votre table.
+Alors, sur les tablettes, vous n'utilisez  généralement pas de souris.
+Mais vous appuyez, vous faites glisser  votre doigt sur l'écran
+pour interagir avec l'appareil.
+Alors le clavier, dans le cadre de ces tablettes,
+eh bien, c'est souvent virtuel ;
+ce qui signifie qu'il apparaît à l'écran que lorsque vous en avez besoin,
+lorsque vous avez donc d'entrer du texte ou d'autres caractères.
+D'autres composants, matériel important,
+qui composent les ordinateurs de nos jours
+incluent les haut-parleurs
+qui vous permettent d'entendre des sons des applications que vous utilisez.
+
+Cela pourrait être de la musique  ou de la bande sonore
+d'une vidéo que vous regardez.
+Ou ce sont les gens qui parlent dans une vidéo conférence.
+Bien sûr, il y a  beaucoup plus de composants
+qui peuvent entrer dans un ordinateur.
+Mais les composants  que je vous ai présentés ici :
+l'unité centrale, l'écran, le clavier,  la souris, les haut-parleurs
+et le microphone sont les parties les plus essentielles
+nécessaires pour interagir  et exploiter la plupart des applications
+que vous allez généralement utiliser sur votre ordinateur.
+

@@ -1,0 +1,43 @@
+En tant que chef de projet, je coordonne plusieurs projets
+tout au long de ma journée.
+J'ai besoin d'un moyen de gérer mon travail pour atteindre une
+productivité maximale.
+Être à l'aise avec Planner m'aide à rester au top de mes
+projets au quotidien.
+Dans cette leçon, je vais vous montrer le moyen le
+plus simple d'accéder aux parties les plus importantes de Microsoft
+Planner, afin que vous puissiez commencer à gérer vos plans.
+Je vais commencer à partir d'office.com et sélectionner le
+lanceur d'application dans le coin supérieur gauche,
+puis ouvrir Planner.
+
+Cela ouvre le centre du planificateur, où vous trouverez
+tous les plans auxquels vous avez accès.
+Le menu de navigation, sur la gauche, est l'endroit où je regarde
+pour créer un nouveau plan et trouver les tâches qui
+m'ont été assignées.
+J'ai épinglé le plan Mariage juin et, en dessous,
+je trouve la liste des plans récents sur lesquels
+j'ai travaillé.
+La section Récent affiche les plans que j'ai ouverts
+le plus récemment.
+
+Pour trouver tous vos plans,
+sélectionnez Tout.
+Enfin, dans le menu de gauche, sélectionnez Affecté à moi,
+pour voir une liste de toutes les tâches qui sont attribuées
+à votre compte.
+Par défaut, mes tâches sont regroupées par avancement, avec
+des compartiments pour Non
+commencées,
+En cours et Terminées. Les tâches dont la date est indiquée
+en rouge sont en retard,
+ce qui les rend faciles à identifier.
+
+Je peux également utiliser le menu déroulant Regrouper par,
+en haut à droite, pour trier mes tâches par priorité.
+De cette façon, je peux voir sur lesquelles je dois
+me concentrer en premier.
+Vous envisagez un événement à venir que vous devez planifier ?
+Je vous encourage à ouvrir Planner et à exploiter les fonctionnalités
+pour optimiser l'efficacité de votre prochain événement.
