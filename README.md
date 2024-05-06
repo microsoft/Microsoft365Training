@@ -1,9 +1,9 @@
  ![image](https://github.com/microsoft/Microsoft365Training/assets/145597905/57461319-ba0b-426d-ac23-a35560cb0c03)
+## Microsoft 365 Training
 
+Microsoft 365 Training is the page for resources and training on Microsoft 365 products. This includes learning resources and pathways for learning organziations facilitating learning. These pathways provide valuable resources for learners across the world. However, we recognize that learners often require additional support and guidance to maximize their learning experience.​
 
-## These pathways provide valuable resources for learners across the world. However, we recognize that learners often require additional support and guidance to maximize their learning experience.​
-
-### What’s included in the courses​
+## What’s included in the courses​
 
 - **Learning objectives:** Goals expected to achieve by the end of each course. ​
 
