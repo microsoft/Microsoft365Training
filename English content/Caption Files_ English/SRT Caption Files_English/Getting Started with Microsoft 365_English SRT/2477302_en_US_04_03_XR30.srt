@@ -1,0 +1,172 @@
+1
+00:00:00,005 --> 00:00:02,004
+- [Instructor] SharePoint can do many things:
+
+2
+00:00:02,004 --> 00:00:06,003
+run websites, store files, host resources,
+
+3
+00:00:06,003 --> 00:00:08,000
+all from your browser.
+
+4
+00:00:08,000 --> 00:00:11,005
+In this lesson, I'll show you SharePoint's key features
+
+5
+00:00:11,005 --> 00:00:13,008
+so that you can use it with confidence.
+
+6
+00:00:13,008 --> 00:00:17,006
+To get started, I'll open SharePoint using a web browser.
+
+7
+00:00:17,006 --> 00:00:20,000
+Organizations use Microsoft SharePoint
+
+8
+00:00:20,000 --> 00:00:21,008
+for a number of reasons.
+
+9
+00:00:21,008 --> 00:00:24,006
+SharePoint is an app that you connect to through
+
+10
+00:00:24,006 --> 00:00:27,006
+your web browser for a variety of purposes.
+
+11
+00:00:27,006 --> 00:00:30,001
+Not only can you use it to create websites,
+
+12
+00:00:30,001 --> 00:00:33,007
+you can also use it as a secure place to store, organize,
+
+13
+00:00:33,007 --> 00:00:36,007
+share, and access information from any device.
+
+14
+00:00:36,007 --> 00:00:39,003
+I want to use SharePoint to share presenter files
+
+15
+00:00:39,003 --> 00:00:41,004
+and resources for a skills conference
+
+16
+00:00:41,004 --> 00:00:43,000
+I'm planning with my team.
+
+17
+00:00:43,000 --> 00:00:47,000
+To get started, in the top left corner of office.com,
+
+18
+00:00:47,000 --> 00:00:50,002
+select the app launcher and open SharePoint.
+
+19
+00:00:50,002 --> 00:00:53,007
+I am now at my SharePoint start page.
+
+20
+00:00:53,007 --> 00:00:58,003
+In the top left corner of the SharePoint start page,
+
+21
+00:00:58,003 --> 00:01:02,005
+you'll see options to create sites or create a news post
+
+22
+00:01:02,005 --> 00:01:04,005
+if you want to make an announcement.
+
+23
+00:01:04,005 --> 00:01:07,003
+On the navigation bar on the left,
+
+24
+00:01:07,003 --> 00:01:11,004
+you can easily access your SharePoint start page,
+
+25
+00:01:11,004 --> 00:01:15,001
+the sites you're a member of, new news posts
+
+26
+00:01:15,001 --> 00:01:19,001
+from your sites, and your SharePoint files.
+
+27
+00:01:19,001 --> 00:01:23,001
+In the middle of the page is the News from sites section.
+
+28
+00:01:23,001 --> 00:01:25,001
+This is where you'll find news from the sites
+
+29
+00:01:25,001 --> 00:01:26,006
+that you're a member of.
+
+30
+00:01:26,006 --> 00:01:29,004
+If you see an article you'd like to view later,
+
+31
+00:01:29,004 --> 00:01:31,002
+simply add it to your reading list
+
+32
+00:01:31,002 --> 00:01:34,006
+by selecting the bookmark icon on the article.
+
+33
+00:01:34,006 --> 00:01:37,002
+Once bookmarked, the article is added
+
+34
+00:01:37,002 --> 00:01:39,002
+to your Saved for later section
+
+35
+00:01:39,002 --> 00:01:41,003
+found in the pane on the left.
+
+36
+00:01:41,003 --> 00:01:43,008
+Directly under News sites is a section
+
+37
+00:01:43,008 --> 00:01:47,005
+that displays your most frequently used SharePoint sites
+
+38
+00:01:47,005 --> 00:01:51,001
+and the recent activity on each of those sites.
+
+39
+00:01:51,001 --> 00:01:54,006
+You can favor a site here by selecting the star
+
+40
+00:01:54,006 --> 00:01:56,003
+in the upper right corner.
+
+41
+00:01:56,003 --> 00:01:59,007
+This will add the site to your Following list.
+
+42
+00:01:59,007 --> 00:02:01,009
+Now that you know your way around SharePoint,
+
+43
+00:02:01,009 --> 00:02:04,009
+you're ready to use your SharePoint start page today.
+

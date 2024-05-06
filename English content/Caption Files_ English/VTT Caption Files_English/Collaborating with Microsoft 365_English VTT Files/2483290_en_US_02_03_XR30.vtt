@@ -1,0 +1,160 @@
+﻿WEBVTT
+
+00:00:00.005 --> 00:00:03.008
+- [Instructor] Data is everywhere in the digital world.
+
+00:00:03.008 --> 00:00:07.009
+With so much information on your screens and in your life,
+
+00:00:07.009 --> 00:00:10.005
+it can be tough to keep track of everything.
+
+00:00:10.005 --> 00:00:13.007
+What's great about Excel is that once you have your data
+
+00:00:13.007 --> 00:00:17.002
+on a table, it's much easier to organize
+
+00:00:17.002 --> 00:00:19.005
+and locate what you're looking for.
+
+00:00:19.005 --> 00:00:20.009
+In this lesson,
+
+00:00:20.009 --> 00:00:24.007
+I'm going to show you how to sort your data in a table
+
+00:00:24.007 --> 00:00:27.001
+to find the information you need.
+
+00:00:27.001 --> 00:00:29.009
+To get started, download and open
+
+00:00:29.009 --> 00:00:33.002
+the sample budget exercise file in Excel.
+
+00:00:33.002 --> 00:00:35.009
+Now that I have the document open,
+
+00:00:35.009 --> 00:00:38.004
+you can see that expense items
+
+00:00:38.004 --> 00:00:41.007
+and amounts are already formatted as a table,
+
+00:00:41.007 --> 00:00:44.008
+but they're not in any particular order.
+
+00:00:44.008 --> 00:00:47.009
+I want to see my most expensive expense.
+
+00:00:47.009 --> 00:00:50.009
+So I'll need to use sort and filter.
+
+00:00:50.009 --> 00:00:55.003
+Sorting allows you to organize the data in a specific order.
+
+00:00:55.003 --> 00:00:58.006
+To sort my data, I'll go to the header of my table
+
+00:00:58.006 --> 00:01:01.006
+and select the Filter and Sort button
+
+00:01:01.006 --> 00:01:04.000
+on the column I want to sort.
+
+00:01:04.000 --> 00:01:05.007
+In the menu that appears,
+
+00:01:05.007 --> 00:01:09.003
+I can choose from a variety of ways to sort the data.
+
+00:01:09.003 --> 00:01:12.009
+Because I want to see my most expensive items first,
+
+00:01:12.009 --> 00:01:16.009
+I'll select Sort Largest to Smallest.
+
+00:01:16.009 --> 00:01:18.004
+Now, the expenses are sorted
+
+00:01:18.004 --> 00:01:21.005
+from the highest expense to the lowest expense.
+
+00:01:21.005 --> 00:01:23.008
+Sorting in this way can come in handy
+
+00:01:23.008 --> 00:01:26.003
+when prioritizing which expenses
+
+00:01:26.003 --> 00:01:29.004
+have the highest impact on a monthly budget.
+
+00:01:29.004 --> 00:01:32.007
+In addition to sorting expenses by cost,
+
+00:01:32.007 --> 00:01:35.004
+you can also sort them by name.
+
+00:01:35.004 --> 00:01:39.007
+To sort by name, return to the top of the items column,
+
+00:01:39.007 --> 00:01:44.008
+select Filter and Sort, and choose Sort A to Z.
+
+00:01:44.008 --> 00:01:47.000
+Now, instead of the list being in order
+
+00:01:47.000 --> 00:01:49.001
+from most expensive to least,
+
+00:01:49.001 --> 00:01:52.000
+the budget items are sorted alphabetically.
+
+00:01:52.000 --> 00:01:55.001
+This is useful if you have a long list of items
+
+00:01:55.001 --> 00:01:58.004
+and you want to find one by name.
+
+00:01:58.004 --> 00:02:01.003
+You can also filter the data in a table.
+
+00:02:01.003 --> 00:02:04.002
+Filtering allows you to more easily see the data
+
+00:02:04.002 --> 00:02:08.005
+you're looking for by temporarily limiting what's visible.
+
+00:02:08.005 --> 00:02:10.009
+For example, I can filter my table
+
+00:02:10.009 --> 00:02:14.003
+to only show the expenses that are $200.
+
+00:02:14.003 --> 00:02:17.009
+Simply select the Filter and Sort button,
+
+00:02:17.009 --> 00:02:21.002
+deselect Select All,
+
+00:02:21.002 --> 00:02:25.007
+and select $200 and select Apply.
+
+00:02:25.007 --> 00:02:29.004
+This will show only the expenses that are $200.
+
+00:02:29.004 --> 00:02:31.001
+I can select
+
+00:02:31.001 --> 00:02:36.002
+Select All to select all of my expenses again.
+
+00:02:36.002 --> 00:02:39.001
+Now that you know how to sort and filter data in Excel,
+
+00:02:39.001 --> 00:02:41.003
+you can arrange any type of data
+
+00:02:41.003 --> 00:02:42.009
+in a way that works for you.

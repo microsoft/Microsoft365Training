@@ -1,0 +1,39 @@
+ - [Instructor] A paper notebook is bound by its cover,  
+ but a digital notebook goes far beyond that,  
+ building bridges to the rest of the internet.  
+ With OneNote, you can use your notebook  
+ as a portal to the worldwide web.  
+ In this lesson, I'll show you  
+ how to easily connect your notebook to any website  
+ by adding links.  
+ This can be really useful  
+ when adding key information like a company's website  
+ in your job search.  
+ First, I'll open My job search notes notebook.  
+ So here I am in the notebook  
+ where I'm keeping notes about my job search.  
+ I have created a template I can use  
+ to keep track of each job I'm interested in.  
+ I'm curious about jobs I might find at Microsoft.  
+ So I'll use the template to create a page  
+ for my job search at Microsoft.  
+ I'll rename my page Microsoft search.  
+ I'm not ready to search or make notes yet,  
+ but I know there is a career site at Microsoft,  
+ so I want to link my notes  
+ directly to that useful information.  
+ I can do this by adding a link to the page.  
+ If I already know the web address, I can add it directly.  
+ First I want to select where the link will go on my page.  
+ I'll select Insert and Insert Link,  
+ I'll type in the text I want to display for the link,  
+ and then type in the web address,  
+ and now I'll select Insert.  
+ I can also go directly to the website in my browser  
+ and select the web address,  
+ then copy and paste it on my page in OneNote.  
+ Now you can add links to pages in your notebooks  
+ to make more dynamic connections  
+ than you could with a paper notebook alone.  
+ 
+

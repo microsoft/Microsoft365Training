@@ -1,0 +1,66 @@
+ - [Instructor] Sometimes the best way to share information  
+ in a presentation is through data.  
+ In this lesson, I'll show you how to add Excel charts,  
+ create and format tables,  
+ and add flow charts to your presentations.  
+ First, I'll show you how to add an Excel chart  
+ to a PowerPoint presentation.  
+ A chart is a tool that you can use  
+ to communicate data graphically.  
+ To start, I'll open Excel.  
+ Follow along by downloading  
+ the sample worksheet exercise file.  
+ It's called Example PowerPoint Data.  
+ So here in my Excel worksheet,  
+ I have a nicely formatted chart.  
+ I want to use it as is in my presentation,  
+ so I'll take the chart and insert it into my presentation.  
+ I'll right click this chart and select copy.  
+ Next, I'll open the presentation in PowerPoint.  
+ Follow along by downloading  
+ the sample PowerPoint exercise file.  
+ It's called Customer Event Example (A).  
+ I will then right click the slide where  
+ I want to display the chart and select paste.  
+ I can then resize the chart to fit appropriately  
+ in the slide.  
+ You can also do this with a table you formatted in Excel.  
+ Now you might not always have data in Excel ready to go.  
+ So next I want to show you how to add and format a table  
+ right in PowerPoint.  
+ A table is used to manage  
+ and analyze a group of related data.  
+ To start, I'll select the slide where I want to add a table.  
+ I'll go to the top ribbon and select insert.  
+ Then table.  
+ In the dropdown grid,  
+ I'll use the cursor to select the number  
+ of rows and columns that I need.  
+ And an empty table is added to the slide.  
+ From here I can add text to the table  
+ by selecting a cell and typing directly in it.  
+ I can also change the formatting  
+ of the table by right clicking on it  
+ and choosing from the editing options in the menu.  
+ If a table doesn't illustrate your data,  
+ perhaps a flow chart is a better visual to include  
+ in your presentation.  
+ A flow chart is a diagram that shows a process or workflow.  
+ To start, I'll add a blank slide.  
+ From here I'll go to the insert tab in the top ribbon,  
+ then select smart art.  
+ From the dropdown menu  
+ in the process section, I'll select a process flow chart.  
+ I like this one, basic chevron process.  
+ After the flow chart is added to the slide,  
+ a text editor box appears to the left of the chart.  
+ I'll type the text for my chart in the text editor box  
+ and watch the text appear in the chart graphic.  
+ No matter what type of chart or table you add,  
+ displaying your data in an easy to read way makes  
+ for a compelling and consistent presentation.  
+ How about adding a table or chart  
+ to your next presentation to share your data?  
+ I'm sure you'll get a positive response.  
+ 
+

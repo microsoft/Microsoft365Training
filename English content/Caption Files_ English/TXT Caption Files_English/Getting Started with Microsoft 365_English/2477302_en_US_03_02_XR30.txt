@@ -1,0 +1,47 @@
+ - [Instructor] Sometimes you need your message to stand out.  
+ A larger font, different colors, or maybe something more,  
+ all these make your message clearer.  
+ In this lesson, I'll show you how to edit  
+ the formatting of your Team's post to highlight your message  
+ and make key items more apparent.  
+ Since I am responsible for planning a skills conference  
+ with a team of people,  
+ it will be a great example to show.  
+ For this example,  
+ I've already opened Teams and created a team to collaborate  
+ on an upcoming conference  
+ that we're all working on together.  
+ I've created a team  
+ to streamline our work and communication,  
+ but I also want to share some upcoming tasks  
+ that need to be completed.  
+ I want to use some additional formatting features  
+ to add to my post.  
+ So I'll go to Announcements and select new conversation.  
+ Then select format.  
+ From here, I'll change and edit the announcement  
+ before I post it.  
+ I'll use a heading in bullets  
+ to share the action items for the week.  
+ The Mention feature is used to get the attention  
+ of people or groups for specific action items.  
+ Since I want the marketing and PR group  
+ to have a draft flyer,  
+ I'll mention this group in the first item in my list.  
+ I want Joni to set up a call for the team.  
+ I can mention her and ask her to set up a call.  
+ I'll make this the second item on my list.  
+ I need everyone on the team to submit weekly updates,  
+ so I need to make that task stand out.  
+ So I'll go to the formatting ribbon,  
+ select bold, then select change font color, and choose blue.  
+ Now, I'll type in a task for everyone.  
+ Now, my text really stands out.  
+ My post looks good.  
+ To send it to the team,  
+ I'll select Send and off it goes.  
+ Formatting a post is a really simple way  
+ to make what you have to say really stand out.  
+ Now you can make your messages do more for you.  
+ 
+

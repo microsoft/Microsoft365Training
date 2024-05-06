@@ -1,0 +1,108 @@
+ - [Instructor] On your computer, your web browser  
+ is the software you need in order to access  
+ and interact with the content on the web.  
+ Most operating systems come with at least one  
+ built in web browser application.  
+ For example, Mac OS computers include the Safari browser  
+ and Windows 10 includes Microsoft Edge  
+ but there are several other browsers  
+ on the market to choose from including Google Chrome  
+ and Mozilla Firefox.  
+ At the most basic level, all browsers allow you to access  
+ websites, download files, images, and videos  
+ on websites and so on.  
+ Browsers mainly vary in the features they include  
+ but these days most browsers have very similar features.  
+ Here we'll take a look at browsing the web  
+ with Microsoft Edge, but you'll be able to use  
+ other modern browsers in mostly the same away.  
+ I'll open up Microsoft Edge and there it is.  
+ To access a website, we enter the URL or address  
+ of the site into the address bar at the top of the window.  
+ The browser loads the webpage and it's displayed  
+ in the main part of the window.  
+ We can use the scroll bar to scroll down the page  
+ to view it and to interact with all the elements  
+ on the page.  
+ White pages usually contain hyperlinks,  
+ often just called links, that point to other pages  
+ on the website or to entirely different websites.  
+ You can often tell if text is a hyperlink  
+ by its appearance.  
+ It's usually a different color from the surrounding text  
+ like we see here, or it becomes underlined or already  
+ is underlined, or it's just visually different  
+ in some other way.  
+ Alternately, if you place your mouse over text  
+ or an image and the cursor turns into a hand  
+ with a pointing finger, that indicates  
+ the item is a clickable link.  
+ You'll also see the address that clicking the link  
+ will take you to there in the lower left hand corner  
+ and if I click that link I'll go to that page.  
+ And now we're looking at the webpage that was linked  
+ from the previous page and we can start browsing this page.  
+ If necessary, you can go back to the previous page  
+ by clicking the back button in the browser.  
+ Similarly, you can click the forward button  
+ to view that link page again.  
+ Although it's easy to move back and forth  
+ between pages like this, there are often times  
+ when you need to reference multiple webpages  
+ at the same time and going back and forth can get tedious.  
+ A solution is to use tabs which are a feature  
+ of web browsers which allow you to open multiple  
+ webpages at the same time in the same browser window.  
+ For example, maybe I'm searching for Microsoft Surface  
+ tablets, I'll click that link, and as you can see  
+ there are many different models to choose from here.  
+ Clicking one of these takes me to the page  
+ about that model and then I need to click the back button  
+ to go back to the links to look at the other models.  
+ To save time, I'm going to right click on the link  
+ and choose open link in new tab.  
+ In this particular browser, that opens a new tab  
+ here in the background and you can see  
+ the title of the page here.  
+ In some web browsers, depending on your settings,  
+ the new tab may open in the front, but in either case  
+ you can switch back and forth between tabs  
+ just by clicking on them.  
+ So now I can right click on the links for the other  
+ product versions I'm interested in  
+ and open them in new tabs as well.  
+ And once I've done that I can now switch among  
+ all the tabs to do my research.  
+ You can also open the web pages in new windows  
+ by right clicking and choosing open link in new window.  
+ Opening links in new windows can help you stay organized  
+ by grouping related tabs in their own window  
+ and opening unrelated tabs in other windows,  
+ but that's a matter of personal preference.  
+ But because these are separate windows, I can move  
+ this one slightly out of the way and still see  
+ the other window here in the background  
+ and I can switch to that if I needed to.  
+ You can always keep track of the web pages you visit  
+ by using the history feature of the browser.  
+ In Edge, click the three dot button here  
+ in the upper right hand corner  
+ and roll your mouse over history  
+ and from here I can choose manage history  
+ to see a list of the web pages I visited,  
+ organized by date.  
+ You have the option to clear web pages from your history  
+ whenever you like, which you can do by clicking  
+ clear browsing data and here I can choose  
+ to clear the browsing history from the last 24 hours,  
+ the last hour, the last seven days, the last four weeks  
+ and all of my browsing history.  
+ I'll leave that as is for now though.  
+ Again, you'll find all the features we've seen here  
+ in Microsoft Edge in other browsers as well,  
+ but they may be located in different places.  
+ But once you familiarize yourself with your preferred  
+ browser, you'll find these features make it easy  
+ to browse the web.  
+ 
+

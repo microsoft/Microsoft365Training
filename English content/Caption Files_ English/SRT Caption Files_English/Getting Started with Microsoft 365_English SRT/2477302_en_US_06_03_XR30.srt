@@ -1,0 +1,240 @@
+1
+00:00:00,005 --> 00:00:01,006
+- [Instructor] Sharing information
+
+2
+00:00:01,006 --> 00:00:03,006
+is key to business success.
+
+3
+00:00:03,006 --> 00:00:05,007
+Your team members may come to your site
+
+4
+00:00:05,007 --> 00:00:09,000
+to learn or to help build the next idea.
+
+5
+00:00:09,000 --> 00:00:11,000
+In this lesson, I'm going to show you
+
+6
+00:00:11,000 --> 00:00:12,009
+how to share your SharePoint site
+
+7
+00:00:12,009 --> 00:00:14,005
+with stakeholders.
+
+8
+00:00:14,005 --> 00:00:17,003
+In this example, I'm responsible for organizing
+
+9
+00:00:17,003 --> 00:00:19,004
+a skills conference for my team.
+
+10
+00:00:19,004 --> 00:00:21,006
+I have a team site for presenters
+
+11
+00:00:21,006 --> 00:00:24,000
+working on the conference to collaborate.
+
+12
+00:00:24,000 --> 00:00:25,009
+I also have a communication site
+
+13
+00:00:25,009 --> 00:00:28,002
+to share information about the skills conference
+
+14
+00:00:28,002 --> 00:00:30,002
+with everyone at my company.
+
+15
+00:00:30,002 --> 00:00:32,001
+I want to share the team site,
+
+16
+00:00:32,001 --> 00:00:35,007
+and communication site with the right people.
+
+17
+00:00:35,007 --> 00:00:36,009
+From the start page,
+
+18
+00:00:36,009 --> 00:00:40,005
+I want to go to my skills conference presenters
+
+19
+00:00:40,005 --> 00:00:41,008
+team site.
+
+20
+00:00:41,008 --> 00:00:44,002
+I'll select members,
+
+21
+00:00:44,002 --> 00:00:46,004
+and the details of my group membership
+
+22
+00:00:46,004 --> 00:00:48,000
+appear in a window.
+
+23
+00:00:48,000 --> 00:00:50,003
+From here I can change permissions,
+
+24
+00:00:50,003 --> 00:00:52,007
+and add new members to this site.
+
+25
+00:00:52,007 --> 00:00:54,008
+I can also remove members,
+
+26
+00:00:54,008 --> 00:00:56,008
+and owners from this group.
+
+27
+00:00:56,008 --> 00:00:59,004
+Now I'll show you how to change permissions
+
+28
+00:00:59,004 --> 00:01:01,003
+on a communication site.
+
+29
+00:01:01,003 --> 00:01:05,004
+I'll navigate to the skills conference page.
+
+30
+00:01:05,004 --> 00:01:06,006
+To manage permissions,
+
+31
+00:01:06,006 --> 00:01:10,001
+I'll select share from the upper-right corner.
+
+32
+00:01:10,001 --> 00:01:12,000
+I'm the only owner,
+
+33
+00:01:12,000 --> 00:01:15,009
+and there are no members and no visitors
+
+34
+00:01:15,009 --> 00:01:17,001
+on this site.
+
+35
+00:01:17,001 --> 00:01:19,003
+Owners have full control of the site.
+
+36
+00:01:19,003 --> 00:01:21,009
+Members can view and edit,
+
+37
+00:01:21,009 --> 00:01:24,006
+and visitors can only view the site.
+
+38
+00:01:24,006 --> 00:01:25,004
+From this window,
+
+39
+00:01:25,004 --> 00:01:27,009
+I can also add users or groups
+
+40
+00:01:27,009 --> 00:01:29,005
+to share this site.
+
+41
+00:01:29,005 --> 00:01:31,001
+I want to share the site
+
+42
+00:01:31,001 --> 00:01:34,000
+with everyone except external users.
+
+43
+00:01:34,000 --> 00:01:37,002
+So I'll type in everyone,
+
+44
+00:01:37,002 --> 00:01:40,008
+and select everyone except external users.
+
+45
+00:01:40,008 --> 00:01:43,005
+Now I'll select share,
+
+46
+00:01:43,005 --> 00:01:45,009
+and I'll check the permissions again.
+
+47
+00:01:45,009 --> 00:01:49,004
+When sharing with everyone except external users,
+
+48
+00:01:49,004 --> 00:01:53,001
+by default, SharePoint only gives view access
+
+49
+00:01:53,001 --> 00:01:54,006
+or read permissions.
+
+50
+00:01:54,006 --> 00:01:55,005
+If needed,
+
+51
+00:01:55,005 --> 00:01:57,001
+I could change those permissions
+
+52
+00:01:57,001 --> 00:02:01,002
+by selecting the dropdown button under name.
+
+53
+00:02:01,002 --> 00:02:03,005
+I'll close share site now.
+
+54
+00:02:03,005 --> 00:02:06,003
+I have successfully shared my communication site,
+
+55
+00:02:06,003 --> 00:02:09,006
+and made sure people had the appropriate access.
+
+56
+00:02:09,006 --> 00:02:12,001
+Now you can share any site you create
+
+57
+00:02:12,001 --> 00:02:13,009
+with the appropriate people.
+
+58
+00:02:13,009 --> 00:02:16,000
+You can collaborate with a team
+
+59
+00:02:16,000 --> 00:02:17,007
+or create an engaging site
+
+60
+00:02:17,007 --> 00:02:20,004
+to get people excited about an upcoming event.
+

@@ -1,0 +1,160 @@
+1
+00:00:00,000 --> 00:00:01,000
+- [Instructor] Microsoft Project
+
+2
+00:00:01,000 --> 00:00:03,003
+has a wide variety of helpful tools.
+
+3
+00:00:03,003 --> 00:00:05,005
+In order to get the most out of these tools,
+
+4
+00:00:05,005 --> 00:00:06,008
+you need to know what they are
+
+5
+00:00:06,008 --> 00:00:08,005
+and where to find them.
+
+6
+00:00:08,005 --> 00:00:11,004
+In this lesson, I'll show you how to locate key features
+
+7
+00:00:11,004 --> 00:00:13,004
+within Microsoft Project.
+
+8
+00:00:13,004 --> 00:00:16,006
+I'll start from Office.com, select the App Launcher
+
+9
+00:00:16,006 --> 00:00:19,003
+in the top left corner, and open Project.
+
+10
+00:00:19,003 --> 00:00:20,007
+Note that using Projects of the web
+
+11
+00:00:20,007 --> 00:00:22,001
+requires an active subscription
+
+12
+00:00:22,001 --> 00:00:23,009
+to Microsoft Project.
+
+13
+00:00:23,009 --> 00:00:26,000
+The Project homepage is where you'll find all
+
+14
+00:00:26,000 --> 00:00:28,009
+the Microsoft Projects you have access to.
+
+15
+00:00:28,009 --> 00:00:32,001
+At the top, there's a new blank Project button.
+
+16
+00:00:32,001 --> 00:00:33,009
+I can also see two main sections
+
+17
+00:00:33,009 --> 00:00:37,003
+on the homepage: Favorites and Recent.
+
+18
+00:00:37,003 --> 00:00:40,003
+Favorites has all the projects I've tagged as important.
+
+19
+00:00:40,003 --> 00:00:43,001
+I'm currently working on the August Wedding project.
+
+20
+00:00:43,001 --> 00:00:44,008
+I can mark this project as a favorite
+
+21
+00:00:44,008 --> 00:00:49,006
+by hovering over the project and selecting Mark Favorite.
+
+22
+00:00:49,006 --> 00:00:51,006
+As I complete projects,
+
+23
+00:00:51,006 --> 00:00:54,005
+I can un-favorite them by selecting More Options
+
+24
+00:00:54,005 --> 00:00:57,007
+and choosing Remove From Favorites.
+
+25
+00:00:57,007 --> 00:01:00,001
+The Recent panel contains the projects
+
+26
+00:01:00,001 --> 00:01:01,005
+you've opened most recently.
+
+27
+00:01:01,005 --> 00:01:02,004
+When I need to look back
+
+28
+00:01:02,004 --> 00:01:06,002
+on previous projects, Recent helps me find them quickly.
+
+29
+00:01:06,002 --> 00:01:07,003
+As you work with Projects,
+
+30
+00:01:07,003 --> 00:01:10,002
+team members may share their projects with you.
+
+31
+00:01:10,002 --> 00:01:11,002
+You can see shared projects
+
+32
+00:01:11,002 --> 00:01:14,001
+by selecting the Shared With Me tab.
+
+33
+00:01:14,001 --> 00:01:16,003
+Finally, if you want to narrow your search
+
+34
+00:01:16,003 --> 00:01:18,004
+to see just the projects you've created,
+
+35
+00:01:18,004 --> 00:01:21,009
+filter by selecting the Created By Me tab.
+
+36
+00:01:21,009 --> 00:01:26,003
+Now only the projects I've created are displayed.
+
+37
+00:01:26,003 --> 00:01:28,004
+I encourage you to explore the Project interface
+
+38
+00:01:28,004 --> 00:01:31,000
+before creating your first project.
+
+39
+00:01:31,000 --> 00:01:32,003
+You'll be comfortable
+
+40
+00:01:32,003 --> 00:01:34,007
+with this Project management tool in no time.
+

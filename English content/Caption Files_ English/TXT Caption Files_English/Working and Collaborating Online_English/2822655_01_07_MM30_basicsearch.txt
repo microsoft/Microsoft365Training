@@ -1,0 +1,90 @@
+ - [Instructor] A big part of being connected to the internet  
+ is having access to the seemingly unlimited amounts  
+ of information out there.  
+ As you may know,  
+ the best way to find information you're looking for  
+ is to perform a search through a search engine.  
+ A search engine is an online resource  
+ that systematically catalogs the contents of the web  
+ so that when you perform a search,  
+ you can bring up webpages matching the words or terms  
+ you're looking for.  
+ There are many search engines out there,  
+ and you've probably heard of at least a few of them,  
+ like Google, Yahoo, Microsoft Bing, or DuckDuckGo.  
+ Searching is such an integral part  
+ of being on the web that all modern web browsers  
+ have web searching built in.  
+ For example, to perform a search,  
+ I could go to bing.com  
+ here in my Microsoft Edge browser,  
+ and I could type the term I'm searching for  
+ in the search field here.  
+ But Bing is also the default search engine in Edge,  
+ and almost all browsers allow you to set  
+ the default search engine you want to use.  
+ So for example,  
+ if I wanted to search for information  
+ about Yosemite National Park,  
+ I can type that right into the address bar,  
+ regardless of whether I'm on bing.com or not.  
+ Notice as I type,  
+ If I see the one I want,  
+ I can just click it.  
+ Otherwise I could have kept typing  
+ and pressed enter to search.  
+ And now I'm looking at my search results on Bing.  
+ Each search result is a link that will take me to the page  
+ or website that Bing has found.  
+ To help me determine  
+ if the page includes the information I'm looking for,  
+ most of the results also have a few excerpts of text  
+ from those pages and some images.  
+ For example, here's the Wikipedia page  
+ for Yosemite National Park,  
+ which I might want to read to learn a little bit more  
+ about the history of the park.  
+ So clicking that link takes me to the website,  
+ and as you can see in the address bar,  
+ I'm now viewing Wikipedia.  
+ If this isn't what I was looking for,  
+ or if I just want to browse other pages Bing found,  
+ I can click the back button  
+ to go back to the previous page of results.  
+ Notice that in addition to web pages,  
+ there's plenty of information here too.  
+ I can click about and see a summary about the park,  
+ I can get directions from my current location  
+ to Yosemite, and I can visit the official website  
+ using the website button here.  
+ And as you saw when I scrolled down,  
+ we can find news and photos related to Yosemite.  
+ If I scroll back up,  
+ to just images of Yosemite or videos of Yosemite,  
+ as well as maps, news, and even shopping pages  
+ where I could find products related to Yosemite  
+ that I can purchase.  
+ Let's say I'm looking for photos right now.  
+ I'll click images.  
+ And just like that, I see the results.  
+ As I roll over each image,  
+ I see information about the source of the images.  
+ Many of these appear to be from articles about Yosemite.  
+ And clicking an image allows me to see it at a larger size,  
+ and I can click the arrows here  
+ to browse through my results this way.  
+ I'll click the X button here  
+ to see the smaller images again.  
+ Notice at the top of the image results,  
+ we see a row of suggestions that may help you narrow down  
+ the type of image you're searching for.  
+ So maybe instead of searching  
+ for general photos of Yosemite,  
+ I want to search for photos of winter in the park.  
+ And there we are.  
+ So this has been a quick look  
+ at how most modern search engines make it easier to find  
+ the information and other content  
+ you're looking for on the web.  
+ 
+

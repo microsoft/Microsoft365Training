@@ -1,0 +1,236 @@
+1
+00:00:00,005 --> 00:00:03,003
+- [Instructor] Accessing, organizing, and using notes
+
+2
+00:00:03,003 --> 00:00:07,000
+in a paper notebook can be really challenging.
+
+3
+00:00:07,000 --> 00:00:08,009
+OneNote is a digital notebook
+
+4
+00:00:08,009 --> 00:00:11,005
+that makes your information work for you.
+
+5
+00:00:11,005 --> 00:00:12,007
+In this lesson,
+
+6
+00:00:12,007 --> 00:00:16,003
+I'm going to walk you through creating a notebook in OneNote
+
+7
+00:00:16,003 --> 00:00:20,000
+so that you can keep your information organized, useful,
+
+8
+00:00:20,000 --> 00:00:23,003
+and accessible from anywhere, anytime.
+
+9
+00:00:23,003 --> 00:00:25,001
+For job seekers, it's necessary
+
+10
+00:00:25,001 --> 00:00:27,002
+to keep track of detailed information
+
+11
+00:00:27,002 --> 00:00:29,002
+on each job you search for.
+
+12
+00:00:29,002 --> 00:00:30,000
+In this example,
+
+13
+00:00:30,000 --> 00:00:32,008
+I'll show you how to create a notebook in OneNote
+
+14
+00:00:32,008 --> 00:00:35,006
+to help with that important task.
+
+15
+00:00:35,006 --> 00:00:38,008
+First, in the top left corner of office.com,
+
+16
+00:00:38,008 --> 00:00:42,004
+select the app launcher and open OneNote.
+
+17
+00:00:42,004 --> 00:00:43,007
+Now that I've opened OneNote,
+
+18
+00:00:43,007 --> 00:00:45,009
+it's time to create a new notebook.
+
+19
+00:00:45,009 --> 00:00:48,007
+Select the Add new notebook option
+
+20
+00:00:48,007 --> 00:00:51,006
+and give the new notebook a name.
+
+21
+00:00:51,006 --> 00:00:56,007
+I'll name my notebook My job search notes,
+
+22
+00:00:56,007 --> 00:01:02,006
+and then I'll select Create.
+
+23
+00:01:02,006 --> 00:01:04,002
+After the notebook is created,
+
+24
+00:01:04,002 --> 00:01:08,001
+it's time to organize content by adding sections.
+
+25
+00:01:08,001 --> 00:01:10,001
+When you open a brand-new notebook,
+
+26
+00:01:10,001 --> 00:01:12,006
+you'll see this alert that the notebook is empty
+
+27
+00:01:12,006 --> 00:01:14,003
+with no sections.
+
+28
+00:01:14,003 --> 00:01:17,003
+In OneNote, every notebook is made up of sections
+
+29
+00:01:17,003 --> 00:01:20,001
+and each section has pages.
+
+30
+00:01:20,001 --> 00:01:22,002
+Think of these sections like dividers
+
+31
+00:01:22,002 --> 00:01:25,004
+between loose-leaf papers and a physical binder.
+
+32
+00:01:25,004 --> 00:01:29,004
+To add a section, I'm going to select Add section.
+
+33
+00:01:29,004 --> 00:01:32,006
+A window opens, asking for a section name.
+
+34
+00:01:32,006 --> 00:01:35,002
+Let's say I'm looking for two types of jobs,
+
+35
+00:01:35,002 --> 00:01:37,001
+one working as an office assistant
+
+36
+00:01:37,001 --> 00:01:39,000
+and the other as a teaching assistant.
+
+37
+00:01:39,000 --> 00:01:40,002
+These are different jobs.
+
+38
+00:01:40,002 --> 00:01:41,008
+So I'll separate my notebook
+
+39
+00:01:41,008 --> 00:01:44,002
+into an office assistant section
+
+40
+00:01:44,002 --> 00:01:46,004
+and a teaching assistant section.
+
+41
+00:01:46,004 --> 00:01:49,002
+I'm most interested in the office assistant job,
+
+42
+00:01:49,002 --> 00:01:51,004
+so I'll start with that section.
+
+43
+00:01:51,004 --> 00:01:55,008
+I'll name this section office assistant and select OK.
+
+44
+00:01:55,008 --> 00:01:58,000
+So now I have a new section in my notebook
+
+45
+00:01:58,000 --> 00:02:00,001
+called office assistant.
+
+46
+00:02:00,001 --> 00:02:01,009
+When a new section is created,
+
+47
+00:02:01,009 --> 00:02:06,006
+OneNote automatically adds a page called Untitled Page,
+
+48
+00:02:06,006 --> 00:02:08,000
+which I'll update here
+
+49
+00:02:08,000 --> 00:02:11,000
+to specify what type of notes I'll include.
+
+50
+00:02:11,000 --> 00:02:13,009
+Let's say job details.
+
+51
+00:02:13,009 --> 00:02:15,007
+Now that this page is set up,
+
+52
+00:02:15,007 --> 00:02:18,007
+I'm ready to take notes on the job opportunity.
+
+53
+00:02:18,007 --> 00:02:20,004
+Now that you know how to create a notebook
+
+54
+00:02:20,004 --> 00:02:21,008
+and sections within it,
+
+55
+00:02:21,008 --> 00:02:24,000
+you can make your own digital notebooks.
+
+56
+00:02:24,000 --> 00:02:24,009
+These will be places
+
+57
+00:02:24,009 --> 00:02:27,001
+where you can keep notes on job searches,
+
+58
+00:02:27,001 --> 00:02:28,008
+classes you're taking,
+
+59
+00:02:28,008 --> 00:02:31,003
+or which new series you want to binge watch.
+

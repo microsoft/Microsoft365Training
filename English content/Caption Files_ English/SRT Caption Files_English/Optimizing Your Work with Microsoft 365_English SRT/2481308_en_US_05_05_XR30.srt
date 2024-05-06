@@ -1,0 +1,360 @@
+1
+00:00:00,000 --> 00:00:01,007
+- [Educator] The meeting was scheduled,
+
+2
+00:00:01,007 --> 00:00:03,001
+the attendees have arrived,
+
+3
+00:00:03,001 --> 00:00:05,004
+and now it's time to present.
+
+4
+00:00:05,004 --> 00:00:06,003
+In this lesson,
+
+5
+00:00:06,003 --> 00:00:08,002
+I'll show you how to present in Teams
+
+6
+00:00:08,002 --> 00:00:12,008
+directly from PowerPoint by sharing your screen or windows
+
+7
+00:00:12,008 --> 00:00:16,006
+and by requesting and taking control from another presenter.
+
+8
+00:00:16,006 --> 00:00:17,005
+In this example,
+
+9
+00:00:17,005 --> 00:00:19,002
+I want to share a presentation
+
+10
+00:00:19,002 --> 00:00:24,004
+on the progress my team is making on a key customer event.
+
+11
+00:00:24,004 --> 00:00:26,006
+First, I'll join a Teams meeting
+
+12
+00:00:26,006 --> 00:00:27,009
+to show you how to present
+
+13
+00:00:27,009 --> 00:00:38,007
+using the Present in Teams feature.
+
+14
+00:00:38,007 --> 00:00:43,007
+From here, I'll open my presentation in PowerPoint.
+
+15
+00:00:43,007 --> 00:00:49,006
+Select Present in the top right corner of PowerPoint.
+
+16
+00:00:49,006 --> 00:00:59,002
+And in the dropdown menu, select Present in Teams.
+
+17
+00:00:59,002 --> 00:01:01,006
+Your presentation will appear in Microsoft Teams
+
+18
+00:01:01,006 --> 00:01:04,005
+for you and all your attendees.
+
+19
+00:01:04,005 --> 00:01:05,005
+When you're done presenting,
+
+20
+00:01:05,005 --> 00:01:15,005
+select Stop Presenting at the top of the Teams' screen.
+
+21
+00:01:15,005 --> 00:01:17,006
+Next, I'll show you how to share your screen
+
+22
+00:01:17,006 --> 00:01:19,006
+in a Teams meeting.
+
+23
+00:01:19,006 --> 00:01:22,003
+In my Teams meeting, I'll select the Share Content icon
+
+24
+00:01:22,003 --> 00:01:24,003
+at the top right of the screen
+
+25
+00:01:24,003 --> 00:01:29,002
+and then choose what I want to share.
+
+26
+00:01:29,002 --> 00:01:33,002
+Screen lets you show everything on your screen.
+
+27
+00:01:33,002 --> 00:01:35,002
+PowerPoint Live lets you share
+
+28
+00:01:35,002 --> 00:01:37,009
+recently opened PowerPoint presentations.
+
+29
+00:01:37,009 --> 00:01:40,003
+Window lets you share an open window,
+
+30
+00:01:40,003 --> 00:01:45,004
+like a specific app or document that you have open.
+
+31
+00:01:45,004 --> 00:01:52,009
+I'll share a window and select my open Excel document.
+
+32
+00:01:52,009 --> 00:01:55,000
+After you select what you want to share,
+
+33
+00:01:55,000 --> 00:01:58,000
+a red border surrounds what you are sharing.
+
+34
+00:01:58,000 --> 00:02:00,007
+To stop sharing, select the stop sharing icon
+
+35
+00:02:00,007 --> 00:02:04,007
+indicated by an X in the minimized Teams video
+
+36
+00:02:04,007 --> 00:02:08,007
+in the lower right corner of your screen
+
+37
+00:02:08,007 --> 00:02:17,004
+or at the top of the screen where it says Stop Presenting.
+
+38
+00:02:17,004 --> 00:02:18,003
+Sometimes during a meeting
+
+39
+00:02:18,003 --> 00:02:21,001
+you'll need another participant to share,
+
+40
+00:02:21,001 --> 00:02:24,001
+Teams lets you give control to other participants.
+
+41
+00:02:24,001 --> 00:02:26,006
+When you give control to another participant,
+
+42
+00:02:26,006 --> 00:02:29,000
+you will both be in control of sharing,
+
+43
+00:02:29,000 --> 00:02:32,003
+but you can take back control anytime.
+
+44
+00:02:32,003 --> 00:02:39,000
+I'll share my Excel document again.
+
+45
+00:02:39,000 --> 00:02:40,004
+To let someone else control
+
+46
+00:02:40,004 --> 00:02:41,007
+while you're sharing your screen,
+
+47
+00:02:41,007 --> 00:02:45,006
+go to the sharing toolbar at the top,
+
+48
+00:02:45,006 --> 00:02:49,002
+and select Give Control.
+
+49
+00:02:49,002 --> 00:02:55,005
+Select the name of the attendee you want to give control to.
+
+50
+00:02:55,005 --> 00:02:58,001
+And Teams sends a notification to that participant
+
+51
+00:02:58,001 --> 00:03:01,002
+to let them know you're sharing control.
+
+52
+00:03:01,002 --> 00:03:03,004
+Note, only users logged into Teams
+
+53
+00:03:03,004 --> 00:03:07,005
+will be able to both request and give control.
+
+54
+00:03:07,005 --> 00:03:08,007
+While you're sharing control,
+
+55
+00:03:08,007 --> 00:03:11,008
+they can make selections, edits, and other modifications
+
+56
+00:03:11,008 --> 00:03:14,003
+to the shared screen.
+
+57
+00:03:14,003 --> 00:03:19,008
+To take back control, select Cancel Control at the top.
+
+58
+00:03:19,008 --> 00:03:21,008
+If a participant wants to take control
+
+59
+00:03:21,008 --> 00:03:23,003
+while another person is sharing,
+
+60
+00:03:23,003 --> 00:03:27,000
+they'll select Request Control at the top of the window.
+
+61
+00:03:27,000 --> 00:03:34,003
+The person sharing can then approve or deny your request.
+
+62
+00:03:34,003 --> 00:03:35,003
+While they have control,
+
+63
+00:03:35,003 --> 00:03:37,004
+they can make selections, edits,
+
+64
+00:03:37,004 --> 00:03:41,001
+and other modifications to the shared screen.
+
+65
+00:03:41,001 --> 00:03:43,002
+When you're done, select Cancel Control
+
+66
+00:03:43,002 --> 00:03:47,004
+to stop sharing control.
+
+67
+00:03:47,004 --> 00:03:53,005
+That's teamwork making the dream work.
+
+68
+00:03:53,005 --> 00:03:56,002
+Using Presenter mode can help you become a more engaging
+
+69
+00:03:56,002 --> 00:03:58,004
+and integral part of your presentation
+
+70
+00:03:58,004 --> 00:04:04,001
+instead of sharing screen or window content only.
+
+71
+00:04:04,001 --> 00:04:05,007
+In the upper right corner of Teams,
+
+72
+00:04:05,007 --> 00:04:08,009
+select Share Content to see Presenter modes
+
+73
+00:04:08,009 --> 00:04:11,000
+and other options.
+
+74
+00:04:11,000 --> 00:04:16,002
+Under Presenter mode, choose the mode that you want.
+
+75
+00:04:16,002 --> 00:04:17,000
+Stand out,
+
+76
+00:04:17,000 --> 00:04:20,007
+where your live image is in front of the presentation,
+
+77
+00:04:20,007 --> 00:04:23,005
+side by side, where your live image is framed
+
+78
+00:04:23,005 --> 00:04:26,000
+next to the presentation,
+
+79
+00:04:26,000 --> 00:04:29,008
+or reporter, where your live image is over a background
+
+80
+00:04:29,008 --> 00:04:33,001
+and the shared content is over your shoulder.
+
+81
+00:04:33,001 --> 00:04:34,000
+In Reporter mode,
+
+82
+00:04:34,000 --> 00:04:38,003
+your image appears bigger than the shared content.
+
+83
+00:04:38,003 --> 00:04:40,001
+If you're ready to start your presentation,
+
+84
+00:04:40,001 --> 00:04:41,009
+make sure your camera is on,
+
+85
+00:04:41,009 --> 00:04:43,004
+select the presentation mode,
+
+86
+00:04:43,004 --> 00:04:47,008
+and choose a screen or window on your device when prompted.
+
+87
+00:04:47,008 --> 00:04:48,006
+There are lots of options
+
+88
+00:04:48,006 --> 00:04:50,003
+for you to deliver engaging content
+
+89
+00:04:50,003 --> 00:04:53,009
+in your presentations and meetings with Teams,
+
+90
+00:04:53,009 --> 00:04:57,000
+try using some of these features in your next large meeting.
+

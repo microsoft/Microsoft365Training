@@ -1,0 +1,65 @@
+ - To access information and to communicate  
+ with others online, you first need to connect  
+ to the internet.  
+ This is also known as getting online.  
+ To do this you need an internet capable device  
+ to connect to a network.  
+ These devices include desktop and laptop computers,  
+ mobile phones and tablets.  
+ Nearly all modern devices in these categories  
+ have the ability to connect to networks to get online.  
+ Essentially, the internet is made up of a set of networks  
+ that are connected to each other all across the world  
+ and you get online and on the internet  
+ by connecting to one of these networks.  
+ Oftentimes you'll be connecting to a network  
+ that's been set up in your home or place of work.  
+ Depending on the device you're using,  
+ you can connect the networks in different ways.  
+ For example, if you're using a desktop computer,  
+ you may have a wired connection to your network  
+ for internet access.  
+ Many laptop computers also have ports  
+ to support a wired connection as well.  
+ For a wired connection, you'll use a cable  
+ called an ethernet cable to connect your computer  
+ to your network device, often called a router.  
+ Most laptop computers also have the ability to connect  
+ to wifi networks, which is a wireless form of connection,  
+ so you can choose between a wired and wireless connection  
+ from most laptops.  
+ When using portable devices like mobile phones and tablets,  
+ you'll also typically connect to your network via wifi.  
+ If your mobile phone or tablet has a data plan  
+ through your mobile provider, you can also connect  
+ to the internet wirelessly over cellular signals  
+ when wifi isn't available.  
+ This is referred to as mobile broadband.  
+ When you're on the go though, connecting to wifi networks  
+ is generally the best option as many mobile providers  
+ limit the amount of data you can transfer  
+ over mobile broadband and may charge extra fees  
+ for going over your limit.  
+ Publicly available wifi networks are also available  
+ in places like airports, hotels,  
+ shopping centers, and restaurants.  
+ Oftentimes public wifi networks are password protected,  
+ which is a method for securing the network  
+ from being accessed by just anyone.  
+ For example, a coffee shop may decide to only share  
+ the password to their wifi network with customers.  
+ Similarly, the wifi network you may have set up in your home  
+ should also be password protected to prevent people  
+ from outside your household from connecting to it.  
+ Home networks are usually set up  
+ by your internet service provider or ISP.  
+ Your ISP sets you up with a modem  
+ for creating the connection from your home to the internet  
+ and often the service includes a router  
+ which allows multiple computers and devices  
+ to connect to the internet at the same time,  
+ either wired or wirelessly.  
+ For the most part, getting online is quick and easy  
+ as long as you have an available network to connect to.  
+ 
+

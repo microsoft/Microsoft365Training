@@ -1,0 +1,92 @@
+ - [Instructor] Creating custom forms  
+ like surveys and quizzes is an efficient and organized way  
+ to get the information you need from internal team members  
+ and external collaborators.  
+ In this lesson, I'll show you  
+ how to collect information from your audience  
+ by building a Microsoft Form using different question types.  
+ In this example, I'm going to create a contact form  
+ to drive new clients and vendors  
+ to a wedding planning company.  
+ In the top left corner of office.com,  
+ I'll select the app launcher and open forms.  
+ I'll select new form.  
+ I'll start by adding a name and description.  
+ I'll set the form title to  
+ Wedding Planning Consulting Interest.  
+ I want my client to feel welcome,  
+ so I'll write a friendly description.  
+ Thank you for your interest in Wedding Planning Consulting.  
+ Please fill out the contact form  
+ so we can make your wedding a memorable day.  
+ It's important to preview your form  
+ to make sure it appears as intended.  
+ The preview button on the top right  
+ allows me to see what the form looks like.  
+ Here you'll see that the form title and description  
+ match what I typed in.  
+ Below the description,  
+ you'll notice this disclosure statement.  
+ Hi, Demo.  
+ When you submit this form,  
+ the owner will see your name and email address.  
+ By default, a form is created to collect information  
+ from people in your organization.  
+ To change the setting,  
+ select the back button in the top left corner of the page  
+ to go back to the form design window.  
+ Select more form settings in the upper right corner  
+ and select settings.  
+ I'll switch who can fill out this form  
+ to anyone can respond so that clients can access the form.  
+ Now I'll go back to preview and the message is removed.  
+ Now that the form looks good,  
+ I'll select back to continue creating my contact form.  
+ Next, I'm going to add questions to the contact form  
+ that will capture relevant information  
+ about the future client  
+ and the type of services they may be looking for.  
+ A good place to start  
+ is to ask for their contact information.  
+ To add a new question, I'll select add new.  
+ Here, I'm presented with four different question types.  
+ Choice, text, rating, and date.  
+ Choice is answering a multiple choice question.  
+ Text is a fill in the blank question.  
+ Rating is giving an opinion on a scale.  
+ And date is when you specify a date from a calendar.  
+ For contact information,  
+ I'm going to create three text questions.  
+ I'll select text and enter email address.  
+ I'll do this again for first name and last name.  
+ The next piece of information that would be helpful  
+ is when the clients want to get married.  
+ This type of data can be captured  
+ with the choice question type.  
+ I'll select add new, choice, and enter the text  
+ when do you plan to get married?  
+ In the options field, I'll enter these options.  
+ Less than six months, six to 12 months,  
+ more than one year, and I don't know.  
+ As a wedding planner, I would also like to know  
+ if the clients have already picked a wedding date.  
+ You can have them enter it using the date question type.  
+ I'll select add new, date, and enter  
+ if you've already picked a date, enter it here  
+ as the question.  
+ And lastly, let's find out how comfortable the clients are  
+ at planning things on a scale.  
+ So, I'll select add new, rating, with the text  
+ how comfortable are you planning events?  
+ Five being the most comfortable.  
+ I will then select the symbol dropdown and choose number.  
+ In a matter of minutes, my interest form is taking shape.  
+ Microsoft Forms gives you the power  
+ to intentionally gather information  
+ from clients and coworkers alike.  
+ Take some time and explore the other options  
+ in the input fields and consider how you can use them  
+ to get the details you need.  
+ You've got this!  
+ 
+

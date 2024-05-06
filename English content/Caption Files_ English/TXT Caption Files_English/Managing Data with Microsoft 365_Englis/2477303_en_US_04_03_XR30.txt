@@ -1,0 +1,75 @@
+ - [Instructor] Reports need data.  
+ Before you can create visualizations and gain insights,  
+ you'll need to be able to import datasets into Power BI.  
+ In this lesson, I'll walk you through two ways  
+ that you can import data into this powerful software.  
+ You can install Power BI on your PC  
+ by going to the Microsoft Store and searching for Power BI.  
+ When you open Power BI Desktop, you'll see the start screen.  
+ I'll go ahead and close it.  
+ The first way to import data for your reports  
+ is from an Excel spreadsheet.  
+ In this example,  
+ I am importing a list of customers from Excel.  
+ There are two ways to do this.  
+ You can either select Excel workbook in the ribbon  
+ near the top of the screen, or import data from Excel  
+ from the Add Data menu.  
+ I'm going to select Excel workbook from the home ribbon.  
+ This brings up a dialogue where I can select  
+ the spreadsheet I want to import.  
+ I'm going to open the customer file.  
+ You can download this in the exercise files.  
+ It's called Customer Data.  
+ Navigator opens and has identified one data table  
+ in my worksheet called Customer.  
+ The data looks correct, so I will select Load  
+ and bring it into Power BI.  
+ The Customer table now displays in the Fields pane.  
+ When I expand the Customer table using the dropdown,  
+ I can see the fields it contains.  
+ For a detailed look at your dataset,  
+ you can select the Data tab on the left panel.  
+ The next way to import data for your reports  
+ is from the web.  
+ Let's say I want to compare my sales to state populations.  
+ I can import the data from online into Power BI.  
+ I'll start by selecting the dropdown under Get Data  
+ on the home ribbon at the top of the workspace  
+ and then select Web.  
+ Then I'll paste the URL for my data and select, OK.  
+ The Navigator dialogue shows all the tables Power BI  
+ found on that webpage.  
+ I can preview each one to find the table I'm looking for.  
+ I'll select Table 1, but based on the preview,  
+ I'll need to filter out some of the fields  
+ and clean up the rows.  
+ Select Transform Data to open the Power Query editor.  
+ This is where you can modify the data used  
+ in your visualizations.  
+ To do this, I'll remove the columns I'm not interested in.  
+ I don't need the ranking columns,  
+ so I'll select the first column.  
+ And in the top ribbon, I'll select remove columns twice.  
+ Notice how as changes are made, you'll be able to see them  
+ in the Query Settings panel on the right,  
+ in the Applied Steps box.  
+ If I need to undo a step, say removing a column,  
+ I can select the X next to that step.  
+ So now I have a clean table,  
+ and it's ready for my workspace.  
+ Before closing the table, I'm going to give it a name  
+ by right-clicking the table name and selecting Rename.  
+ I'll enter States.  
+ Then I'll select Close and Apply.  
+ Now, the States table is in the Fields panel  
+ on the right side of the screen and is ready for use.  
+ Creating visual images starts with having the right data.  
+ Consider what data you have access to,  
+ and try importing it into Power BI.  
+ Whether it's an Excel workbook or the web,  
+ Power BI can support you in collecting your data  
+ to create compelling visualizations.  
+ Try exploring some data sources this week.  
+ 
+

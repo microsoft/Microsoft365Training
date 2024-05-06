@@ -1,0 +1,63 @@
+ - [Instructor] Whether you're planning  
+ or a work project, you should organize and keep track  
+ of your work by breaking it down into tasks.  
+ In this lesson, I'll show you how to manage tasks  
+ in Planner and how to organize everyone's tasks  
+ to make sure the project is successful.  
+ I'll start from office.com.  
+ Select the app launcher in the top left corner  
+ and open Planner.  
+ I'll start by opening the June wedding plan  
+ that I've been working on.  
+ I've added a few due dates ahead of time.  
+ When you are assigned to a project,  
+ the first thing you want to know is what's assigned to you.  
+ The different group views are designed to help.  
+ In the upper right, it says the plan is grouped by bucket.  
+ This is a good view to use when you need to add new tasks.  
+ In the dropdown, choose Assigned To to see what's assigned  
+ to each person and the due date of each item.  
+ Joni told me they need additional help to accomplish  
+ their task of mailing invitations.  
+ I can assign a second person to this task by selecting it,  
+ selecting Assign To, and adding Isaiah.  
+ Now the tasks show up in both of their lists.  
+ To see your project status, you can switch to chart view  
+ by selecting Charts in the top center.  
+ Chart view gives a high level overview  
+ of how the project is progressing.  
+ This view shows the task count  
+ and the progress of each task.  
+ You can see the number of tasks by priority, bucket,  
+ and number of tasks assigned to each member.  
+ When I'm working on a big project,  
+ there are times when I need to see the tasks  
+ in a calendar view so I like to use schedule view.  
+ Select Schedule on the top menu next to Charts.  
+ Here you can see the tasks for the month,  
+ along with due dates and status.  
+ I'll go ahead and set the start date for a task.  
+ I'll select Plan the rehearsal dinner  
+ and in the start date dropdown select one week  
+ before the due date.  
+ Then close the dialogue.  
+ Planner now shows the dates this task is being worked on.  
+ I can easily move the date by dragging it  
+ to the desired date.  
+ Alternatively, I can drag the right edge to increase  
+ and decrease the length of time for this task.  
+ The schedule view is also great for adding new tasks  
+ and assigning them to a due date in one step.  
+ Let's say this client selected a venue  
+ that did not include a caterer.  
+ I'll select add task on the right, enter a name,  
+ select Caterer, and add it to the four to six months bucket.  
+ Select Add Task.  
+ From here, I can drag this task to the date that it's due.  
+ Seeing what needs to be accomplished by when  
+ and by who is key when it comes to projects.  
+ With all the different views available in Planner,  
+ your team can view all the right information  
+ at the right time.  
+ 
+

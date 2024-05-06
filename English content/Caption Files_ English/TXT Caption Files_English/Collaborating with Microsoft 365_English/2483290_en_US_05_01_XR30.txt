@@ -1,0 +1,31 @@
+ - [Joni] When you need to present  
+ important ideas visually, PowerPoint is the tool  
+ that takes your communication to another level.  
+ In this lesson, I'm going to walk you through  
+ how to create a presentation in PowerPoint and add  
+ your first slide.  
+ First I'll open PowerPoint.  
+ And in this example, I've been selected  
+ for a remote job interview and was asked to  
+ create a PowerPoint presentation to showcase my skills.  
+ So next, I'll select New blank presentation.  
+ Before going too far I want to make sure  
+ I've renamed and saved my presentation.  
+ I can see the save status next to the title  
+ of the presentation, and it is saved.  
+ If I select the title, a new window opens,  
+ and I can rename the presentation Interview slides.  
+ After I renamed the presentation,  
+ I can select anywhere outside the window and it will close.  
+ I want to focus on adding content at the moment.  
+ And so I'm going to close Designer.  
+ The first slide is a title slide.  
+ So I'll write the title, Skills overview.  
+ Then I'll add my name under the title  
+ so my audience will remember me.  
+ I now have the first slide in my presentation and I'm ready  
+ to add more slides.  
+ Now, you know how to create a PowerPoint presentation.  
+ Go ahead and try to add a slide to your own presentation.  
+ 
+

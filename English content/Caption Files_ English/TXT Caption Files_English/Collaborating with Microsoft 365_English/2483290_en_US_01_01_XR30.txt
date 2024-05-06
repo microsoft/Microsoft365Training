@@ -1,0 +1,76 @@
+ - [Instructor] Many times, the most difficult part  
+ of creating something is getting started.  
+ You can have all the best ideas,  
+ but unless you know the direction you want to go,  
+ taking the first step can be intimidating.  
+ Word templates.  
+ Take the guesswork out of the first step  
+ and help you craft great-looking documents,  
+ freeing you up to focus on your content.  
+ After this lesson,  
+ you'll be ready to take advantage of templates  
+ and make your project stand out.  
+ To get started, in the top left corner of office.com,  
+ select the app launcher and open Word.  
+ Once Word opens, you can choose a blank document,  
+ meaning you're starting from scratch,  
+ or choose a pre-made template.  
+ A template is a sample document  
+ that you can customize to make your own.  
+ In this example, I'm beginning a job search.  
+ So I want to make a resume, also known as a CV,  
+ using templates.  
+ These templates are great,  
+ but they're not quite what I'm envisioning.  
+ So I'll select More templates.  
+ I like the look of the Resume green template,  
+ so I'll choose that one.  
+ The new document opens  
+ and starts with the standard resume layout.  
+ Now, before I get too far, I'll rename and save my document.  
+ Simply select the document name.  
+ I'll name this one My Resume,  
+ and I can see that it is saved.  
+ Now, as you can see,  
+ the template not only comes  
+ with a well-formatted example of a resume,  
+ but inside each section,  
+ the template includes directions to follow.  
+ For example, in the Objective section,  
+ this template shows the title  
+ and in the body clearly tells you what to put there.  
+ If you have an old resume that needs an upgrade,  
+ you can copy the content from that old resume  
+ into the new template.  
+ Simply copy the content from the old resume  
+ and paste it as text into the template.  
+ For now, I'll just add new content.  
+ I'll start by adding the simplest text in first,  
+ starting with my name.  
+ First, I highlight the text I want to replace  
+ and type in my name.  
+ I see for Experience,  
+ there's a section for job title and job position.  
+ I only need job title for experience,  
+ so I'll delete job position by using Cut.  
+ I will also duplicate the text in Experience  
+ using Copy and Paste.  
+ Now, I have space for two jobs.  
+ I don't need the Communication section,  
+ so I'll just cut this section.  
+ After replacing the text and the template  
+ with my own content,  
+ I will have a beautifully put together resume,  
+ and I didn't have to think twice  
+ about the font style, size, margins,  
+ or any other formatting.  
+ The template had that figured out already.  
+ Now that I've walked you through the simple process  
+ of creating and editing a template,  
+ you're ready to try it out on your own.  
+ What documents can you make better by using templates?  
+ Practice your skills by moving an existing document  
+ into a new template  
+ and see your content get a fresh format.  
+ 
+

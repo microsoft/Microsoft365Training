@@ -1,0 +1,31 @@
+ - [Instructor] Isn't it frustrating  
+ when you can't change a setting  
+ or access a tool you need to do your job?  
+ In this lesson,  
+ I'll show you how to manage the permissions  
+ of your team members  
+ so that everyone has the access they need  
+ to do their jobs effectively.  
+ When managing a team,  
+ you need to decide what access your team members should have  
+ and you can make sure your team has the appropriate access  
+ by using the Manage Team Settings feature.  
+ To manage the settings for my team,  
+ I'll select More Options then select Manage Team.  
+ I can now access the Settings tab.  
+ Here, I can manage multiple settings for my team.  
+ For now, I'm just going to focus on Member Permissions.  
+ To control the team's workflow, I only want owners  
+ to be able to change the channels in our team.  
+ So in Member Permissions,  
+ I'll deselect Allow Members to Create and Update Channels  
+ and also deselect  
+ Allow Members to Delete and Restore Channels.  
+ I'll make sure guests have the same access.  
+ Now you know how to adjust the settings  
+ to make Teams work in a way that's perfect for your group.  
+ Take your time making sure your team members and guests  
+ have the access they need and you can feel confident  
+ about protecting the teams you own.  
+ 
+

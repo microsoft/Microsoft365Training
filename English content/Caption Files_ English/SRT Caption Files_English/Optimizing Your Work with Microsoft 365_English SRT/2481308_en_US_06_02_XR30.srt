@@ -1,0 +1,360 @@
+1
+00:00:00,006 --> 00:00:02,007
+- [Instructor] Need to send a mass communication?
+
+2
+00:00:02,007 --> 00:00:04,007
+Mail merges are particularly valuable
+
+3
+00:00:04,007 --> 00:00:07,002
+when you're sending an email to multiple people
+
+4
+00:00:07,002 --> 00:00:09,008
+with individualized messages.
+
+5
+00:00:09,008 --> 00:00:11,001
+In this lesson,
+
+6
+00:00:11,001 --> 00:00:13,009
+I'm going to walk you through a step by step process
+
+7
+00:00:13,009 --> 00:00:16,007
+to send a mail merge using Word, Outlook,
+
+8
+00:00:16,007 --> 00:00:19,005
+and spreadsheets in Excel.
+
+9
+00:00:19,005 --> 00:00:21,007
+The process starts with the main document.
+
+10
+00:00:21,007 --> 00:00:24,006
+You'll add recipients, add fields to the document
+
+11
+00:00:24,006 --> 00:00:27,006
+so mail merge can individualize your email message,
+
+12
+00:00:27,006 --> 00:00:29,001
+and then send.
+
+13
+00:00:29,001 --> 00:00:31,001
+Please note that the mail merge feature
+
+14
+00:00:31,001 --> 00:00:33,009
+is only available in the desktop version
+
+15
+00:00:33,009 --> 00:00:39,005
+and the step by step Mail Merge Wizard only appears on a PC.
+
+16
+00:00:39,005 --> 00:00:41,009
+You can follow along with the sample Word document
+
+17
+00:00:41,009 --> 00:00:44,000
+in your exercise files.
+
+18
+00:00:44,000 --> 00:00:46,009
+It's called practice mail merge document.
+
+19
+00:00:46,009 --> 00:00:49,009
+In this example, I'm going to send a reminder email
+
+20
+00:00:49,009 --> 00:00:53,001
+to attendees for a customer event.
+
+21
+00:00:53,001 --> 00:00:54,007
+With the document open,
+
+22
+00:00:54,007 --> 00:00:57,007
+go to the mailings tab on the top ribbon of the screen
+
+23
+00:00:57,007 --> 00:01:03,006
+and select Start Mail Merge.
+
+24
+00:01:03,006 --> 00:01:05,003
+Then in the dropdown menu,
+
+25
+00:01:05,003 --> 00:01:10,005
+select Step by Step Mail Merge Wizard.
+
+26
+00:01:10,005 --> 00:01:11,008
+This takes you through the steps
+
+27
+00:01:11,008 --> 00:01:15,002
+of sending a mail merge one step at a time.
+
+28
+00:01:15,002 --> 00:01:18,001
+Next, select the type of document you're working on
+
+29
+00:01:18,001 --> 00:01:23,001
+and email,
+
+30
+00:01:23,001 --> 00:01:28,007
+then select Next: Starting Document.
+
+31
+00:01:28,007 --> 00:01:31,007
+In the next step, the wizard lets you start from a template
+
+32
+00:01:31,007 --> 00:01:33,005
+or an existing document.
+
+33
+00:01:33,005 --> 00:01:35,005
+Select Use the current document,
+
+34
+00:01:35,005 --> 00:01:37,007
+which is already open and ready.
+
+35
+00:01:37,007 --> 00:01:42,001
+Select Next: Select recipients.
+
+36
+00:01:42,001 --> 00:01:45,000
+You can use a list generated from Outlook, Excel,
+
+37
+00:01:45,000 --> 00:01:47,004
+or generate a new list write in Word.
+
+38
+00:01:47,004 --> 00:01:51,007
+For this example, I drafted a contact list in Excel,
+
+39
+00:01:51,007 --> 00:01:54,009
+follow along by downloading the list in the exercise file.
+
+40
+00:01:54,009 --> 00:01:58,002
+It's called email contact list example.
+
+41
+00:01:58,002 --> 00:02:02,005
+Select Use an existing list.
+
+42
+00:02:02,005 --> 00:02:04,000
+When you select this option,
+
+43
+00:02:04,000 --> 00:02:06,005
+you also need to select which contacts to use,
+
+44
+00:02:06,005 --> 00:02:09,009
+so select Browse.
+
+45
+00:02:09,009 --> 00:02:18,004
+Navigate to your contact list and select Open.
+
+46
+00:02:18,004 --> 00:02:20,004
+Confirm the table sheet to use,
+
+47
+00:02:20,004 --> 00:02:23,007
+select Okay,
+
+48
+00:02:23,007 --> 00:02:26,000
+verify that the list was imported correctly,
+
+49
+00:02:26,000 --> 00:02:32,001
+and select Okay again.
+
+50
+00:02:32,001 --> 00:02:37,006
+Then select Next: Write your email message.
+
+51
+00:02:37,006 --> 00:02:39,004
+Place your cursor where you want the information
+
+52
+00:02:39,004 --> 00:02:40,007
+to go in the message
+
+53
+00:02:40,007 --> 00:02:43,005
+and select the information type in the wizard panel.
+
+54
+00:02:43,005 --> 00:02:45,003
+For example, place your cursor
+
+55
+00:02:45,003 --> 00:02:47,000
+where you want the greeting line to go
+
+56
+00:02:47,000 --> 00:02:52,006
+and select Greeting Line.
+
+57
+00:02:52,006 --> 00:02:54,006
+In the insert greeting line window,
+
+58
+00:02:54,006 --> 00:02:56,008
+You can select the format of the greeting line
+
+59
+00:02:56,008 --> 00:03:00,009
+such as salutation, name format, and more.
+
+60
+00:03:00,009 --> 00:03:03,004
+If the recipient's name in the list is missing,
+
+61
+00:03:03,004 --> 00:03:06,000
+Word replaces it with a generic greeting.
+
+62
+00:03:06,000 --> 00:03:14,002
+I'll change this to, To whom it may concern.
+
+63
+00:03:14,002 --> 00:03:15,006
+In the preview box,
+
+64
+00:03:15,006 --> 00:03:18,001
+you can use the arrows to go through the contacts
+
+65
+00:03:18,001 --> 00:03:27,006
+to see how each greeting will appear.
+
+66
+00:03:27,006 --> 00:03:31,006
+When you're done, select Okay.
+
+67
+00:03:31,006 --> 00:03:33,005
+And Word inserts the merge field,
+
+68
+00:03:33,005 --> 00:03:37,000
+which appears as text between two arrows.
+
+69
+00:03:37,000 --> 00:03:39,001
+Now you can add more merge fields
+
+70
+00:03:39,001 --> 00:03:47,007
+or move on and select Next: Preview your email messages.
+
+71
+00:03:47,007 --> 00:03:50,004
+Word temporarily replaces the merge field
+
+72
+00:03:50,004 --> 00:03:52,004
+with entries from the recipient list
+
+73
+00:03:52,004 --> 00:03:54,009
+so you can preview how each email will look
+
+74
+00:03:54,009 --> 00:03:56,006
+before it's sent.
+
+75
+00:03:56,006 --> 00:03:58,002
+This is especially helpful
+
+76
+00:03:58,002 --> 00:04:01,009
+if your email contains a lot of merge fields.
+
+77
+00:04:01,009 --> 00:04:04,001
+Once you've reviewed how each email will look,
+
+78
+00:04:04,001 --> 00:04:08,007
+select Next: Complete the mail merge.
+
+79
+00:04:08,007 --> 00:04:11,005
+You're almost ready to send out the mass email.
+
+80
+00:04:11,005 --> 00:04:15,006
+Select Electronic Mail.
+
+81
+00:04:15,006 --> 00:04:17,009
+Add a subject line.
+
+82
+00:04:17,009 --> 00:04:26,008
+I'll add Customer Appreciation Day.
+
+83
+00:04:26,008 --> 00:04:32,002
+And select Okay when you're ready to send them.
+
+84
+00:04:32,002 --> 00:04:33,009
+You're all set.
+
+85
+00:04:33,009 --> 00:04:35,008
+Once you have all the appropriate settings
+
+86
+00:04:35,008 --> 00:04:37,000
+and fields in place,
+
+87
+00:04:37,000 --> 00:04:38,009
+mail merge can help you communicate quickly
+
+88
+00:04:38,009 --> 00:04:42,003
+to large groups while still customizing each message.
+
+89
+00:04:42,003 --> 00:04:43,002
+Try it the next time
+
+90
+00:04:43,002 --> 00:04:45,002
+you have to send out mass communications.
+

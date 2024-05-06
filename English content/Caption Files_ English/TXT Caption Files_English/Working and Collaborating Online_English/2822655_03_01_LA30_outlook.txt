@@ -1,0 +1,21 @@
+ - Digital calendar applications  
+ are a great way to keep track of meetings  
+ and tasks on your own or with the people you work with.  
+ Unlike traditional paper calendars or date books,  
+ digital calendar software makes it easy  
+ to keep your schedule synced with other people,  
+ so if you schedule, reschedule,  
+ or cancel meetings or appointments,  
+ everyone's calendar is updated to reflect that information.  
+ There are lots of popular calendar apps  
+ used across multiple platforms, including Google Calendar,  
+ Apple Calendar, and Microsoft Outlook.  
+ In this chapter, we'll be focusing on Outlook  
+ because in addition to it being  
+ a professional calendar application,  
+ it's also a full fledged email application  
+ and contact manager, so you can easily keep  
+ your appointments and other tasks synced between  
+ yourself and others in one place.  
+ 
+

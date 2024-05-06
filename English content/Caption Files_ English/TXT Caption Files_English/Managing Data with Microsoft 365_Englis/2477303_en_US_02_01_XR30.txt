@@ -1,0 +1,38 @@
+ - [Narrator] Automation can free up your time and help keep  
+ workflows on track and running smoothly.  
+ In this lesson, I'll give you a preview of the benefits  
+ of Power Automate and how automating tasks  
+ can help your business.  
+ Do you find yourself completing the same tasks  
+ over and over throughout your day?  
+ In many cases, automation can help save you time and energy.  
+ Removing repetitive tasks from your workflow  
+ is a possibility with Power Automate.  
+ First, Power Automate has several templates to help you  
+ sync your work in One Drive, send an email for new tweets  
+ with a keyword, or notify you when a student submits  
+ a response to a quiz.  
+ No matter your field of work, Power Automate has the tools  
+ to assist you in your daily tasks.  
+ Power Automate is also a great tool  
+ to keep your inbox under control.  
+ You can save email attachments to OneDrive for business,  
+ set up a flow to get approval for holiday requests,  
+ or immediately respond to clients who fill out a form.  
+ Power Automate also helps you  
+ with your project management tasks.  
+ You can easily assign tasks to specific team members,  
+ track documentation statuses,  
+ and create a daily summary of tasks in Microsoft planner.  
+ Power Automate even helps you with your time management  
+ by letting you block your calendar for important projects  
+ with the push of a button.  
+ Finally, Power Automate goes where you go.  
+ If you need to quickly check in on a workflow,  
+ you can do so through the desktop, web, and mobile versions.  
+ It is truly an incredible tool.  
+ So, if you're ready to boost your productivity,  
+ explore Power Automate to see how it can help  
+ streamline your work.  
+ 
+

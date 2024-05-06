@@ -1,0 +1,158 @@
+ - [Illustrator] One of the most important concepts  
+ to understand when working with computers  
+ is the system for organizing, storing,  
+ and locating your files and applications.  
+ In this context, the term file, it refers to a single item,  
+ such as a word processing document, a photo,  
+ a video clip, a song and so on.  
+ Applications are the programs that run on your computer,  
+ which often use, interact with,  
+ or create the files stored on your computer.  
+ Another term you'll frequently hear is folder.  
+ A folder is sometimes referred to as a directory,  
+ but I think folder makes more sense  
+ because it's easy to understand the concept of storing files  
+ within folders.  
+ Again, we're using the Windows 10 operating system  
+ here for these examples,  
+ but the concept recovering applied  
+ to other operating systems as well.  
+ Here in Windows 10, I'm going to click the file Explorer icon,  
+ and that opens up a new window where we can navigate  
+ and explore the contents of the computer.  
+ But in this case, let's say I want to create a new folder  
+ to store some of my business documents.  
+ Now in each account, you already have some folders created,  
+ which you can see over here in the left sidebar.  
+ Let's click documents,  
+ which is a good place to start my business documents.  
+ You can see I already have a couple of files  
+ and folders inside the documents folder,  
+ but to stay organized,  
+ I'm going to create a new folder  
+ for my business-related documents.  
+ There are a couple of ways to do this, but for this example,  
+ I'll click the home tab, here at the top of the window  
+ and then select new folder.  
+ And there it is.  
+ By default, it's called New folder,  
+ but notice the name is highlighted.  
+ Meaning if I start typing while the text is selected,  
+ I can give it a more meaningful name.  
+ I'll call this folder business  
+ and I'll press enter.  
+ So there's my new folder.  
+ I can open it by double-clicking it.  
+ And as you'd expect, it's currently empty  
+ because we just created it.  
+ Now, just like how there are several ways  
+ to create a new folder,  
+ there are several ways to add files to that folder.  
+ For example, if I were working in Microsoft Excel  
+ on a spreadsheet,  
+ and choose to store it in this folder.  
+ Alternately, I can click the home tab again,  
+ click the new item menu,  
+ and here I'll find options for several types of files  
+ I can create.  
+ So for example, I want to create a text document.  
+ So I'll select that option,  
+ and that instantly generates a new text document  
+ inside this folder.  
+ Just like when we created this folder,  
+ the generic name of this new text document is highlighted,  
+ so I can give it a better name.  
+ Now, if you don't start typing  
+ and you click outside that name,  
+ you'll see that the highlight around the text is removed.  
+ I can still rename this file though.  
+ I just need to click it once to select it,  
+ pause for a second and then click it again.  
+ And you can see the name highlights again.  
+ The reason for pausing between clicks  
+ is that if you click twice too quickly,  
+ that's considered a Double-Click  
+ which opens the item instead of highlighting its name.  
+ So let's say I want to use this document  
+ to keep some ideas for a book I'm working on.  
+ I'll call this Book Ideas and I'll press return.  
+ And now if I want to start working on this file,  
+ I can double-click it,  
+ which opens it in the default text editing application.  
+ And I can start typing out some of my ideas  
+ when I close this file,  
+ I'm prompted to save it so I don't lose my changes.  
+ I'll click save.  
+ And now I've created, edited and saved a text document.  
+ But now that I think about it,  
+ this doesn't really belong in this business folder.  
+ Instead, I want to store this in a folder for my book ideas.  
+ So I'll click the back button to go back  
+ to the main document folder,  
+ and here I'll create a new folder for my book ideas.  
+ Another way to create a new folder  
+ is to right-click within the folder  
+ and then choose new folder.  
+ There it is and I'll call this books.  
+ Now, I need to move that book ideas document  
+ I created in the business folder into the books folder.  
+ Again, there are multiple ways to do this.  
+ For this example, let's go back into the business folder  
+ where that file currently is,  
+ and now select it by clicking it once,  
+ and I'll go to the home tab  
+ and here I'll choose move to.  
+ This gives me a list of folders on my computer  
+ that I may want to move this file to,  
+ but I don't see that new books folder I just created.  
+ So I'll browse for that folder by selecting choose location.  
+ This lets me navigate my entire computer  
+ to locate the folder I need.  
+ I'll start by opening up my user folder.  
+ Here I'll find documents and within documents,  
+ here's that new book's folder I created.  
+ I'll select that and I'll choose move.  
+ And just like that,  
+ the file disappears out of the business folder.  
+ And if I go back to the main documents folder  
+ and look in books, there's the text file.  
+ Now, another way to move files  
+ is to simply drag them where you want them to be.  
+ For example, if I want this file stored  
+ in my main documents folder,  
+ I can simply click and hold down on my mouse button  
+ and then drag it to the document folder listing here  
+ on the sidebar.  
+ It says move to documents I'll release my mouse button,  
+ and if I go back to the documents folder,  
+ which I can do by clicking on documents up here this time,  
+ you'll see book ideas is now sitting here  
+ in the main folder.  
+ But of course it really does make more sense  
+ to leave it in the new book's folder here.  
+ So I'll drag it back in like so.  
+ Now, if you no longer need a file,  
+ you can always just delete it.  
+ If I want to get rid of this Book Ideas file,  
+ I can just select it,  
+ and then under the home tab I can choose delete,  
+ and it's gone.  
+ Deleting files sends them to the recycle bin  
+ on your desktop, which I can double-click to open.  
+ And there it is.  
+ So you don't have to worry about accidentally  
+ deleting files.  
+ If you made a mistake or you went to undelete a file,  
+ you can just find it in the recycle bin.  
+ As long as you haven't emptied the recycle bin,  
+ which does permanently delete your files  
+ and then just drag the file to place it back  
+ into its folder or anywhere else you want to store it.  
+ So if I move this window slightly out of the way,  
+ I can grab book ideas  
+ and drag it back into the books folder.  
+ So that's how to create new folders and files  
+ and how to move, delete,  
+ and recover those files.  
+ 
+

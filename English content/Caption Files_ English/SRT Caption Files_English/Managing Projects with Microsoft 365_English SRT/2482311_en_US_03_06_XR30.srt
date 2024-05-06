@@ -1,0 +1,260 @@
+1
+00:00:00,002 --> 00:00:01,004
+- [Instructor] Microsoft Project
+
+2
+00:00:01,004 --> 00:00:02,006
+can help you get the most
+
+3
+00:00:02,006 --> 00:00:04,005
+out of your projects.
+
+4
+00:00:04,005 --> 00:00:06,006
+Here are a few tips that I like to use
+
+5
+00:00:06,006 --> 00:00:10,002
+when building detailed and comprehensive projects.
+
+6
+00:00:10,002 --> 00:00:13,004
+In this lesson, I'll use an example client wedding project
+
+7
+00:00:13,004 --> 00:00:15,003
+to show you how to change dates,
+
+8
+00:00:15,003 --> 00:00:19,006
+attach files, and add custom columns.
+
+9
+00:00:19,006 --> 00:00:21,008
+Every project has a start date,
+
+10
+00:00:21,008 --> 00:00:25,000
+but like most things in life, things change.
+
+11
+00:00:25,000 --> 00:00:28,000
+Microsoft Project lets you change the start date
+
+12
+00:00:28,000 --> 00:00:30,006
+and then the tasks will adjust accordingly.
+
+13
+00:00:30,006 --> 00:00:32,004
+I'll start from Office.com,
+
+14
+00:00:32,004 --> 00:00:35,001
+select the app launcher in the top left corner,
+
+15
+00:00:35,001 --> 00:00:37,005
+and open Project.
+
+16
+00:00:37,005 --> 00:00:39,000
+Note that using Project for the web
+
+17
+00:00:39,000 --> 00:00:42,006
+requires an active subscription to Microsoft Project.
+
+18
+00:00:42,006 --> 00:00:47,004
+I'll start by opening the client wedding project.
+
+19
+00:00:47,004 --> 00:00:52,008
+Next I'll select the Timeline view.
+
+20
+00:00:52,008 --> 00:00:55,008
+Here, the project tasks start in April,
+
+21
+00:00:55,008 --> 00:00:59,007
+but recently the client decided to push the date by a month.
+
+22
+00:00:59,007 --> 00:01:02,005
+I can adjust the schedule by changing the start date
+
+23
+00:01:02,005 --> 00:01:06,003
+by selecting more actions, Project Details,
+
+24
+00:01:06,003 --> 00:01:09,009
+and then the Calendar in the Start field.
+
+25
+00:01:09,009 --> 00:01:16,005
+Close this with the X to save.
+
+26
+00:01:16,005 --> 00:01:19,000
+If I change the start date to one month later
+
+27
+00:01:19,000 --> 00:01:22,001
+all the other tasks also shift by a month.
+
+28
+00:01:22,001 --> 00:01:24,003
+By attaching files related to your tasks
+
+29
+00:01:24,003 --> 00:01:25,009
+in Microsoft Project,
+
+30
+00:01:25,009 --> 00:01:27,009
+you can keep your project assets organized
+
+31
+00:01:27,009 --> 00:01:30,008
+and shared with your team.
+
+32
+00:01:30,008 --> 00:01:33,006
+I'll go to the Board view by selecting Board at the top
+
+33
+00:01:33,006 --> 00:01:37,002
+and select Finalize budget.
+
+34
+00:01:37,002 --> 00:01:39,007
+I have a template that I would like Lynne to use,
+
+35
+00:01:39,007 --> 00:01:41,008
+so I will add it to the task.
+
+36
+00:01:41,008 --> 00:01:44,003
+To the right of the task, in Attachments,
+
+37
+00:01:44,003 --> 00:01:46,007
+I can select Add Attachment.
+
+38
+00:01:46,007 --> 00:01:49,000
+There are three choices.
+
+39
+00:01:49,000 --> 00:01:53,002
+From computer, from teams files, and from URL.
+
+40
+00:01:53,002 --> 00:01:55,003
+Since my document is on my computer,
+
+41
+00:01:55,003 --> 00:01:57,008
+I'll select from computer.
+
+42
+00:01:57,008 --> 00:01:59,006
+Navigate to the file.
+
+43
+00:01:59,006 --> 00:02:02,001
+Then select Open.
+
+44
+00:02:02,001 --> 00:02:04,001
+When I close the task properties,
+
+45
+00:02:04,001 --> 00:02:07,006
+I can see the attachment on the task card.
+
+46
+00:02:07,006 --> 00:02:10,001
+I can upload all files relevant to this client
+
+47
+00:02:10,001 --> 00:02:12,004
+and access them from the tasks.
+
+48
+00:02:12,004 --> 00:02:15,009
+You can also add custom columns to tasks.
+
+49
+00:02:15,009 --> 00:02:18,005
+Say I want each task to be reviewed.
+
+50
+00:02:18,005 --> 00:02:22,001
+I'll start by selecting Grid in the top bar.
+
+51
+00:02:22,001 --> 00:02:24,001
+I want to add a column named Reviewed,
+
+52
+00:02:24,001 --> 00:02:25,008
+with a Yes/No dropdown,
+
+53
+00:02:25,008 --> 00:02:30,003
+so my team can specify if the task was reviewed or not.
+
+54
+00:02:30,003 --> 00:02:34,003
+I'll select Add column and select New field.
+
+55
+00:02:34,003 --> 00:02:36,008
+I'll select Yes/No for the type,
+
+56
+00:02:36,008 --> 00:02:44,002
+and name it Reviewed and select Create.
+
+57
+00:02:44,002 --> 00:02:47,000
+My custom column Reviewed has been added
+
+58
+00:02:47,000 --> 00:02:50,003
+with No as a default value.
+
+59
+00:02:50,003 --> 00:02:52,002
+Once a task has been reviewed,
+
+60
+00:02:52,002 --> 00:02:53,004
+I can select the dropdown
+
+61
+00:02:53,004 --> 00:02:57,002
+in the reviewed column and choose Yes.
+
+62
+00:02:57,002 --> 00:02:58,008
+Now, you know a few pro tips
+
+63
+00:02:58,008 --> 00:03:00,008
+that can enhance your work.
+
+64
+00:03:00,008 --> 00:03:03,000
+Try using attachments and custom columns
+
+65
+00:03:03,000 --> 00:03:04,008
+to customize your next project.
+

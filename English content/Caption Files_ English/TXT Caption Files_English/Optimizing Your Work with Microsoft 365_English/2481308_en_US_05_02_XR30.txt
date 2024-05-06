@@ -1,0 +1,51 @@
+ - Calls are a great tool for team meetings and quick chats.  
+ It's important to have the right settings  
+ just in case you miss a call  
+ In this lesson, I'll show you how to manage  
+ your call settings on Teams.  
+ To get started, I'll open Teams  
+ from the Microsoft 365 homepage.  
+ Next to your profile picture near the top,  
+ select the three dots for more options.  
+ Then select Settings.  
+ Now, let's say you'll be out of the office  
+ and you want to forward your incoming calls.  
+ On the left menu, go to Calls  
+ and under Call answering rules, choose Forward my calls  
+ and Teams will forward all calls directly to your voicemail.  
+ If you select Configure voicemail under Voicemail,  
+ you will be able to record a greeting.  
+ You can also select how you would like Teams  
+ to handle calls when a caller goes to voicemail.  
+ They can record a message,  
+ choose to record a message  
+ or be transferred to someone else,  
+ end the call without playing your greeting,  
+ play the greeting and end the call,  
+ or just be transferred to someone else of your choosing.  
+ If you select Transfer the call to someone else,  
+ you will need to designate a person  
+ for the call to be transferred to.  
+ I'll select Isaiah.  
+ When a caller calls you,  
+ the call will be transferred to the designated person.  
+ You can also specify the language for your greeting,  
+ as well as customize a text-to-speech greeting option.  
+ This option allows you to have a written greeting  
+ and would replace your voicemail.  
+ Should you want to create a custom  
+ out of office text greeting,  
+ place your cursor below where it says  
+ Your custom out of office greeting  
+ and write your out of office greeting.  
+ I'll write I'm out of the office.  
+ Feel free to send me an email.  
+ Below it, you can select when your out of office  
+ custom greeting will display.  
+ Select OK to save your changes.  
+ I encourage you to put the proper settings in place  
+ to manage your calls so that you can make sure  
+ all calls are answered according to your availability.  
+ Give it a try.  
+ 
+

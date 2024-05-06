@@ -1,0 +1,148 @@
+1
+00:00:00,001 --> 00:00:02,000
+- [Narrator] Think about the last event you attended.
+
+2
+00:00:02,000 --> 00:00:03,009
+Was it virtual or in person?
+
+3
+00:00:03,009 --> 00:00:07,003
+You may have received information beforehand to prepare
+
+4
+00:00:07,003 --> 00:00:09,001
+or a link to share photos of the event.
+
+5
+00:00:09,001 --> 00:00:11,001
+Now think of the preparation that had to happen
+
+6
+00:00:11,001 --> 00:00:12,002
+before the event.
+
+7
+00:00:12,002 --> 00:00:14,007
+The key to a great event is good planning,
+
+8
+00:00:14,007 --> 00:00:16,006
+and Microsoft Planner can help.
+
+9
+00:00:16,006 --> 00:00:19,008
+In this lesson, I'll show you some of the critical benefits
+
+10
+00:00:19,008 --> 00:00:21,004
+of using Microsoft Planner
+
+11
+00:00:21,004 --> 00:00:24,008
+and ways to utilize it for anything you need to plan next.
+
+12
+00:00:24,008 --> 00:00:27,006
+In this example, I'll show you how I used Planner
+
+13
+00:00:27,006 --> 00:00:29,000
+to organize a wedding.
+
+14
+00:00:29,000 --> 00:00:31,007
+I created buckets for each phase the team completes
+
+15
+00:00:31,007 --> 00:00:33,009
+to put the wedding together by the deadline.
+
+16
+00:00:33,009 --> 00:00:35,009
+Planner also keeps due dates clear.
+
+17
+00:00:35,009 --> 00:00:37,008
+Knowing when individual tasks are due,
+
+18
+00:00:37,008 --> 00:00:40,001
+helps me see the big picture of the timeline.
+
+19
+00:00:40,001 --> 00:00:43,000
+With Planner, you can enter the dates for the tasks
+
+20
+00:00:43,000 --> 00:00:43,009
+to be completed.
+
+21
+00:00:43,009 --> 00:00:46,001
+Here you can see, I have many tasks,
+
+22
+00:00:46,001 --> 00:00:47,008
+including some that have due dates.
+
+23
+00:00:47,008 --> 00:00:50,001
+Planner is also a great collaboration tool
+
+24
+00:00:50,001 --> 00:00:52,009
+that makes it easy to assign tasks to your team members.
+
+25
+00:00:52,009 --> 00:00:54,009
+Depending on the size of your project,
+
+26
+00:00:54,009 --> 00:00:57,002
+you may have many people working with you.
+
+27
+00:00:57,002 --> 00:00:59,005
+Each member of your team can be assigned tasks
+
+28
+00:00:59,005 --> 00:01:00,009
+that speak to their skills.
+
+29
+00:01:00,009 --> 00:01:02,004
+Here you can see I'm collaborating
+
+30
+00:01:02,004 --> 00:01:04,004
+with team members for this wedding.
+
+31
+00:01:04,004 --> 00:01:06,004
+We work together to complete tasks
+
+32
+00:01:06,004 --> 00:01:08,005
+and can see the progress of the event.
+
+33
+00:01:08,005 --> 00:01:11,005
+Schedule view lets us see if we're ahead or behind schedule
+
+34
+00:01:11,005 --> 00:01:14,006
+and if our team members need help completing a task.
+
+35
+00:01:14,006 --> 00:01:16,004
+Next time you go to organize an event
+
+36
+00:01:16,004 --> 00:01:18,004
+or track the progress of your business,
+
+37
+00:01:18,004 --> 00:01:20,002
+use Planner to stay organized.
+

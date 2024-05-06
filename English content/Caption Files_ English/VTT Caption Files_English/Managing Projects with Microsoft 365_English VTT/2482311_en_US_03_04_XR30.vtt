@@ -1,0 +1,262 @@
+﻿WEBVTT
+
+00:00:00.001 --> 00:00:01.007
+- [Instructor] Once you create a project,
+
+00:00:01.007 --> 00:00:04.003
+The next step is to add tasks.
+
+00:00:04.003 --> 00:00:05.007
+I've found the easiest way
+
+00:00:05.007 --> 00:00:07.006
+is to think of the big pieces first,
+
+00:00:07.006 --> 00:00:11.000
+and then fill in the details later.
+
+00:00:11.000 --> 00:00:12.003
+In this lesson,
+
+00:00:12.003 --> 00:00:14.002
+you'll be able to use Microsoft Project
+
+00:00:14.002 --> 00:00:16.004
+to add tasks, assigned tasks,
+
+00:00:16.004 --> 00:00:19.001
+and set start and end dates.
+
+00:00:19.001 --> 00:00:20.000
+In this example,
+
+00:00:20.000 --> 00:00:23.000
+I'll create a client wedding project.
+
+00:00:23.000 --> 00:00:24.008
+I'll start from Office.com
+
+00:00:24.008 --> 00:00:26.000
+Select the app launcher
+
+00:00:26.000 --> 00:00:30.001
+in the top-left corner and open Project.
+
+00:00:30.001 --> 00:00:32.001
+Note that using Project for the web
+
+00:00:32.001 --> 00:00:33.006
+requires an active subscription
+
+00:00:33.006 --> 00:00:35.005
+to Microsoft Project.
+
+00:00:35.005 --> 00:00:40.006
+Next, I'll select new blank project.
+
+00:00:40.006 --> 00:00:42.003
+On the Project main page,
+
+00:00:42.003 --> 00:00:44.001
+you can see the project name,
+
+00:00:44.001 --> 00:00:48.002
+and three options for grid, board and timeline.
+
+00:00:48.002 --> 00:00:49.009
+And on the right there's filters,
+
+00:00:49.009 --> 00:00:52.009
+and group members and more actions.
+
+00:00:52.009 --> 00:00:54.005
+Grid view shows the list of tasks
+
+00:00:54.005 --> 00:00:57.009
+for the project and the common task properties.
+
+00:00:57.009 --> 00:01:02.005
+Name, quick look, assigned to and duration.
+
+00:01:02.005 --> 00:01:04.000
+To rename the project,
+
+00:01:04.000 --> 00:01:05.009
+I'll select untitled project
+
+00:01:05.009 --> 00:01:07.005
+in the upper-left corner,
+
+00:01:07.005 --> 00:01:12.001
+and I'll enter client wedding.
+
+00:01:12.001 --> 00:01:13.002
+I'll set the start date
+
+00:01:13.002 --> 00:01:18.008
+to the first day of next month.
+
+00:01:18.008 --> 00:01:20.007
+Select the X in the upper right corner
+
+00:01:20.007 --> 00:01:24.007
+to close.
+
+00:01:24.007 --> 00:01:27.000
+Next, I'll add some tasks by selecting
+
+00:01:27.000 --> 00:01:37.008
+add new task and name them.
+
+00:01:37.008 --> 00:01:39.000
+I'll now switch to the board view
+
+00:01:39.000 --> 00:01:41.001
+by selecting board in the top menu,
+
+00:01:41.001 --> 00:01:44.001
+and I can see all the tasks are in bucket one.
+
+00:01:44.001 --> 00:01:46.000
+I'll select bucket one to rename this bucket
+
+00:01:46.000 --> 00:01:51.001
+to catering.
+
+00:01:51.001 --> 00:01:53.003
+I'll then add another bucket for venue
+
+00:01:53.003 --> 00:01:58.001
+by selecting add bucket.
+
+00:01:58.001 --> 00:01:59.009
+I'll drag the venue-related tasks
+
+00:01:59.009 --> 00:02:04.007
+into the venue bucket.
+
+00:02:04.007 --> 00:02:07.001
+Now that the project buckets are set with tasks,
+
+00:02:07.001 --> 00:02:09.006
+I can assign them to members of my team.
+
+00:02:09.006 --> 00:02:11.003
+First, I'll switch back to grid view
+
+00:02:11.003 --> 00:02:15.002
+by selecting grid on the top.
+
+00:02:15.002 --> 00:02:16.005
+Now I can assign tasks
+
+00:02:16.005 --> 00:02:18.006
+using the assigned to column.
+
+00:02:18.006 --> 00:02:20.005
+For the finalized venue task,
+
+00:02:20.005 --> 00:02:22.003
+I'll select the assigned to column,
+
+00:02:22.003 --> 00:02:23.005
+and enter Isaiah,
+
+00:02:23.005 --> 00:02:34.006
+and select them from the dropdown list.
+
+00:02:34.006 --> 00:02:35.007
+A dialogue appears
+
+00:02:35.007 --> 00:02:37.007
+asking whether I want to add Isaiah
+
+00:02:37.007 --> 00:02:39.001
+to the project group.
+
+00:02:39.001 --> 00:02:41.000
+Select add a group,
+
+00:02:41.000 --> 00:02:44.003
+then select create and assign.
+
+00:02:44.003 --> 00:02:46.009
+I'll assign identify a caterer to Lynne
+
+00:02:46.009 --> 00:02:49.005
+by entering her name in the assigned to column,
+
+00:02:49.005 --> 00:02:58.004
+and selecting assign and add.
+
+00:02:58.004 --> 00:02:59.009
+The next I need to add
+
+00:02:59.009 --> 00:03:02.006
+is the duration of each task.
+
+00:03:02.006 --> 00:03:04.005
+The duration is how long I expect
+
+00:03:04.005 --> 00:03:06.000
+the task to take.
+
+00:03:06.000 --> 00:03:07.004
+I'll select the duration column
+
+00:03:07.004 --> 00:03:09.002
+for the have a tasting task,
+
+00:03:09.002 --> 00:03:12.001
+and enter one to set the duration to one day.
+
+00:03:12.001 --> 00:03:18.009
+I'll do the same for the other tasks.
+
+00:03:18.009 --> 00:03:20.008
+Now, when I go back to the board view,
+
+00:03:20.008 --> 00:03:22.002
+I see each task,
+
+00:03:22.002 --> 00:03:23.003
+who it's assigned to,
+
+00:03:23.003 --> 00:03:26.001
+and the number of days to complete.
+
+00:03:26.001 --> 00:03:29.003
+Next, I want to set the start dates.
+
+00:03:29.003 --> 00:03:31.005
+Select timeline on the top menu,
+
+00:03:31.005 --> 00:03:33.000
+and notice that each task
+
+00:03:33.000 --> 00:03:35.002
+begins on the first day of next month.
+
+00:03:35.002 --> 00:03:36.009
+And that the length of the box
+
+00:03:36.009 --> 00:03:39.007
+is set by the duration I entered.
+
+00:03:39.007 --> 00:03:42.009
+I can drag each task to the correct start date,
+
+00:03:42.009 --> 00:03:45.007
+or select it and enter it in the start field,
+
+00:03:45.007 --> 00:03:52.008
+and select X in the upper-right corner to save.
+
+00:03:52.008 --> 00:03:54.008
+Before you start your next project,
+
+00:03:54.008 --> 00:03:57.001
+explore how project can map your tasks,
+
+00:03:57.001 --> 00:03:59.001
+and help you collaborate with your team.

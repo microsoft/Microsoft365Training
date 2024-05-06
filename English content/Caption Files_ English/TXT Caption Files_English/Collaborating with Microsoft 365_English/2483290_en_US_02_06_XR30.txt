@@ -1,0 +1,65 @@
+ - [Instructor] Things change quickly,  
+ and you need spreadsheets that adapt just as fast.  
+ With a few key features in Excel,  
+ you can edit and manage your data easily.  
+ In this lesson, I'm going to show you how to use Excel  
+ to keep track of new information  
+ and remove old information  
+ so that you can keep your data up to date and useful.  
+ I'll start by opening the sample budget  
+ that you can find in the exercise files.  
+ So now that I can see my budget,  
+ I want to see how it's changed  
+ between this month and last month.  
+ To see this in my table,  
+ I need to add columns.  
+ To add a column between the A and B columns,  
+ I select the B column and right-click.  
+ A menu with several options open.  
+ I want to select Insert Columns.  
+ A column is added between A and B.  
+ The data in the columns is still the same,  
+ but everything has shifted to the right.  
+ Next, I'll name the new column to keep my data organized.  
+ I'll title the new column Last Month.  
+ And I'll name my amount column This Month.  
+ I can now add data from the previous month to my table.  
+ If, instead, you want to remove an entire column,  
+ select the column you want removed,  
+ right-click,  
+ and select Delete Columns.  
+ The entire column is removed.  
+ Adding and removing rows uses similar steps.  
+ Say you want to add a row between row six and row seven.  
+ First, select row seven,  
+ right-click,  
+ then select Insert Rows.  
+ A new row has been added,  
+ which I can use to add a new expense.  
+ To delete a row,  
+ first select the row you want removed,  
+ right-click,  
+ and select Delete Rows.  
+ The entire row is removed.  
+ Suppose you want to add a title to your expenses table.  
+ First, add a row above your table for the title.  
+ This new row has sales for each column in my table.  
+ For my title, I only need one cell,  
+ so I can use the merge feature  
+ to combine these different cells into a single cell.  
+ Merge will only keep the data in the upper left cell,  
+ so I need to place my title  
+ in the cell farthest to the left.  
+ Here, I'll type My Monthly Expenses Table.  
+ Next, select all the cells you want to merge.  
+ Go to the Alignment section in your ribbon,  
+ select Merge & Center.  
+ Merge & Center will merge the two cells into one cell  
+ and center the text.  
+ I can also select Unmerge Cells here.  
+ Now that you know how to add, delete,  
+ merge and unmerge columns and rows,  
+ you have the flexibility you need  
+ to manage your ever-changing data.  
+ 
+

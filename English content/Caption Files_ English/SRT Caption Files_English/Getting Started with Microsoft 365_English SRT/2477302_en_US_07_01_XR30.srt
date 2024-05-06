@@ -1,0 +1,52 @@
+1
+00:00:00,004 --> 00:00:02,004
+- [Narrator] We've reached the end of this course.
+
+2
+00:00:02,004 --> 00:00:04,005
+But this is just the start of your journey,
+
+3
+00:00:04,005 --> 00:00:06,000
+using Teams and SharePoint
+
+4
+00:00:06,000 --> 00:00:08,002
+to take your teamwork to a new level.
+
+5
+00:00:08,002 --> 00:00:10,006
+You may want to deepen a few of the skills you learned
+
+6
+00:00:10,006 --> 00:00:14,002
+in this course or learn totally new skills as you advance.
+
+7
+00:00:14,002 --> 00:00:17,002
+At Microsoft support, you can find a variety of videos
+
+8
+00:00:17,002 --> 00:00:19,009
+to help you refresh and learn new skills.
+
+9
+00:00:19,009 --> 00:00:23,004
+You can also attend online classes at virtual workshops
+
+10
+00:00:23,004 --> 00:00:26,002
+and online training for Microsoft store.
+
+11
+00:00:26,002 --> 00:00:27,002
+Thanks for watching.
+
+12
+00:00:27,002 --> 00:00:29,003
+And I hope that you use these new skills
+
+13
+00:00:29,003 --> 00:00:32,004
+to help your teams work more efficiently, good luck.
+

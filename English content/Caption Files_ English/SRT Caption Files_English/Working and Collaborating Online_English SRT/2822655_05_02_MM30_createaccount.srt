@@ -1,0 +1,148 @@
+1
+00:00:00,009 --> 00:00:03,003
+- Part of your paid or free Microsoft account,
+
+2
+00:00:03,003 --> 00:00:06,001
+you can save your documents and other files to OneDrive
+
+3
+00:00:06,001 --> 00:00:08,008
+and then work with them from any device.
+
+4
+00:00:08,008 --> 00:00:11,009
+Start by going to onedrive.com.
+
+5
+00:00:11,009 --> 00:00:12,009
+And here click sign in
+
+6
+00:00:12,009 --> 00:00:14,007
+to sign in with your Microsoft account
+
+7
+00:00:14,007 --> 00:00:17,000
+or you can also create an account from here.
+
+8
+00:00:17,000 --> 00:00:19,003
+Be aware that you may already have an account.
+
+9
+00:00:19,003 --> 00:00:21,001
+Some ways you may have already created an account
+
+10
+00:00:21,001 --> 00:00:24,006
+include if you have a subscription to Microsoft 365,
+
+11
+00:00:24,006 --> 00:00:27,009
+if you have Hotmail or Outlook.com email address,
+
+12
+00:00:27,009 --> 00:00:29,007
+if you have a Skype account,
+
+13
+00:00:29,007 --> 00:00:31,009
+or if you have an Xbox Live account.
+
+14
+00:00:31,009 --> 00:00:33,009
+You can use any of these methods to sign in to
+
+15
+00:00:33,009 --> 00:00:36,006
+and access your OneDrive Cloud storage space.
+
+16
+00:00:36,006 --> 00:00:38,000
+If you do think you have an account
+
+17
+00:00:38,000 --> 00:00:40,008
+just enter your username here,
+
+18
+00:00:40,008 --> 00:00:42,003
+click next,
+
+19
+00:00:42,003 --> 00:00:44,003
+and enter your password.
+
+20
+00:00:44,003 --> 00:00:46,005
+And click sign in.
+
+21
+00:00:46,005 --> 00:00:47,005
+And once you're logged in
+
+22
+00:00:47,005 --> 00:00:49,002
+you'll have access to your OneDrive account
+
+23
+00:00:49,002 --> 00:00:51,004
+and all the files you have stored there.
+
+24
+00:00:51,004 --> 00:00:53,009
+Or if you don't think you have a Microsoft account,
+
+25
+00:00:53,009 --> 00:00:57,004
+go to onedrive.com and click sign up for free.
+
+26
+00:00:57,004 --> 00:00:59,007
+Then enter the email address you'd like to use.
+
+27
+00:00:59,007 --> 00:01:00,009
+If you don't have an email address
+
+28
+00:01:00,009 --> 00:01:02,004
+you'd like to use for your Microsoft account
+
+29
+00:01:02,004 --> 00:01:04,006
+you can click get a new email address,
+
+30
+00:01:04,006 --> 00:01:08,000
+and choose an outlook.com address.
+
+31
+00:01:08,000 --> 00:01:09,002
+Click next,
+
+32
+00:01:09,002 --> 00:01:12,006
+and create a password.
+
+33
+00:01:12,006 --> 00:01:14,006
+Click next again,
+
+34
+00:01:14,006 --> 00:01:20,007
+and then enter some basic information.
+
+35
+00:01:20,007 --> 00:01:23,009
+And that brings you to your new OneDrive account.
+
+36
+00:01:23,009 --> 00:01:26,004
+Again you can sign in or create an account at any time
+
+37
+00:01:26,004 --> 00:01:28,009
+by going to onedrive.com in you web browser.
+

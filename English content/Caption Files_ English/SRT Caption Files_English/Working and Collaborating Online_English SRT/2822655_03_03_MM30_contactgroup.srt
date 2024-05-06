@@ -1,0 +1,132 @@
+1
+00:00:00,005 --> 00:00:02,007
+- [Instructor] If you often email the same group of people,
+
+2
+00:00:02,007 --> 00:00:04,005
+for example, your team at work,
+
+3
+00:00:04,005 --> 00:00:07,003
+instead of having to create an email and adding each person
+
+4
+00:00:07,003 --> 00:00:09,007
+as a recipient individually each time,
+
+5
+00:00:09,007 --> 00:00:11,006
+you can create a contact group,
+
+6
+00:00:11,006 --> 00:00:13,004
+so you'll only need to type the group's name,
+
+7
+00:00:13,004 --> 00:00:16,000
+to email everyone in that group.
+
+8
+00:00:16,000 --> 00:00:17,005
+To do this in Microsoft Outlook,
+
+9
+00:00:17,005 --> 00:00:18,007
+start by going to your contacts
+
+10
+00:00:18,007 --> 00:00:22,001
+by clicking the People button here in the navigation bar
+
+11
+00:00:22,001 --> 00:00:24,000
+and with the Home tab selected,
+
+12
+00:00:24,000 --> 00:00:26,005
+click the arrow next to New Contact
+
+13
+00:00:26,005 --> 00:00:28,006
+and choose Contact Group.
+
+14
+00:00:28,006 --> 00:00:31,007
+In this window that opens, enter a name for the group.
+
+15
+00:00:31,007 --> 00:00:32,009
+I'll call this staff instructors
+
+16
+00:00:32,009 --> 00:00:34,007
+to include everyone on my team,
+
+17
+00:00:34,007 --> 00:00:36,003
+then click Add Members.
+
+18
+00:00:36,003 --> 00:00:38,002
+From here you can choose to add existing contacts,
+
+19
+00:00:38,002 --> 00:00:40,005
+you have an Outlook from your address book,
+
+20
+00:00:40,005 --> 00:00:42,002
+or you can choose New Email Contact
+
+21
+00:00:42,002 --> 00:00:44,007
+to manually enter contact information.
+
+22
+00:00:44,007 --> 00:00:47,007
+For this example, I'll choose From Outlook Contacts.
+
+23
+00:00:47,007 --> 00:00:49,007
+And from here, I can double kick the names of the people
+
+24
+00:00:49,007 --> 00:00:53,003
+in my contacts that I want to add to this group.
+
+25
+00:00:53,003 --> 00:00:56,001
+Once I'm done there, I can click Okay.
+
+26
+00:00:56,001 --> 00:00:57,003
+You can say they've been added here
+
+27
+00:00:57,003 --> 00:01:00,006
+and I can click Save and Close.
+
+28
+00:01:00,006 --> 00:01:02,002
+So now anytime I want to send an email
+
+29
+00:01:02,002 --> 00:01:04,004
+to all three of those contacts,
+
+30
+00:01:04,004 --> 00:01:05,009
+I can just create a new email
+
+31
+00:01:05,009 --> 00:01:09,004
+and in the To field, start typing staff instructors,
+
+32
+00:01:09,004 --> 00:01:11,009
+select it, and this email will be sent
+
+33
+00:01:11,009 --> 00:01:13,003
+to everyone in this group.
+

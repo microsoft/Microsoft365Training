@@ -1,0 +1,304 @@
+1
+00:00:00,000 --> 00:00:02,003
+- [Instructor] Building a team takes time.
+
+2
+00:00:02,003 --> 00:00:05,007
+You need to transfer or recruit the right members,
+
+3
+00:00:05,007 --> 00:00:08,004
+build relationships and trust each other.
+
+4
+00:00:08,004 --> 00:00:09,006
+On the other hand,
+
+5
+00:00:09,006 --> 00:00:11,007
+creating a team in Microsoft Teams
+
+6
+00:00:11,007 --> 00:00:13,008
+takes hardly any time at all.
+
+7
+00:00:13,008 --> 00:00:14,006
+In this lesson,
+
+8
+00:00:14,006 --> 00:00:17,001
+I'll use an upcoming event I'm working on,
+
+9
+00:00:17,001 --> 00:00:18,006
+the skills conference,
+
+10
+00:00:18,006 --> 00:00:20,009
+to show you how to set up a team,
+
+11
+00:00:20,009 --> 00:00:24,001
+using templates to save even more time.
+
+12
+00:00:24,001 --> 00:00:25,005
+Let's jump in.
+
+13
+00:00:25,005 --> 00:00:27,002
+Once I'm in Teams,
+
+14
+00:00:27,002 --> 00:00:30,008
+I'll select teams from the left menu.
+
+15
+00:00:30,008 --> 00:00:36,004
+Then select join or create a team from the bottom.
+
+16
+00:00:36,004 --> 00:00:38,002
+If you were joining a team
+
+17
+00:00:38,002 --> 00:00:40,002
+that someone else had created,
+
+18
+00:00:40,002 --> 00:00:43,009
+you might be given a code to join a specific team
+
+19
+00:00:43,009 --> 00:00:46,007
+and you'd select join a team.
+
+20
+00:00:46,007 --> 00:00:48,001
+Since this conference
+
+21
+00:00:48,001 --> 00:00:50,007
+doesn't have a team set up already,
+
+22
+00:00:50,007 --> 00:00:53,008
+as the manager, I'll need to create one.
+
+23
+00:00:53,008 --> 00:00:57,007
+So I'll select create team.
+
+24
+00:00:57,007 --> 00:01:00,002
+I can either create a team from scratch
+
+25
+00:01:00,002 --> 00:01:01,009
+or from a template.
+
+26
+00:01:01,009 --> 00:01:04,006
+I see a manage an event template
+
+27
+00:01:04,006 --> 00:01:06,006
+which will work great for this.
+
+28
+00:01:06,006 --> 00:01:10,002
+I'll select that option to get started.
+
+29
+00:01:10,002 --> 00:01:12,005
+Here, Teams will display an overview
+
+30
+00:01:12,005 --> 00:01:15,008
+of the channels and apps associated with that template.
+
+31
+00:01:15,008 --> 00:01:18,006
+Just select next to continue.
+
+32
+00:01:18,006 --> 00:01:20,007
+Next up is the privacy level.
+
+33
+00:01:20,007 --> 00:01:23,002
+Because I don't want anyone to access my team
+
+34
+00:01:23,002 --> 00:01:24,009
+without me inviting them,
+
+35
+00:01:24,009 --> 00:01:26,006
+I'll make it private.
+
+36
+00:01:26,006 --> 00:01:27,007
+For naming the team,
+
+37
+00:01:27,007 --> 00:01:30,005
+I want to be brief, but descriptive.
+
+38
+00:01:30,005 --> 00:01:32,005
+Since I'm planning a conference,
+
+39
+00:01:32,005 --> 00:01:35,004
+I'll name it skills conference.
+
+40
+00:01:35,004 --> 00:01:36,009
+I'll also include a description
+
+41
+00:01:36,009 --> 00:01:38,007
+to give the members a way to know
+
+42
+00:01:38,007 --> 00:01:40,008
+what the team is about.
+
+43
+00:01:40,008 --> 00:01:42,003
+Like all templates,
+
+44
+00:01:42,003 --> 00:01:44,008
+this one comes with pre-made channels.
+
+45
+00:01:44,008 --> 00:01:45,009
+Think of a channel
+
+46
+00:01:45,009 --> 00:01:48,008
+as a place to talk about a specific topic.
+
+47
+00:01:48,008 --> 00:01:49,009
+When I manage events,
+
+48
+00:01:49,009 --> 00:01:51,003
+I need to create channels
+
+49
+00:01:51,003 --> 00:01:54,003
+where the whole team can discuss broad topics
+
+50
+00:01:54,003 --> 00:01:56,005
+and other channels where smaller groups
+
+51
+00:01:56,005 --> 00:01:59,001
+can talk about specific subjects.
+
+52
+00:01:59,001 --> 00:02:02,003
+If I expand customize channels,
+
+53
+00:02:02,003 --> 00:02:05,000
+I can see all the channels for this team.
+
+54
+00:02:05,000 --> 00:02:07,003
+The general channel is automatically created
+
+55
+00:02:07,003 --> 00:02:11,004
+with every team and cannot be deleted.
+
+56
+00:02:11,004 --> 00:02:14,007
+Most of these other channels are useful here,
+
+57
+00:02:14,007 --> 00:02:16,004
+but my team won't be a part of
+
+58
+00:02:16,004 --> 00:02:19,002
+any budget related conversations,
+
+59
+00:02:19,002 --> 00:02:21,005
+so I'll rename that one technology
+
+60
+00:02:21,005 --> 00:02:24,003
+since our conference will be hybrid this year.
+
+61
+00:02:24,003 --> 00:02:28,005
+I can rename the channel by selecting budget,
+
+62
+00:02:28,005 --> 00:02:30,008
+and replacing the channel name.
+
+63
+00:02:30,008 --> 00:02:33,005
+I can save my change
+
+64
+00:02:33,005 --> 00:02:37,004
+by clicking on customize channels.
+
+65
+00:02:37,004 --> 00:02:39,006
+At this point, everything is set up
+
+66
+00:02:39,006 --> 00:02:42,000
+and I'll select create team.
+
+67
+00:02:42,000 --> 00:02:44,004
+Now, it does take a little while
+
+68
+00:02:44,004 --> 00:02:46,005
+for a team to get set up
+
+69
+00:02:46,005 --> 00:02:48,003
+so just be patient
+
+70
+00:02:48,003 --> 00:02:50,008
+and come back a little bit later.
+
+71
+00:02:50,008 --> 00:02:52,000
+As you can see,
+
+72
+00:02:52,000 --> 00:02:53,005
+it doesn't take much effort
+
+73
+00:02:53,005 --> 00:02:55,002
+to create a team.
+
+74
+00:02:55,002 --> 00:02:56,009
+When you're able to create a team,
+
+75
+00:02:56,009 --> 00:03:00,000
+you're in a position to start streamlining communication
+
+76
+00:03:00,000 --> 00:03:02,008
+and collaboration for your next event or project.
+

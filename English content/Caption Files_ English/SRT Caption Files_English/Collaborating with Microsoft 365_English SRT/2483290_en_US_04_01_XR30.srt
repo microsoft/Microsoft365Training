@@ -1,0 +1,204 @@
+1
+00:00:00,003 --> 00:00:01,006
+- [Instructor] When you send an email,
+
+2
+00:00:01,006 --> 00:00:04,000
+you're starting a digital dialogue.
+
+3
+00:00:04,000 --> 00:00:06,006
+So the person you're sending your email to
+
+4
+00:00:06,006 --> 00:00:10,004
+will need to know who you are and how they can respond.
+
+5
+00:00:10,004 --> 00:00:12,006
+Adding an email signature is an easy way
+
+6
+00:00:12,006 --> 00:00:14,001
+to sign off your emails
+
+7
+00:00:14,001 --> 00:00:17,005
+that you can use at the end of all your emails.
+
+8
+00:00:17,005 --> 00:00:19,004
+In this lesson, I'll show you
+
+9
+00:00:19,004 --> 00:00:21,009
+how to keep your sign-offs consistent
+
+10
+00:00:21,009 --> 00:00:26,000
+and your communication going strong with email signatures.
+
+11
+00:00:26,000 --> 00:00:29,001
+For this example, I'm in the middle of a job search.
+
+12
+00:00:29,001 --> 00:00:31,002
+I may be sending multiple emails
+
+13
+00:00:31,002 --> 00:00:33,003
+as I apply for each new job.
+
+14
+00:00:33,003 --> 00:00:35,000
+Before I write my emails,
+
+15
+00:00:35,000 --> 00:00:36,007
+I want to create an email signature
+
+16
+00:00:36,007 --> 00:00:41,002
+so I can have a standard ending to all my job search emails.
+
+17
+00:00:41,002 --> 00:00:44,009
+First, in the top-left corner of office.com,
+
+18
+00:00:44,009 --> 00:00:50,007
+select the app launcher and open Outlook.
+
+19
+00:00:50,007 --> 00:00:56,000
+From here, I'll go to Settings at the top right.
+
+20
+00:00:56,000 --> 00:00:58,000
+Here you can change the look of your inbox,
+
+21
+00:00:58,000 --> 00:01:01,008
+but I need to go to View all Outlook settings
+
+22
+00:01:01,008 --> 00:01:04,008
+to access more options.
+
+23
+00:01:04,008 --> 00:01:08,003
+Next I go to Compose and reply,
+
+24
+00:01:08,003 --> 00:01:11,001
+then the Email signature section.
+
+25
+00:01:11,001 --> 00:01:13,002
+This is where I create the signature that I want
+
+26
+00:01:13,002 --> 00:01:15,007
+for all my job search-related emails.
+
+27
+00:01:15,007 --> 00:01:20,001
+Here I'll add my name, my email address, and my phone number
+
+28
+00:01:20,001 --> 00:01:22,005
+in case someone needs to reach me right away.
+
+29
+00:01:22,005 --> 00:01:25,002
+Then I'll give my email signature a name.
+
+30
+00:01:25,002 --> 00:01:29,004
+I'll call it Job search so I can reuse it later.
+
+31
+00:01:29,004 --> 00:01:32,009
+There are a lot of options in Compose and reply.
+
+32
+00:01:32,009 --> 00:01:35,005
+I can select a default signature,
+
+33
+00:01:35,005 --> 00:01:38,007
+alter how I format messages,
+
+34
+00:01:38,007 --> 00:01:40,009
+and a lot more.
+
+35
+00:01:40,009 --> 00:01:43,004
+For simply setting up an email signature,
+
+36
+00:01:43,004 --> 00:01:44,004
+you don't need to worry
+
+37
+00:01:44,004 --> 00:01:48,003
+about diving too deep below this first section.
+
+38
+00:01:48,003 --> 00:01:51,006
+I'll save my email signature
+
+39
+00:01:51,006 --> 00:01:55,004
+and close out of here by selecting the X.
+
+40
+00:01:55,004 --> 00:01:58,002
+Now that I have my email signature set up and saved,
+
+41
+00:01:58,002 --> 00:01:59,007
+it's ready to use.
+
+42
+00:01:59,007 --> 00:02:02,004
+So I'll select New message.
+
+43
+00:02:02,004 --> 00:02:05,005
+At the bottom of the window with my new email,
+
+44
+00:02:05,005 --> 00:02:08,006
+I'll select more options,
+
+45
+00:02:08,006 --> 00:02:11,001
+then select Insert signature,
+
+46
+00:02:11,001 --> 00:02:14,001
+and select the Job search signature,
+
+47
+00:02:14,001 --> 00:02:17,006
+and the signature will be added to the new email.
+
+48
+00:02:17,006 --> 00:02:20,000
+Now you know how to create a signature
+
+49
+00:02:20,000 --> 00:02:22,005
+to add to any email you compose,
+
+50
+00:02:22,005 --> 00:02:25,008
+saving time when you want to share the same information
+
+51
+00:02:25,008 --> 00:02:27,004
+at the end of your emails.
+

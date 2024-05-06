@@ -1,0 +1,32 @@
+ - [Instructor] I love when I can quickly create lists.  
+ With Microsoft Lists,  
+ I'm able to consistently stay on top of what I need to do.  
+ In this lesson,  
+ I'm going to show you the simplest way  
+ to access the most important parts of Microsoft Lists.  
+ I'll start from Office.com,  
+ select the App Launcher and Lists.  
+ Here, you can see the Lists homepage  
+ with Favorites displayed first.  
+ My Favorites contains the lists I've tagged as important.  
+ Here, you see my Conference Plan list.  
+ To add a Favorite, select the star icon  
+ when hovering over any list.  
+ I will hover over Spring wedding show  
+ and select favorite this list  
+ because that event is coming up soon.  
+ As I complete projects or finish lists,  
+ I can remove this list from Favorites by selecting the star.  
+ When you need to look back on previous projects,  
+ Recent lists can help you find them quickly.  
+ To see all the lists you've created,  
+ use the dropdown to the right of Recent lists  
+ and select My lists.  
+ I can now see all the lists I've created in a single page.  
+ Harness the power of Microsoft Lists  
+ by signing in and beginning to navigate  
+ all the features in the app.  
+ You'll be amazed by the improvements you'll make  
+ in your project organization.  
+ 
+

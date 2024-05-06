@@ -1,0 +1,78 @@
+ - Many of today's computers, especially portable devices,  
+ like laptops and tablet computers,  
+ include a technology called Bluetooth.  
+ Bluetooth is a short range wireless technology,  
+ mostly used to reduce the use of cables.  
+ You're probably familiar with this technology  
+ in the form of Bluetooth headsets  
+ that many people use to talk on their mobile phones.  
+ But Bluetooth is also used for many other types of devices,  
+ like replacing a wired keyboard or mouse  
+ to eliminate the clutter of cables  
+ normally needed to connect those devices to your computer.  
+ Now, because we are dealing with a wireless technology,  
+ the important thing is to make sure  
+ that your Bluetooth device such as a mouse and your computer  
+ recognize each other  
+ and that someone nearby can't take control of your computer  
+ with their Bluetooth mouse.  
+ You accomplish this  
+ by performing a task called pairing your devices.  
+ So let's take a look at how we do this.  
+ For this example, I'm going to set up a Bluetooth mouse.  
+ The first thing you need to do  
+ is to set your Bluetooth device into pairing mode  
+ also called discoverable mode.  
+ You'll have to check the instructions  
+ for whatever device you're trying to pair with your computer  
+ to see how to put it into this mode.  
+ I'll go ahead and do that to my mouse right now.  
+ Now, you may immediately see a notification  
+ letting you know that your device was detected,  
+ and you'll be able to connect to it right from there.  
+ If you don't see that notification or you miss clicking it,  
+ you can go into settings to connect your device.  
+ Here in Windows 10,  
+ I'm going to go to the Start menu, to Settings, Devices,  
+ and I'll make sure that Bluetooth  
+ and other devices is selected.  
+ I'll make sure that the Bluetooth switch is on,  
+ and I'll click Add Bluetooth or other device.  
+ I'll say that I want to connect a Bluetooth device.  
+ And after a moment, my mouse's name appears in this window.  
+ I can select it,  
+ and Windows will just take a moment to install the device.  
+ Now, depending on your device,  
+ you might be prompted to type in a passcode  
+ in order to complete the pairing process.  
+ This is an extra security measure some devices use  
+ to make sure the person controlling the computer  
+ is the one who wants to pair with the device.  
+ If your device requires a passcode,  
+ you'll find the code in your instruction manual.  
+ But as you just saw,  
+ that wasn't required for this mouse,  
+ and after a few seconds,  
+ I got this message saying my device is ready to go.  
+ I'll click Done.  
+ I see my device listed here,  
+ and I can begin using my mouse right away.  
+ Now, you only need to set up your Bluetooth device once.  
+ After that, anytime your Bluetooth mouse, keyboard,  
+ or any other paired device  
+ is switched on near your computer,  
+ they should automatically connect.  
+ Now, if you ever want to unpair your mouse from your PC,  
+ just come back into Bluetooth settings, select the device,  
+ click Remove Device and confirm that you want to do that.  
+ You can see it's been removed  
+ and now this mouse will no longer work with my computer  
+ until I pair them again.  
+ And that's it.  
+ This pairing process is pretty much the same  
+ regardless of the type of device you're using.  
+ Just put your device into pairing or discoverable mode,  
+ open up Bluetooth settings, select your device,  
+ and let windows do the rest.  
+ 
+

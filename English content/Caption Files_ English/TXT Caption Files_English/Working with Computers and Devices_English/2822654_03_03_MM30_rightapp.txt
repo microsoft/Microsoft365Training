@@ -1,0 +1,95 @@
+ - [Instructor] An important part of progressing beyond  
+ the novice level of using computers  
+ is being able to quickly determine which applications  
+ to use to accomplish various tasks.  
+ Choosing the right application for your needs  
+ is a skill that you can develop as you become more aware  
+ of the types of applications available and how to use them.  
+ As we've seen some apps come pre-installed  
+ on your computer like calculator or Notepad,  
+ but you can also install new apps on your computer.  
+ When we need to do that here in Windows 10 is by browsing  
+ and searching the Microsoft Store.  
+ Now the Store icon might be pinned in your task bar  
+ like it is here,  
+ in which case you can just click it to go to the Store,  
+ but you can also find it by going to the start menu,  
+ and you should see the Store  
+ as one of the tiles here in the menu.  
+ If you don't see it you can just type Store  
+ into the search bar and then select the Microsoft Store,  
+ when it appears as one of the search results.  
+ Any one of those options will open up the Store.  
+ And here you can browse apps by category like gaming,  
+ entertainment, productivity, and so on,  
+ because apps are essentially tools  
+ that fall into different categories.  
+ Here in the Microsoft Store,  
+ you'll find featured apps at the top of the screen.  
+ As you scroll down,  
+ you'll be able to browse through the available apps  
+ under categories like best-selling apps,  
+ which is a good place to find the most popular apps,  
+ which could be an indicator of the apps  
+ or you'll find categories around specific tasks,  
+ or activities like photo and video editing apps,  
+ productivity apps, and so on.  
+ Click on any app that looks interesting  
+ to read more about it.  
+ Here you'll find an overview of the app,  
+ and you can read reviews,  
+ view the system requirements for using the app and so on.  
+ Now, if you're looking for a specific app,  
+ you can type its name into the search bar  
+ at the top of the window.  
+ For instance, I'm looking for an app  
+ called Microsoft Whiteboard,  
+ so I'll type Whiteboard and there it is.  
+ I'll click it to go to its product page.  
+ And again, I can read more about it here.  
+ And if I decide that I want to use,  
+ or at least try this app, I just click get to install it.  
+ Now in this case Whiteboard is a free app.  
+ So the button says get.  
+ If the app costs money you'll see a buy button.  
+ Many paid apps also offer free trials on their Store pages.  
+ So you can try them out for a limited time  
+ to decide if you want to purchase them.  
+ But again, this particular app is free  
+ so I can install it by clicking get.  
+ So from there, it will download,  
+ and install onto my computer,  
+ and I'll be able to use it right away.  
+ Notice we now have a launch button,  
+ so I can click launch to open up that app  
+ here on my computer.  
+ I'll just close that for now.  
+ And I'll close the Store.  
+ Now it's important to understand that certain types of files  
+ require certain applications to open them.  
+ For example, I have this document here on my desktop,  
+ when I right click on it and go to the open with menu,  
+ I'm presented with a list of apps I have installed  
+ on my computer that can open this type of file,  
+ in this case, Notepad and WordPad.  
+ Similarly, if I right click on this photo file,  
+ and go to open with,  
+ I'll see a different set of photos on my computer  
+ that are suitable for opening and editing photos.  
+ If a friend or a colleague sends you a file  
+ that you can't seem to open on your computer,  
+ you'll need to check with them to see what app  
+ they used to create that file,  
+ and you may have to install that same app  
+ or a similar app to access the file.  
+ As you gain more experience using your computer,  
+ you'll start to learn and understand which apps  
+ are the right apps to use to open,  
+ and work with different types of files.  
+ And if you often work with others,  
+ you'll probably find that some or all of them  
+ have the necessary software installed on their computers,  
+ and it should be relatively easy to get recommendations  
+ of what applications you need to accomplish your tasks.  
+ 
+

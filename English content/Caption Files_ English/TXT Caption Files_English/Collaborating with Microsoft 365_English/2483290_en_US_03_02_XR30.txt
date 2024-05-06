@@ -1,0 +1,60 @@
+ - [Instructor] If you're starting from scratch  
+ every time you create a document,  
+ you might feel like you're reinventing the wheel.  
+ But with OneNote,  
+ you can easily create consistent documents using templates,  
+ tailoring your notebook to your needs in no time.  
+ In this lesson, I'll show you how to create pages  
+ to store information in your notebook  
+ and also how to use templates to save you time.  
+ In OneNote, you can create notebooks,  
+ which are made up of sections.  
+ Each section contains pages  
+ and that's where you'll document your notes.  
+ First, I'll open my notebook.  
+ So to create a new page,  
+ I'll select Add page at the bottom of my notebook.  
+ We can start here.  
+ Now, I will add the information  
+ I want to keep track of for each job,  
+ like the job title, company name, how to apply, and more.  
+ I'll select where I want to add content and add the content.  
+ You can also format any text you add  
+ to make it stand out.  
+ Here, I'll make the application due date larger,  
+ in bold,  
+ and in a different color to really make it stand out.  
+ I also want to add a table at the bottom of this page  
+ to compare the pros and cons of this job.  
+ First, I select where I want my table to go.  
+ I select Insert,  
+ select Table,  
+ and highlight the size that I need for my table.  
+ I'll choose two rows and two columns.  
+ The table is inserted,  
+ and I'll label the columns Pros and Cons.  
+ I'll also add bullets by selecting bullets.  
+ So the information I enter  
+ will be neatly organized at my table.  
+ Now that I have a design for my notes,  
+ I'll name this page Job search template.  
+ The title goes to the top of each page.  
+ Next, I will replicate this Job search template page  
+ for each job I am interested in  
+ by right-clicking on the page,  
+ selecting Move/Copy from the menu that appears,  
+ and then choosing Copy.  
+ I now have a duplicate  
+ of my Job search template page.  
+ From here, I'll rename this page  
+ based on a job I'm interested in.  
+ Now, I'll enter the information  
+ that I have for this job search, like the job title,  
+ the company name, and how to apply.  
+ I can come back and fill in the other details  
+ when I have them.  
+ Now, you have the skills to create custom templates  
+ and pages in your own notebooks.  
+ Try it out.  
+ 
+

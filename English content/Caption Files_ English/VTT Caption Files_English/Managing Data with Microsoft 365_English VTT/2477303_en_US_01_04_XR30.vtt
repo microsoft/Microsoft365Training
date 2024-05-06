@@ -1,0 +1,322 @@
+﻿WEBVTT
+
+00:00:00.003 --> 00:00:03.009
+- Whether your form has 5 question or 500 questions,
+
+00:00:03.009 --> 00:00:06.001
+it should be organized well.
+
+00:00:06.001 --> 00:00:08.008
+In this lesson I'll show you how to customize
+
+00:00:08.008 --> 00:00:13.003
+and build clean dynamic surveys in Microsoft Forms.
+
+00:00:13.003 --> 00:00:16.003
+In the top left corner of office.com,
+
+00:00:16.003 --> 00:00:20.004
+I'll select the app launcher and open Forms.
+
+00:00:20.004 --> 00:00:24.009
+Now I'll open the wedding planning consulting interest form.
+
+00:00:24.009 --> 00:00:28.005
+First, I need to determine which fields are required
+
+00:00:28.005 --> 00:00:29.008
+for a submission.
+
+00:00:29.008 --> 00:00:31.004
+For this contact form,
+
+00:00:31.004 --> 00:00:33.006
+the minimum information I'll need to be able
+
+00:00:33.006 --> 00:00:36.002
+to follow up is an email address. .
+
+00:00:36.002 --> 00:00:39.003
+Without it, I wouldn't know who to follow up with.
+
+00:00:39.003 --> 00:00:42.005
+So I need to make email address a required question.
+
+00:00:42.005 --> 00:00:45.005
+If I select the email address question
+
+00:00:45.005 --> 00:00:49.002
+I can toggle the required button in the bottom right corner.
+
+00:00:49.002 --> 00:00:52.001
+I'll repeat this for first name.
+
+00:00:52.001 --> 00:00:53.008
+When the client views the form
+
+00:00:53.008 --> 00:00:57.006
+the required questions will be indicated by a red asterisk.
+
+00:00:57.006 --> 00:00:59.005
+Now that I've set the required fields
+
+00:00:59.005 --> 00:01:02.001
+I can organize my survey into sections.
+
+00:01:02.001 --> 00:01:03.004
+These help organize the survey
+
+00:01:03.004 --> 00:01:06.005
+so the respondent sees questions in a logical flow.
+
+00:01:06.005 --> 00:01:08.004
+I have three contact related questions
+
+00:01:08.004 --> 00:01:11.001
+that would be good as a section, email address,
+
+00:01:11.001 --> 00:01:14.003
+first name, and last name.
+
+00:01:14.003 --> 00:01:15.003
+Select the last name question
+
+00:01:15.003 --> 00:01:17.008
+and add new will appear below it.
+
+00:01:17.008 --> 00:01:22.000
+Select add new, then more question types on the right
+
+00:01:22.000 --> 00:01:24.007
+and select section.
+
+00:01:24.007 --> 00:01:27.006
+This will add section two below last name
+
+00:01:27.006 --> 00:01:29.007
+section one is at the top of the form
+
+00:01:29.007 --> 00:01:32.008
+and contains the three contact information questions.
+
+00:01:32.008 --> 00:01:34.008
+Now you can label each section
+
+00:01:34.008 --> 00:01:37.002
+by selecting the header.
+
+00:01:37.002 --> 00:01:39.003
+For the first section, I'll enter contact information
+
+00:01:39.003 --> 00:01:44.008
+and leave the description box blank.
+
+00:01:44.008 --> 00:01:47.001
+The next section revolves around timing.
+
+00:01:47.001 --> 00:01:51.003
+I'll enter wedding date.
+
+00:01:51.003 --> 00:01:53.009
+Now I'll add in a final section
+
+00:01:53.009 --> 00:01:56.002
+by selecting the final question
+
+00:01:56.002 --> 00:02:02.001
+add new, more question types, and section.
+
+00:02:02.001 --> 00:02:04.004
+This creates a section below this question
+
+00:02:04.004 --> 00:02:07.001
+and I'll enter services.
+
+00:02:07.001 --> 00:02:08.001
+I'll move the question
+
+00:02:08.001 --> 00:02:11.006
+about how comfortable the client feels into this section.
+
+00:02:11.006 --> 00:02:15.003
+Select the question and then the move question down arrow
+
+00:02:15.003 --> 00:02:17.005
+in the top right corner.
+
+00:02:17.005 --> 00:02:20.003
+Fantastic, I now have the wedding date questions
+
+00:02:20.003 --> 00:02:23.001
+in the correct section and the form is organized.
+
+00:02:23.001 --> 00:02:24.008
+You may also want to add branching
+
+00:02:24.008 --> 00:02:27.000
+to your forms to further organize them.
+
+00:02:27.000 --> 00:02:29.004
+Branching changes which questions are asked based
+
+00:02:29.004 --> 00:02:33.000
+on the respondent's answer to previous questions.
+
+00:02:33.000 --> 00:02:34.001
+For this form, if the client wants
+
+00:02:34.001 --> 00:02:36.002
+to have a wedding in the next six months,
+
+00:02:36.002 --> 00:02:38.006
+I want them to answer additional questions.
+
+00:02:38.006 --> 00:02:41.005
+So I'll build a new section after services.
+
+00:02:41.005 --> 00:02:43.001
+After the final question,
+
+00:02:43.001 --> 00:02:46.006
+I'll select add new and then section.
+
+00:02:46.006 --> 00:02:51.004
+I'll enter additional information as the name.
+
+00:02:51.004 --> 00:02:53.003
+Then I'll add a new question,
+
+00:02:53.003 --> 00:02:57.002
+select text, and turn on the long answer toggle
+
+00:02:57.002 --> 00:03:01.002
+so clients can write a paragraph text.
+
+00:03:01.002 --> 00:03:02.008
+This question will say
+
+00:03:02.008 --> 00:03:07.004
+what bookings have you made for your wedding?
+
+00:03:07.004 --> 00:03:10.003
+Then I'll go back to the rating question
+
+00:03:10.003 --> 00:03:13.008
+and select copy question in the top right corner.
+
+00:03:13.008 --> 00:03:16.002
+I'll select move question down once.
+
+00:03:16.002 --> 00:03:19.005
+So the duplicate question is in section four.
+
+00:03:19.005 --> 00:03:23.004
+Next to add branching, I'll go back to question four.
+
+00:03:23.004 --> 00:03:25.004
+As the answer to this question will determine
+
+00:03:25.004 --> 00:03:28.003
+what the next question will be.
+
+00:03:28.003 --> 00:03:31.003
+To add branching select the more settings
+
+00:03:31.003 --> 00:03:33.000
+for question then add branching.
+
+00:03:33.000 --> 00:03:36.000
+If the client responds less than six months
+
+00:03:36.000 --> 00:03:39.003
+I will branch the section four, additional information
+
+00:03:39.003 --> 00:03:41.002
+by using the go-to dropdown
+
+00:03:41.002 --> 00:03:44.002
+so I can gather the information I need.
+
+00:03:44.002 --> 00:03:47.001
+For the other responses, I will leave them as go to next
+
+00:03:47.001 --> 00:03:49.005
+and they will proceed to section three.
+
+00:03:49.005 --> 00:03:50.008
+At the end of section three
+
+00:03:50.008 --> 00:03:53.005
+I will change the go-to dropdown to end of form
+
+00:03:53.005 --> 00:03:56.007
+so they do not have to fill out section four.
+
+00:03:56.007 --> 00:03:59.007
+Select back to save your changes.
+
+00:03:59.007 --> 00:04:02.004
+Now the form only asks for additional details
+
+00:04:02.004 --> 00:04:06.002
+if their wedding is within the next six months.
+
+00:04:06.002 --> 00:04:08.002
+Finally you want to test the survey.
+
+00:04:08.002 --> 00:04:10.003
+Testing is essential to make sure your survey
+
+00:04:10.003 --> 00:04:14.005
+looks and functions as you intended.
+
+00:04:14.005 --> 00:04:17.008
+First I'll select preview in the upper right corner
+
+00:04:17.008 --> 00:04:23.007
+I'll enter some test data, email, first name, last name.
+
+00:04:23.007 --> 00:04:24.007
+When I select next,
+
+00:04:24.007 --> 00:04:27.000
+the form goes to the wedding date section.
+
+00:04:27.000 --> 00:04:29.009
+I'll say my wedding is within the next six months.
+
+00:04:29.009 --> 00:04:31.001
+And when I select next,
+
+00:04:31.001 --> 00:04:34.001
+I am taken to the additional information section.
+
+00:04:34.001 --> 00:04:36.003
+So the added branching worked correctly.
+
+00:04:36.003 --> 00:04:38.004
+I'd say this is a successful form.
+
+00:04:38.004 --> 00:04:41.007
+I'll select the submit button to complete the testing.
+
+00:04:41.007 --> 00:04:45.008
+And select back to return to the edit questions page.
+
+00:04:45.008 --> 00:04:48.004
+With sections and branching, you can create surveys
+
+00:04:48.004 --> 00:04:51.009
+that take clients on a journey of your design.
+
+00:04:51.009 --> 00:04:54.007
+I encourage you to try it yourself.
+
+00:04:54.007 --> 00:04:57.004
+By using these tools, you can create engaging
+
+00:04:57.004 --> 00:05:00.009
+and useful surveys for both you and your customers.
+
+00:05:00.009 --> 00:05:01.007
+Nice work.

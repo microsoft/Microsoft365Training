@@ -1,0 +1,176 @@
+1
+00:00:00,001 --> 00:00:02,004
+- [Instructor] Just like ship captains use the stars,
+
+2
+00:00:02,004 --> 00:00:04,004
+having the skills to navigate through software
+
+3
+00:00:04,004 --> 00:00:06,007
+is key to getting where you want to go.
+
+4
+00:00:06,007 --> 00:00:07,005
+In this lesson,
+
+5
+00:00:07,005 --> 00:00:09,001
+I'm going to walk you through the tools
+
+6
+00:00:09,001 --> 00:00:10,005
+that will keep you organized
+
+7
+00:00:10,005 --> 00:00:14,000
+as you create surveys and quizzes in Microsoft Forms.
+
+8
+00:00:14,000 --> 00:00:17,000
+Starting from the Microsoft 365 homepage,
+
+9
+00:00:17,000 --> 00:00:21,006
+I'll go to the app launcher and open Forms.
+
+10
+00:00:21,006 --> 00:00:24,001
+Here, I can create a new form,
+
+11
+00:00:24,001 --> 00:00:27,000
+view my recent forms, pinned forms,
+
+12
+00:00:27,000 --> 00:00:28,008
+and forms shared with me.
+
+13
+00:00:28,008 --> 00:00:30,005
+If I scroll to the bottom,
+
+14
+00:00:30,005 --> 00:00:32,004
+there is the My Group's pane
+
+15
+00:00:32,004 --> 00:00:34,002
+where you can see the groups you're a member of
+
+16
+00:00:34,002 --> 00:00:36,007
+and the total number of forms in each group.
+
+17
+00:00:36,007 --> 00:00:39,009
+What's important here at the bottom of my forms,
+
+18
+00:00:39,009 --> 00:00:42,007
+is the All My Forms button.
+
+19
+00:00:42,007 --> 00:00:44,006
+This will bring me to a list
+
+20
+00:00:44,006 --> 00:00:47,004
+with a list of all the forms I've created here.
+
+21
+00:00:47,004 --> 00:00:48,007
+You'll see the forms I've created
+
+22
+00:00:48,007 --> 00:00:50,005
+and the number of responses.
+
+23
+00:00:50,005 --> 00:00:51,008
+On the My forms page,
+
+24
+00:00:51,008 --> 00:00:53,004
+you have the ability to group your forms
+
+25
+00:00:53,004 --> 00:00:56,007
+into collections to keep them organized together.
+
+26
+00:00:56,007 --> 00:00:59,007
+New Collection is located on the upper right.
+
+27
+00:00:59,007 --> 00:01:02,004
+I created one collection that has my surveys.
+
+28
+00:01:02,004 --> 00:01:06,003
+Forms also gives you the choice of viewing a list or a grid.
+
+29
+00:01:06,003 --> 00:01:09,006
+This option is in the top right corner of your screen.
+
+30
+00:01:09,006 --> 00:01:10,005
+I like grid view
+
+31
+00:01:10,005 --> 00:01:12,008
+because I usually set a theme for each form,
+
+32
+00:01:12,008 --> 00:01:15,002
+making them easy to recognize and find.
+
+33
+00:01:15,002 --> 00:01:16,009
+With List View,
+
+34
+00:01:16,009 --> 00:01:20,001
+I can see all the forms I've created.
+
+35
+00:01:20,001 --> 00:01:22,007
+I can delete a form by clicking the More Options
+
+36
+00:01:22,007 --> 00:01:27,006
+in the lower right corner of a card and selecting delete.
+
+37
+00:01:27,006 --> 00:01:32,000
+I'll confirm by clicking delete.
+
+38
+00:01:32,000 --> 00:01:34,004
+If you need to restore a form that you've already deleted,
+
+39
+00:01:34,004 --> 00:01:37,007
+not to worry, you can get it back from the recycle bin
+
+40
+00:01:37,007 --> 00:01:39,008
+in the lower right corner.
+
+41
+00:01:39,008 --> 00:01:41,008
+Now you're ready to use Microsoft Forms
+
+42
+00:01:41,008 --> 00:01:45,004
+to choose the right tools to quickly navigate to your forms.
+
+43
+00:01:45,004 --> 00:01:48,007
+Try it out by logging into Microsoft 365,
+
+44
+00:01:48,007 --> 00:01:51,003
+go into the Forms app, and making your first form.
+

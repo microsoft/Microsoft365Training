@@ -1,0 +1,62 @@
+ - [Instructor] Sometimes the best way to communicate  
+ with your team is by picking up the phone  
+ and talking to them.  
+ Teams allows you to do just that  
+ using an internet connection without using an actual phone.  
+ In this lesson, I'll show you the different ways  
+ to make direct phone calls using Teams.  
+ Once you're in Teams, there are several ways to make calls.  
+ First I'll show you how to call a contact directly  
+ from a chat.  
+ To call from a chat, open the chat you want to call from.  
+ Calling from a chat will call everyone in the chat.  
+ In the upper right corner,  
+ you can see there's a button for a video or audio call.  
+ When you're ready to make your call,  
+ simply select video call  
+ or audio call and Teams will connect you.  
+ Next I'll show you how to make calls using calls.  
+ Select calls from the left side of the app.  
+ From the phone tab, you can make a call  
+ by entering the name of the person you want to join the call  
+ in the type a name box.  
+ You can add multiple people here.  
+ Then select call to make the call.  
+ Another way to make calls is to select someone  
+ from your call history.  
+ Just hover over a previous call and select the call button  
+ once it appears.  
+ You can also make calls from your contacts tab.  
+ Find the contact you would like to call.  
+ Then select the type of call you want to make.  
+ Either a video call or an audio call.  
+ Here you can also send a direct message  
+ or an email to any one of your contacts.  
+ I want to call Isaiah so we can chat  
+ about a meeting we just had  
+ for an upcoming skills conference that we're planning.  
+ Before I call, I want to check his presence.  
+ Presence shows your availability and status to others  
+ and as part of your profile in Teams.  
+ To help you better understand presence,  
+ I'll show you the different presence states  
+ and how to change your status in Teams.  
+ The little dot  
+ To change your availability, go to your profile  
+ and select a status from the list.  
+ There are different symbols for each status.  
+ So take a moment to familiarize yourself with them.  
+ There are symbols to indicate when you're available,  
+ busy, when you don't want to be disturbed, when you are away,  
+ and when you are offline.  
+ I want to call Isaiah  
+ but I can see that Isaiah is in do not disturb.  
+ So I won't call him now.  
+ But I see Lynne is available  
+ and she might have the information I need  
+ so I'll give her a call.  
+ Now that you know how to make phone calls in Teams,  
+ find a way to use each of these methods  
+ to make calls on your Teams.  
+ 
+

@@ -1,0 +1,66 @@
+ - [Instructor] The most efficient way to create a new list  
+ with a professional look is to use templates.  
+ If you can find a template that aligns with your scenario,  
+ it can save you a lot of time.  
+ In this lesson, I'll show you  
+ how to bring your own list to life using templates.  
+ I'll start from Office.com.  
+ Select the app launcher in the upper left corner  
+ and open Lists.  
+ In this example, I'm planning an event.  
+ So I want to find out if there's a template  
+ that will help me create it.  
+ So, I'll start by selecting new list.  
+ The template section shows templates I can use.  
+ Here's an event itinerary template that looks good.  
+ When I select it, I'll see a preview with sample data.  
+ Most of the columns look helpful  
+ but I don't need all of them  
+ so I'll customize it after the list has been created.  
+ Select use template.  
+ On the next window, enter a name.  
+ I'll call mine, March Wedding Show  
+ and enter description, expo center show.  
+ I'll keep the calendar icon in the default color  
+ and have it stored in my lists.  
+ Next, I'll select create  
+ to create my list from the template.  
+ Now that the list is created,  
+ I can customize it to fit my needs.  
+ I don't need the speaker's column  
+ so I can either hide or delete it.  
+ If I hide the column, it will still exist in the list  
+ but will not be displayed.  
+ I'll hide the speaker column instead of deleting it  
+ in case someone else ends up presenting with me.  
+ I'll select the dropdown next to the speaker's heading,  
+ then select column settings and choose hide this column.  
+ The speaker's column is no longer visible.  
+ I won't have session codes for my event  
+ so I wanted to delete the session code column.  
+ So I'll select the dropdown next to session code,  
+ select column settings, and choose edit.  
+ This brings up the edit column panel.  
+ Now I can select delete in the bottom right corner.  
+ Confirm in the window and the column is removed.  
+ Reorganizing columns allows me  
+ to keep related items together.  
+ I prefer the description column  
+ to be next to the session name.  
+ So I can select description  
+ and drag it to the right of session name.  
+ Now I'm ready to start adding my own data.  
+ I'll add some sessions by selecting new.  
+ The first thing on the itinerary for this show is breakfast.  
+ So, I'll enter that as a title  
+ and I'll select meal for the session type.  
+ And in the description field,  
+ I'll enter, bring business cards.  
+ Finally, select save at the top and the list item is added.  
+ So there you have it.  
+ Creating a list from a template helps me get started quickly  
+ and they look great.  
+ So go ahead, open Microsoft Lists  
+ and look for a template that matches your next project.  
+ 
+

@@ -1,0 +1,200 @@
+1
+00:00:00,003 --> 00:00:01,008
+- [Instructor] As a project manager,
+
+2
+00:00:01,008 --> 00:00:03,007
+you'll likely use one of the two common
+
+3
+00:00:03,007 --> 00:00:05,007
+project management processes,
+
+4
+00:00:05,007 --> 00:00:08,003
+Waterfall and Agile.
+
+5
+00:00:08,003 --> 00:00:09,006
+In this lesson,
+
+6
+00:00:09,006 --> 00:00:11,007
+I'll show you how to use Microsoft Project
+
+7
+00:00:11,007 --> 00:00:15,001
+to quickly create a framework for your projects.
+
+8
+00:00:15,001 --> 00:00:17,007
+First, Waterfall is a commonly used
+
+9
+00:00:17,007 --> 00:00:19,006
+project management process.
+
+10
+00:00:19,006 --> 00:00:21,002
+In Waterfall projects,
+
+11
+00:00:21,002 --> 00:00:23,002
+each phase is dependent on the completion
+
+12
+00:00:23,002 --> 00:00:25,000
+of the previous phase.
+
+13
+00:00:25,000 --> 00:00:28,000
+So when mapped out, it looks like a waterfall.
+
+14
+00:00:28,000 --> 00:00:31,001
+Another project management process is Agile.
+
+15
+00:00:31,001 --> 00:00:32,009
+In the Agile methodology,
+
+16
+00:00:32,009 --> 00:00:36,001
+a project is broken down into segments called sprints,
+
+17
+00:00:36,001 --> 00:00:39,003
+which are small cycles to complete top priority tasks
+
+18
+00:00:39,003 --> 00:00:41,004
+from a backlog of work.
+
+19
+00:00:41,004 --> 00:00:43,009
+The backlog is the full list of all tasks
+
+20
+00:00:43,009 --> 00:00:47,004
+that need to be completed for project success.
+
+21
+00:00:47,004 --> 00:00:49,002
+I'll start from office.com,
+
+22
+00:00:49,002 --> 00:00:51,009
+select the app launcher in the top left corner,
+
+23
+00:00:51,009 --> 00:00:53,006
+and open Project.
+
+24
+00:00:53,006 --> 00:00:55,006
+Note that using Project for the web
+
+25
+00:00:55,006 --> 00:00:59,005
+requires an active subscription to Microsoft Project.
+
+26
+00:00:59,005 --> 00:01:02,001
+To set up the framework for an Agile project,
+
+27
+00:01:02,001 --> 00:01:07,008
+I'll create a new project by selecting New Blank Project.
+
+28
+00:01:07,008 --> 00:01:15,000
+I'll select the project name and rename it to Wardrobe.
+
+29
+00:01:15,000 --> 00:01:18,001
+I'll set the start date to be the first day of next month,
+
+30
+00:01:18,001 --> 00:01:25,004
+then close the panel using the X in the top right.
+
+31
+00:01:25,004 --> 00:01:28,001
+Then, I'll select Board view at the top.
+
+32
+00:01:28,001 --> 00:01:35,005
+I'll select Bucket 1 and rename it to Backlog.
+
+33
+00:01:35,005 --> 00:01:37,004
+Next, I'll select Add bucket,
+
+34
+00:01:37,004 --> 00:01:40,000
+and enter Week 1 and Week 2
+
+35
+00:01:40,000 --> 00:01:46,000
+as the names for the next two buckets.
+
+36
+00:01:46,000 --> 00:01:49,001
+Now I'll enter some items in my backlog.
+
+37
+00:01:49,001 --> 00:01:52,001
+I'll select add task under Backlog,
+
+38
+00:01:52,001 --> 00:01:55,002
+and enter choose color scheme.
+
+39
+00:01:55,002 --> 00:02:13,003
+Select Add task, and continue until all tasks are added.
+
+40
+00:02:13,003 --> 00:02:17,004
+Now drag the highest priority tasks to the Week 1 bucket.
+
+41
+00:02:17,004 --> 00:02:20,003
+This will be our first sprint.
+
+42
+00:02:20,003 --> 00:02:23,002
+Everything is dependent on choosing the color scheme,
+
+43
+00:02:23,002 --> 00:02:24,007
+so that will be first.
+
+44
+00:02:24,007 --> 00:02:26,006
+Then I'll drag over a few more tasks
+
+45
+00:02:26,006 --> 00:02:32,009
+that belong in Week 1.
+
+46
+00:02:32,009 --> 00:02:35,005
+Microsoft Project can be used as a framework
+
+47
+00:02:35,005 --> 00:02:38,003
+for many project management processes.
+
+48
+00:02:38,003 --> 00:02:40,007
+As you manage more and more projects,
+
+49
+00:02:40,007 --> 00:02:42,006
+you'll soon discover which processes
+
+50
+00:02:42,006 --> 00:02:44,000
+best suit your workflow.
+

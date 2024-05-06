@@ -1,0 +1,187 @@
+﻿WEBVTT
+
+00:00:00.006 --> 00:00:03.001
+- [Instructor] One of the most effective uses of mail merge
+
+00:00:03.001 --> 00:00:05.009
+is creating labels for mass communication.
+
+00:00:05.009 --> 00:00:08.002
+It adds a nice touch of professionalism
+
+00:00:08.002 --> 00:00:12.001
+when mailings are addressed easily and properly.
+
+00:00:12.001 --> 00:00:15.002
+In this lesson, I'm going to show you ways to use Word
+
+00:00:15.002 --> 00:00:17.002
+and Excel to create a mail merge
+
+00:00:17.002 --> 00:00:19.004
+for generating your own labels.
+
+00:00:19.004 --> 00:00:22.008
+Please note that the mail merge feature is only available
+
+00:00:22.008 --> 00:00:25.002
+in the desktop version.
+
+00:00:25.002 --> 00:00:30.003
+To get started, I'll open a blank Microsoft Word document
+
+00:00:30.003 --> 00:00:35.000
+and select mailings from the top ribbon.
+
+00:00:35.000 --> 00:00:37.003
+Next, select start mail merge
+
+00:00:37.003 --> 00:00:42.006
+and then the step by step mail merge wizard.
+
+00:00:42.006 --> 00:00:45.000
+The mail merge wizard takes you through the process
+
+00:00:45.000 --> 00:00:48.000
+of creating labels step by step.
+
+00:00:48.000 --> 00:00:50.005
+When the mail merge panel opens on the right side
+
+00:00:50.005 --> 00:00:54.000
+of the screen, select labels then select
+
+00:00:54.000 --> 00:00:59.009
+next, starting document.
+
+00:00:59.009 --> 00:01:05.007
+Select label options, then look up the label vendor
+
+00:01:05.007 --> 00:01:15.004
+and product number for your physical labels and select OK.
+
+00:01:15.004 --> 00:01:18.002
+To view the label grid, go to the Layout tab
+
+00:01:18.002 --> 00:01:27.000
+on the top ribbon and select view grid lines.
+
+00:01:27.000 --> 00:01:28.008
+Then move on to the next step
+
+00:01:28.008 --> 00:01:34.005
+by selecting next, select recipients.
+
+00:01:34.005 --> 00:01:38.004
+Follow along by downloading the list in the exercise file,
+
+00:01:38.004 --> 00:01:42.009
+it's called example contact list.
+
+00:01:42.009 --> 00:01:51.007
+Select browse to find your recipient list Excel document,
+
+00:01:51.007 --> 00:01:54.006
+then select Open.
+
+00:01:54.006 --> 00:01:58.002
+In the next window, make sure the first row of data
+
+00:01:58.002 --> 00:02:05.009
+contains column headers box is selected and select OK.
+
+00:02:05.009 --> 00:02:07.009
+This lets Word know that the first row
+
+00:02:07.009 --> 00:02:11.000
+does not contain mailing information for your labels.
+
+00:02:11.000 --> 00:02:12.003
+Now you can check your list
+
+00:02:12.003 --> 00:02:21.003
+and when you're sure everything is correct select OK.
+
+00:02:21.003 --> 00:02:23.005
+Select next arrange your labels
+
+00:02:23.005 --> 00:02:28.007
+when you're ready to move on.
+
+00:02:28.007 --> 00:02:30.007
+Add the appropriate address information
+
+00:02:30.007 --> 00:02:36.002
+by selecting address block and view how the addresses
+
+00:02:36.002 --> 00:02:39.004
+will appear in the insert address block window.
+
+00:02:39.004 --> 00:02:40.008
+You can preview each recipient
+
+00:02:40.008 --> 00:02:47.004
+by going through the arrows at the top of the box.
+
+00:02:47.004 --> 00:02:50.003
+If the data isn't going into the labels correctly,
+
+00:02:50.003 --> 00:02:52.006
+try editing the match fields to make sure
+
+00:02:52.006 --> 00:02:55.000
+the appropriate headings line up.
+
+00:02:55.000 --> 00:02:59.005
+For example, first name needs to align
+
+00:02:59.005 --> 00:03:02.001
+with the first name heading and address one
+
+00:03:02.001 --> 00:03:24.001
+with the billing address and so on and so forth.
+
+00:03:24.001 --> 00:03:34.009
+Once you've confirmed everything is correct, select OK,
+
+00:03:34.009 --> 00:03:40.001
+and update all labels and then move on to the next step,
+
+00:03:40.001 --> 00:03:43.002
+preview your labels.
+
+00:03:43.002 --> 00:03:45.004
+Finally, you're ready to complete the mail merge
+
+00:03:45.004 --> 00:03:49.009
+by selecting next, complete the mail merge.
+
+00:03:49.009 --> 00:03:51.009
+Now you're ready to print your labels,
+
+00:03:51.009 --> 00:03:57.000
+select print and select if you want to print all
+
+00:03:57.000 --> 00:04:03.000
+or some of the labels and then select, OK.
+
+00:04:03.000 --> 00:04:05.009
+You can select OK again if all printer information
+
+00:04:05.009 --> 00:04:09.009
+is accurate and your labels will print out.
+
+00:04:09.009 --> 00:04:13.003
+Setting up labels takes a few steps, but once it's complete,
+
+00:04:13.003 --> 00:04:15.001
+you've set yourself up for success
+
+00:04:15.001 --> 00:04:17.009
+and all your labeling needs are addressed.
+
+00:04:17.009 --> 00:04:19.006
+Try creating labels or envelopes
+
+00:04:19.006 --> 00:04:21.002
+for your next mailing project.

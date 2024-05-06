@@ -1,0 +1,59 @@
+ - [Instructor] When you're keeping track of numbers  
+ in a spreadsheet, Excel can save you time  
+ by doing the math quickly and accurately for you,  
+ with something as important and detailed  
+ as your monthly expenses, having everything added up  
+ automatically, helps you make sense of all that information.  
+ With the sum function  
+ you can easily add large amounts of data together.  
+ In this lesson,  
+ I'll show you how to use this powerful tool  
+ to transform an extended list of numbers  
+ into a simple sum total.  
+ To get started, download the exercise file  
+ and pull up the sample budget in Excel.  
+ The sample budget contains a list of expenses  
+ and each expense has a cost next to it.  
+ If you want to know how much you'll need to pay  
+ for all these expenses  
+ you'll need to know the total cost in one single value,  
+ that's where the sum function can help.  
+ First consider where you want the total amount  
+ to be displayed,  
+ I'll choose cell E 2 as the home for this sum function  
+ so it's at the top and easy to find.  
+ Now you'll need to determine  
+ either the exact cells to add up or the range  
+ of numbers you want to add, where they begin and end.  
+ In this example of monthly expenses  
+ I want to include every item in the total sum.  
+ Those expenses start at cell B 2 and end at cell B 8,  
+ so I'll use this as the range of data.  
+ Now it's time to put a formula to work  
+ and create a sum function.  
+ First, select on the cell where you want to place your sum,  
+ type in =sum then open parentheses  
+ which tells the program that you want  
+ the total amount of whatever will be inside the parentheses.  
+ Once that open parentheses is added, I'm able to specify  
+ the range by selecting the first cell, B 2,  
+ and dragging down to the final cell, B 8.  
+ I'll close the parentheses, press enter,  
+ and the sum will populate.  
+ I'll add a title for my total expenses  
+ so I know what's captured in the cell.  
+ If you wanted non-consecutive numbers summed up instead  
+ of adding a range of cells to the parentheses  
+ just type the cells that you want in that space.  
+ For example, if I only wanted to know the cost  
+ for housing and transportation,  
+ I would first select the cell  
+ where I want to view my sum,  
+ type =sum open parentheses, then select B2, add a comma,  
+ then select B5, close parenthesis, press enter,  
+ and those two cells will be added together.  
+ Now you can use the sum function  
+ anytime you need to quickly add values to Excel,  
+ no calculator needed.  
+ 
+

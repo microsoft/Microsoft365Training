@@ -1,0 +1,81 @@
+ - [Instructor] An essential part in learning  
+ to become proficient when it comes to using a computer  
+ is to learn the right click.  
+ The term right click refers to the button found  
+ on the right side of a mouse with two or more buttons.  
+ Generally, if you're right handed,  
+ you'll click the left button of the mouse  
+ the majority of the time with your right index finger.  
+ This is the mouse's main button  
+ that allows you to select items,  
+ double click things, and make selections.  
+ But both the operating system,  
+ and most applications you'll use have special shortcuts,  
+ and menus that will appear when you click items  
+ with the right mouse button.  
+ For example, left clicking this file on my desktop,  
+ lets me select it.  
+ But right clicking it opens up this menu.  
+ What do you see in right click menus  
+ sometimes called contextual menus  
+ depends on the item you're clicking.  
+ For this file I see options to open it,  
+ to share it, or to delete it.  
+ So if I choose delete, that sends it to the recycle bin.  
+ I can double click the recycle bin  
+ with my left mouse button to view its contents.  
+ And you can see I have three items in here.  
+ Now, as we learned earlier,  
+ items in the recycle bin can be moved back out  
+ in case you didn't mean to delete them.  
+ One way is to drag them back into the folder they came from.  
+ But you can also right click the files in the recycle bin.  
+ And those one of the options here is restore.  
+ Selecting that sends the file back to the folder  
+ it came from,  
+ which is much faster than opening both the folder,  
+ and the recycle bin and dragging the file  
+ from one to the other.  
+ Right click options are often designed to save time.  
+ For example, if you want to permanently delete  
+ the items in the recycle bin, you could open it up,  
+ click the recycle bin tools tab,  
+ and from here choose to empty the recycle bin.  
+ But another and faster way to do this,  
+ is to right click the recycle bin,  
+ and choose empty recycle bin.  
+ This way you don't even have to open up  
+ the recycle bin first, which can again save time  
+ if you're certainly you want to empty it  
+ before checking its contents.  
+ Here, I'll click yes.  
+ And now my recycle bin is empty.  
+ The point is that you should get in the habit  
+ of trying to right click items  
+ just to see what shortcuts software designers  
+ may have hidden.  
+ Oftentimes you'll find shortcuts to commands and actions  
+ that may otherwise involve navigating  
+ through several menus or dialog boxes.  
+ Now incidentally if you're left handed and need  
+ to switch the actions of the left and right mouse buttons,  
+ you can right click on the desktop and choose personalize.  
+ That takes you to the personalization area  
+ of your system settings.  
+ Click the home icon to go to the main settings window,  
+ and then click devices.  
+ And here I'll select mouse.  
+ You can switch between your left and right mouse buttons  
+ as your primary button.  
+ So if you're left handed,  
+ and the left button then becomes the button  
+ for revealing special menus.  
+ Again, right-clicking items  
+ is an important concept to learn.  
+ Just take some time when working in various applications  
+ to right click a few things,  
+ and see what options may be available.  
+ More often than not you'll find and learn  
+ some great time-saving shortcuts.  
+ 
+

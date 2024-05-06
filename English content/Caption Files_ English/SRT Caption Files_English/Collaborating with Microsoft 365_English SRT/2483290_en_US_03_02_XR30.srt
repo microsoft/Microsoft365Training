@@ -1,0 +1,232 @@
+1
+00:00:00,001 --> 00:00:01,008
+- [Instructor] If you're starting from scratch
+
+2
+00:00:01,008 --> 00:00:04,000
+every time you create a document,
+
+3
+00:00:04,000 --> 00:00:07,000
+you might feel like you're reinventing the wheel.
+
+4
+00:00:07,000 --> 00:00:08,001
+But with OneNote,
+
+5
+00:00:08,001 --> 00:00:13,000
+you can easily create consistent documents using templates,
+
+6
+00:00:13,000 --> 00:00:16,005
+tailoring your notebook to your needs in no time.
+
+7
+00:00:16,005 --> 00:00:19,002
+In this lesson, I'll show you how to create pages
+
+8
+00:00:19,002 --> 00:00:21,006
+to store information in your notebook
+
+9
+00:00:21,006 --> 00:00:24,006
+and also how to use templates to save you time.
+
+10
+00:00:24,006 --> 00:00:26,004
+In OneNote, you can create notebooks,
+
+11
+00:00:26,004 --> 00:00:28,004
+which are made up of sections.
+
+12
+00:00:28,004 --> 00:00:30,008
+Each section contains pages
+
+13
+00:00:30,008 --> 00:00:34,000
+and that's where you'll document your notes.
+
+14
+00:00:34,000 --> 00:00:39,000
+First, I'll open my notebook.
+
+15
+00:00:39,000 --> 00:00:40,008
+So to create a new page,
+
+16
+00:00:40,008 --> 00:00:44,004
+I'll select Add page at the bottom of my notebook.
+
+17
+00:00:44,004 --> 00:00:46,001
+We can start here.
+
+18
+00:00:46,001 --> 00:00:47,007
+Now, I will add the information
+
+19
+00:00:47,007 --> 00:00:50,000
+I want to keep track of for each job,
+
+20
+00:00:50,000 --> 00:00:54,003
+like the job title, company name, how to apply, and more.
+
+21
+00:00:54,003 --> 00:01:00,000
+I'll select where I want to add content and add the content.
+
+22
+00:01:00,000 --> 00:01:03,000
+You can also format any text you add
+
+23
+00:01:03,000 --> 00:01:05,007
+to make it stand out.
+
+24
+00:01:05,007 --> 00:01:10,005
+Here, I'll make the application due date larger,
+
+25
+00:01:10,005 --> 00:01:12,004
+in bold,
+
+26
+00:01:12,004 --> 00:01:16,006
+and in a different color to really make it stand out.
+
+27
+00:01:16,006 --> 00:01:19,008
+I also want to add a table at the bottom of this page
+
+28
+00:01:19,008 --> 00:01:24,002
+to compare the pros and cons of this job.
+
+29
+00:01:24,002 --> 00:01:27,005
+First, I select where I want my table to go.
+
+30
+00:01:27,005 --> 00:01:29,008
+I select Insert,
+
+31
+00:01:29,008 --> 00:01:31,008
+select Table,
+
+32
+00:01:31,008 --> 00:01:35,003
+and highlight the size that I need for my table.
+
+33
+00:01:35,003 --> 00:01:38,000
+I'll choose two rows and two columns.
+
+34
+00:01:38,000 --> 00:01:39,007
+The table is inserted,
+
+35
+00:01:39,007 --> 00:01:44,002
+and I'll label the columns Pros and Cons.
+
+36
+00:01:44,002 --> 00:01:56,009
+I'll also add bullets by selecting bullets.
+
+37
+00:01:56,009 --> 00:01:58,008
+So the information I enter
+
+38
+00:01:58,008 --> 00:02:02,000
+will be neatly organized at my table.
+
+39
+00:02:02,000 --> 00:02:05,008
+Now that I have a design for my notes,
+
+40
+00:02:05,008 --> 00:02:09,005
+I'll name this page Job search template.
+
+41
+00:02:09,005 --> 00:02:13,005
+The title goes to the top of each page.
+
+42
+00:02:13,005 --> 00:02:17,001
+Next, I will replicate this Job search template page
+
+43
+00:02:17,001 --> 00:02:19,007
+for each job I am interested in
+
+44
+00:02:19,007 --> 00:02:21,009
+by right-clicking on the page,
+
+45
+00:02:21,009 --> 00:02:25,002
+selecting Move/Copy from the menu that appears,
+
+46
+00:02:25,002 --> 00:02:27,001
+and then choosing Copy.
+
+47
+00:02:27,001 --> 00:02:28,004
+I now have a duplicate
+
+48
+00:02:28,004 --> 00:02:31,005
+of my Job search template page.
+
+49
+00:02:31,005 --> 00:02:33,008
+From here, I'll rename this page
+
+50
+00:02:33,008 --> 00:02:36,009
+based on a job I'm interested in.
+
+51
+00:02:36,009 --> 00:02:39,004
+Now, I'll enter the information
+
+52
+00:02:39,004 --> 00:02:42,005
+that I have for this job search, like the job title,
+
+53
+00:02:42,005 --> 00:02:45,009
+the company name, and how to apply.
+
+54
+00:02:45,009 --> 00:02:48,002
+I can come back and fill in the other details
+
+55
+00:02:48,002 --> 00:02:49,005
+when I have them.
+
+56
+00:02:49,005 --> 00:02:52,007
+Now, you have the skills to create custom templates
+
+57
+00:02:52,007 --> 00:02:54,009
+and pages in your own notebooks.
+
+58
+00:02:54,009 --> 00:02:55,008
+Try it out.
+

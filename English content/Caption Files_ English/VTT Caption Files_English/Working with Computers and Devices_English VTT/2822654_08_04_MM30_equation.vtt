@@ -1,0 +1,232 @@
+﻿WEBVTT
+
+00:00:00.005 --> 00:00:01.008
+- [Instructor] One of the advantages of working
+
+00:00:01.008 --> 00:00:03.008
+with spreadsheet programs like Excel
+
+00:00:03.008 --> 00:00:05.002
+is that they can quickly perform
+
+00:00:05.002 --> 00:00:07.003
+both simple and complex calculations
+
+00:00:07.003 --> 00:00:09.006
+once you've set them up to do so.
+
+00:00:09.006 --> 00:00:10.007
+Here I have a basic spreadsheet
+
+00:00:10.007 --> 00:00:12.000
+that I've been working on to figure out
+
+00:00:12.000 --> 00:00:15.004
+which of two jobs will give me the higher annual income.
+
+00:00:15.004 --> 00:00:17.007
+I've entered the data for the hourly wage of both jobs,
+
+00:00:17.007 --> 00:00:20.008
+as well as the number of hours that are available each week.
+
+00:00:20.008 --> 00:00:22.005
+Now I could get out a calculator and figure out
+
+00:00:22.005 --> 00:00:24.009
+what my annual income for both jobs would be,
+
+00:00:24.009 --> 00:00:27.004
+but it's worth entering the proper formulas into Excel,
+
+00:00:27.004 --> 00:00:30.007
+so if the terms of the hourly wage or hours per week change,
+
+00:00:30.007 --> 00:00:34.002
+I just have to plug in the new numbers to update my totals.
+
+00:00:34.002 --> 00:00:37.001
+So to add a formula to a cell, first select the cell.
+
+00:00:37.001 --> 00:00:39.006
+I'll select the annual income cell for job A,
+
+00:00:39.006 --> 00:00:42.002
+and then click the formulas tab.
+
+00:00:42.002 --> 00:00:45.002
+Next, I'm going to click the arrow below the autosome button,
+
+00:00:45.002 --> 00:00:47.004
+which gives me a list of common calculations,
+
+00:00:47.004 --> 00:00:49.003
+but I need a formula other than what's listed here,
+
+00:00:49.003 --> 00:00:52.000
+so I'll choose more functions.
+
+00:00:52.000 --> 00:00:54.001
+That opens up the function window.
+
+00:00:54.001 --> 00:00:55.007
+So to figure out the annual income,
+
+00:00:55.007 --> 00:00:59.004
+I need to multiply my hourly wage by my hours per week,
+
+00:00:59.004 --> 00:01:01.003
+and then multiply that number by the number of weeks
+
+00:01:01.003 --> 00:01:03.000
+I'll be working in a year.
+
+00:01:03.000 --> 00:01:05.005
+Multiplication is a basic math function.
+
+00:01:05.005 --> 00:01:08.003
+So I'll choose the category of math and trig,
+
+00:01:08.003 --> 00:01:10.003
+and then under select the function,
+
+00:01:10.003 --> 00:01:13.009
+I'll find and double click product.
+
+00:01:13.009 --> 00:01:16.000
+Now it's just a matter of building my formula
+
+00:01:16.000 --> 00:01:19.000
+by specifying which cells need to get multiplied together.
+
+00:01:19.000 --> 00:01:20.008
+In this case Excel is actually smart enough
+
+00:01:20.008 --> 00:01:22.004
+to have already guessed that I want to multiply
+
+00:01:22.004 --> 00:01:26.002
+the value in cell B3 by the value in cell B4.
+
+00:01:26.002 --> 00:01:27.003
+Now, if it didn't guess correctly,
+
+00:01:27.003 --> 00:01:28.004
+I would just need to click the cell
+
+00:01:28.004 --> 00:01:30.005
+I want to grab the data from,
+
+00:01:30.005 --> 00:01:31.009
+or I can drag across multiple cells
+
+00:01:31.009 --> 00:01:33.002
+if there are more than one,
+
+00:01:33.002 --> 00:01:34.006
+but in this case it did guess correctly,
+
+00:01:34.006 --> 00:01:37.007
+so I'll drag across B3 and B4 again.
+
+00:01:37.007 --> 00:01:39.004
+All right, so now we need to multiply the product
+
+00:01:39.004 --> 00:01:42.000
+of B3 and B4 by the number of weeks in a year,
+
+00:01:42.000 --> 00:01:44.001
+which is 52.
+
+00:01:44.001 --> 00:01:46.002
+So I add that in number two field.
+
+00:01:46.002 --> 00:01:48.008
+I'll click okay to close out the formula,
+
+00:01:48.008 --> 00:01:50.008
+and just like that the calculation is performed,
+
+00:01:50.008 --> 00:01:53.004
+and I see the annual income for job A.
+
+00:01:53.004 --> 00:01:55.004
+Now a really nice thing about most spreadsheet programs
+
+00:01:55.004 --> 00:01:57.007
+is that if you want to perform the same calculation
+
+00:01:57.007 --> 00:01:59.000
+on another set of numbers,
+
+00:01:59.000 --> 00:02:00.004
+you don't have to build the whole formula
+
+00:02:00.004 --> 00:02:01.007
+from scratch again.
+
+00:02:01.007 --> 00:02:04.006
+I'm just going to select the annual income for job A,
+
+00:02:04.006 --> 00:02:07.008
+and then click copy under the home tab.
+
+00:02:07.008 --> 00:02:09.007
+You can also use Control C.
+
+00:02:09.007 --> 00:02:12.002
+Then I'll select the annual income cell for job B,
+
+00:02:12.002 --> 00:02:14.006
+and click paste.
+
+00:02:14.006 --> 00:02:16.002
+So it's that easy.
+
+00:02:16.002 --> 00:02:17.008
+Notice in the formula builder
+
+00:02:17.008 --> 00:02:20.002
+that Excel was smart enough to swap out B3 and B4
+
+00:02:20.002 --> 00:02:22.007
+for C3 and C4.
+
+00:02:22.007 --> 00:02:24.002
+Now I can plainly see that job B
+
+00:02:24.002 --> 00:02:26.009
+will earn me more money even though it's fewer hours.
+
+00:02:26.009 --> 00:02:28.005
+And if any of this data changes,
+
+00:02:28.005 --> 00:02:32.003
+maybe job B is reduced to 35 hours per week,
+
+00:02:32.003 --> 00:02:33.009
+I can just type that in,
+
+00:02:33.009 --> 00:02:36.000
+and my total is updated instantly.
+
+00:02:36.000 --> 00:02:37.001
+Lastly, I should probably format
+
+00:02:37.001 --> 00:02:39.001
+the annual income cells as currency.
+
+00:02:39.001 --> 00:02:41.003
+So I'll select them.
+
+00:02:41.003 --> 00:02:43.005
+And here in the numbers section of the home tab,
+
+00:02:43.005 --> 00:02:45.003
+I'll set these to currency.
+
+00:02:45.003 --> 00:02:47.000
+So that's the basics of entering data
+
+00:02:47.000 --> 00:02:49.006
+into an Excel worksheet and performing calculations.

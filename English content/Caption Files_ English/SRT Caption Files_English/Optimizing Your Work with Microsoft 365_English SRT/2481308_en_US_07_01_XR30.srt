@@ -1,0 +1,96 @@
+1
+00:00:00,001 --> 00:00:02,004
+- [Instructor] And now we've reached the end of this course,
+
+2
+00:00:02,004 --> 00:00:04,005
+but it's not the end of your journey.
+
+3
+00:00:04,005 --> 00:00:06,008
+There will always be new things to learn
+
+4
+00:00:06,008 --> 00:00:09,006
+and new ways to build efficiency.
+
+5
+00:00:09,006 --> 00:00:11,005
+I want to leave you with some resources
+
+6
+00:00:11,005 --> 00:00:13,005
+that will help you along your way.
+
+7
+00:00:13,005 --> 00:00:15,006
+First, I recommend that you check out
+
+8
+00:00:15,006 --> 00:00:18,009
+the Microsoft Community page and join the conversation.
+
+9
+00:00:18,009 --> 00:00:20,009
+The Microsoft Community is a great place
+
+10
+00:00:20,009 --> 00:00:22,009
+to find quick tips and solutions
+
+11
+00:00:22,009 --> 00:00:25,006
+to typical issues that you encounter.
+
+12
+00:00:25,006 --> 00:00:27,005
+You can ask questions of the support team
+
+13
+00:00:27,005 --> 00:00:30,004
+as well as speak to other users just like you.
+
+14
+00:00:30,004 --> 00:00:34,002
+And lastly, explore the products and make mistakes.
+
+15
+00:00:34,002 --> 00:00:35,008
+It's only through making mistakes
+
+16
+00:00:35,008 --> 00:00:37,006
+that you can learn how to troubleshoot
+
+17
+00:00:37,006 --> 00:00:40,000
+and solve problems on your own.
+
+18
+00:00:40,000 --> 00:00:41,007
+I know that you have the ability and skill
+
+19
+00:00:41,007 --> 00:00:44,006
+to achieve anything you set your mind to.
+
+20
+00:00:44,006 --> 00:00:46,003
+Thanks for watching this course.
+
+21
+00:00:46,003 --> 00:00:47,004
+I wish you the best
+
+22
+00:00:47,004 --> 00:00:51,000
+as you learn new avenues for navigating your own success
+
+23
+00:00:51,000 --> 00:00:54,002
+and building the career that you want and deserve.
+
+24
+00:00:54,002 --> 00:00:56,004
+Good luck in all your future endeavors.
+

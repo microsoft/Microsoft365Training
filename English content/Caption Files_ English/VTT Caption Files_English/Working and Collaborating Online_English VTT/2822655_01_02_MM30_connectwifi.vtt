@@ -1,0 +1,253 @@
+﻿WEBVTT
+
+00:00:00.007 --> 00:00:01.008
+- [Instructor] Wi-Fi networks allow you
+
+00:00:01.008 --> 00:00:05.000
+to get online without the use of a wired ethernet connection
+
+00:00:05.000 --> 00:00:07.002
+in places like your home or office,
+
+00:00:07.002 --> 00:00:11.000
+or in hotels, restaurants, shopping malls, and so on.
+
+00:00:11.000 --> 00:00:13.001
+Let's take a look at how to connect to a Wi-Fi network
+
+00:00:13.001 --> 00:00:15.003
+on a Windows 10 computer.
+
+00:00:15.003 --> 00:00:17.005
+The first step is to check your Wi-Fi status,
+
+00:00:17.005 --> 00:00:19.000
+which you can see in the right hand side
+
+00:00:19.000 --> 00:00:21.005
+of the task bar at the bottom of your screen.
+
+00:00:21.005 --> 00:00:23.005
+Notice this icon that looks like a globe,
+
+00:00:23.005 --> 00:00:26.004
+which you can think of as representing the worldwide web.
+
+00:00:26.004 --> 00:00:28.006
+If I roll my mouse over that icon,
+
+00:00:28.006 --> 00:00:30.000
+I can see a message telling me
+
+00:00:30.000 --> 00:00:32.001
+I'm not currently connected to a network
+
+00:00:32.001 --> 00:00:34.006
+and it says no connections are available.
+
+00:00:34.006 --> 00:00:36.007
+Now I know for a fact that there are Wi-Fi networks
+
+00:00:36.007 --> 00:00:37.008
+where I am right now.
+
+00:00:37.008 --> 00:00:39.005
+So this probably means that the Wi-Fi
+
+00:00:39.005 --> 00:00:41.003
+on my computer is turned off.
+
+00:00:41.003 --> 00:00:43.002
+So I need to turn it back on.
+
+00:00:43.002 --> 00:00:45.006
+I can do that simply by clicking this icon.
+
+00:00:45.006 --> 00:00:47.007
+Here I'll click Wi-Fi.
+
+00:00:47.007 --> 00:00:49.006
+I've re-enabled Wi-Fi on my computer
+
+00:00:49.006 --> 00:00:52.001
+and now I see a list of nearby Wi-Fi networks along
+
+00:00:52.001 --> 00:00:54.001
+with their signal strength.
+
+00:00:54.001 --> 00:00:56.002
+The more bars you see in the icon next to the network,
+
+00:00:56.002 --> 00:00:57.009
+the stronger the connection.
+
+00:00:57.009 --> 00:00:59.006
+Generally, the stronger the connection,
+
+00:00:59.006 --> 00:01:01.000
+the faster and more consistent
+
+00:01:01.000 --> 00:01:03.000
+the Wi-Fi performance will be.
+
+00:01:03.000 --> 00:01:03.008
+So you can see,
+
+00:01:03.008 --> 00:01:05.008
+I only have a couple bars down on this network here,
+
+00:01:05.008 --> 00:01:06.009
+a few more here.
+
+00:01:06.009 --> 00:01:07.009
+But here at the top,
+
+00:01:07.009 --> 00:01:10.005
+we see full strength Wi-Fi signals.
+
+00:01:10.005 --> 00:01:11.003
+In most cases,
+
+00:01:11.003 --> 00:01:12.005
+you'll want to connect to a network
+
+00:01:12.005 --> 00:01:13.009
+whose name you recognize.
+
+00:01:13.009 --> 00:01:16.000
+This might be your home or office network
+
+00:01:16.000 --> 00:01:18.007
+or a network in the coffee shop you're sitting in.
+
+00:01:18.007 --> 00:01:20.006
+You'll also usually see the word secured
+
+00:01:20.006 --> 00:01:22.001
+under the Wi-Fi network name,
+
+00:01:22.001 --> 00:01:24.009
+indicating that the network is password protected.
+
+00:01:24.009 --> 00:01:27.002
+You can connect to networks that are labeled open,
+
+00:01:27.002 --> 00:01:29.004
+but they'll often be set up with other security measures
+
+00:01:29.004 --> 00:01:31.003
+that require you to validate your identity
+
+00:01:31.003 --> 00:01:34.000
+before allowing you to fully connect.
+
+00:01:34.000 --> 00:01:34.009
+As a rule of thumb,
+
+00:01:34.009 --> 00:01:36.006
+you shouldn't connect to unknown networks
+
+00:01:36.006 --> 00:01:37.008
+as a matter of etiquette,
+
+00:01:37.008 --> 00:01:40.004
+but also for security reasons.
+
+00:01:40.004 --> 00:01:41.002
+In this case,
+
+00:01:41.002 --> 00:01:42.009
+I do know that this one in particular is a trusted network,
+
+00:01:42.009 --> 00:01:45.000
+so I'll select it.
+
+00:01:45.000 --> 00:01:46.005
+If I want to automatically connect
+
+00:01:46.005 --> 00:01:47.004
+to this network in the future,
+
+00:01:47.004 --> 00:01:49.007
+I'll make sure connect automatically is checked.
+
+00:01:49.007 --> 00:01:51.008
+And then I'll click connect.
+
+00:01:51.008 --> 00:01:53.006
+I'm prompted to enter the password.
+
+00:01:53.006 --> 00:01:55.001
+If you're connecting to your own network,
+
+00:01:55.001 --> 00:01:56.007
+you should know the password.
+
+00:01:56.007 --> 00:01:58.002
+If you're connecting to a Wi-Fi network
+
+00:01:58.002 --> 00:01:59.005
+at a business or a shop,
+
+00:01:59.005 --> 00:02:01.006
+you may have to ask for the password.
+
+00:02:01.006 --> 00:02:02.004
+For security,
+
+00:02:02.004 --> 00:02:04.003
+the password is displayed as dots.
+
+00:02:04.003 --> 00:02:05.001
+But if you want,
+
+00:02:05.001 --> 00:02:06.004
+you can check that you're typing it correctly
+
+00:02:06.004 --> 00:02:09.004
+by clicking and holding on this eye icon.
+
+00:02:09.004 --> 00:02:10.005
+When you release that button,
+
+00:02:10.005 --> 00:02:12.003
+it'll go back to being dots.
+
+00:02:12.003 --> 00:02:14.007
+Once you enter the password, click next.
+
+00:02:14.007 --> 00:02:16.003
+Depending on how your computer is configured,
+
+00:02:16.003 --> 00:02:19.000
+you may see this message asking if you want your computer
+
+00:02:19.000 --> 00:02:21.005
+to be seen by other computers on the network.
+
+00:02:21.005 --> 00:02:23.007
+If you're connecting to your home or office network,
+
+00:02:23.007 --> 00:02:24.008
+click yes.
+
+00:02:24.008 --> 00:02:26.001
+Being able to see other computers
+
+00:02:26.001 --> 00:02:27.002
+on your network makes it easy
+
+00:02:27.002 --> 00:02:29.007
+to transfer files between them.
+
+00:02:29.007 --> 00:02:31.001
+Now I see the message that I'm connected
+
+00:02:31.001 --> 00:02:32.004
+to my Wi-Fi network.
+
+00:02:32.004 --> 00:02:34.000
+So I can open up my internet browser
+
+00:02:34.000 --> 00:02:36.000
+and start visiting websites.

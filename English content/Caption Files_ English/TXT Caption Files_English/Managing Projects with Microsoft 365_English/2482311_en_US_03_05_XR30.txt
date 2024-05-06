@@ -1,0 +1,60 @@
+ - [Instructor] Big projects are achievable  
+ when you've broken them down into smaller tasks  
+ and have added dependencies  
+ to see what needs to be done first.  
+ In this lesson, I'll use an example client wedding project  
+ to show how to add subtasks and dependencies  
+ in Microsoft Project  
+ so that you can stay on top of all the details.  
+ I'll start from office.com.  
+ Select the app launcher in the top left corner  
+ and open Project.  
+ Note that using Project for the web  
+ requires an active subscription to Microsoft Project.  
+ I'll open the Client wedding project.  
+ I'm in grid view by default.  
+ From here, I can start to break down some of these tasks  
+ into smaller subtasks.  
+ For example, I have Identify a caterer as a task,  
+ but I know there are subtasks associated with this item.  
+ I will add the subtasks.  
+ First, I'll add Determine allergies as a task  
+ by selecting Add new task at the bottom.  
+ Place your cursor to the left  
+ of the newly created task number.  
+ Then drag the task below the Identify a caterer task.  
+ Now to make Determine allergies a subtask,  
+ I'll select More options and choose Make subtask.  
+ I'll add one more subtask  
+ and drag it below Determine allergies.  
+ I'll assign these tasks to Lynne.  
+ Select the Assigned to column for Determine allergies  
+ and enter Lynne.  
+ And in the Duration column, enter 5 days.  
+ Repeat these steps for Finalize budget,  
+ but instead enter 2 days.  
+ Notice that the Identify a caterer task Duration  
+ is now automatically set to 5 days,  
+ since the larger Duration of the two subtasks is 5 days.  
+ These tasks are dependent on each other,  
+ meaning that one of the tasks needs to be completed  
+ before the next task can be started.  
+ In this case, Determining allergies must happen  
+ before the budget can be finalized.  
+ To create dependencies, I'll select Open details  
+ on the Finalize budget subtask.  
+ In the Depends on section, select Add dependency,  
+ then choose Determine allergies.  
+ Close the task panel by selecting the X in the top right.  
+ Notice that the Duration for Identify a caterer  
+ changed to 7 days, since Finalize budget can't start  
+ until the Determine allergies task is complete.  
+ You now have two more tools to manage your projects.  
+ Use subtasks when you need to break down larger work items  
+ into smaller tasks,  
+ and dependencies to identify when tasks can't start  
+ before another is completed.  
+ Try out subtasks and dependencies  
+ to help you organize your next project.  
+ 
+

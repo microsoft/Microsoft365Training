@@ -1,0 +1,208 @@
+1
+00:00:00,006 --> 00:00:01,007
+- [Instructor] Microsoft Word's ability
+
+2
+00:00:01,007 --> 00:00:04,004
+to track changes allows you to freely make edits
+
+3
+00:00:04,004 --> 00:00:07,000
+to a document and your collaborators will be able to see
+
+4
+00:00:07,000 --> 00:00:09,000
+exactly what changes you made.
+
+5
+00:00:09,000 --> 00:00:10,009
+Start by going to the Review tab
+
+6
+00:00:10,009 --> 00:00:13,002
+and here click Track Changes.
+
+7
+00:00:13,002 --> 00:00:15,004
+With that enabled, Word will track any changes
+
+8
+00:00:15,004 --> 00:00:17,009
+you or anyone else makes to the document.
+
+9
+00:00:17,009 --> 00:00:20,005
+So for example, I might highlight some text here
+
+10
+00:00:20,005 --> 00:00:23,000
+and make that bold.
+
+11
+00:00:23,000 --> 00:00:25,001
+I see a misspelling down here, which I'll fix,
+
+12
+00:00:25,001 --> 00:00:27,004
+changing that A to an O.
+
+13
+00:00:27,004 --> 00:00:30,008
+And maybe down here I will create a new paragraph.
+
+14
+00:00:30,008 --> 00:00:32,001
+To review changes made to the document,
+
+15
+00:00:32,001 --> 00:00:34,005
+you can come back to the Review tab
+
+16
+00:00:34,005 --> 00:00:35,006
+and notice here we have this menu
+
+17
+00:00:35,006 --> 00:00:38,000
+that's currently set to Simple Markup.
+
+18
+00:00:38,000 --> 00:00:39,007
+We have several options here.
+
+19
+00:00:39,007 --> 00:00:41,003
+The Simple Markup option indicates
+
+20
+00:00:41,003 --> 00:00:44,000
+where changes have been made with a red line in the margin.
+
+21
+00:00:44,000 --> 00:00:46,001
+So you might've noticed that as I made my changes,
+
+22
+00:00:46,001 --> 00:00:48,009
+these red lines appeared.
+
+23
+00:00:48,009 --> 00:00:52,006
+All Markup shows the edits with a blue highlight,
+
+24
+00:00:52,006 --> 00:00:55,003
+and you can actually see the changes here in the document.
+
+25
+00:00:55,003 --> 00:00:56,006
+Now, in this first case at the top,
+
+26
+00:00:56,006 --> 00:00:58,000
+you can see that the change
+
+27
+00:00:58,000 --> 00:01:01,001
+is that the font was changed to bold.
+
+28
+00:01:01,001 --> 00:01:03,001
+Down here you can see that the A was deleted
+
+29
+00:01:03,001 --> 00:01:05,005
+and the O was typed in its place.
+
+30
+00:01:05,005 --> 00:01:06,007
+And here we can see another line
+
+31
+00:01:06,007 --> 00:01:09,000
+indicating a paragraph break.
+
+32
+00:01:09,000 --> 00:01:11,000
+There's also the option here of No Markup,
+
+33
+00:01:11,000 --> 00:01:12,005
+which hides all the markups
+
+34
+00:01:12,005 --> 00:01:13,009
+and shows you what the changes will look like
+
+35
+00:01:13,009 --> 00:01:15,009
+in the document.
+
+36
+00:01:15,009 --> 00:01:19,000
+And Original shows the document in its original form
+
+37
+00:01:19,000 --> 00:01:20,002
+without the changes,
+
+38
+00:01:20,002 --> 00:01:22,000
+which can be useful for comparing the original
+
+39
+00:01:22,000 --> 00:01:23,006
+with the edited version.
+
+40
+00:01:23,006 --> 00:01:24,009
+Additionally, when you're viewing an option
+
+41
+00:01:24,009 --> 00:01:27,001
+that displays the markups,
+
+42
+00:01:27,001 --> 00:01:29,000
+you can use the Show Markup menu here
+
+43
+00:01:29,000 --> 00:01:32,000
+to specify which types of revisions you want to see.
+
+44
+00:01:32,000 --> 00:01:32,008
+So for example,
+
+45
+00:01:32,008 --> 00:01:34,007
+if you only wanted to see formatting changes,
+
+46
+00:01:34,007 --> 00:01:37,005
+you could uncheck everything but that option.
+
+47
+00:01:37,005 --> 00:01:39,003
+And now you can see, I'm only seeing the change here,
+
+48
+00:01:39,003 --> 00:01:41,003
+where I changed this text to bold,
+
+49
+00:01:41,003 --> 00:01:42,006
+but if I want to see the other changes
+
+50
+00:01:42,006 --> 00:01:44,008
+I can add Insert and Deletions back,
+
+51
+00:01:44,008 --> 00:01:47,005
+and if I have comments, I can see those as well.
+
+52
+00:01:47,005 --> 00:01:50,002
+So, that's how to track changes to documents in Word.
+

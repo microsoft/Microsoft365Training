@@ -1,0 +1,368 @@
+1
+00:00:00,000 --> 00:00:01,001
+- [Instructor] There's lots of factors
+
+2
+00:00:01,001 --> 00:00:04,001
+to consider when hosting a large meeting.
+
+3
+00:00:04,001 --> 00:00:05,007
+How many people will attend,
+
+4
+00:00:05,007 --> 00:00:08,004
+what tools guests need to have access to.
+
+5
+00:00:08,004 --> 00:00:11,001
+How will the presenters deliver the information?
+
+6
+00:00:11,001 --> 00:00:14,003
+Teams makes facilitating large meetings easy.
+
+7
+00:00:14,003 --> 00:00:15,005
+In this lesson,
+
+8
+00:00:15,005 --> 00:00:18,009
+I'll show you how to set settings for your large meetings.
+
+9
+00:00:18,009 --> 00:00:21,004
+I'll start in Teams on the desktop.
+
+10
+00:00:21,004 --> 00:00:23,009
+Please note that certain organizer features
+
+11
+00:00:23,009 --> 00:00:27,005
+are only available in the desktop version.
+
+12
+00:00:27,005 --> 00:00:29,001
+As the meeting organizer,
+
+13
+00:00:29,001 --> 00:00:31,000
+it's important to check your meeting options
+
+14
+00:00:31,000 --> 00:00:33,000
+before your meeting starts.
+
+15
+00:00:33,000 --> 00:00:35,001
+First, go to your Teams calendar
+
+16
+00:00:35,001 --> 00:00:36,006
+and select the upcoming meeting
+
+17
+00:00:36,006 --> 00:00:42,006
+that you're the organizer for.
+
+18
+00:00:42,006 --> 00:00:49,004
+Next to the time zone dropdown menu, select Meeting Options.
+
+19
+00:00:49,004 --> 00:00:54,008
+Here, you can set lobby, present, mike,
+
+20
+00:00:54,008 --> 00:00:58,003
+camera, chat, and reaction settings.
+
+21
+00:00:58,003 --> 00:01:01,003
+First, you'll want to set your lobby settings by navigating
+
+22
+00:01:01,003 --> 00:01:04,000
+to who can bypass the lobby.
+
+23
+00:01:04,000 --> 00:01:06,007
+The lobby is a waiting area for meeting attendees
+
+24
+00:01:06,007 --> 00:01:08,007
+before a meeting starts.
+
+25
+00:01:08,007 --> 00:01:10,000
+In the dropdown menu,
+
+26
+00:01:10,000 --> 00:01:12,008
+you can select who will wait in the lobby
+
+27
+00:01:12,008 --> 00:01:16,004
+or allow meeting attendees to bypass the lobby.
+
+28
+00:01:16,004 --> 00:01:21,005
+I'm going to select people in my organization and guests.
+
+29
+00:01:21,005 --> 00:01:25,000
+Next, you'll want to identify who can present
+
+30
+00:01:25,000 --> 00:01:26,004
+in the meeting.
+
+31
+00:01:26,004 --> 00:01:28,003
+On the right, you can select presenters
+
+32
+00:01:28,003 --> 00:01:31,000
+by selecting who can present
+
+33
+00:01:31,000 --> 00:01:33,006
+and select from everyone,
+
+34
+00:01:33,006 --> 00:01:36,001
+people in my organization and guests,
+
+35
+00:01:36,001 --> 00:01:39,000
+specific people, or only me.
+
+36
+00:01:39,000 --> 00:01:42,004
+I'm going to select Everyone.
+
+37
+00:01:42,004 --> 00:01:43,008
+When you select the attendees
+
+38
+00:01:43,008 --> 00:01:45,009
+who will be presenting at the meeting,
+
+39
+00:01:45,009 --> 00:01:49,004
+keep in mind that presenters can promote other attendees
+
+40
+00:01:49,004 --> 00:01:52,001
+to the presenter role during the meeting.
+
+41
+00:01:52,001 --> 00:01:54,007
+Now, not every a attend needs to interact
+
+42
+00:01:54,007 --> 00:01:56,009
+and speak in large meetings.
+
+43
+00:01:56,009 --> 00:01:59,007
+In those situations, you can disallow mikes
+
+44
+00:01:59,007 --> 00:02:02,000
+for the large group.
+
+45
+00:02:02,000 --> 00:02:03,004
+In the meeting options,
+
+46
+00:02:03,004 --> 00:02:09,006
+switch the Allow Mike For Attendees toggle to No.
+
+47
+00:02:09,006 --> 00:02:12,007
+If someone needs to interact during the meeting,
+
+48
+00:02:12,007 --> 00:02:14,009
+you can change their role later.
+
+49
+00:02:14,009 --> 00:02:16,002
+In a large meeting,
+
+50
+00:02:16,002 --> 00:02:19,007
+not every a attend needs to have their camera on either.
+
+51
+00:02:19,007 --> 00:02:21,000
+In the meeting options,
+
+52
+00:02:21,000 --> 00:02:26,007
+switch the Allow Camera For Attendees toggle to No.
+
+53
+00:02:26,007 --> 00:02:29,002
+At appropriate times during the meeting,
+
+54
+00:02:29,002 --> 00:02:31,007
+video can be permitted for an individual attendee
+
+55
+00:02:31,007 --> 00:02:33,003
+or all attendees.
+
+56
+00:02:33,003 --> 00:02:35,002
+When you're done making changes
+
+57
+00:02:35,002 --> 00:02:36,009
+to all of these meeting settings,
+
+58
+00:02:36,009 --> 00:02:44,000
+select Save and close the window.
+
+59
+00:02:44,000 --> 00:02:46,001
+Now I want to show you how to change settings
+
+60
+00:02:46,001 --> 00:02:48,000
+during the meeting.
+
+61
+00:02:48,000 --> 00:02:56,006
+To start, I'll join the meeting.
+
+62
+00:02:56,006 --> 00:02:58,004
+If you've started a meeting
+
+63
+00:02:58,004 --> 00:03:00,005
+and you're waiting for attendees to arrive,
+
+64
+00:03:00,005 --> 00:03:06,005
+you can select Show Participants indicated by a people icon,
+
+65
+00:03:06,005 --> 00:03:15,000
+select their name and select Request To Join.
+
+66
+00:03:15,000 --> 00:03:16,008
+They'll receive a notification similar
+
+67
+00:03:16,008 --> 00:03:20,005
+to a regular Teams call asking them to join the meeting.
+
+68
+00:03:20,005 --> 00:03:22,006
+You can also enter a person's name
+
+69
+00:03:22,006 --> 00:03:25,003
+or phone number in the search box to add someone
+
+70
+00:03:25,003 --> 00:03:28,008
+to the meeting who was not previously invited.
+
+71
+00:03:28,008 --> 00:03:30,003
+Once the meeting has started,
+
+72
+00:03:30,003 --> 00:03:32,009
+you can choose up to seven people's video feeds
+
+73
+00:03:32,009 --> 00:03:35,002
+to spotlight for everyone else.
+
+74
+00:03:35,002 --> 00:03:36,006
+Spotlighting a video
+
+75
+00:03:36,006 --> 00:03:39,009
+is like pinning it for everyone in the meeting.
+
+76
+00:03:39,009 --> 00:03:42,003
+You can spotlight a video by identifying
+
+77
+00:03:42,003 --> 00:03:43,005
+the person in the list
+
+78
+00:03:43,005 --> 00:03:46,001
+whose video you want to highlight,
+
+79
+00:03:46,001 --> 00:03:49,002
+right-click on their name,
+
+80
+00:03:49,002 --> 00:03:55,003
+and select Spotlight For Everyone.
+
+81
+00:03:55,003 --> 00:03:57,002
+When you're ready to end the spotlight,
+
+82
+00:03:57,002 --> 00:04:05,000
+right click again, and choose Stop Spotlighting.
+
+83
+00:04:05,000 --> 00:04:11,005
+To spotlight your own video, right click on your name
+
+84
+00:04:11,005 --> 00:04:16,004
+and select Spotlight For Everyone.
+
+85
+00:04:16,004 --> 00:04:20,007
+Because after all, you too are a star.
+
+86
+00:04:20,007 --> 00:04:22,002
+Preparing for a large meeting
+
+87
+00:04:22,002 --> 00:04:24,007
+by setting your meeting settings ahead of time
+
+88
+00:04:24,007 --> 00:04:27,001
+will ensure that you have all the functionality needed
+
+89
+00:04:27,001 --> 00:04:28,008
+to have an efficient meeting
+
+90
+00:04:28,008 --> 00:04:30,009
+and that you can make adjustments easily
+
+91
+00:04:30,009 --> 00:04:32,009
+once the meeting has started.
+
+92
+00:04:32,009 --> 00:04:35,007
+Try adjusting your settings before and during a meeting.
+

@@ -1,0 +1,271 @@
+﻿WEBVTT
+
+00:00:00.002 --> 00:00:01.006
+- [Instructor] Creating custom forms
+
+00:00:01.006 --> 00:00:04.007
+like surveys and quizzes is an efficient and organized way
+
+00:00:04.007 --> 00:00:07.008
+to get the information you need from internal team members
+
+00:00:07.008 --> 00:00:09.007
+and external collaborators.
+
+00:00:09.007 --> 00:00:11.004
+In this lesson, I'll show you
+
+00:00:11.004 --> 00:00:13.009
+how to collect information from your audience
+
+00:00:13.009 --> 00:00:17.007
+by building a Microsoft Form using different question types.
+
+00:00:17.007 --> 00:00:20.006
+In this example, I'm going to create a contact form
+
+00:00:20.006 --> 00:00:22.006
+to drive new clients and vendors
+
+00:00:22.006 --> 00:00:24.005
+to a wedding planning company.
+
+00:00:24.005 --> 00:00:26.008
+In the top left corner of office.com,
+
+00:00:26.008 --> 00:00:31.004
+I'll select the app launcher and open forms.
+
+00:00:31.004 --> 00:00:34.002
+I'll select new form.
+
+00:00:34.002 --> 00:00:37.001
+I'll start by adding a name and description.
+
+00:00:37.001 --> 00:00:38.008
+I'll set the form title to
+
+00:00:38.008 --> 00:00:42.002
+Wedding Planning Consulting Interest.
+
+00:00:42.002 --> 00:00:44.001
+I want my client to feel welcome,
+
+00:00:44.001 --> 00:00:46.002
+so I'll write a friendly description.
+
+00:00:46.002 --> 00:00:49.004
+Thank you for your interest in Wedding Planning Consulting.
+
+00:00:49.004 --> 00:00:51.000
+Please fill out the contact form
+
+00:00:51.000 --> 00:00:55.002
+so we can make your wedding a memorable day.
+
+00:00:55.002 --> 00:00:57.001
+It's important to preview your form
+
+00:00:57.001 --> 00:01:00.005
+to make sure it appears as intended.
+
+00:01:00.005 --> 00:01:02.004
+The preview button on the top right
+
+00:01:02.004 --> 00:01:05.000
+allows me to see what the form looks like.
+
+00:01:05.000 --> 00:01:07.009
+Here you'll see that the form title and description
+
+00:01:07.009 --> 00:01:09.004
+match what I typed in.
+
+00:01:09.004 --> 00:01:10.008
+Below the description,
+
+00:01:10.008 --> 00:01:13.005
+you'll notice this disclosure statement.
+
+00:01:13.005 --> 00:01:14.006
+Hi, Demo.
+
+00:01:14.006 --> 00:01:16.001
+When you submit this form,
+
+00:01:16.001 --> 00:01:19.004
+the owner will see your name and email address.
+
+00:01:19.004 --> 00:01:23.001
+By default, a form is created to collect information
+
+00:01:23.001 --> 00:01:25.001
+from people in your organization.
+
+00:01:25.001 --> 00:01:26.005
+To change the setting,
+
+00:01:26.005 --> 00:01:30.000
+select the back button in the top left corner of the page
+
+00:01:30.000 --> 00:01:32.004
+to go back to the form design window.
+
+00:01:32.004 --> 00:01:35.003
+Select more form settings in the upper right corner
+
+00:01:35.003 --> 00:01:37.008
+and select settings.
+
+00:01:37.008 --> 00:01:40.005
+I'll switch who can fill out this form
+
+00:01:40.005 --> 00:01:45.003
+to anyone can respond so that clients can access the form.
+
+00:01:45.003 --> 00:01:49.000
+Now I'll go back to preview and the message is removed.
+
+00:01:49.000 --> 00:01:50.006
+Now that the form looks good,
+
+00:01:50.006 --> 00:01:54.005
+I'll select back to continue creating my contact form.
+
+00:01:54.005 --> 00:01:57.008
+Next, I'm going to add questions to the contact form
+
+00:01:57.008 --> 00:01:59.005
+that will capture relevant information
+
+00:01:59.005 --> 00:02:00.009
+about the future client
+
+00:02:00.009 --> 00:02:03.008
+and the type of services they may be looking for.
+
+00:02:03.008 --> 00:02:05.001
+A good place to start
+
+00:02:05.001 --> 00:02:07.006
+is to ask for their contact information.
+
+00:02:07.006 --> 00:02:11.005
+To add a new question, I'll select add new.
+
+00:02:11.005 --> 00:02:15.001
+Here, I'm presented with four different question types.
+
+00:02:15.001 --> 00:02:19.003
+Choice, text, rating, and date.
+
+00:02:19.003 --> 00:02:22.000
+Choice is answering a multiple choice question.
+
+00:02:22.000 --> 00:02:24.004
+Text is a fill in the blank question.
+
+00:02:24.004 --> 00:02:26.009
+Rating is giving an opinion on a scale.
+
+00:02:26.009 --> 00:02:30.000
+And date is when you specify a date from a calendar.
+
+00:02:30.000 --> 00:02:31.005
+For contact information,
+
+00:02:31.005 --> 00:02:34.002
+I'm going to create three text questions.
+
+00:02:34.002 --> 00:02:37.005
+I'll select text and enter email address.
+
+00:02:37.005 --> 00:02:50.008
+I'll do this again for first name and last name.
+
+00:02:50.008 --> 00:02:53.002
+The next piece of information that would be helpful
+
+00:02:53.002 --> 00:02:55.004
+is when the clients want to get married.
+
+00:02:55.004 --> 00:02:56.009
+This type of data can be captured
+
+00:02:56.009 --> 00:02:58.009
+with the choice question type.
+
+00:02:58.009 --> 00:03:03.009
+I'll select add new, choice, and enter the text
+
+00:03:03.009 --> 00:03:07.003
+when do you plan to get married?
+
+00:03:07.003 --> 00:03:11.001
+In the options field, I'll enter these options.
+
+00:03:11.001 --> 00:03:14.007
+Less than six months, six to 12 months,
+
+00:03:14.007 --> 00:03:20.003
+more than one year, and I don't know.
+
+00:03:20.003 --> 00:03:22.007
+As a wedding planner, I would also like to know
+
+00:03:22.007 --> 00:03:26.002
+if the clients have already picked a wedding date.
+
+00:03:26.002 --> 00:03:30.000
+You can have them enter it using the date question type.
+
+00:03:30.000 --> 00:03:34.006
+I'll select add new, date, and enter
+
+00:03:34.006 --> 00:03:37.004
+if you've already picked a date, enter it here
+
+00:03:37.004 --> 00:03:39.003
+as the question.
+
+00:03:39.003 --> 00:03:42.007
+And lastly, let's find out how comfortable the clients are
+
+00:03:42.007 --> 00:03:45.000
+at planning things on a scale.
+
+00:03:45.000 --> 00:03:48.009
+So, I'll select add new, rating, with the text
+
+00:03:48.009 --> 00:03:51.005
+how comfortable are you planning events?
+
+00:03:51.005 --> 00:03:54.009
+Five being the most comfortable.
+
+00:03:54.009 --> 00:03:59.005
+I will then select the symbol dropdown and choose number.
+
+00:03:59.005 --> 00:04:03.000
+In a matter of minutes, my interest form is taking shape.
+
+00:04:03.000 --> 00:04:04.006
+Microsoft Forms gives you the power
+
+00:04:04.006 --> 00:04:06.003
+to intentionally gather information
+
+00:04:06.003 --> 00:04:09.000
+from clients and coworkers alike.
+
+00:04:09.000 --> 00:04:11.001
+Take some time and explore the other options
+
+00:04:11.001 --> 00:04:14.002
+in the input fields and consider how you can use them
+
+00:04:14.002 --> 00:04:15.008
+to get the details you need.
+
+00:04:15.008 --> 00:04:16.007
+You've got this!

@@ -1,0 +1,74 @@
+ - With the way a lot of work gets done today,  
+ it's important to know how to collaborate with others  
+ using digital tools online.  
+ With Microsoft Word, you can share your document with others  
+ so they can view, comment on,  
+ or coauthor the contents with you.  
+ This allows everyone to work on the same document  
+ instead of multiple copies of the document,  
+ so you never have to worry about changes or edits  
+ appearing in some copies, but not in others.  
+ When you share a Word document for collaboration,  
+ everyone can work on and see changes at the same time.  
+ To share a document, open it in Word,  
+ and then click the Share button.  
+ From here, you'll save it to your OneDrive account.  
+ This places the document in the cloud  
+ so it can be easily accessed  
+ by everyone who needs to work on it.  
+ Next you'll determine the permissions for the file.  
+ Notice, by default it says  
+ anyone with the link can edit this file.  
+ If you need to share a document with people,  
+ but you only want them to be able to read it,  
+ you can click here and uncheck Allow Editing.  
+ Additionally, you can set an expiration date  
+ so the document won't be able to be accessed  
+ after the specified date,  
+ and you can also password protect the document  
+ so only people you share the password with  
+ will be able to open the document.  
+ I'm going to click Cancel for now,  
+ because I do want to allow editing,  
+ and I don't need to set an expiration date or password.  
+ Next you'll enter the email addresses  
+ of the people you want to share the document with.  
+ I'm going to share this with my colleague, Jade.  
+ Her name and email appears here, so I'll select it.  
+ And you can share it with as many people as you like.  
+ And you can add a message to explain  
+ why you're sharing the document.  
+ Then click Send.  
+ Microsoft will send an email  
+ that includes a link to the document to your recipients.  
+ Let's see what this looks like  
+ I'm actually logged into Jade's email here,  
+ and here's the email from Microsoft,  
+ and here she can click Open  
+ to open the document in Word Online.  
+ To edit the document, she clicks Edit Document,  
+ and she'll have the choice  
+ of editing it here in Word Online,  
+ or she can use the desktop version of Word  
+ if it's installed on her computer.  
+ Let's choose to edit it in Word Online.  
+ The great thing about collaborating this way  
+ is that everyone can see the changes  
+ everyone else is making in real time.  
+ So if Jade adds some text to this document,  
+ and I switch back to my copy of the document  
+ here in Word on my computer, I can see that change.  
+ And I can see exactly where Jade is working on the document,  
+ which is indicated by this colored cursor here.  
+ If I roll my mouse over it, I can see her name.  
+ This is especially useful if there are  
+ multiple people working on the same document.  
+ You can see where everybody is working  
+ in that particular document at once.  
+ Also, everyone's changes are automatically saved,  
+ so everyone else is always working on  
+ the most up-to-date version of the document.  
+ And that's how to share  
+ and collaborate on a document in Word.  
+ 
+

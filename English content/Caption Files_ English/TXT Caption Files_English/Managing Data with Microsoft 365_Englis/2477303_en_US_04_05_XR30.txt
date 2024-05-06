@@ -1,0 +1,96 @@
+ - [Instructor] Adding visuals to your reports  
+ will make your presentations  
+ more engaging and more memorable.  
+ In this lesson, I'll walk you through a few ways  
+ that Power BI lets you build reports.  
+ In this example,  
+ I'll build multiple charts using sample data  
+ of a company sales for 2021.  
+ You can install Power BI on your PC  
+ by going to the Microsoft store and searching for Power BI.  
+ I have already imported the data  
+ from sales order and customer files,  
+ which you can find in the exercise files.  
+ On the visualization panel,  
+ there are several options to make a chart.  
+ I want to build one showing how many items  
+ were sold each month.  
+ I'm going select the stacked column chart  
+ because it will let me place time on the bottom axis  
+ and count the orders on the vertical axis.  
+ A blank visual is added to my workspace,  
+ I'll select order date from the sales order  
+ header table in the field's list.  
+ Order date gets added in the axis box and visualizations.  
+ Power BI determined that the field was a date  
+ and produces a date hierarchy  
+ of year, quarter, month, and day.  
+ I'll select the X next to year  
+ and quarter to remove them from my visualization  
+ since I only need month and day.  
+ Next, drag order quantity  
+ from sales order details into values.  
+ The data values showed on the chart  
+ will be the sum of items sold that month.  
+ The visual is populated, but very small.  
+ I'll select the bottom right corner  
+ of the visual and drag it to fill the screen.  
+ Now I can see that the most items were sold in February.  
+ I might prefer to see this with the date  
+ on the vertical axis, so I can select stacked bar chart.  
+ The last change I want to make to this chart is  
+ to give it an easily understood name,  
+ right now it's order quantity by month.  
+ In the visualizations panel I'll select format,  
+ expand title and change the title text to be monthly orders.  
+ These visualizations will help you  
+ to analyze the data at a glance.  
+ Now that I've built my first Power BI visualization,  
+ I want to create one more before finishing this report.  
+ I'll shrink the monthly orders visual,  
+ giving me room to work.  
+ Next, let's create a donut chart to gain insight  
+ into the companies that purchase the most.  
+ The donut chart format will quickly show me  
+ the top purchasers.  
+ In the home ribbon, select new visual.  
+ In the visualization pane, I'll select donut chart.  
+ First, I'll pull in the total sales using line total,  
+ select the check box next to line total  
+ in sales order details.  
+ Looking at this, we see that the line total is being shown  
+ as a decimal number instead of a monetary sum.  
+ I'll select line total, and we'll change the formatting  
+ of this by selecting display the values in this column  
+ as currency, we see that the total  
+ for this chart is now $708,000 of sales.  
+ Now, select the checkbox for company name  
+ in the customer table and the donut chart  
+ will populate with the customer names by total sales.  
+ Move and resize the two visuals  
+ so they show up well on the page.  
+ Finally, since this report will be for our California  
+ sales team, I'm going to apply a filter to the page.  
+ Expand the filters panel and drag state province  
+ from customer into the filters on this page box.  
+ This will allow me to apply a filter  
+ of customer state equals California  
+ to all my visuals on the page.  
+ I'll select California and see the visuals change,  
+ February continues to be the month  
+ when most items are ordered by California customers.  
+ Eastside Department Store is the biggest purchaser  
+ in California.  
+ I now have a report ready to share  
+ with our California team.  
+ Bar charts and donut charts are just the beginning  
+ of what you can accomplish with this software.  
+ Power BI has many more options  
+ to help you present your data.  
+ Figure out what data points you can visually represent  
+ to help your team grow and collaborate.  
+ By finding opportunities to make visualizations,  
+ you can clearly communicate your impact  
+ and effectiveness to your team, clients, and stakeholders.  
+ 
+

@@ -1,0 +1,360 @@
+1
+00:00:00,000 --> 00:00:02,006
+- [Educator] Referring to specific resources in a document
+
+2
+00:00:02,006 --> 00:00:04,003
+can take up a lot of space.
+
+3
+00:00:04,003 --> 00:00:07,005
+With footnotes, you can keep your references organized
+
+4
+00:00:07,005 --> 00:00:09,004
+and easy to read.
+
+5
+00:00:09,004 --> 00:00:10,006
+In this lesson,
+
+6
+00:00:10,006 --> 00:00:13,002
+I'm going to show you how to reference your content in Word
+
+7
+00:00:13,002 --> 00:00:16,004
+with footnotes and adding a table of contents.
+
+8
+00:00:16,004 --> 00:00:19,000
+Footnotes are used to explain, comment on,
+
+9
+00:00:19,000 --> 00:00:22,005
+or provide references to something in a document.
+
+10
+00:00:22,005 --> 00:00:25,005
+A table of contents helps you to locate specific information
+
+11
+00:00:25,005 --> 00:00:27,005
+in a document.
+
+12
+00:00:27,005 --> 00:00:28,005
+To get started,
+
+13
+00:00:28,005 --> 00:00:32,000
+I'll open Word from the Microsoft 365 homepage.
+
+14
+00:00:32,000 --> 00:00:34,002
+You can follow along with the sample Word document
+
+15
+00:00:34,002 --> 00:00:36,000
+in your exercise files,
+
+16
+00:00:36,000 --> 00:00:41,003
+it's called Customer Event Product Document.
+
+17
+00:00:41,003 --> 00:00:43,008
+In this example, I'll be editing a product document
+
+18
+00:00:43,008 --> 00:00:46,007
+from a customer event I'm organizing.
+
+19
+00:00:46,007 --> 00:00:48,008
+First, I'll add footnotes.
+
+20
+00:00:48,008 --> 00:00:51,006
+Footnotes are citations that appear at the footer
+
+21
+00:00:51,006 --> 00:00:53,003
+or the bottom of the page.
+
+22
+00:00:53,003 --> 00:00:54,006
+Once a footnote has been added,
+
+23
+00:00:54,006 --> 00:00:58,003
+you'll have a small superscript number after the cited text
+
+24
+00:00:58,003 --> 00:01:01,007
+and the full citation on the page's footer.
+
+25
+00:01:01,007 --> 00:01:02,007
+To insert a footnote,
+
+26
+00:01:02,007 --> 00:01:04,001
+I'll place my cursor
+
+27
+00:01:04,001 --> 00:01:07,002
+to the right of the text I want to cite.
+
+28
+00:01:07,002 --> 00:01:10,006
+From here, I'll navigate to the top ribbon,
+
+29
+00:01:10,006 --> 00:01:14,006
+select References, and then Insert Footnote.
+
+30
+00:01:14,006 --> 00:01:17,006
+At this point, a window appears where I can specify
+
+31
+00:01:17,006 --> 00:01:20,000
+the details of the original work I'm citing.
+
+32
+00:01:20,000 --> 00:01:24,000
+I'll enter St. Clair Housen "To Be A Mogul"
+
+33
+00:01:24,000 --> 00:01:28,002
+Chapter 3, Page 46, Line 22.
+
+34
+00:01:28,002 --> 00:01:30,009
+This is the first footnote I'm adding to the document.
+
+35
+00:01:30,009 --> 00:01:33,002
+So the number one is in the box.
+
+36
+00:01:33,002 --> 00:01:34,009
+Press the Escape button on your keyboard,
+
+37
+00:01:34,009 --> 00:01:36,009
+or select the body of the document
+
+38
+00:01:36,009 --> 00:01:39,005
+to save and close the footnote.
+
+39
+00:01:39,005 --> 00:01:41,005
+When I'm in editing view,
+
+40
+00:01:41,005 --> 00:01:44,003
+I can't see the citation at the bottom of the page,
+
+41
+00:01:44,003 --> 00:01:46,009
+but the footnote will be there.
+
+42
+00:01:46,009 --> 00:01:52,008
+If I select the number, I can edit the footnote details.
+
+43
+00:01:52,008 --> 00:01:55,002
+To see how the footnote appears in your document,
+
+44
+00:01:55,002 --> 00:01:57,003
+I need to be in reading view.
+
+45
+00:01:57,003 --> 00:01:59,007
+Navigate to the top ribbon, select View,
+
+46
+00:01:59,007 --> 00:02:03,006
+then select Reading View.
+
+47
+00:02:03,006 --> 00:02:06,007
+Now, when I scroll through the document,
+
+48
+00:02:06,007 --> 00:02:12,003
+I can see that the footnotes are at the bottom of the page.
+
+49
+00:02:12,003 --> 00:02:17,005
+Now, I'll select the Edit Document tab in the top ribbon
+
+50
+00:02:17,005 --> 00:02:22,001
+and then choose Edit.
+
+51
+00:02:22,001 --> 00:02:24,002
+Word will send you back to editing view
+
+52
+00:02:24,002 --> 00:02:26,008
+where you can continue editing.
+
+53
+00:02:26,008 --> 00:02:29,007
+If a footnote is not the citation method you want to use,
+
+54
+00:02:29,007 --> 00:02:31,001
+consider an end note,
+
+55
+00:02:31,001 --> 00:02:33,007
+which adds the footer text to the end of the document
+
+56
+00:02:33,007 --> 00:02:36,005
+instead of the bottom of the page.
+
+57
+00:02:36,005 --> 00:02:39,007
+Navigate to the top ribbon, select References,
+
+58
+00:02:39,007 --> 00:02:42,004
+and then Insert End Note.
+
+59
+00:02:42,004 --> 00:02:44,004
+Another way to keep your document organized
+
+60
+00:02:44,004 --> 00:02:48,007
+is to add a table of contents.
+
+61
+00:02:48,007 --> 00:02:50,007
+Before you create a table of contents,
+
+62
+00:02:50,007 --> 00:02:54,005
+you need to select your texts and apply a heading.
+
+63
+00:02:54,005 --> 00:02:56,003
+Word uses the headings in your document
+
+64
+00:02:56,003 --> 00:02:58,007
+to build an automatic table of contents
+
+65
+00:02:58,007 --> 00:03:02,007
+that can be updated when you change the heading text,
+
+66
+00:03:02,007 --> 00:03:04,007
+sequence, or level.
+
+67
+00:03:04,007 --> 00:03:09,001
+Highlight the text you wish to apply a heading to,
+
+68
+00:03:09,001 --> 00:03:13,001
+then navigate to the Home tab,
+
+69
+00:03:13,001 --> 00:03:15,007
+and in the style galleries, select the heading choice
+
+70
+00:03:15,007 --> 00:03:18,009
+and the text automatically takes that heading form.
+
+71
+00:03:18,009 --> 00:03:20,002
+If you have subheadings,
+
+72
+00:03:20,002 --> 00:03:22,005
+select different texts that you would like to have
+
+73
+00:03:22,005 --> 00:03:37,007
+under the first heading and apply a different style to it.
+
+74
+00:03:37,007 --> 00:03:41,002
+Now you're ready to create and add your table of contents.
+
+75
+00:03:41,002 --> 00:03:42,006
+Now place your cursor
+
+76
+00:03:42,006 --> 00:03:44,008
+where you want to insert the table of contents.
+
+77
+00:03:44,008 --> 00:03:47,006
+I usually place it near the beginning of the document
+
+78
+00:03:47,006 --> 00:03:51,003
+or after a title page.
+
+79
+00:03:51,003 --> 00:03:56,007
+On the top ribbon, select References.
+
+80
+00:03:56,007 --> 00:04:01,002
+Next, select Table of Contents.
+
+81
+00:04:01,002 --> 00:04:06,004
+In the dropdown menu, choose Insert Table of Contents.
+
+82
+00:04:06,004 --> 00:04:08,004
+If you make changes to your document
+
+83
+00:04:08,004 --> 00:04:10,000
+that affect the table of contents,
+
+84
+00:04:10,000 --> 00:04:12,006
+you can update it by selecting the table
+
+85
+00:04:12,006 --> 00:04:14,008
+and selecting the update box that appears
+
+86
+00:04:14,008 --> 00:04:17,005
+to the left of the table of contents.
+
+87
+00:04:17,005 --> 00:04:19,004
+Adding references as footnotes
+
+88
+00:04:19,004 --> 00:04:20,008
+and creating a table of contents
+
+89
+00:04:20,008 --> 00:04:23,003
+is a great way of elevating your documents.
+
+90
+00:04:23,003 --> 00:04:27,001
+Try adding these reference forms to your next document.
+

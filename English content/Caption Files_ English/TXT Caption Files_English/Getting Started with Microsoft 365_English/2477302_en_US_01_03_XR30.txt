@@ -1,0 +1,44 @@
+ - [Instructor] Keeping everyone on the same page  
+ makes any team more efficient.  
+ But when new members join,  
+ valuable time can be wasted in bringing them up to speed.  
+ With Microsoft Teams,  
+ modifying who's part of your team is simple and easy.  
+ In this lesson, I'll show you how to add team members  
+ and manage their roles in Teams.  
+ To show you how, I've created a team  
+ for a conference I'm working on.  
+ To bring everyone together to collaborate,  
+ I need to make sure they are added to the team.  
+ I'll start on the main Teams page.  
+ To find the Skills conference team,  
+ I'll use the menu to select teams from the sidebar.  
+ Here you can see a list of all my teams.  
+ I'll navigate to the Skills conference team  
+ and select More options.  
+ Then select Add member.  
+ Since I'll be adding new members that are already a part  
+ of my organization, I'll be able to add them  
+ by typing in their name or email address  
+ and then selecting Add.  
+ To add people outside of your organization  
+ is a little different.  
+ You still add them using their email address  
+ but they will be added to the team as a guest.  
+ Guest roles cannot be changed.  
+ When someone inside your organization is added to a team,  
+ their initial role is member.  
+ But you can change their role to owner, if you want.  
+ Owners have the same permissions as members  
+ but can also delete your team  
+ and add or remove team members.  
+ You can change a member's role to owner  
+ by selecting the dropdown menu next to their assigned role.  
+ In case the team needs editing when I'm away,  
+ I'll add my colleague, Isaiah, as an owner.  
+ Now that you can add team members to a team  
+ and assign their roles,  
+ you can start gathering the right people together  
+ to collaborate on a project or event.  
+ 
+

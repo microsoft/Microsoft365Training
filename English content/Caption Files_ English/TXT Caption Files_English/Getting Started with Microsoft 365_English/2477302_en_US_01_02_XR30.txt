@@ -1,0 +1,78 @@
+ - [Instructor] Building a team takes time.  
+ You need to transfer or recruit the right members,  
+ build relationships and trust each other.  
+ On the other hand,  
+ creating a team in Microsoft Teams  
+ takes hardly any time at all.  
+ In this lesson,  
+ I'll use an upcoming event I'm working on,  
+ the skills conference,  
+ to show you how to set up a team,  
+ using templates to save even more time.  
+ Let's jump in.  
+ Once I'm in Teams,  
+ I'll select teams from the left menu.  
+ Then select join or create a team from the bottom.  
+ If you were joining a team  
+ that someone else had created,  
+ you might be given a code to join a specific team  
+ and you'd select join a team.  
+ Since this conference  
+ doesn't have a team set up already,  
+ as the manager, I'll need to create one.  
+ So I'll select create team.  
+ I can either create a team from scratch  
+ or from a template.  
+ I see a manage an event template  
+ which will work great for this.  
+ I'll select that option to get started.  
+ Here, Teams will display an overview  
+ of the channels and apps associated with that template.  
+ Just select next to continue.  
+ Next up is the privacy level.  
+ Because I don't want anyone to access my team  
+ without me inviting them,  
+ I'll make it private.  
+ For naming the team,  
+ I want to be brief, but descriptive.  
+ Since I'm planning a conference,  
+ I'll name it skills conference.  
+ I'll also include a description  
+ to give the members a way to know  
+ what the team is about.  
+ Like all templates,  
+ this one comes with pre-made channels.  
+ Think of a channel  
+ as a place to talk about a specific topic.  
+ When I manage events,  
+ I need to create channels  
+ where the whole team can discuss broad topics  
+ and other channels where smaller groups  
+ can talk about specific subjects.  
+ If I expand customize channels,  
+ I can see all the channels for this team.  
+ The general channel is automatically created  
+ with every team and cannot be deleted.  
+ Most of these other channels are useful here,  
+ but my team won't be a part of  
+ any budget related conversations,  
+ so I'll rename that one technology  
+ since our conference will be hybrid this year.  
+ I can rename the channel by selecting budget,  
+ and replacing the channel name.  
+ I can save my change  
+ by clicking on customize channels.  
+ At this point, everything is set up  
+ and I'll select create team.  
+ Now, it does take a little while  
+ for a team to get set up  
+ so just be patient  
+ and come back a little bit later.  
+ As you can see,  
+ it doesn't take much effort  
+ to create a team.  
+ When you're able to create a team,  
+ you're in a position to start streamlining communication  
+ and collaboration for your next event or project.  
+ 
+

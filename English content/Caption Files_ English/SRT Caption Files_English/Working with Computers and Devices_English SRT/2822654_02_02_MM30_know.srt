@@ -1,0 +1,560 @@
+1
+00:00:00,005 --> 00:00:02,001
+- [Instructor] When you first start up your computer,
+
+2
+00:00:02,001 --> 00:00:04,006
+the first thing to load is the operating system.
+
+3
+00:00:04,006 --> 00:00:07,000
+For example, Windows 10 is the most recent version
+
+4
+00:00:07,000 --> 00:00:09,002
+of the Windows operating system that comes pre-installed
+
+5
+00:00:09,002 --> 00:00:11,008
+on many PCs and tablet devices.
+
+6
+00:00:11,008 --> 00:00:13,005
+Here we'll explore the basics of navigating
+
+7
+00:00:13,005 --> 00:00:15,008
+around an operating system using Windows 10,
+
+8
+00:00:15,008 --> 00:00:17,003
+but many of these concepts carry over
+
+9
+00:00:17,003 --> 00:00:20,000
+to other operating systems as well.
+
+10
+00:00:20,000 --> 00:00:21,000
+When you start started the computer,
+
+11
+00:00:21,000 --> 00:00:23,001
+you'll usually see a screen to log into your account
+
+12
+00:00:23,001 --> 00:00:24,005
+on that computer.
+
+13
+00:00:24,005 --> 00:00:26,003
+Generally, it's a good idea for each person
+
+14
+00:00:26,003 --> 00:00:28,004
+using a computer to have their own account
+
+15
+00:00:28,004 --> 00:00:31,003
+rather than sharing an account between multiple users.
+
+16
+00:00:31,003 --> 00:00:33,008
+Individual accounts allow each user to keep their files
+
+17
+00:00:33,008 --> 00:00:35,005
+and work secured and organized
+
+18
+00:00:35,005 --> 00:00:39,000
+and let users personalize their experience on the computer.
+
+19
+00:00:39,000 --> 00:00:41,001
+For example, one user could set the computer
+
+20
+00:00:41,001 --> 00:00:42,006
+to display text in English
+
+21
+00:00:42,006 --> 00:00:45,005
+while another user could set it to display in Spanish
+
+22
+00:00:45,005 --> 00:00:47,007
+and because accounts are secured by passwords,
+
+23
+00:00:47,007 --> 00:00:51,002
+neither user can see the other's documents or other files.
+
+24
+00:00:51,002 --> 00:00:53,005
+To log into the computer, select your username,
+
+25
+00:00:53,005 --> 00:00:55,004
+or sometimes you'll enter it manually
+
+26
+00:00:55,004 --> 00:00:56,007
+and then type in your password.
+
+27
+00:00:56,007 --> 00:00:59,001
+In Windows 10 when you set up your account,
+
+28
+00:00:59,001 --> 00:01:00,004
+you also have the option of setting up
+
+29
+00:01:00,004 --> 00:01:02,008
+a personal identification number or pin
+
+30
+00:01:02,008 --> 00:01:05,002
+which you can enter instead of your password.
+
+31
+00:01:05,002 --> 00:01:07,005
+So you'll either enter a password or a pin
+
+32
+00:01:07,005 --> 00:01:08,009
+in this case, I'm entering a password
+
+33
+00:01:08,009 --> 00:01:11,003
+and I'll press Enter on my keyboard
+
+34
+00:01:11,003 --> 00:01:13,007
+and that's going to log me into the computer.
+
+35
+00:01:13,007 --> 00:01:15,004
+Once you're logged in, the first thing you see
+
+36
+00:01:15,004 --> 00:01:17,003
+is your computer desktop.
+
+37
+00:01:17,003 --> 00:01:19,004
+Similar to a real physical desktop,
+
+38
+00:01:19,004 --> 00:01:21,005
+your computer desktop is where you store files
+
+39
+00:01:21,005 --> 00:01:23,003
+you're currently working with.
+
+40
+00:01:23,003 --> 00:01:25,002
+In most operating systems, you can personalize
+
+41
+00:01:25,002 --> 00:01:27,008
+the look of your desktop by changing the background image,
+
+42
+00:01:27,008 --> 00:01:31,004
+sometimes called the wallpaper or by changing the colors.
+
+43
+00:01:31,004 --> 00:01:34,005
+At the bottom of the Windows 10 desktop is the task bar,
+
+44
+00:01:34,005 --> 00:01:36,002
+which is an essential tool for working
+
+45
+00:01:36,002 --> 00:01:38,002
+with the Windows operating system.
+
+46
+00:01:38,002 --> 00:01:39,009
+Depending on how you have it set up,
+
+47
+00:01:39,009 --> 00:01:42,004
+in the task bar you can see what apps are currently running,
+
+48
+00:01:42,004 --> 00:01:43,008
+what the current time is,
+
+49
+00:01:43,008 --> 00:01:46,006
+what appointments are on your calendar and so on.
+
+50
+00:01:46,006 --> 00:01:47,008
+On the far left of the task bar,
+
+51
+00:01:47,008 --> 00:01:49,005
+you'll find the Start button.
+
+52
+00:01:49,005 --> 00:01:51,008
+Clicking it opens up the Start menu
+
+53
+00:01:51,008 --> 00:01:52,006
+and this is where you can find
+
+54
+00:01:52,006 --> 00:01:55,004
+all the applications installed in your device.
+
+55
+00:01:55,004 --> 00:01:57,005
+This is also where you'll find the buttons to log off,
+
+56
+00:01:57,005 --> 00:02:00,000
+restart and shut down the computer.
+
+57
+00:02:00,000 --> 00:02:01,006
+For now, let's click outside the Start menu
+
+58
+00:02:01,006 --> 00:02:04,001
+to close it without selecting anything.
+
+59
+00:02:04,001 --> 00:02:06,004
+Next to the Start button is the search box
+
+60
+00:02:06,004 --> 00:02:08,003
+where you can search for applications by name
+
+61
+00:02:08,003 --> 00:02:11,001
+or search for files and documents on your device.
+
+62
+00:02:11,001 --> 00:02:12,008
+Using the search box can be a lot quicker
+
+63
+00:02:12,008 --> 00:02:15,008
+than manually looking for applications in the Start menu.
+
+64
+00:02:15,008 --> 00:02:17,005
+Just start typing the name of the application
+
+65
+00:02:17,005 --> 00:02:18,009
+or document you want to work with
+
+66
+00:02:18,009 --> 00:02:22,000
+and Windows will display the search results as you type.
+
+67
+00:02:22,000 --> 00:02:24,008
+For example, if I wanted to quickly open the calculator app,
+
+68
+00:02:24,008 --> 00:02:27,002
+I could just start typing calculator,
+
+69
+00:02:27,002 --> 00:02:29,009
+there it is, and I can just press Enter on my keyboard
+
+70
+00:02:29,009 --> 00:02:31,003
+to open that up.
+
+71
+00:02:31,003 --> 00:02:33,006
+Next to the search box, you'll see icons for applications
+
+72
+00:02:33,006 --> 00:02:36,006
+that are currently running or pinned to the task bar.
+
+73
+00:02:36,006 --> 00:02:38,003
+Pinned applications are apps that you can place
+
+74
+00:02:38,003 --> 00:02:40,003
+in the task bar to quickly access again
+
+75
+00:02:40,003 --> 00:02:41,008
+so you don't have to dig through the Start menu
+
+76
+00:02:41,008 --> 00:02:44,002
+to find them each time you want to open them.
+
+77
+00:02:44,002 --> 00:02:45,006
+Applications that are currently running
+
+78
+00:02:45,006 --> 00:02:46,007
+have a line underneath them
+
+79
+00:02:46,007 --> 00:02:48,009
+so you can easily tell if they're in use
+
+80
+00:02:48,009 --> 00:02:51,004
+as you can see here under the calculator icon.
+
+81
+00:02:51,004 --> 00:02:53,001
+To pin an application to the task bar,
+
+82
+00:02:53,001 --> 00:02:54,006
+place your mouse cursor over it
+
+83
+00:02:54,006 --> 00:02:56,005
+and then click the right mouse button on your mouse
+
+84
+00:02:56,005 --> 00:03:00,000
+or pointing device, this is referred to as right click,
+
+85
+00:03:00,000 --> 00:03:02,007
+which often brings up a menu containing several options.
+
+86
+00:03:02,007 --> 00:03:04,007
+In this case, I'll choose to pin the calculator app
+
+87
+00:03:04,007 --> 00:03:07,006
+to the task bar since I use it a lot.
+
+88
+00:03:07,006 --> 00:03:09,007
+So now even if I close the calculator app
+
+89
+00:03:09,007 --> 00:03:12,003
+by clicking the X button here in the upper right corner,
+
+90
+00:03:12,003 --> 00:03:14,005
+notice this icon stays in the task bar.
+
+91
+00:03:14,005 --> 00:03:15,009
+We no longer see the blue line under it
+
+92
+00:03:15,009 --> 00:03:18,002
+because it's not running, but I can easily click
+
+93
+00:03:18,002 --> 00:03:20,007
+to open the calculator app from here now.
+
+94
+00:03:20,007 --> 00:03:22,004
+Also here within the pinned and running apps
+
+95
+00:03:22,004 --> 00:03:24,002
+is File Explorer.
+
+96
+00:03:24,002 --> 00:03:26,000
+Clicking that opens up a window you can use
+
+97
+00:03:26,000 --> 00:03:27,009
+to browse the files on your computer
+
+98
+00:03:27,009 --> 00:03:30,000
+and I'll just close that.
+
+99
+00:03:30,000 --> 00:03:32,004
+The last section of the task bar is here on the right.
+
+100
+00:03:32,004 --> 00:03:34,002
+Here you usually see the date and time
+
+101
+00:03:34,002 --> 00:03:35,009
+along with various other icons
+
+102
+00:03:35,009 --> 00:03:37,004
+depending on how the computer's task bar
+
+103
+00:03:37,004 --> 00:03:39,000
+has been customized.
+
+104
+00:03:39,000 --> 00:03:40,008
+Clicking on icons can give you more information
+
+105
+00:03:40,008 --> 00:03:42,000
+about the computer.
+
+106
+00:03:42,000 --> 00:03:46,001
+For example, clicking on the clock, displays the calendar,
+
+107
+00:03:46,001 --> 00:03:48,002
+clicking on the network icon
+
+108
+00:03:48,002 --> 00:03:50,006
+shows you the status of your network connection.
+
+109
+00:03:50,006 --> 00:03:53,005
+Clicking this arrow here reveals other icons
+
+110
+00:03:53,005 --> 00:03:55,004
+that may be hidden so the task bar isn't cluttered
+
+111
+00:03:55,004 --> 00:03:57,003
+with too many icons at once.
+
+112
+00:03:57,003 --> 00:04:00,003
+So for example, from here, I can click the speaker icon
+
+113
+00:04:00,003 --> 00:04:01,005
+and that allows me to adjust the volume
+
+114
+00:04:01,005 --> 00:04:03,009
+of the computer speakers.
+
+115
+00:04:03,009 --> 00:04:06,003
+So that's the task bar in Windows.
+
+116
+00:04:06,003 --> 00:04:07,007
+Now, when you're done using your computer,
+
+117
+00:04:07,007 --> 00:04:10,001
+it's usually a good idea to log out of your account
+
+118
+00:04:10,001 --> 00:04:11,004
+or to shut down the computer
+
+119
+00:04:11,004 --> 00:04:13,004
+if you don't need to leave it running.
+
+120
+00:04:13,004 --> 00:04:15,005
+To do so, click the Start button.
+
+121
+00:04:15,005 --> 00:04:17,008
+If you just want to log out, but leave the computer running,
+
+122
+00:04:17,008 --> 00:04:19,009
+for example, if someone else needs to log into their account
+
+123
+00:04:19,009 --> 00:04:22,002
+to use the computer, just click the user icon
+
+124
+00:04:22,002 --> 00:04:26,000
+at the top here, and then choose a Sign Out.
+
+125
+00:04:26,000 --> 00:04:27,003
+That will log you out of your account,
+
+126
+00:04:27,003 --> 00:04:28,003
+but leave the computer running
+
+127
+00:04:28,003 --> 00:04:31,000
+so someone else can sign into their account.
+
+128
+00:04:31,000 --> 00:04:34,000
+Ultimately, you can click the power button here
+
+129
+00:04:34,000 --> 00:04:36,008
+and from here, you can shut down or restart the computer.
+
+130
+00:04:36,008 --> 00:04:39,002
+Choose to Shut Down if you want to shut down the computer
+
+131
+00:04:39,002 --> 00:04:41,003
+so it's not using any power.
+
+132
+00:04:41,003 --> 00:04:42,009
+And restart shuts down the computer
+
+133
+00:04:42,009 --> 00:04:45,001
+and immediately starts it again.
+
+134
+00:04:45,001 --> 00:04:46,008
+Sometimes restarting can fix issues
+
+135
+00:04:46,008 --> 00:04:49,009
+that may crop up while using the computer.
+
+136
+00:04:49,009 --> 00:04:50,009
+Again, we've been looking at the
+
+137
+00:04:50,009 --> 00:04:53,001
+Windows 10 operating system in this video,
+
+138
+00:04:53,001 --> 00:04:55,007
+but many of these concepts like searching for applications,
+
+139
+00:04:55,007 --> 00:04:58,004
+accessing settings and logging out and restarting
+
+140
+00:04:58,004 --> 00:05:00,006
+apply to other operating systems as well.
+

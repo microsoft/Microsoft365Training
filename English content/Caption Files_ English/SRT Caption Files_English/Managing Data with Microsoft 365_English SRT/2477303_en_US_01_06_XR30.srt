@@ -1,0 +1,156 @@
+1
+00:00:00,005 --> 00:00:01,008
+- [Instructor] Collaboration is key
+
+2
+00:00:01,008 --> 00:00:04,007
+to any business's successful model.
+
+3
+00:00:04,007 --> 00:00:05,006
+As business consultant and author, Ken Blanchard once said,
+
+4
+00:00:05,006 --> 00:00:11,009
+"None of us is as smart as all of us."
+
+5
+00:00:11,009 --> 00:00:14,009
+In this lesson, I'll show you how to share your form
+
+6
+00:00:14,009 --> 00:00:17,004
+with collaborators so that they can view,
+
+7
+00:00:17,004 --> 00:00:20,009
+edit, and review the results of your form.
+
+8
+00:00:20,009 --> 00:00:22,009
+I'll show use the two best options
+
+9
+00:00:22,009 --> 00:00:25,002
+for sharing with your team and organization
+
+10
+00:00:25,002 --> 00:00:28,003
+so you can decide which is best for you.
+
+11
+00:00:28,003 --> 00:00:30,008
+In the top left-corner of office.com
+
+12
+00:00:30,008 --> 00:00:36,003
+I'll select the app launcher and open Forms.
+
+13
+00:00:36,003 --> 00:00:38,001
+From here, I'll open the Wedding Planning
+
+14
+00:00:38,001 --> 00:00:40,003
+Consulting Interest form.
+
+15
+00:00:40,003 --> 00:00:42,009
+To share this form with someone's specific on my team,
+
+16
+00:00:42,009 --> 00:00:46,001
+I'll select Share in the upper right corner.
+
+17
+00:00:46,001 --> 00:00:48,001
+At the bottom is Share to collaborate,
+
+18
+00:00:48,001 --> 00:00:51,009
+and I'll select Get a link to view and edit.
+
+19
+00:00:51,009 --> 00:00:54,009
+If I select the Users with an Office 365 work
+
+20
+00:00:54,009 --> 00:00:59,003
+or school account dropdown two additional options appear.
+
+21
+00:00:59,003 --> 00:01:01,002
+I'll share this with only those who need it
+
+22
+00:01:01,002 --> 00:01:02,005
+by selecting Specific people
+
+23
+00:01:02,005 --> 00:01:05,006
+in my organization can view and edit.
+
+24
+00:01:05,006 --> 00:01:06,008
+I can now enter the team member
+
+25
+00:01:06,008 --> 00:01:11,007
+that will help me with this form, Isaiah.
+
+26
+00:01:11,007 --> 00:01:15,003
+Now, two people have access Isaiah and myself.
+
+27
+00:01:15,003 --> 00:01:17,001
+If instead, I want to share this form
+
+28
+00:01:17,001 --> 00:01:19,007
+with anyone in my organization, I'll change it
+
+29
+00:01:19,007 --> 00:01:23,004
+to People in my organization can view and edit.
+
+30
+00:01:23,004 --> 00:01:24,008
+Now, I can copy a link to send it
+
+31
+00:01:24,008 --> 00:01:27,006
+to my colleague Lynn for review.
+
+32
+00:01:27,006 --> 00:01:30,008
+So I'll copy the link and message it to Lynn.
+
+33
+00:01:30,008 --> 00:01:32,002
+Lynn and I can now collaborate
+
+34
+00:01:32,002 --> 00:01:36,000
+and get this form ready to send to prospective clients.
+
+35
+00:01:36,000 --> 00:01:38,004
+As you create forms, be sure to include
+
+36
+00:01:38,004 --> 00:01:42,001
+at least one other team member in the review process.
+
+37
+00:01:42,001 --> 00:01:45,004
+Co-creating and collaborating in Microsoft 365
+
+38
+00:01:45,004 --> 00:01:46,008
+is a great way to make sure
+
+39
+00:01:46,008 --> 00:01:49,002
+your forms are ready to share with the world.
+

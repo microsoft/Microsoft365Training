@@ -1,0 +1,72 @@
+ - [Instructor] Have you ever used Excel  
+ to track a project?  
+ With Microsoft Lists,  
+ you can save time by creating a list  
+ from an existing Excel document.  
+ In this lesson,  
+ I'll show you how to import  
+ your existing data into Lists.  
+ I'll start from Office.com.  
+ Select the app launcher in the upper-left corner,  
+ and open Lists.  
+ In this example,  
+ I have a spreadsheet I've been using  
+ for my wedding planning business,  
+ and I want to bring it into Lists  
+ for a more robust planning experience.  
+ You can follow along by downloading  
+ the wedding plan checklist  
+ from the exercise files.  
+ Start by selecting new list.  
+ Now I'll select from Excel.  
+ Select upload file and navigate  
+ to the Excel document on your computer.  
+ Then the wizard brings me  
+ to the customized screen  
+ where I'm instructed to select the table  
+ from the file.  
+ I'll check the column types,  
+ and choose a new type  
+ if the current selection is incorrect.  
+ I will leave task as the title of the item.  
+ For the when column,  
+ I have a few categories, nine to 12 months  
+ six to nine months.  
+ So I'll select choice in the dropdown.  
+ Then select next.  
+ I'll set the name to checklist for wedding,  
+ and I want to add a description.  
+ So I'll enter wedding plan checklist  
+ for 12 months to one week out.  
+ I'll select the clipboard icon,  
+ and select create.  
+ Just like that,  
+ Looks good.  
+ But one thing isn't quite right.  
+ The when choice column is not color coded  
+ like choice columns usually are.  
+ Select the dropdown next to when,  
+ and select column settings then edit.  
+ The edit column panel appears on the right.  
+ I see that my choices were not imported  
+ so I will add them manually  
+ by selecting add choice.  
+ My first time span is nine to 12 months.  
+ So I'll enter that in the choice one box.  
+ I will select the palette icon,  
+ and set this as green.  
+ I will repeat this for six to nine months,  
+ four to six months and two to four months.  
+ Choosing a new color each time.  
+ I can save the choices I entered,  
+ and the when column is updated.  
+ By taking advantage of Lists ability  
+ to import directly from an existing  
+ Excel spreadsheet.  
+ You have the power to transform,  
+ and simplify a lot of data.  
+ Now it's your turn.  
+ Find an existing list you have in Excel,  
+ and import it into Microsoft Lists.  
+ 
+

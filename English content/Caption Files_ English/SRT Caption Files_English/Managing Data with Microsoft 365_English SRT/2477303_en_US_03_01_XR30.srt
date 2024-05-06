@@ -1,0 +1,256 @@
+1
+00:00:00,005 --> 00:00:03,000
+- [Narrator] It's essential for you to be able to sort
+
+2
+00:00:03,000 --> 00:00:06,003
+and manage your data so that the most important information
+
+3
+00:00:06,003 --> 00:00:08,004
+is right at the top.
+
+4
+00:00:08,004 --> 00:00:11,004
+In this lesson, I'll show you how to use Excel
+
+5
+00:00:11,004 --> 00:00:13,002
+to sort and filter your data
+
+6
+00:00:13,002 --> 00:00:16,006
+so you can quickly find what you need.
+
+7
+00:00:16,006 --> 00:00:19,003
+In the top left corner of office.com,
+
+8
+00:00:19,003 --> 00:00:22,008
+I'll select the app launcher and open Excel.
+
+9
+00:00:22,008 --> 00:00:24,003
+From here, I'll open
+
+10
+00:00:24,003 --> 00:00:27,003
+the sample sales order Excel spreadsheet.
+
+11
+00:00:27,003 --> 00:00:31,001
+You can find this document in your exercise files.
+
+12
+00:00:31,001 --> 00:00:35,000
+I'm interested in finding a specific order.
+
+13
+00:00:35,000 --> 00:00:39,002
+To use the search function, I'll use find and select.
+
+14
+00:00:39,002 --> 00:00:40,003
+Then I'll select find
+
+15
+00:00:40,003 --> 00:00:43,001
+and enter the sales order number.
+
+16
+00:00:43,001 --> 00:00:47,004
+Now select find next and Excel will highlight that row.
+
+17
+00:00:47,004 --> 00:00:48,009
+You can also use these functions to look
+
+18
+00:00:48,009 --> 00:00:51,005
+for specific items ordered by good toys.
+
+19
+00:00:51,005 --> 00:00:55,003
+Here, I'll enter good toys and select find all
+
+20
+00:00:55,003 --> 00:00:59,000
+to see all the rows with the information I'm looking for.
+
+21
+00:00:59,000 --> 00:01:01,005
+To find orders by customers more easily,
+
+22
+00:01:01,005 --> 00:01:04,004
+I'll sort the data by customer name.
+
+23
+00:01:04,004 --> 00:01:06,002
+First I'll select the column
+
+24
+00:01:06,002 --> 00:01:09,009
+then select sort and filter from the home ribbon.
+
+25
+00:01:09,009 --> 00:01:12,008
+Then I'll select sort ascending.
+
+26
+00:01:12,008 --> 00:01:16,005
+Let's say I want to see the sales from smallest to largest.
+
+27
+00:01:16,005 --> 00:01:20,000
+I will select the first cell in the total due column
+
+28
+00:01:20,000 --> 00:01:24,000
+then select sort and filter and sort ascending.
+
+29
+00:01:24,000 --> 00:01:26,006
+Excel also allows you to filter data.
+
+30
+00:01:26,006 --> 00:01:29,000
+Filtering data allows you to see only the data
+
+31
+00:01:29,000 --> 00:01:30,007
+you're looking for.
+
+32
+00:01:30,007 --> 00:01:33,006
+For this example, I'll use the order detail sheet
+
+33
+00:01:33,006 --> 00:01:36,005
+by selecting its tab at the bottom.
+
+34
+00:01:36,005 --> 00:01:39,007
+Let's say I'm looking for orders from good toys.
+
+35
+00:01:39,007 --> 00:01:41,007
+I can navigate to the data ribbon
+
+36
+00:01:41,007 --> 00:01:45,002
+and add filter headings by selecting filter.
+
+37
+00:01:45,002 --> 00:01:48,005
+A dropdown is added to each header for the column.
+
+38
+00:01:48,005 --> 00:01:51,000
+Now I can select the values for the filters.
+
+39
+00:01:51,000 --> 00:01:54,001
+First I'll select the company dropdown,
+
+40
+00:01:54,001 --> 00:02:02,002
+deselect select all, then select good toys and apply.
+
+41
+00:02:02,002 --> 00:02:04,002
+These are the orders for good toys.
+
+42
+00:02:04,002 --> 00:02:06,009
+I can add more customers by selecting other customers
+
+43
+00:02:06,009 --> 00:02:09,001
+in the company dropdown.
+
+44
+00:02:09,001 --> 00:02:11,005
+I'll add action bicycle specialist
+
+45
+00:02:11,005 --> 00:02:13,009
+before selecting apply.
+
+46
+00:02:13,009 --> 00:02:16,001
+Once I'm done, I can remove all the filters
+
+47
+00:02:16,001 --> 00:02:19,009
+by selecting clear filter from company on the dropdown.
+
+48
+00:02:19,009 --> 00:02:22,007
+Excel also helped you sort using multiple columns
+
+49
+00:02:22,007 --> 00:02:24,005
+in a table.
+
+50
+00:02:24,005 --> 00:02:26,002
+I'm going to sort by the customer
+
+51
+00:02:26,002 --> 00:02:28,006
+and then by the line total.
+
+52
+00:02:28,006 --> 00:02:32,005
+I'll go to the data ribbon and select custom sort.
+
+53
+00:02:32,005 --> 00:02:35,003
+The custom dialogue allows me to pick the column to sort
+
+54
+00:02:35,003 --> 00:02:37,008
+and the order of appearance.
+
+55
+00:02:37,008 --> 00:02:40,005
+I'll start with the company column.
+
+56
+00:02:40,005 --> 00:02:42,009
+To add another column, I'll select add
+
+57
+00:02:42,009 --> 00:02:46,006
+and then I'll specify line total, sort descending,
+
+58
+00:02:46,006 --> 00:02:48,008
+and then select OK.
+
+59
+00:02:48,008 --> 00:02:51,006
+This produces a table where I can see the cost of the items
+
+60
+00:02:51,006 --> 00:02:56,004
+each customer ordered sorted from largest to smallest.
+
+61
+00:02:56,004 --> 00:02:58,006
+Now you have a few new ways to find
+
+62
+00:02:58,006 --> 00:03:01,001
+and sort data using Excel.
+
+63
+00:03:01,001 --> 00:03:03,008
+Take some time to sort and filter your data.
+
+64
+00:03:03,008 --> 00:03:06,005
+It all comes down to knowing what you're looking for.
+

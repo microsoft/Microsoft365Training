@@ -1,0 +1,92 @@
+ - [Instructor] Need to send a mass communication?  
+ Mail merges are particularly valuable  
+ when you're sending an email to multiple people  
+ with individualized messages.  
+ In this lesson,  
+ I'm going to walk you through a step by step process  
+ to send a mail merge using Word, Outlook,  
+ and spreadsheets in Excel.  
+ The process starts with the main document.  
+ You'll add recipients, add fields to the document  
+ so mail merge can individualize your email message,  
+ and then send.  
+ Please note that the mail merge feature  
+ is only available in the desktop version  
+ and the step by step Mail Merge Wizard only appears on a PC.  
+ You can follow along with the sample Word document  
+ in your exercise files.  
+ It's called practice mail merge document.  
+ In this example, I'm going to send a reminder email  
+ to attendees for a customer event.  
+ With the document open,  
+ go to the mailings tab on the top ribbon of the screen  
+ and select Start Mail Merge.  
+ Then in the dropdown menu,  
+ select Step by Step Mail Merge Wizard.  
+ This takes you through the steps  
+ of sending a mail merge one step at a time.  
+ Next, select the type of document you're working on  
+ and email,  
+ then select Next: Starting Document.  
+ In the next step, the wizard lets you start from a template  
+ or an existing document.  
+ Select Use the current document,  
+ which is already open and ready.  
+ Select Next: Select recipients.  
+ You can use a list generated from Outlook, Excel,  
+ or generate a new list write in Word.  
+ For this example, I drafted a contact list in Excel,  
+ follow along by downloading the list in the exercise file.  
+ It's called email contact list example.  
+ Select Use an existing list.  
+ When you select this option,  
+ you also need to select which contacts to use,  
+ so select Browse.  
+ Navigate to your contact list and select Open.  
+ Confirm the table sheet to use,  
+ select Okay,  
+ verify that the list was imported correctly,  
+ and select Okay again.  
+ Then select Next: Write your email message.  
+ Place your cursor where you want the information  
+ to go in the message  
+ and select the information type in the wizard panel.  
+ For example, place your cursor  
+ where you want the greeting line to go  
+ and select Greeting Line.  
+ In the insert greeting line window,  
+ You can select the format of the greeting line  
+ such as salutation, name format, and more.  
+ If the recipient's name in the list is missing,  
+ Word replaces it with a generic greeting.  
+ I'll change this to, To whom it may concern.  
+ In the preview box,  
+ you can use the arrows to go through the contacts  
+ to see how each greeting will appear.  
+ When you're done, select Okay.  
+ And Word inserts the merge field,  
+ which appears as text between two arrows.  
+ Now you can add more merge fields  
+ or move on and select Next: Preview your email messages.  
+ Word temporarily replaces the merge field  
+ with entries from the recipient list  
+ so you can preview how each email will look  
+ before it's sent.  
+ This is especially helpful  
+ if your email contains a lot of merge fields.  
+ Once you've reviewed how each email will look,  
+ select Next: Complete the mail merge.  
+ You're almost ready to send out the mass email.  
+ Select Electronic Mail.  
+ Add a subject line.  
+ I'll add Customer Appreciation Day.  
+ And select Okay when you're ready to send them.  
+ You're all set.  
+ Once you have all the appropriate settings  
+ and fields in place,  
+ mail merge can help you communicate quickly  
+ to large groups while still customizing each message.  
+ Try it the next time  
+ you have to send out mass communications.  
+ 
+

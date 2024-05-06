@@ -1,0 +1,42 @@
+ - [Instructor] Microsoft Project  
+ has a wide variety of helpful tools.  
+ In order to get the most out of these tools,  
+ you need to know what they are  
+ and where to find them.  
+ In this lesson, I'll show you how to locate key features  
+ within Microsoft Project.  
+ I'll start from Office.com, select the App Launcher  
+ in the top left corner, and open Project.  
+ Note that using Projects of the web  
+ requires an active subscription  
+ to Microsoft Project.  
+ The Project homepage is where you'll find all  
+ the Microsoft Projects you have access to.  
+ At the top, there's a new blank Project button.  
+ I can also see two main sections  
+ on the homepage: Favorites and Recent.  
+ Favorites has all the projects I've tagged as important.  
+ I'm currently working on the August Wedding project.  
+ I can mark this project as a favorite  
+ by hovering over the project and selecting Mark Favorite.  
+ As I complete projects,  
+ I can un-favorite them by selecting More Options  
+ and choosing Remove From Favorites.  
+ The Recent panel contains the projects  
+ you've opened most recently.  
+ When I need to look back  
+ on previous projects, Recent helps me find them quickly.  
+ As you work with Projects,  
+ team members may share their projects with you.  
+ You can see shared projects  
+ by selecting the Shared With Me tab.  
+ Finally, if you want to narrow your search  
+ to see just the projects you've created,  
+ filter by selecting the Created By Me tab.  
+ Now only the projects I've created are displayed.  
+ I encourage you to explore the Project interface  
+ before creating your first project.  
+ You'll be comfortable  
+ with this Project management tool in no time.  
+ 
+

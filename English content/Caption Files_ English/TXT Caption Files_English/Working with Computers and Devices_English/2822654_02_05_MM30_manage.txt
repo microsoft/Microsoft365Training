@@ -1,0 +1,122 @@
+ - [Instructor] So what exactly does the term windows refer  
+ to in regards to working with computers?  
+ Essentially, any program or application that we open or view  
+ in the operating system is a window.  
+ It's what allows us to see what's going on  
+ in that application and interact with it.  
+ For example, if I come down to the task bar  
+ and open up the File Explorer,  
+ that opens a window that I can use  
+ to browse the contents of my computer,  
+ which is the purpose of File Explorer.  
+ Or if I open up this text editor application,  
+ this is that application's window.  
+ And when I open up the calculator app,  
+ that opens up in its own window as well.  
+ So again, we refer to the area in which we view  
+ and interact with apps and the operating system as windows.  
+ And that term applies whether  
+ you're working with Microsoft Windows 10,  
+ macOS, or some other operating system.  
+ Most windows share common properties.  
+ For one, you can move them around on your screen by clicking  
+ and holding down at the area at the top  
+ and just dragging them around.  
+ When working with multiple windows,  
+ clicking any one of them brings that one to the front  
+ so you can work with it.  
+ And the other windows stay open behind it.  
+ Let's close the text editor with the X button,  
+ and I'll close the calculator as well.  
+ So notice these three buttons  
+ in the upper right hand corner of the windows.  
+ We just saw to close or quit a window,  
+ we click the X button.  
+ Now, sometimes when working in certain applications,  
+ you may need or want the window  
+ to take up the entire screen  
+ so you have more room to work in the window.  
+ To do this in Windows 10,  
+ just click this middle button called the maximize button.  
+ And now this window fills the entire screen.  
+ If that turns out to be larger than you want it to be,  
+ you can return it to its previous size  
+ by clicking what is now called the restore button.  
+ You can adjust the size of windows  
+ by placing the mouse cursor  
+ over the top, bottom, left, or right edge.  
+ So you see this double-headed arrow,  
+ and then click and drag to adjust the height  
+ or width of the window.  
+ Or you can place your cursor over a corner  
+ to get this diagonal double-headed arrow  
+ and drag to adjust the height and width at the same time.  
+ Now, there may be times when you're working  
+ with multiple windows and you want to declutter a bit,  
+ but you also don't want to completely close a certain window  
+ because you want to maintain quick access to its contents.  
+ In those cases, click the third button,  
+ which is the minimize button.  
+ That minimizes the window to the task bar.  
+ To restore a minimized window,  
+ just click its icon in the task bar.  
+ If you have more than one window in a certain app minimized,  
+ for example, if I open up the Recycle Bin window  
+ and I minimize that along with the File Explorer window,  
+ notice when I roll my mouse over the File Explorer icon,  
+ I get a preview of the two minimized windows,  
+ and I can click the one that I want to restore.  
+ I'll just go ahead and close that  
+ along with the Recycle Bin.  
+ Now, you'll often work with multiple applications  
+ and therefore multiple windows simultaneously.  
+ Let's say I need to be working  
+ with both the Microsoft Edge web browser  
+ and Microsoft Word at the same time.  
+ There's a very easy way  
+ to make sure you can see both windows at the same time  
+ without them overlapping each other.  
+ First, let's open up Word.  
+ I'll do this by clicking in the search bar and typing Word.  
+ I can see it's highlighted,  
+ so I just need to press Enter to open up the app.  
+ And I'll double-click to create a new blank document.  
+ I'm going to click the restore button here in Word  
+ to make it its own floating window.  
+ But now I'm going to click and hold its title bar  
+ and drag it to one side of my screen  
+ until I see this highlight appear,  
+ and I can release my mouse.  
+ That snaps the Word window to the left side of the screen.  
+ Now let's open up Microsoft Edge.  
+ And again, I'll just search for Edge,  
+ and I'll press Enter to open it up.  
+ And there it is.  
+ Again, I'll click the restore button.  
+ That allows me to drag the window around.  
+ And this time I'll drag to the right  
+ until I see a highlight.  
+ And when I release my mouse button, it snaps to the right,  
+ and I can see both the Word and Edge application windows  
+ at the same time, and it's easy to click back and forth  
+ between the two of them  
+ to work with the one I need to work with  
+ without hiding the other one.  
+ So for example, I could be doing research in Edge  
+ for a report that I'm typing in Word.  
+ And this continues to work if I need to access more windows.  
+ For example, I'll open up File Explorer again,  
+ and I'll drag it to the right.  
+ That makes it fill half the screen  
+ so I can work with Word and File Explorer together.  
+ But if I need to work with Edge again,  
+ I just click its icon in the task bar,  
+ and it comes to the front of File Explorer,  
+ maintaining its size.  
+ So I could continue to switch back and forth  
+ between Edge and File Explorer as need be.  
+ Knowing how to work with windows is essential  
+ to make it easier for you  
+ to get things done on your computer.  
+ 
+

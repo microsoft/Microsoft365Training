@@ -1,0 +1,108 @@
+1
+00:00:00,004 --> 00:00:02,002
+- [Joni] Have you ever witnessed a presentation
+
+2
+00:00:02,002 --> 00:00:03,006
+that was so text-heavy,
+
+3
+00:00:03,006 --> 00:00:06,004
+you didn't know where to focus your attention?
+
+4
+00:00:06,004 --> 00:00:08,001
+Not a fun experience.
+
+5
+00:00:08,001 --> 00:00:10,007
+Formatting texts into different fonts and colors
+
+6
+00:00:10,007 --> 00:00:12,007
+can help your audience clearly understand
+
+7
+00:00:12,007 --> 00:00:14,007
+your presentation's message.
+
+8
+00:00:14,007 --> 00:00:18,000
+In this lesson, I'll show you how you can use PowerPoint
+
+9
+00:00:18,000 --> 00:00:21,004
+to change the appearance of your presentation's text
+
+10
+00:00:21,004 --> 00:00:23,006
+so that your audience can keep their focus
+
+11
+00:00:23,006 --> 00:00:26,000
+on the most important information.
+
+12
+00:00:26,000 --> 00:00:26,008
+In this example,
+
+13
+00:00:26,008 --> 00:00:29,002
+I open PowerPoint to add to the presentation
+
+14
+00:00:29,002 --> 00:00:32,001
+I'm creating for an upcoming job interview.
+
+15
+00:00:32,001 --> 00:00:35,005
+You can follow along by downloading the sample presentation
+
+16
+00:00:35,005 --> 00:00:37,005
+from the Exercise Files.
+
+17
+00:00:37,005 --> 00:00:39,007
+Now that I have my presentation open,
+
+18
+00:00:39,007 --> 00:00:41,009
+I want to change the font color,
+
+19
+00:00:41,009 --> 00:00:46,009
+so I'll select change font color from the menu,
+
+20
+00:00:46,009 --> 00:00:50,007
+then choose the color I want
+
+21
+00:00:50,007 --> 00:00:55,000
+and watch my highlighted text change to that color.
+
+22
+00:00:55,000 --> 00:00:58,003
+Next, I want to italicize the text.
+
+23
+00:00:58,003 --> 00:01:00,004
+With the text highlighted,
+
+24
+00:01:00,004 --> 00:01:05,001
+I'll select italics from the menu.
+
+25
+00:01:05,001 --> 00:01:07,000
+Looks great.
+
+26
+00:01:07,000 --> 00:01:10,003
+Now you can alter the look of any text you add
+
+27
+00:01:10,003 --> 00:01:13,005
+to a PowerPoint to help your presentation stand out.
+

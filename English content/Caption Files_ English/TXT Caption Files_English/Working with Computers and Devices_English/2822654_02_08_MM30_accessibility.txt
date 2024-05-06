@@ -1,0 +1,71 @@
+ - [Instructor] Modern computer operating systems  
+ are designed with the needs of everyone in mind.  
+ For example, there's a wide range of tools  
+ and accessibility features built into Windows 10  
+ that make it easier to use your computer  
+ if you have certain disabilities or challenges.  
+ These features often need to be enabled  
+ before you can take advantage of them.  
+ Many of the Windows 10 accessibility features can be found  
+ by going to the start menu, to Settings,  
+ and here click Ease of Access.  
+ In the left column, you'll find accessibility categories  
+ to access settings for vision, hearing, and interaction.  
+ For example, under Vision, we can select Display,  
+ and here you can change the size of the text  
+ in applications you're viewing.  
+ The slider here under Make text bigger  
+ lets you customize the default size of text.  
+ When it looks good to you, you can click Apply,  
+ and you can see that instantly makes all the text,  
+ including the text in the Setting window, larger.  
+ I'm going to set that back.  
+ If you need to make not just text larger,  
+ but the windows and other elements as well,  
+ you can select a percentage value here  
+ under Make everything bigger.  
+ You can see mine's currently set to 200%.  
+ If I restore the window here so we can see some  
+ of the elements like the Recycle Bin here,  
+ I can make it larger or even smaller.  
+ I'm going to set that back to the 200% setting where it was.  
+ And below that under Make everything brighter,  
+ you can change the brightness of your display.  
+ Moving to Cursor & pointer size,  
+ here you can make adjustments like increasing the size  
+ of the mouse cursor to make it easier to see.  
+ Notice as I click these, the size changes.  
+ And you can also change its color.  
+ Above that, you can change the thickness of text cursors  
+ so they're easier to see when you're typing.  
+ Next, we have the magnifier.  
+ Enabling the magnifier zooms you into the screen  
+ at the selected size, currently set to 200% here.  
+ And that can make things easier to see or read.  
+ And you can just move your mouse around the screen  
+ to see other parts of the display.  
+ Turn that off again for now.  
+ So those are some of the useful vision settings.  
+ Under Hearing, you can select Audio,  
+ and here you can set alerts where you'll be alerted visually  
+ so you don't miss audible alerts.  
+ So for example, I could choose Flash the active window  
+ so when an application I'm using beeps,  
+ the window I'm currently using will also flash.  
+ Under the Interaction category,  
+ there are several settings based on your interaction  
+ with input devices, like the keyboard, mouse,  
+ speech, and eye control.  
+ Under Keyboard, for example,  
+ there's an option to use an onscreen keyboard  
+ which we can enable.  
+ This is useful on devices without a physical keyboard,  
+ but also for anyone who might have difficulties  
+ using a physical keyboard and can better control the mouse  
+ to input text with this virtual keyboard.  
+ So this has been just a few examples  
+ of the many features found in Windows  
+ and other operating systems that improve accessibility  
+ and allow you to use your computer more effectively.  
+ 
+

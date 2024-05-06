@@ -1,0 +1,52 @@
+ - [Instructor] Once your data is in a list,  
+ it's time to optimize it to be organized and efficient.  
+ In this lesson,  
+ I'll show you how to use List functions that save time  
+ and help you stay organized when managing projects.  
+ I'll start from office.com.  
+ Select the app launcher in the upper left corner  
+ and open Lists.  
+ To get started, I'll go to the checklist for wedding.  
+ Let's start by adding dates to the List items.  
+ To create a date column, I'll select add column  
+ to the right of the last column  
+ and select date and time.  
+ I'll enter due date for the title  
+ and this truly needs to be accomplished by  
+ for the description.  
+ Select save and the due date column is added.  
+ I can also switch to edit and grid view  
+ for another way to view data in Lists.  
+ The edit grid view window is similar  
+ to editing data in a spreadsheet.  
+ I like using this view when I have a lot of data to enter  
+ at one time.  
+ To get started, I'll select edit and grid view  
+ in the top left of the window.  
+ From here, I can easily add multiple due dates.  
+ When I select one of the due date cells,  
+ Lists will display a calendar  
+ so I can easily select the correct date.  
+ I'll pick Friday for the first task  
+ and select the following Friday  
+ for the next two tasks.  
+ To save my changes, on the top select exit grid view.  
+ Next, let's look at creating other list views.  
+ On the top ribbon, select the all items drop down  
+ then choose create new view.  
+ I want to create a calendar view  
+ so I'll select calendar.  
+ Let's name this view checklist due dates.  
+ I want to create a calendar view  
+ so I'll select calendar.  
+ Lists automatically populates the start and end date fields.  
+ I'll select create  
+ and List switches to my new view.  
+ Now you can view tasks by their due date  
+ making it easy to see what's due when.  
+ Now you know how to add dates and creative views  
+ for your lists.  
+ Experiment with different list views  
+ to see which works best for your project.  
+ 
+

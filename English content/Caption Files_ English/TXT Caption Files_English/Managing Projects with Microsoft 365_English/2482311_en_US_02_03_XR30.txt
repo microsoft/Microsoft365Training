@@ -1,0 +1,89 @@
+ - [Narrator] A good plan will not only help you  
+ achieve your goals, but also track  
+ all the moving pieces along the way.  
+ Microsoft Planner is a powerful tool  
+ that helps you keep track of work,  
+ so you can focus on the work itself.  
+ In this lesson, I'll show you how to create your first plan,  
+ organize tasks in the buckets,  
+ and assign them to teammates  
+ to better document your process.  
+ In this example, I'll be creating a plan  
+ for a client for my wedding planning business.  
+ I'll start from office.com.  
+ Select the app launcher in the top left corner,  
+ then open Planner.  
+ I'll select New plan in the upper left corner.  
+ The New Plan dialogue is where you can enter the properties  
+ of your plan and customize the name and details.  
+ I'll name my new plan Lake Wedding.  
+ I'll set the privacy to public,  
+ so everyone on my team can track it.  
+ That looks good.  
+ So I'll select Create plan.  
+ Now I have a brand new plan that's ready to go.  
+ How you organize the plan is important  
+ so everyone can easily see when the tasks are due.  
+ For wedding planning, you might organize by category,  
+ like venue and catering.  
+ For organization, Planner uses buckets,  
+ which are a way of putting related tasks in one place.  
+ I'll add a Catering bucket and a Venue bucket.  
+ Select Add new bucket and enter Catering.  
+ Let's do the same for venue.  
+ Select Add new bucket and enter Venue.  
+ How granular the buckets will be  
+ depends on each project's needs.  
+ For the Catering bucket, I'll add the tasks  
+ that need to be done first,  
+ identify a caterer, have a tasting  
+ and select first course.  
+ Select Add task under Catering.  
+ The new task card appears  
+ and you can enter the name, due date,  
+ and assign it to a person.  
+ For now, I'll keep it simple and only add the task name.  
+ Identify a caterer, then select Add task.  
+ Then I'll do the same for the other tasks.  
+ For the Venue bucket,  
+ I'll include tasks like touring potential venues,  
+ finalizing a venue and placing a deposit.  
+ Select Add task under Venue to add these tasks.  
+ Now this is starting to look like a plan.  
+ Now that I have tasks,  
+ I can assign members of my team to complete these tasks.  
+ Each one of my team members has an area of expertise  
+ and I'll assign the tasks accordingly.  
+ Isaiah knows all the wedding spots in the area,  
+ so I'll assign Isaiah the venue task.  
+ To do this, I'll select finalizing potential venues,  
+ and Planner displays the task properties.  
+ I'll select assign and assign this task to Isaiah  
+ by typing in their name  
+ and choosing it from the dropdown menu.  
+ The Assign task and add user to plan dialogue appears.  
+ I'll select Assign and add.  
+ By assigning and adding, Isaiah is first added to the plan  
+ and the task is assigned to them.  
+ I can also go through and set the due dates of each task.  
+ For this example, I'll set the due date  
+ for the end of the month.  
+ I'll select Due date and select March 31st.  
+ You can use Priority to signify how urgent each task is.  
+ Finalizing the venue is high priority.  
+ So under the Priority dropdown,  
+ I'll set the priority to Important.  
+ Close the Task Properties dialogue  
+ by selecting the X in the upper right corner.  
+ I now see Isaiah is assigned to assist the client  
+ in finalizing the venue  
+ and the task is due at the end of the month.  
+ Isaiah will receive an email with the task assignment,  
+ and that's it.  
+ I've created a plan, organized it by using buckets  
+ and created tasks assigned to my team.  
+ Next time you start a project,  
+ try using Microsoft Planner to create your own plan  
+ and let it help you track your work.  
+ 
+

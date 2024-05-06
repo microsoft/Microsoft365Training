@@ -1,0 +1,56 @@
+ - [Narrator] When you're searching for a job,  
+ you're likely spending valuable time  
+ thinking about your resume, or CV.  
+ You might even want to take it to the next level  
+ and give your resume a brand new professional look.  
+ With Styles, there's a quick and easy way to do just that.  
+ Adjust the font, look and color  
+ of the different parts of your documents.  
+ I'm going to show you  
+ how to make your documents look their best  
+ and stand out from the rest.  
+ To get started, download the sample resume  
+ available in the Exercise Files,  
+ and I'll walk you through how to customize your resume.  
+ Here, you can see I have the file open in Word.  
+ I use the template to create the resume,  
+ but I want to make some slight adjustments  
+ so it looks just right.  
+ To quickly see what different styles are available,  
+ I'll go to the Style tab on the ribbon.  
+ So many great options.  
+ I want to start by changing the style  
+ for my school in the Education section.  
+ So I'll just highlight that portion of text.  
+ Head back to the ribbon.  
+ Select the Style tab. There are several options in styles.  
+ Notice the differences in font color, size  
+ and other text formats, like Emphasis or Bold?  
+ Since I'm adjusting my school to add focus to it,  
+ I'll choose Heading 3.  
+ As you can see,  
+ Word changes the highlighted text to match the style.  
+ Now, there are a lot of options to choose from  
+ in the Styles dropdown,  
+ but you might not find the perfect fit you're looking for.  
+ If you still aren't finding the perfect fit,  
+ you can try to create your own style.  
+ I'll change the style for the name.  
+ With my name already highlighted,  
+ I'll change the font color and make it blue.  
+ And then I'll also put it in Italics.  
+ With that perfect font, color and style picked out,  
+ just head back to Styles  
+ and then choose Create New Style from Formatting.  
+ Give that style a name, and I'll call it Blue Italics  
+ and click OK.  
+ And now, my new original style  
+ will be ready to use elsewhere.  
+ And that's all there is to it.  
+ Styles can help quickly change  
+ multiple formatting options all at once,  
+ standardizing them across your entire document.  
+ Practice your skills by changing the style  
+ of some text in your documents to elevate their look.  
+ 
+

@@ -1,0 +1,66 @@
+ - [Narrator] When you're working on a document,  
+ Word automatically checks for proper spelling and grammar,  
+ which helps contribute to your documents looking  
+ and sounding more professional.  
+ Word auto-corrects a lot of commonly misspelled words  
+ as you type them,  
+ and it also highlights words that thinks may be misspelled.  
+ You'll see a squiggly red line like this one appear  
+ under potentially misspelled words,  
+ and words or phrases that may be grammatically incorrect  
+ or vague will have these double blue underlines.  
+ Just right click an underlined word  
+ to see a list of potential corrections.  
+ If one of the suggestions you see is correct,  
+ just select it and it will instantly be changed  
+ in your document.  
+ If you'd like to review all of the spelling  
+ and grammar corrections at once,  
+ go to the review tab and here click editor.  
+ That opens the editor pane to the right,  
+ which contains suggested corrections and refinements  
+ to help improve your writing.  
+ This allows you to move through the suggestions  
+ in the document one at a time.  
+ I can see there are a total of six suggestions  
+ that it's making in this document.  
+ One spelling suggestion and five grammar suggestions.  
+ So I can select spelling.  
+ That jumps me to the next misspelled word that it finds.  
+ And again, if you agree with one of these suggested fixes,  
+ you can just select it to make that change.  
+ In this case, honors would be correct.  
+ But we can also choose to ignore once,  
+ which moves you to the next suggestion.  
+ Or you can choose ignore all to have Word ignore  
+ a misspelling throughout the entire document.  
+ This can be useful if it flags someone's name  
+ as a misspelling, for example,  
+ and you don't want it highlighted as a misspelling  
+ throughout the entire document.  
+ There's also the option here to add the spelling  
+ to Word's internal dictionary so it won't flag this  
+ as a misspelling in other documents either.  
+ But in this case, this is definitely a misspelling,  
+ so I'm going to make my change by selecting it.  
+ And you can see now I fixed all of the spelling issues  
+ as far as Word is concerned.  
+ Next I can move on to grammar.  
+ It jumps to the word support,  
+ and you can see it currently says  
+ this mission statements support the creation.  
+ That should definitely be supports.  
+ So I could select that there to make that change.  
+ And it jumps to the next one.  
+ Notice when checking grammar,  
+ we also have the ignore once option here.  
+ By clicking that, it jumps to the next issue.  
+ With potential grammatical issues,  
+ you can also expand this area here at the top of the pane  
+ to see where it's grammar advice.  
+ Of course you should always proofread  
+ your documents yourself,  
+ but Word's built in spelling and grammar proofing  
+ can help you fix or improve your writing as well.  
+ 
+

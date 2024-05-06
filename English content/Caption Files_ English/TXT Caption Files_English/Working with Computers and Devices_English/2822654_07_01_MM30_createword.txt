@@ -1,0 +1,62 @@
+ - The first step to working in Microsoft Word is  
+ to open an existing document  
+ or to create a brand-new document.  
+ If you're creating a new document,  
+ you can start from scratch with a completely blank document  
+ or use one of the many available templates included  
+ with Office to create documents  
+ like resumes, flyers, reports, and more.  
+ To create a new document, open up Word.  
+ And from here, we can select Blank document  
+ to instantly create a new empty Word document.  
+ And you can start typing.  
+ Or to create a new document based on a template,  
+ from here, you can go to File, select New,  
+ and below the Blank document option,  
+ you'll find a large collection of templates to choose from.  
+ You can scroll through to browse the templates  
+ or scroll back up and type a search term  
+ to look for online templates.  
+ I'll search for newsletter.  
+ That gives me several results.  
+ Click any template to get a closer look  
+ and to read a description.  
+ And when you find a template you'd like to use,  
+ click Create.  
+ That generates a new document based on that template,  
+ and you can start replacing the placeholder text  
+ and images with your own.  
+ Once you add text and other content to your document,  
+ you should save the document,  
+ so you don't lose your changes.  
+ One way to do this is to click File  
+ and Save As.  
+ Then choose a location to save the file.  
+ If you have a OneDrive account set up,  
+ you can save to your OneDrive folder  
+ to save your document to the cloud,  
+ so you'll be able to access it  
+ from anywhere on any device running Word.  
+ Or you can choose to save it locally  
+ to the computer you're currently using by choosing Browse.  
+ Navigate to the location on your computer  
+ where you want to save your file.  
+ I'll choose my Documents folder.  
+ Then name your file.  
+ I'll call this AugustNewsletter, and I'll click Save.  
+ And now this is saved to my Documents folder.  
+ I can check that by going to the Start menu  
+ and selecting Documents from here  
+ to jump to my Documents folder,  
+ and there's my newsletter.  
+ And now I can close this  
+ and continue working on my newsletter here in Word.  
+ As you work, it's a good idea to periodically save your file  
+ to make sure you don't lose your changes.  
+ Once you've saved your file the first time,  
+ you can quickly save it again by clicking the Save button  
+ at the top of the Word window.  
+ So that's how to create a new document,  
+ start editing it, and how to save it.  
+ 
+

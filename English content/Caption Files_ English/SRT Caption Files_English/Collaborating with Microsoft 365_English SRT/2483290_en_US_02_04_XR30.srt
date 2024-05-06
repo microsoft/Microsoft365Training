@@ -1,0 +1,180 @@
+1
+00:00:00,005 --> 00:00:02,005
+- [Instructor] The first step to understanding data
+
+2
+00:00:02,005 --> 00:00:05,000
+is organizing it in a spreadsheet,
+
+3
+00:00:05,000 --> 00:00:08,005
+but in order to understand what the data really means,
+
+4
+00:00:08,005 --> 00:00:10,009
+you'll want to learn how to visualize it.
+
+5
+00:00:10,009 --> 00:00:13,002
+It can be difficult to get a full picture
+
+6
+00:00:13,002 --> 00:00:16,005
+of monthly expenses just by looking at a worksheet.
+
+7
+00:00:16,005 --> 00:00:19,005
+In this example, I'll bring that data into a chart,
+
+8
+00:00:19,005 --> 00:00:22,002
+so that I can get clarity on key trends,
+
+9
+00:00:22,002 --> 00:00:24,001
+how much money is being spent,
+
+10
+00:00:24,001 --> 00:00:26,007
+what can be done differently in the future?
+
+11
+00:00:26,007 --> 00:00:28,008
+In this lesson, I'm going to show you how
+
+12
+00:00:28,008 --> 00:00:32,001
+to use Excel's charts to visualize data,
+
+13
+00:00:32,001 --> 00:00:34,007
+adding a different view and a new understanding
+
+14
+00:00:34,007 --> 00:00:37,001
+to simple numbers on a spreadsheet.
+
+15
+00:00:37,001 --> 00:00:39,009
+So, go ahead and download the sample budget workbook
+
+16
+00:00:39,009 --> 00:00:43,009
+and the exercise files, so that you can follow along.
+
+17
+00:00:43,009 --> 00:00:47,004
+The first thing to do is select the data.
+
+18
+00:00:47,004 --> 00:00:49,005
+I know I want to have a clearer understanding
+
+19
+00:00:49,005 --> 00:00:53,000
+of my monthly expenses, so I'll highlight
+
+20
+00:00:53,000 --> 00:00:55,004
+my monthly expenses table.
+
+21
+00:00:55,004 --> 00:00:59,001
+I'll select and drag to include the full range.
+
+22
+00:00:59,001 --> 00:01:04,000
+With the data selected, go to the ribbon and select insert.
+
+23
+00:01:04,000 --> 00:01:06,007
+A new ribbon has opened here, with a few options.
+
+24
+00:01:06,007 --> 00:01:09,003
+I'm looking for a visual representation
+
+25
+00:01:09,003 --> 00:01:11,003
+of how my money is spent each month,
+
+26
+00:01:11,003 --> 00:01:14,007
+so a pie chart would be the best choice for me.
+
+27
+00:01:14,007 --> 00:01:20,001
+So, I'll select pie chart and select 2-D Pie.
+
+28
+00:01:20,001 --> 00:01:22,005
+We're going to make my chart a little smaller,
+
+29
+00:01:22,005 --> 00:01:24,008
+so we can see it.
+
+30
+00:01:24,008 --> 00:01:29,000
+You can also drag and drop your chart to move it around.
+
+31
+00:01:29,000 --> 00:01:32,000
+From here, I can see how much of my monthly expenses
+
+32
+00:01:32,000 --> 00:01:34,000
+fall into each category.
+
+33
+00:01:34,000 --> 00:01:36,002
+Now, that I've made my data visual in a chart,
+
+34
+00:01:36,002 --> 00:01:39,000
+it's easy for me to see if any of my expenses
+
+35
+00:01:39,000 --> 00:01:40,007
+need to be adjusted.
+
+36
+00:01:40,007 --> 00:01:45,004
+Looking at how much I spend in entertainment,
+
+37
+00:01:45,004 --> 00:01:47,006
+I think that might be a piece of my budget
+
+38
+00:01:47,006 --> 00:01:50,000
+where I can make some adjustments.
+
+39
+00:01:50,000 --> 00:01:51,009
+Now that you know how to add a chart,
+
+40
+00:01:51,009 --> 00:01:53,007
+you can make visual representations
+
+41
+00:01:53,007 --> 00:01:55,006
+of your own data in a worksheet,
+
+42
+00:01:55,006 --> 00:01:58,006
+or try adding a chart to the sample budget.
+
+43
+00:01:58,006 --> 00:02:00,008
+Experiment with different types of charts
+
+44
+00:02:00,008 --> 00:02:02,002
+to see what they look like
+
+45
+00:02:02,002 --> 00:02:04,007
+and visualize your data in new ways.
+

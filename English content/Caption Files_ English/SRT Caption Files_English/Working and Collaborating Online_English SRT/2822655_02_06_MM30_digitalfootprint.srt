@@ -1,0 +1,300 @@
+1
+00:00:00,005 --> 00:00:02,000
+- [Instructor] If you use the internet,
+
+2
+00:00:02,000 --> 00:00:04,006
+you should be aware of your digital footprint.
+
+3
+00:00:04,006 --> 00:00:06,009
+Just like physical footprints on a dirt path
+
+4
+00:00:06,009 --> 00:00:08,008
+that show where someone has been walking,
+
+5
+00:00:08,008 --> 00:00:10,006
+your digital footprint is the history
+
+6
+00:00:10,006 --> 00:00:12,007
+of all of your online activity.
+
+7
+00:00:12,007 --> 00:00:15,008
+Any social media posts you make, any websites you visit,
+
+8
+00:00:15,008 --> 00:00:17,008
+and any information you share online
+
+9
+00:00:17,008 --> 00:00:20,003
+contributes to your digital footprint.
+
+10
+00:00:20,003 --> 00:00:22,005
+Now, your digital footprint isn't a single item,
+
+11
+00:00:22,005 --> 00:00:24,003
+it's more of the impression and profile
+
+12
+00:00:24,003 --> 00:00:25,005
+that people can build about you
+
+13
+00:00:25,005 --> 00:00:27,006
+by viewing and following what you've done online
+
+14
+00:00:27,006 --> 00:00:31,001
+across various websites and other online services.
+
+15
+00:00:31,001 --> 00:00:32,000
+The thing to keep in mind
+
+16
+00:00:32,000 --> 00:00:33,009
+is that once you post something online,
+
+17
+00:00:33,009 --> 00:00:36,005
+you have no guarantee that it can be erased.
+
+18
+00:00:36,005 --> 00:00:38,000
+If you post something on social media
+
+19
+00:00:38,000 --> 00:00:39,007
+and then delete it from your account,
+
+20
+00:00:39,007 --> 00:00:41,005
+other people may have already seen it,
+
+21
+00:00:41,005 --> 00:00:43,008
+or they might have taken a screenshot of it.
+
+22
+00:00:43,008 --> 00:00:45,002
+So the posts and activity
+
+23
+00:00:45,002 --> 00:00:48,005
+that contribute to your digital footprint can last forever.
+
+24
+00:00:48,005 --> 00:00:50,007
+Now, this can be a good thing if your digital footprint
+
+25
+00:00:50,007 --> 00:00:53,005
+includes things that give you a positive reputation online
+
+26
+00:00:53,005 --> 00:00:56,002
+and help you build your personal brand.
+
+27
+00:00:56,002 --> 00:00:58,004
+Your online history can also help the apps you use
+
+28
+00:00:58,004 --> 00:00:59,009
+to know more about you.
+
+29
+00:00:59,009 --> 00:01:01,009
+They can use this information to serve you better
+
+30
+00:01:01,009 --> 00:01:05,001
+by adjusting to the things you like and your daily habits.
+
+31
+00:01:05,001 --> 00:01:07,002
+But they can also use this information in the wrong way
+
+32
+00:01:07,002 --> 00:01:09,001
+and share it with others.
+
+33
+00:01:09,001 --> 00:01:11,002
+Keep the following tips in mind when you go online
+
+34
+00:01:11,002 --> 00:01:13,004
+to manage your digital footprint.
+
+35
+00:01:13,004 --> 00:01:16,000
+First, know what your footprint says about you.
+
+36
+00:01:16,000 --> 00:01:17,003
+People who search for you online
+
+37
+00:01:17,003 --> 00:01:19,009
+will make judgements about you based on what they find.
+
+38
+00:01:19,009 --> 00:01:22,004
+This can include employers when you apply for a job,
+
+39
+00:01:22,004 --> 00:01:26,000
+or recruiters when you apply for academic programs.
+
+40
+00:01:26,000 --> 00:01:26,008
+It's important to know
+
+41
+00:01:26,008 --> 00:01:28,003
+what your digital footprint says about you
+
+42
+00:01:28,003 --> 00:01:31,000
+and how your information is being used.
+
+43
+00:01:31,000 --> 00:01:32,008
+To see what your personal brand is online,
+
+44
+00:01:32,008 --> 00:01:34,007
+you can search for yourself.
+
+45
+00:01:34,007 --> 00:01:36,002
+Search for your name in a search engine
+
+46
+00:01:36,002 --> 00:01:38,004
+and see what results are displayed.
+
+47
+00:01:38,004 --> 00:01:40,008
+If these results don't show you what you want,
+
+48
+00:01:40,008 --> 00:01:42,003
+think about what you share online
+
+49
+00:01:42,003 --> 00:01:45,002
+and what information you allow other people to see.
+
+50
+00:01:45,002 --> 00:01:48,004
+Secondly, actively manage your privacy settings.
+
+51
+00:01:48,004 --> 00:01:50,000
+You can modify the privacy settings
+
+52
+00:01:50,000 --> 00:01:51,005
+of most of the social media sites
+
+53
+00:01:51,005 --> 00:01:53,006
+and online applications you use.
+
+54
+00:01:53,006 --> 00:01:55,008
+This can help you control who sees what you share
+
+55
+00:01:55,008 --> 00:01:57,001
+and what information shows up
+
+56
+00:01:57,001 --> 00:01:59,008
+when someone searches for you online.
+
+57
+00:01:59,008 --> 00:02:01,008
+Third, manage your cookies.
+
+58
+00:02:01,008 --> 00:02:03,008
+Cookies are notes given to your web browser
+
+59
+00:02:03,008 --> 00:02:05,002
+as you browse the web.
+
+60
+00:02:05,002 --> 00:02:07,005
+These cookies help apps track information that they need
+
+61
+00:02:07,005 --> 00:02:09,001
+while you're using the app.
+
+62
+00:02:09,001 --> 00:02:11,002
+This can help the app work better for you.
+
+63
+00:02:11,002 --> 00:02:13,008
+But this data also contributes to your digital footprint
+
+64
+00:02:13,008 --> 00:02:15,007
+as it allows other sites to gain information
+
+65
+00:02:15,007 --> 00:02:18,005
+about the sites you visit and your interests.
+
+66
+00:02:18,005 --> 00:02:20,001
+You can use the settings in your web browser
+
+67
+00:02:20,001 --> 00:02:23,006
+to limit or block the use of cookies on certain websites.
+
+68
+00:02:23,006 --> 00:02:26,002
+And fourth, think before you share.
+
+69
+00:02:26,002 --> 00:02:28,001
+Behave like once you share something online,
+
+70
+00:02:28,001 --> 00:02:31,006
+you can't take it back, because that's often the case.
+
+71
+00:02:31,006 --> 00:02:32,008
+Make sure you're okay with something
+
+72
+00:02:32,008 --> 00:02:35,006
+being part of your public persona before you share it
+
+73
+00:02:35,006 --> 00:02:39,001
+because your digital footprint can live indefinitely online.
+
+74
+00:02:39,001 --> 00:02:41,001
+So keep these tips in mind to make sure you're happy
+
+75
+00:02:41,001 --> 00:02:43,004
+with your digital footprint and how it's used.
+

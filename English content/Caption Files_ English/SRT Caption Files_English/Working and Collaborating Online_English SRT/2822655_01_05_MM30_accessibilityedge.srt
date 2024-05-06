@@ -1,0 +1,308 @@
+1
+00:00:00,005 --> 00:00:02,000
+- [Instructor] An important aspect of the web
+
+2
+00:00:02,000 --> 00:00:04,004
+is that the information found there should be available
+
+3
+00:00:04,004 --> 00:00:06,008
+and accessible to everyone equally.
+
+4
+00:00:06,008 --> 00:00:09,009
+That's why both modern websites and modern web browsers
+
+5
+00:00:09,009 --> 00:00:12,008
+include accessibility features and options to help people
+
+6
+00:00:12,008 --> 00:00:16,000
+browse the web in the way that best suits their needs.
+
+7
+00:00:16,000 --> 00:00:18,006
+For example, the Microsoft Edge browser includes options
+
+8
+00:00:18,006 --> 00:00:21,005
+to assist people who may have vision or motor impairments
+
+9
+00:00:21,005 --> 00:00:23,009
+better navigate the web pages they visit.
+
+10
+00:00:23,009 --> 00:00:26,004
+You can zoom into a webpage by pressing the Control button
+
+11
+00:00:26,004 --> 00:00:29,009
+and the plus sign on your keyboard.
+
+12
+00:00:29,009 --> 00:00:32,001
+And that can make it easier to read the text and to see
+
+13
+00:00:32,001 --> 00:00:33,007
+the images on the page.
+
+14
+00:00:33,007 --> 00:00:35,007
+Similarly, pressing Control and the minus key
+
+15
+00:00:35,007 --> 00:00:38,002
+lets you zoom out, which can make it easier to get
+
+16
+00:00:38,002 --> 00:00:41,007
+a view of the entire page and orient yourself to its layout.
+
+17
+00:00:41,007 --> 00:00:43,006
+Alternately, if you have trouble pressing multiple keys
+
+18
+00:00:43,006 --> 00:00:45,006
+at the same time to use the zoom feature,
+
+19
+00:00:45,006 --> 00:00:47,006
+you can also hold the Control key with one hand
+
+20
+00:00:47,006 --> 00:00:50,003
+and turn the scroll wheel on your mouse to zoom in and out.
+
+21
+00:00:50,003 --> 00:00:52,006
+And pressing Control-zero resets the page back
+
+22
+00:00:52,006 --> 00:00:54,002
+to its default size.
+
+23
+00:00:54,002 --> 00:00:55,007
+Another option for reading web pages
+
+24
+00:00:55,007 --> 00:00:57,008
+is the Immersive Reader feature.
+
+25
+00:00:57,008 --> 00:00:59,008
+This is only available or partially available
+
+26
+00:00:59,008 --> 00:01:01,006
+on some webpages.
+
+27
+00:01:01,006 --> 00:01:03,004
+If it's available on the page you're viewing,
+
+28
+00:01:03,004 --> 00:01:04,008
+you'll find the Immersive Reader button here
+
+29
+00:01:04,008 --> 00:01:07,005
+in the address bar of Edge.
+
+30
+00:01:07,005 --> 00:01:09,009
+And as you can see, that displays the text on the page
+
+31
+00:01:09,009 --> 00:01:12,000
+at a larger size and in a cleaner layout
+
+32
+00:01:12,000 --> 00:01:13,008
+with fewer distractions.
+
+33
+00:01:13,008 --> 00:01:16,006
+At the top of the screen, you can click on Text preferences
+
+34
+00:01:16,006 --> 00:01:18,004
+to adjust how the text is displayed and the color
+
+35
+00:01:18,004 --> 00:01:20,001
+of the background it appears on.
+
+36
+00:01:20,001 --> 00:01:22,007
+So I can make the text larger and maybe change it
+
+37
+00:01:22,007 --> 00:01:24,006
+to white on black.
+
+38
+00:01:24,006 --> 00:01:26,007
+For some people, higher contrast themes like this
+
+39
+00:01:26,007 --> 00:01:28,008
+make it easier to read text.
+
+40
+00:01:28,008 --> 00:01:30,004
+I'll close the Immersive Reader view by clicking
+
+41
+00:01:30,004 --> 00:01:31,006
+its button again.
+
+42
+00:01:31,006 --> 00:01:34,005
+You can even have Edge read web pages aloud to you.
+
+43
+00:01:34,005 --> 00:01:36,001
+This can be useful if you have difficulty reading
+
+44
+00:01:36,001 --> 00:01:38,005
+long passages of text, for example.
+
+45
+00:01:38,005 --> 00:01:40,006
+Just right-click on the text you want to have read to you
+
+46
+00:01:40,006 --> 00:01:43,005
+and choose Read aloud and Edge will read and highlight
+
+47
+00:01:43,005 --> 00:01:45,007
+the words as it speaks them.
+
+48
+00:01:45,007 --> 00:01:48,001
+- [Edge] As people continue to turn to online learning
+
+49
+00:01:48,001 --> 00:01:50,006
+to adapt, many people are investing
+
+50
+00:01:50,006 --> 00:01:53,004
+in this highly strategic skill.
+
+51
+00:01:53,004 --> 00:01:56,000
+While all levels within the organization.
+
+52
+00:01:56,000 --> 00:01:57,005
+- [Instructor] And I can pause that with the controls
+
+53
+00:01:57,005 --> 00:01:58,009
+at the top of the screen.
+
+54
+00:01:58,009 --> 00:02:01,004
+You can also click voice options to adjust the speed
+
+55
+00:02:01,004 --> 00:02:04,001
+it reads to you and the voice it uses.
+
+56
+00:02:04,001 --> 00:02:06,003
+And for users who may have difficulty using a mouse
+
+57
+00:02:06,003 --> 00:02:09,006
+when browsing, Edge includes several keyboard shortcuts.
+
+58
+00:02:09,006 --> 00:02:11,007
+Press F6 on the keyboard to cycle through the elements
+
+59
+00:02:11,007 --> 00:02:14,007
+of the browser like the tab bar, the address bar,
+
+60
+00:02:14,007 --> 00:02:17,002
+the content of the web page, and so on.
+
+61
+00:02:17,002 --> 00:02:18,006
+So for example, I have two other tabs open.
+
+62
+00:02:18,006 --> 00:02:22,002
+So I can press F6 until I see the first tab highlight.
+
+63
+00:02:22,002 --> 00:02:25,001
+And then use the arrow keys on my keyboard to navigate
+
+64
+00:02:25,001 --> 00:02:28,002
+to the tab I want to view.
+
+65
+00:02:28,002 --> 00:02:30,006
+And press Enter to bring it to the front.
+
+66
+00:02:30,006 --> 00:02:34,004
+Or I can press F6 until the address bar is highlighted
+
+67
+00:02:34,004 --> 00:02:37,006
+so I can type in the address of the website I want to visit.
+
+68
+00:02:37,006 --> 00:02:39,004
+Pressing the Tab key lets you move forward
+
+69
+00:02:39,004 --> 00:02:41,002
+through the elements on the page.
+
+70
+00:02:41,002 --> 00:02:43,003
+That includes links, text fields on forms,
+
+71
+00:02:43,003 --> 00:02:44,006
+and the address bar.
+
+72
+00:02:44,006 --> 00:02:47,005
+And Shift-Tab lets you move backwards.
+
+73
+00:02:47,005 --> 00:02:49,009
+And pressing Shift-F10 is like right-clicking
+
+74
+00:02:49,009 --> 00:02:52,001
+on a selected element.
+
+75
+00:02:52,001 --> 00:02:54,006
+These are just a few examples of the accessibility features
+
+76
+00:02:54,006 --> 00:02:57,004
+built into Microsoft Edge that make it easier for everyone
+
+77
+00:02:57,004 --> 00:02:59,005
+to browse and interact with webpages.
+

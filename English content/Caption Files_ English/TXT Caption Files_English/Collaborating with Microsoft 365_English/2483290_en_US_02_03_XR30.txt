@@ -1,0 +1,55 @@
+ - [Instructor] Data is everywhere in the digital world.  
+ With so much information on your screens and in your life,  
+ it can be tough to keep track of everything.  
+ What's great about Excel is that once you have your data  
+ on a table, it's much easier to organize  
+ and locate what you're looking for.  
+ In this lesson,  
+ I'm going to show you how to sort your data in a table  
+ to find the information you need.  
+ To get started, download and open  
+ the sample budget exercise file in Excel.  
+ Now that I have the document open,  
+ you can see that expense items  
+ and amounts are already formatted as a table,  
+ but they're not in any particular order.  
+ I want to see my most expensive expense.  
+ So I'll need to use sort and filter.  
+ Sorting allows you to organize the data in a specific order.  
+ To sort my data, I'll go to the header of my table  
+ and select the Filter and Sort button  
+ on the column I want to sort.  
+ In the menu that appears,  
+ I can choose from a variety of ways to sort the data.  
+ Because I want to see my most expensive items first,  
+ I'll select Sort Largest to Smallest.  
+ Now, the expenses are sorted  
+ from the highest expense to the lowest expense.  
+ Sorting in this way can come in handy  
+ when prioritizing which expenses  
+ have the highest impact on a monthly budget.  
+ In addition to sorting expenses by cost,  
+ you can also sort them by name.  
+ To sort by name, return to the top of the items column,  
+ select Filter and Sort, and choose Sort A to Z.  
+ Now, instead of the list being in order  
+ from most expensive to least,  
+ the budget items are sorted alphabetically.  
+ This is useful if you have a long list of items  
+ and you want to find one by name.  
+ You can also filter the data in a table.  
+ Filtering allows you to more easily see the data  
+ you're looking for by temporarily limiting what's visible.  
+ For example, I can filter my table  
+ to only show the expenses that are $200.  
+ Simply select the Filter and Sort button,  
+ deselect Select All,  
+ and select $200 and select Apply.  
+ This will show only the expenses that are $200.  
+ I can select  
+ Select All to select all of my expenses again.  
+ Now that you know how to sort and filter data in Excel,  
+ you can arrange any type of data  
+ in a way that works for you.  
+ 
+

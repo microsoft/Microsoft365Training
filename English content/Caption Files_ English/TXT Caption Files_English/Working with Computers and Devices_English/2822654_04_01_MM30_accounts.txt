@@ -1,0 +1,101 @@
+ - If you share a computer with others,  
+ it's a good idea for each user to have their own account.  
+ Everyone having their own account  
+ is better for security reasons.  
+ For instance no one can access anyone else's account  
+ without their password.  
+ But it's also good for personal organization  
+ of everyone's files.  
+ Meaning your files won't be mixed in  
+ with everyone else's files.  
+ All modern operating systems with the exception  
+ of some mobile operating systems,  
+ allow you to create individual accounts  
+ for each separate user of that computer.  
+ In Windows 10, for example,  
+ you can create new user accounts  
+ by going to the start menu, opening settings,  
+ going to accounts, and selecting family and other users.  
+ And from here, you can add a family member if for instance,  
+ you want to add an account for a kid that you can monitor,  
+ or you can choose add someone else to this PC  
+ to create an individual user account for someone  
+ who's not part of your family.  
+ I'll just close that for now.  
+ So again the point of having individual accounts  
+ is that each account on the computer is password protected  
+ so only the individual user can access to that account,  
+ which in turn provides more security  
+ for everyone else's files.  
+ Each user has their own user folder on the computer.  
+ Let's see how to get to that user folder  
+ so we can take a closer look at it.  
+ Now there are faster ways to get  
+ to some of the folders inside your user folder  
+ than what I'm about to show you.  
+ But I also want you to see exactly  
+ where this folder is located. So bear with me.  
+ Currently I don't have any windows  
+ or any applications running.  
+ I'm going to open up File Explorer  
+ by clicking this icon here in the task bar.  
+ And then in the left sidebar of the window  
+ that opens under this PC, I'm going to select local disc.  
+ This local disc labeled the C drive  
+ is my main or startup hard drive containing  
+ the operating system and other important folders.  
+ Now most of these folders you see here  
+ are for the windows operating systems use,  
+ and you generally don't want to mess around in them  
+ unless you know what you're doing.  
+ But this is also where you'll find the user's folder.  
+ I'll double click it to open it.  
+ In the user's folder,  
+ you'll find a folder for each account on your computer  
+ with the user's name on it,  
+ or whatever the name of the account is.  
+ To view the contents of your user folder, double click it.  
+ So again your user folder is your folder.  
+ It's where you can store all of your documents,  
+ music, photos, videos, and so on.  
+ Now you can store files in other parts of your hard drive,  
+ but there are very few reasons to do that.  
+ It's best to keep all of your personal files here  
+ in your user folder so they're all in one central location.  
+ You're also free to create additional folders  
+ in your user folder or within any of these default folders  
+ as your needs require.  
+ Anytime you're using an application  
+ and you want to save a file, for example,  
+ if you're writing a paper and you want to save it,  
+ you should navigate to your documents folder,  
+ or into a folder you have nested inside  
+ the documents folder.  
+ If you're saving photos, save them to your pictures folder.  
+ And so on.  
+ This keeps everything organized  
+ and in one central location  
+ for each individual user on the computer.  
+ Notice you can quickly access these folders  
+ from the left sidebar as well.  
+ I can click on documents to get to my documents folder,  
+ or music to get to my music folder.  
+ To set up a faster way to get to your user folder,  
+ you can click the start menu to go back to settings.  
+ Here's like the personalization, and choose start.  
+ Then click choose which folders appear on start.  
+ From here you can choose which of your personal folders  
+ will show up in the start menu.  
+ So if you often need to open the document folder,  
+ you can make sure documents is enabled here.  
+ But I actually prefer to enable the personal folder,  
+ which is another name for your user folder.  
+ So if I close this now, when I click the start menu,  
+ notice we can now find personal folder.  
+ And that way I can get to all of my folders quickly  
+ without cluttering up my start menu too much.  
+ So that's your user folder in Windows.  
+ Again I highly recommend that you store and organize  
+ all of your personal files and other media in this location.  
+ 
+

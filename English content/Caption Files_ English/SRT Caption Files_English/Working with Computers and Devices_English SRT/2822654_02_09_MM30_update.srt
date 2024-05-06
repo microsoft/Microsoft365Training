@@ -1,0 +1,148 @@
+1
+00:00:00,005 --> 00:00:02,001
+- [Narrator] An important part of making sure your computer
+
+2
+00:00:02,001 --> 00:00:04,007
+and its programs continue to run smoothly
+
+3
+00:00:04,007 --> 00:00:07,002
+is to periodically check for and install updates
+
+4
+00:00:07,002 --> 00:00:08,009
+to your operating system.
+
+5
+00:00:08,009 --> 00:00:10,004
+For example, both Microsoft and Apple
+
+6
+00:00:10,004 --> 00:00:13,002
+frequently release updates to their Windows
+
+7
+00:00:13,002 --> 00:00:15,000
+and Mac OS operating systems,
+
+8
+00:00:15,000 --> 00:00:18,003
+often fixing bugs and adding new features.
+
+9
+00:00:18,003 --> 00:00:20,000
+To check for updates in Windows 10,
+
+10
+00:00:20,000 --> 00:00:22,005
+go to the start menu,
+
+11
+00:00:22,005 --> 00:00:27,007
+to settings, and select update and security.
+
+12
+00:00:27,007 --> 00:00:29,006
+Make sure Windows update is selected
+
+13
+00:00:29,006 --> 00:00:32,000
+and then click check for updates.
+
+14
+00:00:32,000 --> 00:00:33,007
+As long as you're connected to the internet,
+
+15
+00:00:33,007 --> 00:00:37,005
+Windows will check for system and security-related updates.
+
+16
+00:00:37,005 --> 00:00:38,006
+If any updates are available,
+
+17
+00:00:38,006 --> 00:00:40,006
+you'll see the progress of them being downloaded
+
+18
+00:00:40,006 --> 00:00:42,004
+and you'll have the option to install them,
+
+19
+00:00:42,004 --> 00:00:44,005
+which often involves restarting your computer.
+
+20
+00:00:44,005 --> 00:00:45,007
+So it's a good idea to make sure you're not working
+
+21
+00:00:45,007 --> 00:00:47,008
+in other applications or on any projects
+
+22
+00:00:47,008 --> 00:00:50,009
+when you're checking for and installing updates.
+
+23
+00:00:50,009 --> 00:00:52,002
+You can see I currently see this message
+
+24
+00:00:52,002 --> 00:00:53,006
+saying that I'm up to date,
+
+25
+00:00:53,006 --> 00:00:56,008
+meaning there are no system or security updates available,
+
+26
+00:00:56,008 --> 00:00:58,006
+but notice there is a feature update available
+
+27
+00:00:58,006 --> 00:01:00,001
+to my version of Windows 10.
+
+28
+00:01:00,001 --> 00:01:01,004
+And if I'm ready to install that,
+
+29
+00:01:01,004 --> 00:01:06,002
+I can click download and install now to begin that process.
+
+30
+00:01:06,002 --> 00:01:07,008
+And you can see now we'll go through the process
+
+31
+00:01:07,008 --> 00:01:09,008
+of updating Windows.
+
+32
+00:01:09,008 --> 00:01:11,008
+But again, if you don't see any available updates,
+
+33
+00:01:11,008 --> 00:01:14,002
+it means your computer is already up to date.
+
+34
+00:01:14,002 --> 00:01:16,003
+But you can still check back here periodically
+
+35
+00:01:16,003 --> 00:01:18,006
+to see if any updates have been released.
+
+36
+00:01:18,006 --> 00:01:20,005
+Again, it's a good idea to install updates
+
+37
+00:01:20,005 --> 00:01:23,001
+to make sure your computer continues to run smoothly.
+

@@ -1,0 +1,51 @@
+ - [Instructor] You can use Outlook to keep track  
+ of your personal appointments  
+ as well as schedule meetings with other people.  
+ In Outlook, switch to the calendar view  
+ by clicking this icon in the navigation area  
+ at the bottom of the window.  
+ I'm currently viewing my calendar by the month,  
+ but you can click the options in the ribbon  
+ under the Home tab to also be your calendar by day,  
+ the workweek, or the entire week as well.  
+ I'll switch back to the month view for now.  
+ Start by selecting the date of the appointment  
+ or meeting you want to add to your calendar.  
+ Then, you can click New Appointment or New Meeting.  
+ The difference between an appointment  
+ and a meeting is that you can invite others to meetings  
+ and appointments are generally events  
+ you'll attend on your own or without inviting others.  
+ I'll choose New Appointment.  
+ Here, enter the title of your appointment,  
+ and because we selected the date first,  
+ it should already be filled out correctly  
+ in the start time area,  
+ but you can change it here if necessary.  
+ Then, select the time of the appointment  
+ and then, enter the end time  
+ to block off that time on your calendar.  
+ You can also select All day to designate  
+ the appointment as an all day event,  
+ rather than taking place at a specific time.  
+ I'll uncheck that for now, and then, click Save & Close.  
+ And now, that appointment is on my calendar.  
+ Adding a meeting is very similar.  
+ Just click the date of the meeting  
+ and then, click New Meeting.  
+ Again, enter a title.  
+ In the Required area, you'll add the names of people  
+ who are required to attend this meeting.  
+ If you've previously created a contact group,  
+ you can type the group's name here.  
+ You can also enter the contact info for people  
+ for whom the meeting is optional.  
+ If necessary, you can add other details like the location.  
+ Then, click Send.  
+ That adds the appointment to your calendar  
+ and also emails the meeting invite  
+ and details to the contacts you added.  
+ So that's how to set up appointments  
+ and meetings in Outlook.  
+ 
+

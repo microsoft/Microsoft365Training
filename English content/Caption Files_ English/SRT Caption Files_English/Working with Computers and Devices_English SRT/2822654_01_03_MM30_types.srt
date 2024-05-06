@@ -1,0 +1,260 @@
+1
+00:00:01,000 --> 00:00:03,009
+- As you know, computers come in many different forms
+
+2
+00:00:03,009 --> 00:00:06,001
+from desktop computers to laptops,
+
+3
+00:00:06,001 --> 00:00:08,004
+to tablets and mobile phones.
+
+4
+00:00:08,004 --> 00:00:11,007
+These are sometimes referred to as personal computers
+
+5
+00:00:11,007 --> 00:00:13,008
+to distinguish them from other types of computers,
+
+6
+00:00:13,008 --> 00:00:17,006
+like calculators, smart TVs, or gaming consoles,
+
+7
+00:00:17,006 --> 00:00:20,001
+which are all technically computers too.
+
+8
+00:00:20,001 --> 00:00:21,009
+Let's take a moment here to look at the different
+
+9
+00:00:21,009 --> 00:00:24,002
+characteristics of the most common types of personal
+
+10
+00:00:24,002 --> 00:00:27,007
+computers and the types of uses that are best suited for,
+
+11
+00:00:27,007 --> 00:00:31,001
+a desktop computer is a computer that's designed to stay
+
+12
+00:00:31,001 --> 00:00:33,004
+in one place, like your office work area
+
+13
+00:00:33,004 --> 00:00:35,008
+or some other semi-permanent location
+
+14
+00:00:35,008 --> 00:00:37,006
+in your home or office.
+
+15
+00:00:37,006 --> 00:00:40,005
+Desktop computers are typically comprised of separate pieces
+
+16
+00:00:40,005 --> 00:00:43,005
+for the base unit, the monitor, the keyboard,
+
+17
+00:00:43,005 --> 00:00:45,003
+mouse and speakers.
+
+18
+00:00:45,003 --> 00:00:47,002
+These separate pieces, as well as the fact
+
+19
+00:00:47,002 --> 00:00:49,000
+that desktop computers have to be plugged
+
+20
+00:00:49,000 --> 00:00:50,006
+into an electrical outlet,
+
+21
+00:00:50,006 --> 00:00:52,008
+make them impractical for moving them
+
+22
+00:00:52,008 --> 00:00:54,008
+from location to location.
+
+23
+00:00:54,008 --> 00:00:57,008
+Laptop computers, on the other hand are computers
+
+24
+00:00:57,008 --> 00:01:00,005
+that are designed to be portable and all the necessary parts
+
+25
+00:01:00,005 --> 00:01:03,004
+to use the computer from the monitor, to the speakers,
+
+26
+00:01:03,004 --> 00:01:05,005
+to the keyboard and track pad mouse
+
+27
+00:01:05,005 --> 00:01:07,008
+are all contained in one device.
+
+28
+00:01:07,008 --> 00:01:10,001
+Laptops are also battery powered,
+
+29
+00:01:10,001 --> 00:01:11,007
+so you don't have to keep them plugged into an
+
+30
+00:01:11,007 --> 00:01:13,001
+outlet to use them.
+
+31
+00:01:13,001 --> 00:01:15,004
+Making them ideal for using in different areas
+
+32
+00:01:15,004 --> 00:01:18,000
+of your home or on the road.
+
+33
+00:01:18,000 --> 00:01:21,009
+Now, tablet computers are another type of portable computer,
+
+34
+00:01:21,009 --> 00:01:24,009
+usually even smaller and lighter than laptops.
+
+35
+00:01:24,009 --> 00:01:28,000
+Instead of having a physical keyboard and track pad,
+
+36
+00:01:28,000 --> 00:01:29,006
+tablets are touch sensitive,
+
+37
+00:01:29,006 --> 00:01:32,000
+meaning you tap and interact directly with the items
+
+38
+00:01:32,000 --> 00:01:33,007
+on the screen with your fingers,
+
+39
+00:01:33,007 --> 00:01:37,003
+or sometimes with a special pen called a stylus.
+
+40
+00:01:37,003 --> 00:01:38,009
+And when you need to input text,
+
+41
+00:01:38,009 --> 00:01:41,006
+a screen-based keyboard will appear.
+
+42
+00:01:41,006 --> 00:01:43,004
+Like desktop and laptop computers,
+
+43
+00:01:43,004 --> 00:01:46,003
+you can install software applications on tablets for work,
+
+44
+00:01:46,003 --> 00:01:49,000
+but they're lightweight and size also makes
+
+45
+00:01:49,000 --> 00:01:51,003
+them ideal for entertainment like for reading
+
+46
+00:01:51,003 --> 00:01:54,001
+electronic books or watching movies.
+
+47
+00:01:54,001 --> 00:01:56,003
+And lastly, smartphones are another type
+
+48
+00:01:56,003 --> 00:01:58,005
+of common personal computing device.
+
+49
+00:01:58,005 --> 00:02:00,009
+That's small enough to be held in one hand.
+
+50
+00:02:00,009 --> 00:02:02,005
+Like the other devices we've looked at,
+
+51
+00:02:02,005 --> 00:02:05,003
+you can install software on smartphones
+
+52
+00:02:05,003 --> 00:02:06,006
+to accomplish all sorts of tasks.
+
+53
+00:02:06,006 --> 00:02:08,006
+Although their size generally doesn't make them ideal
+
+54
+00:02:08,006 --> 00:02:10,006
+for complicated work.
+
+55
+00:02:10,006 --> 00:02:12,007
+Now, smartphones connect to mobile networks
+
+56
+00:02:12,007 --> 00:02:14,002
+to let you make phone calls,
+
+57
+00:02:14,002 --> 00:02:17,001
+but this connection also gives you access to the internet,
+
+58
+00:02:17,001 --> 00:02:19,007
+making it possible to communicate with others,
+
+59
+00:02:19,007 --> 00:02:22,004
+access your email, share files,
+
+60
+00:02:22,004 --> 00:02:25,001
+and perform a variety of other online tasks that other
+
+61
+00:02:25,001 --> 00:02:28,001
+personal computers typically require a wifi internet
+
+62
+00:02:28,001 --> 00:02:30,000
+connection to accomplish.
+
+63
+00:02:30,000 --> 00:02:31,007
+So depending on your needs,
+
+64
+00:02:31,007 --> 00:02:34,005
+you may find yourself using one or a combination of these
+
+65
+00:02:34,005 --> 00:02:37,003
+types of personal computing devices to get things done.
+

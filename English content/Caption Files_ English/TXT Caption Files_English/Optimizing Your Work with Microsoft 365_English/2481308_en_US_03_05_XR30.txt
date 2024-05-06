@@ -1,0 +1,97 @@
+ - [Instructor] Creating and delivering presentations  
+ is an important skill to have in the workplace.  
+ When you create a presentation,  
+ you need to consider accessibility  
+ to ensure it has an inclusive delivery format.  
+ In this lesson, I'm going to show you  
+ how to make your presentations more accessible  
+ and make sure no one is left out.  
+ Before I dive in, I want to review a few key terms.  
+ The accessibility checker allows you  
+ to review the accessibility of your presentation.  
+ It suggests how to address issues using alternative text  
+ with all visual elements.  
+ When you use the accessibility checker,  
+ you'll see an accessibility panel with four areas -  
+ errors, warnings, tips and intelligent services.  
+ Errors are elements of your presentation  
+ that make it difficult for someone to use.  
+ Warnings include content that could be difficult  
+ for people with disabilities to understand  
+ which could be related to contrast or format.  
+ Tips: Address accessibility issues  
+ which could be better presented or described.  
+ Intelligent services uses alternative text  
+ to describe low vision images or graphics.  
+ And alternative text or alt text for short  
+ is descriptive text which conveys the meaning and context  
+ of a visual item in a digital setting.  
+ Alt text allows screen reader software  
+ to describe the images and other non-text content  
+ that a user cannot see.  
+ Okay, now I want to show you these tools in action.  
+ To start, open the presentation in PowerPoint.  
+ Follow along by downloading the sample presentation  
+ in your exercise files.  
+ It's called Customer Event Example (B).  
+ Go to the top ribbon and select review,  
+ then check accessibility.  
+ The accessibility panel appears on the right of the screen  
+ next to the slide.  
+ This presentation has errors and warnings.  
+ First, I'll select the error icon  
+ to see what the error is and how it can be addressed.  
+ The error states missing alternative text.  
+ This means alt text needs to be added to the image.  
+ Select it and PowerPoint takes you to the error  
+ on the presentation.  
+ Right-click the image and select alt text  
+ and enter a short description.  
+ It's best to convey the content and purpose of the image  
+ with a short description, no more than two sentences long.  
+ I'll type, handshake with people.  
+ I can also select the generate a description for me button  
+ underneath the description box.  
+ I'll delete what I just typed.  
+ And select generate a description for me  
+ and watch the alt text appear beneath the image.  
+ Okay, the error is resolved so I can close the alt text box  
+ and select recheck in the accessibility window.  
+ Select the warnings button.  
+ The accessibility checker tells me that  
+ there is hard to read text contrast.  
+ I'll select the dropdown and select this issue.  
+ The table has contrast issues  
+ which means the colors are too similar.  
+ To fix this, select the table,  
+ navigate to the top ribbon and select table.  
+ From here, select cell shading  
+ and pick a color that has a deeper tone  
+ to differentiate the colors.  
+ I'll choose blue.  
+ I'll select recheck again, and see the warning is gone.  
+ When it comes time to deliver your presentation,  
+ it's important to consider those with hearing difficulties.  
+ Adding subtitles ensures that everyone can follow along  
+ with what is being said during the presentation.  
+ To add subtitles, go to the slideshow tab on the top ribbon.  
+ Select always use subtitles  
+ and then, the spoken and subtitle languages in the dropdown.  
+ You can also specify where the subtitles will appear  
+ and which microphone the app will use.  
+ Now when you're presenting, the microphone icon will be red  
+ to indicate that it is live and ready for you to speak.  
+ It will pick up your voice as you present  
+ and the corresponding subtitles will appear.  
+ Calendars help people organize their schedules.  
+ Make sure to speak clearly and slowly  
+ so that your voice is picked up appropriately.  
+ If you want to turn off the subtitles  
+ during your presentation, select the use subtitles button  
+ indicated by a monitor icon on the toolbar  
+ in the lower left corner.  
+ Try using these accessibility features  
+ in your next presentation  
+ to help you share your ideas inclusively.  
+ 
+

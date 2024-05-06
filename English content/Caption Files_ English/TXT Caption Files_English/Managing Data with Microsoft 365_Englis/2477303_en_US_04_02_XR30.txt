@@ -1,0 +1,80 @@
+ - [Instructor] Before you can start  
+ creating cool visualizations,  
+ you'll need to know the common functions,  
+ and the screens used to import and review data.  
+ In this lesson,  
+ I'll show you how to navigate Power BI Desktop,  
+ and connect the importance of reports  
+ to the structure of the program.  
+ You can install Power BI on your PC  
+ by going to the Microsoft Store,  
+ and searching for Power BI.  
+ When you open Power BI Desktop,  
+ you'll see the start screen.  
+ Here you can see what's new,  
+ the Power BI blog,  
+ forums and various tutorials.  
+ On the left, it's a menu of options  
+ where you can get data, access recent sources  
+ or open other reports.  
+ Once you close the window,  
+ you'll be in the workspace.  
+ At the top,  
+ you'll see the home ribbon.  
+ This ribbon contains the most common  
+ Power BI functions.  
+ New visual which adds a visualization  
+ to your workspace.  
+ Excel workbook to import data into the program.  
+ And transform data to merge data.  
+ On the left is a bar with three buttons  
+ for the report, data and model screens.  
+ Power BI starts on the report screen.  
+ This is where you'll create visualizations.  
+ I'll show you a report I'm working on  
+ for my sales team.  
+ You can download this in the exercise files.  
+ It's called sales team visualization.  
+ In my workspace,  
+ there are three visualizations.  
+ When I select the data tab,  
+ I can see the data used to create this report.  
+ This is the customer table.  
+ It looks similar to an Excel table,  
+ and on the right is a list of the other data sets  
+ imported into Power BI.  
+ Next I'll select the model tab.  
+ This gives you a graphical representation  
+ of your data and its relationships.  
+ In this example,  
+ you're looking at customers, their orders,  
+ the order details,  
+ and the products they purchased.  
+ Now I'll switch back to the report screen.  
+ On the right side of the reports workspace,  
+ you'll see three panels,  
+ filters, visualizations and fields.  
+ You can use filters to modify your visualizations  
+ to only show a subset of data.  
+ Power BI allows users to easily  
+ switch visualization type  
+ by simply selecting the visual styles  
+ from the visualization panel.  
+ There are typical bar charts, pie charts,  
+ as well as advanced charts.  
+ The fields panel is where you select the data  
+ you want to report on.  
+ When you import data sources into Power BI,  
+ they will show up in the field panel.  
+ You will this panel to select fields  
+ for your visualizations.  
+ Finally, the report workspace is broken down  
+ into different pages.  
+ You can add more by selecting  
+ the plus at the bottom.  
+ So that's a quick tour of Power BI.  
+ Start small and import data  
+ from an Excel workbook into the program,  
+ and get comfortable with the tool.  
+ Try it out.  
+

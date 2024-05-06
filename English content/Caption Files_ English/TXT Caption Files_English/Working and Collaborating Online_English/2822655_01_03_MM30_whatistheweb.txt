@@ -1,0 +1,29 @@
+ - [Instructor] The World Wide Web,  
+ also known as the web for short,  
+ is a system that allows us to find information,  
+ publish content, and get things done using the internet.  
+ The documents on the web are called web pages,  
+ which usually display information  
+ and provide clickable links to other related web pages.  
+ Web pages have gotten more and more interactive and robust,  
+ and they exist for a wide variety of uses.  
+ You can visit shopping websites to purchase goods online,  
+ airline websites to book flights,  
+ or the social media pages of your friends and relatives  
+ to keep up with what they're doing.  
+ Every webpage has an address on the internet called a URL,  
+ which stands for a uniform resource locator.  
+ To view a webpage, you type its URL into a software tool  
+ called a web browser.  
+ Typing an address into a web browser  
+ is similar to dialing a phone number on a phone.  
+ Just like how dialing a phone number connects you  
+ to a specific phone, typing a URL connects you  
+ to the location that webpage is stored, called a web server,  
+ which loads the web pages onto our screens,  
+ so we can read and interact with them.  
+ So by using the web,  
+ we can access almost any type of information  
+ from anywhere with an internet connection.  
+ 
+

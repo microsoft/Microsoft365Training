@@ -1,0 +1,292 @@
+1
+00:00:00,005 --> 00:00:02,001
+- [Instructor] Reports need data.
+
+2
+00:00:02,001 --> 00:00:05,006
+Before you can create visualizations and gain insights,
+
+3
+00:00:05,006 --> 00:00:09,008
+you'll need to be able to import datasets into Power BI.
+
+4
+00:00:09,008 --> 00:00:12,001
+In this lesson, I'll walk you through two ways
+
+5
+00:00:12,001 --> 00:00:16,000
+that you can import data into this powerful software.
+
+6
+00:00:16,000 --> 00:00:18,005
+You can install Power BI on your PC
+
+7
+00:00:18,005 --> 00:00:22,006
+by going to the Microsoft Store and searching for Power BI.
+
+8
+00:00:22,006 --> 00:00:26,003
+When you open Power BI Desktop, you'll see the start screen.
+
+9
+00:00:26,003 --> 00:00:28,005
+I'll go ahead and close it.
+
+10
+00:00:28,005 --> 00:00:30,009
+The first way to import data for your reports
+
+11
+00:00:30,009 --> 00:00:33,006
+is from an Excel spreadsheet.
+
+12
+00:00:33,006 --> 00:00:34,005
+In this example,
+
+13
+00:00:34,005 --> 00:00:37,007
+I am importing a list of customers from Excel.
+
+14
+00:00:37,007 --> 00:00:39,003
+There are two ways to do this.
+
+15
+00:00:39,003 --> 00:00:41,009
+You can either select Excel workbook in the ribbon
+
+16
+00:00:41,009 --> 00:00:45,004
+near the top of the screen, or import data from Excel
+
+17
+00:00:45,004 --> 00:00:47,008
+from the Add Data menu.
+
+18
+00:00:47,008 --> 00:00:51,003
+I'm going to select Excel workbook from the home ribbon.
+
+19
+00:00:51,003 --> 00:00:53,002
+This brings up a dialogue where I can select
+
+20
+00:00:53,002 --> 00:00:55,006
+the spreadsheet I want to import.
+
+21
+00:00:55,006 --> 00:00:58,005
+I'm going to open the customer file.
+
+22
+00:00:58,005 --> 00:01:01,000
+You can download this in the exercise files.
+
+23
+00:01:01,000 --> 00:01:03,003
+It's called Customer Data.
+
+24
+00:01:03,003 --> 00:01:06,002
+Navigator opens and has identified one data table
+
+25
+00:01:06,002 --> 00:01:09,003
+in my worksheet called Customer.
+
+26
+00:01:09,003 --> 00:01:12,002
+The data looks correct, so I will select Load
+
+27
+00:01:12,002 --> 00:01:14,007
+and bring it into Power BI.
+
+28
+00:01:14,007 --> 00:01:18,008
+The Customer table now displays in the Fields pane.
+
+29
+00:01:18,008 --> 00:01:22,000
+When I expand the Customer table using the dropdown,
+
+30
+00:01:22,000 --> 00:01:24,009
+I can see the fields it contains.
+
+31
+00:01:24,009 --> 00:01:26,005
+For a detailed look at your dataset,
+
+32
+00:01:26,005 --> 00:01:30,000
+you can select the Data tab on the left panel.
+
+33
+00:01:30,000 --> 00:01:32,000
+The next way to import data for your reports
+
+34
+00:01:32,000 --> 00:01:33,009
+is from the web.
+
+35
+00:01:33,009 --> 00:01:38,001
+Let's say I want to compare my sales to state populations.
+
+36
+00:01:38,001 --> 00:01:42,000
+I can import the data from online into Power BI.
+
+37
+00:01:42,000 --> 00:01:44,004
+I'll start by selecting the dropdown under Get Data
+
+38
+00:01:44,004 --> 00:01:46,009
+on the home ribbon at the top of the workspace
+
+39
+00:01:46,009 --> 00:01:49,003
+and then select Web.
+
+40
+00:01:49,003 --> 00:01:53,005
+Then I'll paste the URL for my data and select, OK.
+
+41
+00:01:53,005 --> 00:01:56,005
+The Navigator dialogue shows all the tables Power BI
+
+42
+00:01:56,005 --> 00:01:58,008
+found on that webpage.
+
+43
+00:01:58,008 --> 00:02:02,004
+I can preview each one to find the table I'm looking for.
+
+44
+00:02:02,004 --> 00:02:05,004
+I'll select Table 1, but based on the preview,
+
+45
+00:02:05,004 --> 00:02:07,002
+I'll need to filter out some of the fields
+
+46
+00:02:07,002 --> 00:02:09,003
+and clean up the rows.
+
+47
+00:02:09,003 --> 00:02:12,009
+Select Transform Data to open the Power Query editor.
+
+48
+00:02:12,009 --> 00:02:15,000
+This is where you can modify the data used
+
+49
+00:02:15,000 --> 00:02:17,003
+in your visualizations.
+
+50
+00:02:17,003 --> 00:02:20,007
+To do this, I'll remove the columns I'm not interested in.
+
+51
+00:02:20,007 --> 00:02:22,003
+I don't need the ranking columns,
+
+52
+00:02:22,003 --> 00:02:23,009
+so I'll select the first column.
+
+53
+00:02:23,009 --> 00:02:28,006
+And in the top ribbon, I'll select remove columns twice.
+
+54
+00:02:28,006 --> 00:02:31,007
+Notice how as changes are made, you'll be able to see them
+
+55
+00:02:31,007 --> 00:02:34,000
+in the Query Settings panel on the right,
+
+56
+00:02:34,000 --> 00:02:37,000
+in the Applied Steps box.
+
+57
+00:02:37,000 --> 00:02:40,000
+If I need to undo a step, say removing a column,
+
+58
+00:02:40,000 --> 00:02:43,004
+I can select the X next to that step.
+
+59
+00:02:43,004 --> 00:02:45,001
+So now I have a clean table,
+
+60
+00:02:45,001 --> 00:02:47,008
+and it's ready for my workspace.
+
+61
+00:02:47,008 --> 00:02:50,005
+Before closing the table, I'm going to give it a name
+
+62
+00:02:50,005 --> 00:02:54,003
+by right-clicking the table name and selecting Rename.
+
+63
+00:02:54,003 --> 00:02:56,005
+I'll enter States.
+
+64
+00:02:56,005 --> 00:03:00,000
+Then I'll select Close and Apply.
+
+65
+00:03:00,000 --> 00:03:02,004
+Now, the States table is in the Fields panel
+
+66
+00:03:02,004 --> 00:03:06,000
+on the right side of the screen and is ready for use.
+
+67
+00:03:06,000 --> 00:03:09,009
+Creating visual images starts with having the right data.
+
+68
+00:03:09,009 --> 00:03:11,007
+Consider what data you have access to,
+
+69
+00:03:11,007 --> 00:03:15,000
+and try importing it into Power BI.
+
+70
+00:03:15,000 --> 00:03:17,004
+Whether it's an Excel workbook or the web,
+
+71
+00:03:17,004 --> 00:03:19,008
+Power BI can support you in collecting your data
+
+72
+00:03:19,008 --> 00:03:22,005
+to create compelling visualizations.
+
+73
+00:03:22,005 --> 00:03:24,007
+Try exploring some data sources this week.
+

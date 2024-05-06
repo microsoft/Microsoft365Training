@@ -1,0 +1,60 @@
+ - [Instructor] Accessing, organizing, and using notes  
+ in a paper notebook can be really challenging.  
+ OneNote is a digital notebook  
+ that makes your information work for you.  
+ In this lesson,  
+ I'm going to walk you through creating a notebook in OneNote  
+ so that you can keep your information organized, useful,  
+ and accessible from anywhere, anytime.  
+ For job seekers, it's necessary  
+ to keep track of detailed information  
+ on each job you search for.  
+ In this example,  
+ I'll show you how to create a notebook in OneNote  
+ to help with that important task.  
+ First, in the top left corner of office.com,  
+ select the app launcher and open OneNote.  
+ Now that I've opened OneNote,  
+ it's time to create a new notebook.  
+ Select the Add new notebook option  
+ and give the new notebook a name.  
+ I'll name my notebook My job search notes,  
+ and then I'll select Create.  
+ After the notebook is created,  
+ it's time to organize content by adding sections.  
+ When you open a brand-new notebook,  
+ you'll see this alert that the notebook is empty  
+ with no sections.  
+ In OneNote, every notebook is made up of sections  
+ and each section has pages.  
+ Think of these sections like dividers  
+ between loose-leaf papers and a physical binder.  
+ To add a section, I'm going to select Add section.  
+ A window opens, asking for a section name.  
+ Let's say I'm looking for two types of jobs,  
+ one working as an office assistant  
+ and the other as a teaching assistant.  
+ These are different jobs.  
+ So I'll separate my notebook  
+ into an office assistant section  
+ and a teaching assistant section.  
+ I'm most interested in the office assistant job,  
+ so I'll start with that section.  
+ I'll name this section office assistant and select OK.  
+ So now I have a new section in my notebook  
+ called office assistant.  
+ When a new section is created,  
+ OneNote automatically adds a page called Untitled Page,  
+ which I'll update here  
+ to specify what type of notes I'll include.  
+ Let's say job details.  
+ Now that this page is set up,  
+ I'm ready to take notes on the job opportunity.  
+ Now that you know how to create a notebook  
+ and sections within it,  
+ you can make your own digital notebooks.  
+ These will be places  
+ classes you're taking,  
+ or which new series you want to binge watch.  
+ 
+

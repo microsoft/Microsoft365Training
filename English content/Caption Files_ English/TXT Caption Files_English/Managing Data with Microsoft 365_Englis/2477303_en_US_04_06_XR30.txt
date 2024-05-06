@@ -1,0 +1,75 @@
+ - [Narrator] Gathering feedback is a vital part  
+ of any business workflow.  
+ In this lesson, I'll show you how to share Power BI reports  
+ with your team.  
+ It's time to tell your story with data.  
+ The easiest way to share your data with stakeholders  
+ and collaborators is through exporting a PDF.  
+ You can install Power BI on your PC  
+ by going to the Microsoft Store and searching for Power BI.  
+ Once I have a Power BI report ready to distribute,  
+ I'll export the file.  
+ In the upper left menu, I'll select File, Export  
+ and Export to PDF.  
+ Power BI exports a PDF format of your data,  
+ saving it to your downloads folder  
+ and opening it in your PC's default PDF viewer.  
+ Now I can use it like any other file.  
+ I'll return to Power BI.  
+ To make your reports accessible  
+ by colleagues and customers online,  
+ your organization will need to have a subscription  
+ to Power BI.  
+ To publish your reports to the cloud,  
+ you'll need to sign into your Microsoft 365 account  
+ with the button in the upper right corner of the screen.  
+ Then to export the file to the web,  
+ on the home ribbon, select Publish,  
+ select My workspace and continue.  
+ Power BI will begin publishing.  
+ In the results window, select open in Power BI.  
+ Power BI on the web opens,  
+ and I can see the same report I created on the desktop.  
+ I'm ready to share this report with my team,  
+ so I'll select Share and then enter the names of the people  
+ in my organization that I want to share it with.  
+ I'll add a quick message  
+ and then select Send.  
+ Another advantage of having an online subscription  
+ to Power BI is the ability to create dashboards.  
+ While reports are a page of visualizations,  
+ you can think of dashboards as a story based on reports.  
+ I'll select Home on the left menu  
+ and then I'll open a sample report  
+ supplied by Power BI, the Sales and Returns Sample.  
+ There are a few reports listed under pages.  
+ Let's look at the net sales and returns.  
+ Both reports have the Category Breakdown  
+ and Store Breakdown visualization.  
+ I want to create a side by side report  
+ with these three category breakdowns,  
+ sales, returns and store.  
+ Instead of recreating the visualization,  
+ I can create a dashboard  
+ by pinning the visualizations to a new dashboard.  
+ In the upper right corner of each visualization,  
+ select the pin icon.  
+ The Pin to dashboard dialogue appears.  
+ I can create a new dashboard and name it Sales Dashboard,  
+ then select Pin.  
+ Now on the left menu, I'll select Workspaces,  
+ My workspace, and select the Sales Dashboard.  
+ This is where the visualization is pinned to the dashboard.  
+ I could continue to add more visualizations  
+ to this dashboard from other Power BI reports.  
+ From here, you can tell a story  
+ about product sales and profitability.  
+ Power BI provides several options  
+ to collaborate and review reports.  
+ Try sharing your reports with colleagues for feedback.  
+ Collaboration is essential to growth  
+ and ensures that stakeholders have the chance  
+ to sign off on the visualizations you create  
+ before they are shared with the world.  
+ 
+

@@ -1,0 +1,284 @@
+1
+00:00:00,002 --> 00:00:01,003
+- [Instructor] Have you ever used Excel
+
+2
+00:00:01,003 --> 00:00:03,000
+to track a project?
+
+3
+00:00:03,000 --> 00:00:04,004
+With Microsoft Lists,
+
+4
+00:00:04,004 --> 00:00:06,003
+you can save time by creating a list
+
+5
+00:00:06,003 --> 00:00:08,007
+from an existing Excel document.
+
+6
+00:00:08,007 --> 00:00:09,009
+In this lesson,
+
+7
+00:00:09,009 --> 00:00:11,003
+I'll show you how to import
+
+8
+00:00:11,003 --> 00:00:14,001
+your existing data into Lists.
+
+9
+00:00:14,001 --> 00:00:15,006
+I'll start from Office.com.
+
+10
+00:00:15,006 --> 00:00:18,002
+Select the app launcher in the upper-left corner,
+
+11
+00:00:18,002 --> 00:00:20,002
+and open Lists.
+
+12
+00:00:20,002 --> 00:00:21,002
+In this example,
+
+13
+00:00:21,002 --> 00:00:22,006
+I have a spreadsheet I've been using
+
+14
+00:00:22,006 --> 00:00:24,002
+for my wedding planning business,
+
+15
+00:00:24,002 --> 00:00:25,009
+and I want to bring it into Lists
+
+16
+00:00:25,009 --> 00:00:29,000
+for a more robust planning experience.
+
+17
+00:00:29,000 --> 00:00:30,008
+You can follow along by downloading
+
+18
+00:00:30,008 --> 00:00:32,001
+the wedding plan checklist
+
+19
+00:00:32,001 --> 00:00:33,008
+from the exercise files.
+
+20
+00:00:33,008 --> 00:00:37,002
+Start by selecting new list.
+
+21
+00:00:37,002 --> 00:00:41,005
+Now I'll select from Excel.
+
+22
+00:00:41,005 --> 00:00:43,008
+Select upload file and navigate
+
+23
+00:00:43,008 --> 00:00:48,006
+to the Excel document on your computer.
+
+24
+00:00:48,006 --> 00:00:49,008
+Then the wizard brings me
+
+25
+00:00:49,008 --> 00:00:50,009
+to the customized screen
+
+26
+00:00:50,009 --> 00:00:52,006
+where I'm instructed to select the table
+
+27
+00:00:52,006 --> 00:00:54,003
+from the file.
+
+28
+00:00:54,003 --> 00:00:55,005
+I'll check the column types,
+
+29
+00:00:55,005 --> 00:00:56,005
+and choose a new type
+
+30
+00:00:56,005 --> 00:00:59,004
+if the current selection is incorrect.
+
+31
+00:00:59,004 --> 00:01:02,006
+I will leave task as the title of the item.
+
+32
+00:01:02,006 --> 00:01:03,005
+For the when column,
+
+33
+00:01:03,005 --> 00:01:05,006
+I have a few categories, nine to 12 months
+
+34
+00:01:05,006 --> 00:01:06,009
+six to nine months.
+
+35
+00:01:06,009 --> 00:01:11,000
+So I'll select choice in the dropdown.
+
+36
+00:01:11,000 --> 00:01:14,002
+Then select next.
+
+37
+00:01:14,002 --> 00:01:16,006
+I'll set the name to checklist for wedding,
+
+38
+00:01:16,006 --> 00:01:18,003
+and I want to add a description.
+
+39
+00:01:18,003 --> 00:01:20,000
+So I'll enter wedding plan checklist
+
+40
+00:01:20,000 --> 00:01:23,001
+for 12 months to one week out.
+
+41
+00:01:23,001 --> 00:01:24,006
+I'll select the clipboard icon,
+
+42
+00:01:24,006 --> 00:01:33,000
+and select create.
+
+43
+00:01:33,000 --> 00:01:33,009
+Just like that,
+
+44
+00:01:33,009 --> 00:01:37,001
+the Excel data is imported into my new list.
+
+45
+00:01:37,001 --> 00:01:38,000
+Looks good.
+
+46
+00:01:38,000 --> 00:01:40,004
+But one thing isn't quite right.
+
+47
+00:01:40,004 --> 00:01:42,007
+The when choice column is not color coded
+
+48
+00:01:42,007 --> 00:01:45,002
+like choice columns usually are.
+
+49
+00:01:45,002 --> 00:01:47,003
+Select the dropdown next to when,
+
+50
+00:01:47,003 --> 00:01:52,006
+and select column settings then edit.
+
+51
+00:01:52,006 --> 00:01:55,005
+The edit column panel appears on the right.
+
+52
+00:01:55,005 --> 00:01:57,006
+I see that my choices were not imported
+
+53
+00:01:57,006 --> 00:01:58,009
+so I will add them manually
+
+54
+00:01:58,009 --> 00:02:01,001
+by selecting add choice.
+
+55
+00:02:01,001 --> 00:02:03,005
+My first time span is nine to 12 months.
+
+56
+00:02:03,005 --> 00:02:07,007
+So I'll enter that in the choice one box.
+
+57
+00:02:07,007 --> 00:02:09,001
+I will select the palette icon,
+
+58
+00:02:09,001 --> 00:02:12,001
+and set this as green.
+
+59
+00:02:12,001 --> 00:02:14,001
+I will repeat this for six to nine months,
+
+60
+00:02:14,001 --> 00:02:16,002
+four to six months and two to four months.
+
+61
+00:02:16,002 --> 00:02:24,003
+Choosing a new color each time.
+
+62
+00:02:24,003 --> 00:02:26,001
+I can save the choices I entered,
+
+63
+00:02:26,001 --> 00:02:31,002
+and the when column is updated.
+
+64
+00:02:31,002 --> 00:02:33,000
+By taking advantage of Lists ability
+
+65
+00:02:33,000 --> 00:02:34,005
+to import directly from an existing
+
+66
+00:02:34,005 --> 00:02:35,007
+Excel spreadsheet.
+
+67
+00:02:35,007 --> 00:02:37,001
+You have the power to transform,
+
+68
+00:02:37,001 --> 00:02:39,001
+and simplify a lot of data.
+
+69
+00:02:39,001 --> 00:02:40,008
+Now it's your turn.
+
+70
+00:02:40,008 --> 00:02:42,008
+Find an existing list you have in Excel,
+
+71
+00:02:42,008 --> 00:02:45,000
+and import it into Microsoft Lists.
+

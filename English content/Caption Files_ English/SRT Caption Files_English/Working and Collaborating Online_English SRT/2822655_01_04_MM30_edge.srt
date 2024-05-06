@@ -1,0 +1,424 @@
+1
+00:00:00,005 --> 00:00:02,001
+- [Instructor] On your computer, your web browser
+
+2
+00:00:02,001 --> 00:00:04,002
+is the software you need in order to access
+
+3
+00:00:04,002 --> 00:00:07,003
+and interact with the content on the web.
+
+4
+00:00:07,003 --> 00:00:09,002
+Most operating systems come with at least one
+
+5
+00:00:09,002 --> 00:00:11,002
+built in web browser application.
+
+6
+00:00:11,002 --> 00:00:14,004
+For example, Mac OS computers include the Safari browser
+
+7
+00:00:14,004 --> 00:00:16,009
+and Windows 10 includes Microsoft Edge
+
+8
+00:00:16,009 --> 00:00:18,000
+but there are several other browsers
+
+9
+00:00:18,000 --> 00:00:20,006
+on the market to choose from including Google Chrome
+
+10
+00:00:20,006 --> 00:00:22,008
+and Mozilla Firefox.
+
+11
+00:00:22,008 --> 00:00:25,006
+At the most basic level, all browsers allow you to access
+
+12
+00:00:25,006 --> 00:00:28,006
+websites, download files, images, and videos
+
+13
+00:00:28,006 --> 00:00:30,008
+on websites and so on.
+
+14
+00:00:30,008 --> 00:00:32,009
+Browsers mainly vary in the features they include
+
+15
+00:00:32,009 --> 00:00:36,001
+but these days most browsers have very similar features.
+
+16
+00:00:36,001 --> 00:00:37,005
+Here we'll take a look at browsing the web
+
+17
+00:00:37,005 --> 00:00:39,006
+with Microsoft Edge, but you'll be able to use
+
+18
+00:00:39,006 --> 00:00:42,005
+other modern browsers in mostly the same away.
+
+19
+00:00:42,005 --> 00:00:45,006
+I'll open up Microsoft Edge and there it is.
+
+20
+00:00:45,006 --> 00:00:48,006
+To access a website, we enter the URL or address
+
+21
+00:00:48,006 --> 00:00:52,000
+of the site into the address bar at the top of the window.
+
+22
+00:00:52,000 --> 00:00:53,009
+The browser loads the webpage and it's displayed
+
+23
+00:00:53,009 --> 00:00:55,005
+in the main part of the window.
+
+24
+00:00:55,005 --> 00:00:57,004
+We can use the scroll bar to scroll down the page
+
+25
+00:00:57,004 --> 00:00:59,002
+to view it and to interact with all the elements
+
+26
+00:00:59,002 --> 00:01:00,009
+on the page.
+
+27
+00:01:00,009 --> 00:01:02,008
+White pages usually contain hyperlinks,
+
+28
+00:01:02,008 --> 00:01:05,004
+often just called links, that point to other pages
+
+29
+00:01:05,004 --> 00:01:08,008
+on the website or to entirely different websites.
+
+30
+00:01:08,008 --> 00:01:10,006
+You can often tell if text is a hyperlink
+
+31
+00:01:10,006 --> 00:01:11,008
+by its appearance.
+
+32
+00:01:11,008 --> 00:01:13,009
+It's usually a different color from the surrounding text
+
+33
+00:01:13,009 --> 00:01:16,005
+like we see here, or it becomes underlined or already
+
+34
+00:01:16,005 --> 00:01:18,009
+is underlined, or it's just visually different
+
+35
+00:01:18,009 --> 00:01:20,003
+in some other way.
+
+36
+00:01:20,003 --> 00:01:22,002
+Alternately, if you place your mouse over text
+
+37
+00:01:22,002 --> 00:01:24,003
+or an image and the cursor turns into a hand
+
+38
+00:01:24,003 --> 00:01:26,000
+with a pointing finger, that indicates
+
+39
+00:01:26,000 --> 00:01:28,000
+the item is a clickable link.
+
+40
+00:01:28,000 --> 00:01:29,007
+You'll also see the address that clicking the link
+
+41
+00:01:29,007 --> 00:01:32,002
+will take you to there in the lower left hand corner
+
+42
+00:01:32,002 --> 00:01:35,001
+and if I click that link I'll go to that page.
+
+43
+00:01:35,001 --> 00:01:36,007
+And now we're looking at the webpage that was linked
+
+44
+00:01:36,007 --> 00:01:40,002
+from the previous page and we can start browsing this page.
+
+45
+00:01:40,002 --> 00:01:42,003
+If necessary, you can go back to the previous page
+
+46
+00:01:42,003 --> 00:01:45,002
+by clicking the back button in the browser.
+
+47
+00:01:45,002 --> 00:01:46,008
+Similarly, you can click the forward button
+
+48
+00:01:46,008 --> 00:01:48,009
+to view that link page again.
+
+49
+00:01:48,009 --> 00:01:50,003
+Although it's easy to move back and forth
+
+50
+00:01:50,003 --> 00:01:52,004
+between pages like this, there are often times
+
+51
+00:01:52,004 --> 00:01:54,003
+when you need to reference multiple webpages
+
+52
+00:01:54,003 --> 00:01:57,008
+at the same time and going back and forth can get tedious.
+
+53
+00:01:57,008 --> 00:02:00,004
+A solution is to use tabs which are a feature
+
+54
+00:02:00,004 --> 00:02:02,004
+of web browsers which allow you to open multiple
+
+55
+00:02:02,004 --> 00:02:05,006
+webpages at the same time in the same browser window.
+
+56
+00:02:05,006 --> 00:02:07,008
+For example, maybe I'm searching for Microsoft Surface
+
+57
+00:02:07,008 --> 00:02:11,005
+tablets, I'll click that link, and as you can see
+
+58
+00:02:11,005 --> 00:02:14,004
+there are many different models to choose from here.
+
+59
+00:02:14,004 --> 00:02:17,002
+Clicking one of these takes me to the page
+
+60
+00:02:17,002 --> 00:02:19,008
+about that model and then I need to click the back button
+
+61
+00:02:19,008 --> 00:02:22,008
+to go back to the links to look at the other models.
+
+62
+00:02:22,008 --> 00:02:24,009
+To save time, I'm going to right click on the link
+
+63
+00:02:24,009 --> 00:02:28,004
+and choose open link in new tab.
+
+64
+00:02:28,004 --> 00:02:30,003
+In this particular browser, that opens a new tab
+
+65
+00:02:30,003 --> 00:02:31,007
+here in the background and you can see
+
+66
+00:02:31,007 --> 00:02:33,004
+the title of the page here.
+
+67
+00:02:33,004 --> 00:02:35,003
+In some web browsers, depending on your settings,
+
+68
+00:02:35,003 --> 00:02:38,003
+the new tab may open in the front, but in either case
+
+69
+00:02:38,003 --> 00:02:39,009
+you can switch back and forth between tabs
+
+70
+00:02:39,009 --> 00:02:41,008
+just by clicking on them.
+
+71
+00:02:41,008 --> 00:02:43,007
+So now I can right click on the links for the other
+
+72
+00:02:43,007 --> 00:02:45,005
+product versions I'm interested in
+
+73
+00:02:45,005 --> 00:02:51,002
+and open them in new tabs as well.
+
+74
+00:02:51,002 --> 00:02:52,009
+And once I've done that I can now switch among
+
+75
+00:02:52,009 --> 00:02:57,004
+all the tabs to do my research.
+
+76
+00:02:57,004 --> 00:02:59,002
+You can also open the web pages in new windows
+
+77
+00:02:59,002 --> 00:03:03,004
+by right clicking and choosing open link in new window.
+
+78
+00:03:03,004 --> 00:03:05,007
+Opening links in new windows can help you stay organized
+
+79
+00:03:05,007 --> 00:03:07,008
+by grouping related tabs in their own window
+
+80
+00:03:07,008 --> 00:03:10,004
+and opening unrelated tabs in other windows,
+
+81
+00:03:10,004 --> 00:03:12,006
+but that's a matter of personal preference.
+
+82
+00:03:12,006 --> 00:03:14,002
+But because these are separate windows, I can move
+
+83
+00:03:14,002 --> 00:03:15,007
+this one slightly out of the way and still see
+
+84
+00:03:15,007 --> 00:03:17,008
+the other window here in the background
+
+85
+00:03:17,008 --> 00:03:20,003
+and I can switch to that if I needed to.
+
+86
+00:03:20,003 --> 00:03:22,001
+You can always keep track of the web pages you visit
+
+87
+00:03:22,001 --> 00:03:24,003
+by using the history feature of the browser.
+
+88
+00:03:24,003 --> 00:03:26,001
+In Edge, click the three dot button here
+
+89
+00:03:26,001 --> 00:03:27,009
+in the upper right hand corner
+
+90
+00:03:27,009 --> 00:03:30,002
+and roll your mouse over history
+
+91
+00:03:30,002 --> 00:03:32,005
+and from here I can choose manage history
+
+92
+00:03:32,005 --> 00:03:34,006
+to see a list of the web pages I visited,
+
+93
+00:03:34,006 --> 00:03:36,002
+organized by date.
+
+94
+00:03:36,002 --> 00:03:38,001
+You have the option to clear web pages from your history
+
+95
+00:03:38,001 --> 00:03:39,009
+whenever you like, which you can do by clicking
+
+96
+00:03:39,009 --> 00:03:42,005
+clear browsing data and here I can choose
+
+97
+00:03:42,005 --> 00:03:45,001
+to clear the browsing history from the last 24 hours,
+
+98
+00:03:45,001 --> 00:03:47,009
+the last hour, the last seven days, the last four weeks
+
+99
+00:03:47,009 --> 00:03:50,000
+and all of my browsing history.
+
+100
+00:03:50,000 --> 00:03:52,004
+I'll leave that as is for now though.
+
+101
+00:03:52,004 --> 00:03:54,001
+Again, you'll find all the features we've seen here
+
+102
+00:03:54,001 --> 00:03:56,004
+in Microsoft Edge in other browsers as well,
+
+103
+00:03:56,004 --> 00:03:59,000
+but they may be located in different places.
+
+104
+00:03:59,000 --> 00:04:00,007
+But once you familiarize yourself with your preferred
+
+105
+00:04:00,007 --> 00:04:03,004
+browser, you'll find these features make it easy
+
+106
+00:04:03,004 --> 00:04:04,004
+to browse the web.
+

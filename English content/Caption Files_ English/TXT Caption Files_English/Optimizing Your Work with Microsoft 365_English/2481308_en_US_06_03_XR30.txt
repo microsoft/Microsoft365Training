@@ -1,0 +1,64 @@
+ - [Instructor] One of the most effective uses of mail merge  
+ is creating labels for mass communication.  
+ It adds a nice touch of professionalism  
+ when mailings are addressed easily and properly.  
+ In this lesson, I'm going to show you ways to use Word  
+ and Excel to create a mail merge  
+ for generating your own labels.  
+ Please note that the mail merge feature is only available  
+ in the desktop version.  
+ To get started, I'll open a blank Microsoft Word document  
+ and select mailings from the top ribbon.  
+ Next, select start mail merge  
+ and then the step by step mail merge wizard.  
+ The mail merge wizard takes you through the process  
+ of creating labels step by step.  
+ When the mail merge panel opens on the right side  
+ of the screen, select labels then select  
+ next, starting document.  
+ Select label options, then look up the label vendor  
+ and product number for your physical labels and select OK.  
+ To view the label grid, go to the Layout tab  
+ on the top ribbon and select view grid lines.  
+ Then move on to the next step  
+ by selecting next, select recipients.  
+ Follow along by downloading the list in the exercise file,  
+ it's called example contact list.  
+ Select browse to find your recipient list Excel document,  
+ then select Open.  
+ In the next window, make sure the first row of data  
+ contains column headers box is selected and select OK.  
+ This lets Word know that the first row  
+ does not contain mailing information for your labels.  
+ Now you can check your list  
+ and when you're sure everything is correct select OK.  
+ Select next arrange your labels  
+ when you're ready to move on.  
+ Add the appropriate address information  
+ by selecting address block and view how the addresses  
+ will appear in the insert address block window.  
+ You can preview each recipient  
+ by going through the arrows at the top of the box.  
+ If the data isn't going into the labels correctly,  
+ try editing the match fields to make sure  
+ the appropriate headings line up.  
+ For example, first name needs to align  
+ with the first name heading and address one  
+ with the billing address and so on and so forth.  
+ Once you've confirmed everything is correct, select OK,  
+ and update all labels and then move on to the next step,  
+ preview your labels.  
+ Finally, you're ready to complete the mail merge  
+ by selecting next, complete the mail merge.  
+ Now you're ready to print your labels,  
+ select print and select if you want to print all  
+ or some of the labels and then select, OK.  
+ You can select OK again if all printer information  
+ is accurate and your labels will print out.  
+ Setting up labels takes a few steps, but once it's complete,  
+ you've set yourself up for success  
+ and all your labeling needs are addressed.  
+ Try creating labels or envelopes  
+ for your next mailing project.  
+ 
+

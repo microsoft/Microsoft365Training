@@ -1,0 +1,196 @@
+1
+00:00:00,005 --> 00:00:01,008
+- [Instructor] You can use Outlook to keep track
+
+2
+00:00:01,008 --> 00:00:03,000
+of your personal appointments
+
+3
+00:00:03,000 --> 00:00:05,009
+as well as schedule meetings with other people.
+
+4
+00:00:05,009 --> 00:00:07,009
+In Outlook, switch to the calendar view
+
+5
+00:00:07,009 --> 00:00:09,009
+by clicking this icon in the navigation area
+
+6
+00:00:09,009 --> 00:00:11,008
+at the bottom of the window.
+
+7
+00:00:11,008 --> 00:00:13,009
+I'm currently viewing my calendar by the month,
+
+8
+00:00:13,009 --> 00:00:15,004
+but you can click the options in the ribbon
+
+9
+00:00:15,004 --> 00:00:18,009
+under the Home tab to also be your calendar by day,
+
+10
+00:00:18,009 --> 00:00:22,000
+the workweek, or the entire week as well.
+
+11
+00:00:22,000 --> 00:00:24,000
+I'll switch back to the month view for now.
+
+12
+00:00:24,000 --> 00:00:25,008
+Start by selecting the date of the appointment
+
+13
+00:00:25,008 --> 00:00:28,001
+or meeting you want to add to your calendar.
+
+14
+00:00:28,001 --> 00:00:31,000
+Then, you can click New Appointment or New Meeting.
+
+15
+00:00:31,000 --> 00:00:32,004
+The difference between an appointment
+
+16
+00:00:32,004 --> 00:00:35,000
+and a meeting is that you can invite others to meetings
+
+17
+00:00:35,000 --> 00:00:36,007
+and appointments are generally events
+
+18
+00:00:36,007 --> 00:00:39,008
+you'll attend on your own or without inviting others.
+
+19
+00:00:39,008 --> 00:00:42,000
+I'll choose New Appointment.
+
+20
+00:00:42,000 --> 00:00:44,007
+Here, enter the title of your appointment,
+
+21
+00:00:44,007 --> 00:00:46,004
+and because we selected the date first,
+
+22
+00:00:46,004 --> 00:00:48,001
+it should already be filled out correctly
+
+23
+00:00:48,001 --> 00:00:49,005
+in the start time area,
+
+24
+00:00:49,005 --> 00:00:51,007
+but you can change it here if necessary.
+
+25
+00:00:51,007 --> 00:00:54,003
+Then, select the time of the appointment
+
+26
+00:00:54,003 --> 00:00:55,004
+and then, enter the end time
+
+27
+00:00:55,004 --> 00:00:58,006
+to block off that time on your calendar.
+
+28
+00:00:58,006 --> 00:01:01,000
+You can also select All day to designate
+
+29
+00:01:01,000 --> 00:01:02,006
+the appointment as an all day event,
+
+30
+00:01:02,006 --> 00:01:05,005
+rather than taking place at a specific time.
+
+31
+00:01:05,005 --> 00:01:09,003
+I'll uncheck that for now, and then, click Save & Close.
+
+32
+00:01:09,003 --> 00:01:11,005
+And now, that appointment is on my calendar.
+
+33
+00:01:11,005 --> 00:01:13,003
+Adding a meeting is very similar.
+
+34
+00:01:13,003 --> 00:01:15,003
+Just click the date of the meeting
+
+35
+00:01:15,003 --> 00:01:17,005
+and then, click New Meeting.
+
+36
+00:01:17,005 --> 00:01:20,004
+Again, enter a title.
+
+37
+00:01:20,004 --> 00:01:22,007
+In the Required area, you'll add the names of people
+
+38
+00:01:22,007 --> 00:01:24,008
+who are required to attend this meeting.
+
+39
+00:01:24,008 --> 00:01:27,000
+If you've previously created a contact group,
+
+40
+00:01:27,000 --> 00:01:29,002
+you can type the group's name here.
+
+41
+00:01:29,002 --> 00:01:31,002
+You can also enter the contact info for people
+
+42
+00:01:31,002 --> 00:01:33,008
+for whom the meeting is optional.
+
+43
+00:01:33,008 --> 00:01:37,006
+If necessary, you can add other details like the location.
+
+44
+00:01:37,006 --> 00:01:39,005
+Then, click Send.
+
+45
+00:01:39,005 --> 00:01:41,003
+That adds the appointment to your calendar
+
+46
+00:01:41,003 --> 00:01:42,009
+and also emails the meeting invite
+
+47
+00:01:42,009 --> 00:01:45,001
+and details to the contacts you added.
+
+48
+00:01:45,001 --> 00:01:46,005
+So that's how to set up appointments
+
+49
+00:01:46,005 --> 00:01:48,000
+and meetings in Outlook.
+

@@ -1,0 +1,89 @@
+ - [Narrator] Data can come from many different places.  
+ You'll often have multiple spreadsheets that when combined,  
+ would be more powerful.  
+ Being able to use Excel's XLOOKUP function  
+ will save you time as you join data sources.  
+ It's easily my favorite function in Excel.  
+ In this lesson, I'll show you  
+ how to combine data sources using XLOOKUP.  
+ In order to use XLOOKUP, you'll need two Excel tables  
+ with at least one column in common.  
+ The XLOOKUP function has three required pieces,  
+ The Lookup_value, the single cell I want to look up,  
+ the Lookup_array, or the column where I'll find it,  
+ and the Return_array,  
+ the column with data I want to return as a result.  
+ In the top left corner of Office.com,  
+ I'll select the app launcher,  
+ select all apps and open Excel.  
+ For this example, I'll open the Customers and Orders file.  
+ You can follow along  
+ by downloading it from the exercise files.  
+ This file has a sheet named Sales Order,  
+ which has a list of all the orders that have been placed.  
+ It lists all the Customer IDs, which have placed orders,  
+ but it would be more helpful to have the customer names.  
+ I have a second sheet in this workbook, Customer.  
+ This has a column for both Customer ID and Customer Name.  
+ I'll use XLOOKUP to bring the customer names  
+ over into my Sales Orders table.  
+ I'll return to Sales Order and add a new column,  
+ Company Name, to the right of Customer ID.  
+ This is where I'll populate the company names.  
+ I'll select cell E1, then the dropdown under Insert  
+ and then select Insert Table Columns to the left.  
+ I'll rename column one to be Customer Name  
+ by changing it in the Formula Bar.  
+ Now that there's a new column, it's time to start.  
+ I'll select cell E2,  
+ and in the Formula Bar, I'll enter equals Xlookup.  
+ When I start a cell using an equal sign,  
+ it signifies that the cell is a function  
+ and not simply a value.  
+ The function parameters are listed below the Formula Bar  
+ so I can readily know what to fill in.  
+ The first parameter is Lookup_value.  
+ I want to find the Customer ID, so I'll select the cell, D2.  
+ Excel recognizes it as the Customer ID column,  
+ and populates that in my XLOOKUP formula.  
+ Now I'll enter a comma into the Formula Bar  
+ to move on to the next parameter.  
+ Next, I'll enter the column  
+ where I want to find the Customer ID, the Lookup_array.  
+ This is in the Customer sheet,  
+ so while select its tab at the bottom.  
+ Notice that XLOOKUP stays in the Formula Bar as I move.  
+ I'll hover my cursor  
+ near the bottom of the Customer ID column header  
+ where it will change to an arrow and then select.  
+ This will populate the Customer ID column  
+ from the Customer's table  
+ as a second parameter in the XLOOKUP.  
+ It's where Excel will look for the Customer ID  
+ it found in the Sales Order sheet.  
+ Then, I'll enter a comma in the Formula Bar  
+ to fill in the last required value, the Return_array.  
+ When Excel finds the ID number  
+ from my Sales Order table in the Customer table,  
+ I want it to return the customer name  
+ that is connected to it.  
+ So I'll find the company name, column B,  
+ and we'll hover my cursor near the bottom of the header  
+ until the down arrow appears and then select.  
+ Now my XLOOKUP formula says take the Customer ID  
+ from the Sales Order table,  
+ look that up in the Customer sheet,  
+ and return the Company Name.  
+ I'll finish this XLOOKUP  
+ by closing the formula with a right parenthesis.  
+ Excel will take me back to the Sales Order table,  
+ where the customer name has populated.  
+ This is great. The XLOOKUP is complete.  
+ Joining two tables is essential for analyzing data in Excel.  
+ The next time you need to combine data  
+ from two spreadsheets, try using XLOOKUP.  
+ The more you practice using this function,  
+ the easier it is to use.  
+ You'll be amazed by what you can achieve.  
+ 
+

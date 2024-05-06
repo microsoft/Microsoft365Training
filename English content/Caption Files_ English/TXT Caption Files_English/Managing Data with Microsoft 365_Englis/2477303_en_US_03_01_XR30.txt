@@ -1,0 +1,66 @@
+ - [Narrator] It's essential for you to be able to sort  
+ and manage your data so that the most important information  
+ is right at the top.  
+ In this lesson, I'll show you how to use Excel  
+ to sort and filter your data  
+ so you can quickly find what you need.  
+ In the top left corner of office.com,  
+ I'll select the app launcher and open Excel.  
+ From here, I'll open  
+ the sample sales order Excel spreadsheet.  
+ You can find this document in your exercise files.  
+ I'm interested in finding a specific order.  
+ To use the search function, I'll use find and select.  
+ Then I'll select find  
+ and enter the sales order number.  
+ Now select find next and Excel will highlight that row.  
+ You can also use these functions to look  
+ for specific items ordered by good toys.  
+ Here, I'll enter good toys and select find all  
+ to see all the rows with the information I'm looking for.  
+ To find orders by customers more easily,  
+ I'll sort the data by customer name.  
+ First I'll select the column  
+ then select sort and filter from the home ribbon.  
+ Then I'll select sort ascending.  
+ Let's say I want to see the sales from smallest to largest.  
+ I will select the first cell in the total due column  
+ then select sort and filter and sort ascending.  
+ Excel also allows you to filter data.  
+ Filtering data allows you to see only the data  
+ you're looking for.  
+ For this example, I'll use the order detail sheet  
+ by selecting its tab at the bottom.  
+ Let's say I'm looking for orders from good toys.  
+ I can navigate to the data ribbon  
+ and add filter headings by selecting filter.  
+ A dropdown is added to each header for the column.  
+ Now I can select the values for the filters.  
+ First I'll select the company dropdown,  
+ deselect select all, then select good toys and apply.  
+ These are the orders for good toys.  
+ I can add more customers by selecting other customers  
+ in the company dropdown.  
+ I'll add action bicycle specialist  
+ before selecting apply.  
+ Once I'm done, I can remove all the filters  
+ by selecting clear filter from company on the dropdown.  
+ Excel also helped you sort using multiple columns  
+ in a table.  
+ I'm going to sort by the customer  
+ and then by the line total.  
+ I'll go to the data ribbon and select custom sort.  
+ The custom dialogue allows me to pick the column to sort  
+ and the order of appearance.  
+ I'll start with the company column.  
+ To add another column, I'll select add  
+ and then I'll specify line total, sort descending,  
+ and then select OK.  
+ This produces a table where I can see the cost of the items  
+ each customer ordered sorted from largest to smallest.  
+ Now you have a few new ways to find  
+ and sort data using Excel.  
+ Take some time to sort and filter your data.  
+ It all comes down to knowing what you're looking for.  
+ 
+

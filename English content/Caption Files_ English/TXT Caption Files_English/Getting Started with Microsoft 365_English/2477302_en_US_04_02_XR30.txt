@@ -1,0 +1,46 @@
+ - [Instructor] Time is precious.  
+ When your team is frequently using a document,  
+ you can save everyone time  
+ by adding that document to a tab.  
+ In this lesson,  
+ I'm going to show you how to add tabs to your channels  
+ to help your team get to their most needed content swiftly.  
+ For this example,  
+ I've already opened Teams  
+ and created a team to collaborate on an upcoming conference.  
+ I'm working on a skills conference with my team.  
+ I've already created a team with specific channels,  
+ but I want to make it even easier for my team  
+ to collaborate and complete their work.  
+ My logistics team is constantly using  
+ and adjusting the rooms  
+ that will be used for the skills conference.  
+ Everyone is collaborating in the same file and that's great.  
+ The file is in the files tab for my logistics channel,  
+ but I want to make it even easier for them  
+ to access this frequently used file.  
+ So I'm going to add this file as a tab  
+ in the logistics channel,  
+ so it can be accessed with one step.  
+ First, I need to go to my logistics channel.  
+ Then, I'll go to the files tab  
+ and select "show actions" next to the file name.  
+ A window will pop up  
+ giving me several actions I can take with this file.  
+ I can open it, copy it, rename it, and more.  
+ But for right now, I just want to make this file a tab,  
+ and so I'll select "make this a tab".  
+ The file is now a tab in my logistics channel  
+ making it easy to access by everyone in the channel.  
+ You can add a variety of tabs in your channels.  
+ To see all the available options  
+ for adding tabs in your channels,  
+ select the "add a tab" button.  
+ You can add websites, files from different apps,  
+ like Word, OneNote, Excel, and PowerPoint.  
+ There's so much to explore.  
+ Adding tabs to your channels is easy.  
+ Try it out to make it easier for your team  
+ to access the items they need quickly.  
+ 
+

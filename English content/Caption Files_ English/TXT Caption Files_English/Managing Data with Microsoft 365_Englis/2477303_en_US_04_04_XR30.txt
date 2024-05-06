@@ -1,0 +1,79 @@
+ - [Instructor] Imagine you're staring at a table  
+ in Excel and attempting to make sense  
+ of the relationships between several sheets.  
+ Working with data  
+ it appears in.  
+ In this lesson, I'll show you  
+ how to use Power BI's intelligent import tool  
+ to assist you in creating relationships  
+ between several sources of data.  
+ You'll be able to join data  
+ to make it easier to work with.  
+ You can install Power BI on your PC  
+ by going to the Microsoft Store,  
+ and searching for Power BI.  
+ When you open Power BI Desktop,  
+ you'll see the start screen.  
+ I'll go ahead and close it.  
+ I'll open the report I've been working on.  
+ You can download this in the exercise files.  
+ It's called customer sample report.  
+ This report has a list of names and addresses  
+ of my customers.  
+ I also have a separate Excel spreadsheet  
+ with their orders.  
+ I want to combine these to create  
+ a visual aid for the delivery team.  
+ First, select Excel Workbook  
+ from the home tab on the top ribbon.  
+ Then browse for the sales order workbook,  
+ which has two sheets.  
+ You can download this in the exercise files,  
+ it's called sales order.  
+ Select both sheets then select load.  
+ After both spreadsheets load,  
+ you can see the tables in the field's panel  
+ on the right.  
+ Select model on the left menu,  
+ and you'll see the relationship  
+ Power BI found between the different tables  
+ when it loaded both sheets.  
+ A data model is the relationship  
+ between the different data sources.  
+ On the top ribbon,  
+ select managed relationships.  
+ Here I can see that sales order ID  
+ is the common field  
+ between the sales order detail table,  
+ and the sales order header table.  
+ Additionally, customer ID is the common field  
+ between the sales order header table,  
+ and the customer table.  
+ Now all three of the tables are connected.  
+ Let's explore the customer ID relationship  
+ by selecting the second row,  
+ and then edit at the bottom.  
+ The cardinality field tells Power BI  
+ which table has the primary record  
+ for the customer ID column.  
+ In our example,  
+ the customer table is the primary record.  
+ So each customer ID will appear once.  
+ A customer will likely place many orders,  
+ and therefore Power BI  
+ sets the cardinality to many to one.  
+ You can modify this if necessary.  
+ I'll select, okay.  
+ Then close.  
+ Pulling data from multiple spreadsheets  
+ is a breeze in Power BI.  
+ You can easily create relationships  
+ between tables by finding the common fields  
+ in those tables,  
+ which means you can create reports  
+ across multiple tables.  
+ Take some time to build relationships  
+ in Power BI with your existing spreadsheets.  
+ You've got this.  
+ 
+

@@ -1,0 +1,84 @@
+ - [Instructor] Between new conversations, documents,  
+ and messages, if you leave your inbox unorganized,  
+ all the emails you receive can be difficult to sort through.  
+ In this lesson I'm going to show you a few best practices  
+ for organizing your email inbox in Outlook  
+ so you can keep track  
+ of the flow of information as it comes in.  
+ One of the best ways to keep emails top of mind  
+ is to add flags.  
+ Flags are an easy way to label the importance of an email  
+ that you aren't going to take immediate action on.  
+ In this example, I'll flag the emails that are related  
+ to the event that I'm managing.  
+ So first I'm going to start  
+ from the Microsoft 365 homepage and open Outlook.  
+ Here I'm in my inbox.  
+ There are new unread messages  
+ as well as messages that I've already read.  
+ To set a flag,  
+ hover your cursor over the email message,  
+ then select the flag icon in the top right corner  
+ of the message.  
+ The flag changes to red.  
+ And when the email message is opened,  
+ a followup message appears in the header of the email.  
+ To remove the flag, select the flag icon.  
+ The follow up flag changes to a check mark.  
+ When the email is open,  
+ in the top header it states the date the flag was complete.  
+ Another way to keep emails organized  
+ is to use color categories.  
+ Color categories allow you to identify  
+ and group associated items in Outlook  
+ so you can quickly track and organize them.  
+ Before using a color category you first need to create one.  
+ Select the email you wish to add to a category,  
+ navigate to the ribbon,  
+ identify the categorize icon, select the dropdown menu,  
+ and then new category.  
+ Add a name for the category and select a color,  
+ I'll name mine customer event.  
+ Then select save.  
+ This color category is now ready to use.  
+ Next I'll right click a message from the message list,  
+ select categorize, and select the category I just created  
+ from the list.  
+ You can even assign a color category from the reading pane  
+ or an open message.  
+ The next inbox organizing tool I recommend using  
+ is auto reply.  
+ Auto reply allows you to respond to emails  
+ when you're out of office or unavailable.  
+ To set up auto reply select the settings icon,  
+ then view all Outlook settings.  
+ And then automatic replies.  
+ Turn on the automatic replies toggle  
+ and then you can type your message in the message box.  
+ Type in your out of office message.  
+ I like to use something like, thank you for your email.  
+ I am out of the office.  
+ I will respond when I return.  
+ If you don't want your out of office message  
+ sent all the time, select send replies during a time period.  
+ Then choose the dates and times  
+ you'd like to set your automatic reply for.  
+ You can also select  
+ if you want Outlook to block your calendar  
+ for that time period, decline new invites,  
+ or cancel any meetings you might have during this period.  
+ You can format the text using the toolbar  
+ or cut and paste text you've already formatted,  
+ including hyperlinked text.  
+ When you're finished  
+ Now Outlook is programmed to send the automated reply  
+ as a response to messages during your selected times.  
+ Sorting and organizing your email are key skills  
+ for keeping important communications and information  
+ easy to find.  
+ An organized inbox will keep you focused  
+ and allow you to spend your time on more important tasks.  
+ Try using these tools to bring order  
+ to your inbox this week and see how much time you can save.  
+ 
+

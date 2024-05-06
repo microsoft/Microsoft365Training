@@ -1,0 +1,36 @@
+ - [Narrator] Working with outside organizations  
+ is a part of collaboration  
+ and it's important to make any partnership experience  
+ as seamless as possible.  
+ In Teams, guests can participate in meetings,  
+ chats, and work on documents.  
+ In this lesson, I'll show you how to invite external guests  
+ and manage the settings and permissions  
+ needed to work with them in Teams.  
+ To get started, I'll open Teams  
+ from the Microsoft 365 homepage.  
+ First, I'll select the team I want to add guests to.  
+ In that team, I'll select more options  
+ to the right of the name of that team.  
+ And then I'll select Add member.  
+ Here, I'll enter my guest email addresses.  
+ When I'm done selecting all the guests,  
+ select Add and the guests will be sent an email invitation.  
+ A guest will have the label Guest attached to their name  
+ wherever it's displayed in Microsoft Teams.  
+ You can also check the top of any channel  
+ to see how many guests are in it  
+ by selecting the information icon in the top right.  
+ To close it, select the information icon again.  
+ To set specific guest access,  
+ select next to the team name for more options.  
+ From there, select Manage team.  
+ In the Settings tab, select the Guest permissions dropdown  
+ to select or clear options or permissions  
+ that you want to use.  
+ Well done.  
+ Now you're ready to add external guests  
+ and set specific permissions for them.  
+ You'll be collaborating in no time.  
+ 
+

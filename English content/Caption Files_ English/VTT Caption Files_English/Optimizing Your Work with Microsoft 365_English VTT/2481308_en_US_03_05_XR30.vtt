@@ -1,0 +1,286 @@
+﻿WEBVTT
+
+00:00:00.000 --> 00:00:02.003
+- [Instructor] Creating and delivering presentations
+
+00:00:02.003 --> 00:00:05.000
+is an important skill to have in the workplace.
+
+00:00:05.000 --> 00:00:06.007
+When you create a presentation,
+
+00:00:06.007 --> 00:00:08.008
+you need to consider accessibility
+
+00:00:08.008 --> 00:00:12.007
+to ensure it has an inclusive delivery format.
+
+00:00:12.007 --> 00:00:14.007
+In this lesson, I'm going to show you
+
+00:00:14.007 --> 00:00:17.005
+how to make your presentations more accessible
+
+00:00:17.005 --> 00:00:20.001
+and make sure no one is left out.
+
+00:00:20.001 --> 00:00:24.001
+Before I dive in, I want to review a few key terms.
+
+00:00:24.001 --> 00:00:26.004
+The accessibility checker allows you
+
+00:00:26.004 --> 00:00:30.005
+to review the accessibility of your presentation.
+
+00:00:30.005 --> 00:00:34.008
+It suggests how to address issues using alternative text
+
+00:00:34.008 --> 00:00:36.007
+with all visual elements.
+
+00:00:36.007 --> 00:00:38.009
+When you use the accessibility checker,
+
+00:00:38.009 --> 00:00:42.008
+you'll see an accessibility panel with four areas -
+
+00:00:42.008 --> 00:00:47.004
+errors, warnings, tips and intelligent services.
+
+00:00:47.004 --> 00:00:49.008
+Errors are elements of your presentation
+
+00:00:49.008 --> 00:00:52.008
+that make it difficult for someone to use.
+
+00:00:52.008 --> 00:00:55.009
+Warnings include content that could be difficult
+
+00:00:55.009 --> 00:00:58.007
+for people with disabilities to understand
+
+00:00:58.007 --> 00:01:01.005
+which could be related to contrast or format.
+
+00:01:01.005 --> 00:01:04.003
+Tips: Address accessibility issues
+
+00:01:04.003 --> 00:01:07.002
+which could be better presented or described.
+
+00:01:07.002 --> 00:01:10.002
+Intelligent services uses alternative text
+
+00:01:10.002 --> 00:01:13.004
+to describe low vision images or graphics.
+
+00:01:13.004 --> 00:01:17.004
+And alternative text or alt text for short
+
+00:01:17.004 --> 00:01:21.002
+is descriptive text which conveys the meaning and context
+
+00:01:21.002 --> 00:01:24.000
+of a visual item in a digital setting.
+
+00:01:24.000 --> 00:01:26.004
+Alt text allows screen reader software
+
+00:01:26.004 --> 00:01:29.008
+to describe the images and other non-text content
+
+00:01:29.008 --> 00:01:32.000
+that a user cannot see.
+
+00:01:32.000 --> 00:01:35.007
+Okay, now I want to show you these tools in action.
+
+00:01:35.007 --> 00:01:39.004
+To start, open the presentation in PowerPoint.
+
+00:01:39.004 --> 00:01:42.001
+Follow along by downloading the sample presentation
+
+00:01:42.001 --> 00:01:43.008
+in your exercise files.
+
+00:01:43.008 --> 00:01:51.003
+It's called Customer Event Example (B).
+
+00:01:51.003 --> 00:01:54.001
+Go to the top ribbon and select review,
+
+00:01:54.001 --> 00:01:56.007
+then check accessibility.
+
+00:01:56.007 --> 00:01:59.002
+The accessibility panel appears on the right of the screen
+
+00:01:59.002 --> 00:02:00.009
+next to the slide.
+
+00:02:00.009 --> 00:02:03.008
+This presentation has errors and warnings.
+
+00:02:03.008 --> 00:02:05.009
+First, I'll select the error icon
+
+00:02:05.009 --> 00:02:11.005
+to see what the error is and how it can be addressed.
+
+00:02:11.005 --> 00:02:15.001
+The error states missing alternative text.
+
+00:02:15.001 --> 00:02:20.001
+This means alt text needs to be added to the image.
+
+00:02:20.001 --> 00:02:23.009
+Select it and PowerPoint takes you to the error
+
+00:02:23.009 --> 00:02:26.003
+on the presentation.
+
+00:02:26.003 --> 00:02:31.001
+Right-click the image and select alt text
+
+00:02:31.001 --> 00:02:33.008
+and enter a short description.
+
+00:02:33.008 --> 00:02:36.008
+It's best to convey the content and purpose of the image
+
+00:02:36.008 --> 00:02:41.003
+with a short description, no more than two sentences long.
+
+00:02:41.003 --> 00:02:48.002
+I'll type, handshake with people.
+
+00:02:48.002 --> 00:02:52.001
+I can also select the generate a description for me button
+
+00:02:52.001 --> 00:02:54.006
+underneath the description box.
+
+00:02:54.006 --> 00:02:59.007
+I'll delete what I just typed.
+
+00:02:59.007 --> 00:03:02.004
+And select generate a description for me
+
+00:03:02.004 --> 00:03:09.008
+and watch the alt text appear beneath the image.
+
+00:03:09.008 --> 00:03:14.009
+Okay, the error is resolved so I can close the alt text box
+
+00:03:14.009 --> 00:03:17.006
+and select recheck in the accessibility window.
+
+00:03:17.006 --> 00:03:20.001
+Select the warnings button.
+
+00:03:20.001 --> 00:03:22.003
+The accessibility checker tells me that
+
+00:03:22.003 --> 00:03:25.009
+there is hard to read text contrast.
+
+00:03:25.009 --> 00:03:29.001
+I'll select the dropdown and select this issue.
+
+00:03:29.001 --> 00:03:31.002
+The table has contrast issues
+
+00:03:31.002 --> 00:03:33.007
+which means the colors are too similar.
+
+00:03:33.007 --> 00:03:36.008
+To fix this, select the table,
+
+00:03:36.008 --> 00:03:40.000
+navigate to the top ribbon and select table.
+
+00:03:40.000 --> 00:03:43.003
+From here, select cell shading
+
+00:03:43.003 --> 00:03:46.000
+and pick a color that has a deeper tone
+
+00:03:46.000 --> 00:03:47.007
+to differentiate the colors.
+
+00:03:47.007 --> 00:03:51.009
+I'll choose blue.
+
+00:03:51.009 --> 00:03:57.001
+I'll select recheck again, and see the warning is gone.
+
+00:03:57.001 --> 00:03:59.006
+When it comes time to deliver your presentation,
+
+00:03:59.006 --> 00:04:02.009
+it's important to consider those with hearing difficulties.
+
+00:04:02.009 --> 00:04:06.005
+Adding subtitles ensures that everyone can follow along
+
+00:04:06.005 --> 00:04:09.006
+with what is being said during the presentation.
+
+00:04:09.006 --> 00:04:14.005
+To add subtitles, go to the slideshow tab on the top ribbon.
+
+00:04:14.005 --> 00:04:17.007
+Select always use subtitles
+
+00:04:17.007 --> 00:04:26.003
+and then, the spoken and subtitle languages in the dropdown.
+
+00:04:26.003 --> 00:04:29.004
+You can also specify where the subtitles will appear
+
+00:04:29.004 --> 00:04:37.002
+and which microphone the app will use.
+
+00:04:37.002 --> 00:04:40.007
+Now when you're presenting, the microphone icon will be red
+
+00:04:40.007 --> 00:04:43.007
+to indicate that it is live and ready for you to speak.
+
+00:04:43.007 --> 00:04:45.009
+It will pick up your voice as you present
+
+00:04:45.009 --> 00:04:49.005
+and the corresponding subtitles will appear.
+
+00:04:49.005 --> 00:04:54.001
+Calendars help people organize their schedules.
+
+00:04:54.001 --> 00:04:57.000
+Make sure to speak clearly and slowly
+
+00:04:57.000 --> 00:05:00.001
+so that your voice is picked up appropriately.
+
+00:05:00.001 --> 00:05:01.009
+If you want to turn off the subtitles
+
+00:05:01.009 --> 00:05:05.009
+during your presentation, select the use subtitles button
+
+00:05:05.009 --> 00:05:09.002
+indicated by a monitor icon on the toolbar
+
+00:05:09.002 --> 00:05:11.006
+in the lower left corner.
+
+00:05:11.006 --> 00:05:14.001
+Try using these accessibility features
+
+00:05:14.001 --> 00:05:15.007
+in your next presentation
+
+00:05:15.007 --> 00:05:18.003
+to help you share your ideas inclusively.

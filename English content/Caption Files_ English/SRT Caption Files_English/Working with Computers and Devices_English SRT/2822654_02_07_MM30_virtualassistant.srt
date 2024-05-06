@@ -1,0 +1,264 @@
+1
+00:00:00,005 --> 00:00:01,004
+- [Instructor] Another common feature
+
+2
+00:00:01,004 --> 00:00:03,007
+found in the operating systems of modern devices
+
+3
+00:00:03,007 --> 00:00:05,006
+is a digital assistant.
+
+4
+00:00:05,006 --> 00:00:07,007
+You may have heard of Microsoft's Cortana,
+
+5
+00:00:07,007 --> 00:00:11,000
+Apple's Siri, or Google's Assistant.
+
+6
+00:00:11,000 --> 00:00:14,005
+Virtual assistants use artificial intelligence, or AI,
+
+7
+00:00:14,005 --> 00:00:15,007
+to learn more about you
+
+8
+00:00:15,007 --> 00:00:18,007
+so they become more helpful the more you use them.
+
+9
+00:00:18,007 --> 00:00:20,004
+Here let's take a look at Cortana,
+
+10
+00:00:20,004 --> 00:00:24,002
+the virtual assistant built into Microsoft Windows 10.
+
+11
+00:00:24,002 --> 00:00:26,001
+You can interact with Cortana either through typing
+
+12
+00:00:26,001 --> 00:00:29,008
+on your computer's keyboard or by using your voice.
+
+13
+00:00:29,008 --> 00:00:31,009
+Bear in mind that your computer needs to have a microphone
+
+14
+00:00:31,009 --> 00:00:35,000
+in order for you to use your voice with Cortana.
+
+15
+00:00:35,000 --> 00:00:36,004
+To use Cortana by typing,
+
+16
+00:00:36,004 --> 00:00:38,004
+you just click in the search box in the task bar
+
+17
+00:00:38,004 --> 00:00:40,002
+and type a question.
+
+18
+00:00:40,002 --> 00:00:41,001
+To you use your voice,
+
+19
+00:00:41,001 --> 00:00:44,009
+click the Talk to Cortana button next to the search box.
+
+20
+00:00:44,009 --> 00:00:46,004
+Let's say, for example, that I need to remember
+
+21
+00:00:46,004 --> 00:00:48,007
+to step away from my computer at 5:00 tomorrow
+
+22
+00:00:48,007 --> 00:00:50,002
+to cook dinner.
+
+23
+00:00:50,002 --> 00:00:53,004
+I'll click the Talk to Cortana button and say,
+
+24
+00:00:53,004 --> 00:00:57,004
+remind me to make dinner tomorrow at 5:00 p.m.
+
+25
+00:00:57,004 --> 00:01:00,004
+- [Cortana] Okay, great.
+
+26
+00:01:00,004 --> 00:01:02,001
+- [Instructor] And now when 5:00 p.m. arrives tomorrow,
+
+27
+00:01:02,001 --> 00:01:04,007
+Cortana will notify me with my reminder.
+
+28
+00:01:04,007 --> 00:01:07,004
+So that's just one example of what Cortana can do.
+
+29
+00:01:07,004 --> 00:01:09,005
+In addition to giving you time-based reminders,
+
+30
+00:01:09,005 --> 00:01:12,008
+Cortana can also track packages, give you sports scores,
+
+31
+00:01:12,008 --> 00:01:16,007
+track flights, send emails or texts, manage your calendar,
+
+32
+00:01:16,007 --> 00:01:20,007
+create and manage lists, and open any app on your system.
+
+33
+00:01:20,007 --> 00:01:22,005
+If you find yourself frequently using your voice
+
+34
+00:01:22,005 --> 00:01:24,008
+to interact with Cortana, you can apply a setting
+
+35
+00:01:24,008 --> 00:01:27,000
+so you don't have to click the Talk to Cortana button
+
+36
+00:01:27,000 --> 00:01:29,002
+in order to talk to Cortana.
+
+37
+00:01:29,002 --> 00:01:34,004
+Go to the Start menu and open Settings and select Cortana.
+
+38
+00:01:34,004 --> 00:01:37,006
+And here you can enable the Hey Cortana setting.
+
+39
+00:01:37,006 --> 00:01:38,007
+Once you've enabled this,
+
+40
+00:01:38,007 --> 00:01:40,005
+you can talk to Cortana at any time
+
+41
+00:01:40,005 --> 00:01:42,006
+just by saying, hey Cortana.
+
+42
+00:01:42,006 --> 00:01:44,004
+So I'll turn that on.
+
+43
+00:01:44,004 --> 00:01:46,003
+And I'll close Settings.
+
+44
+00:01:46,003 --> 00:01:47,007
+And let's try it.
+
+45
+00:01:47,007 --> 00:01:51,007
+Hey Cortana, show me images of Basset Hounds.
+
+46
+00:01:51,007 --> 00:01:54,004
+- [Cortana] I pulled up some images for you.
+
+47
+00:01:54,004 --> 00:01:56,001
+- [Instructor] And there we go.
+
+48
+00:01:56,001 --> 00:01:57,009
+I'll go ahead and close that.
+
+49
+00:01:57,009 --> 00:01:59,005
+Or since I'm making dinner tonight,
+
+50
+00:01:59,005 --> 00:02:02,001
+I'll ask Cortana to look up a recipe for me.
+
+51
+00:02:02,001 --> 00:02:06,002
+Hey Cortana, find a recipe for ratatouille.
+
+52
+00:02:06,002 --> 00:02:08,004
+- [Cortana] The first recipe is ratatouille
+
+53
+00:02:08,004 --> 00:02:12,007
+with 3.5 out of five stars on Martha Stewart.
+
+54
+00:02:12,007 --> 00:02:13,005
+- [Instructor] So as you can see,
+
+55
+00:02:13,005 --> 00:02:16,005
+Cortana searched the web and found me these recipes.
+
+56
+00:02:16,005 --> 00:02:18,003
+If any of them look good to me, I could click on them
+
+57
+00:02:18,003 --> 00:02:20,006
+to go to the webpage to get the recipe.
+
+58
+00:02:20,006 --> 00:02:22,001
+Probably one of the best ways to learn
+
+59
+00:02:22,001 --> 00:02:24,008
+about Cortana's abilities is to ask it questions
+
+60
+00:02:24,008 --> 00:02:26,002
+or to try seeing if it can perform
+
+61
+00:02:26,002 --> 00:02:28,000
+different activities for you.
+
+62
+00:02:28,000 --> 00:02:31,009
+Or just say, hey Cortana, what can you help me do?
+
+63
+00:02:31,009 --> 00:02:33,009
+- [Cortana] Here's how I can help.
+
+64
+00:02:33,009 --> 00:02:35,005
+- [Instructor] And you'll get this list of useful commands
+
+65
+00:02:35,005 --> 00:02:37,005
+to try out to help you work more efficiently
+
+66
+00:02:37,005 --> 00:02:38,005
+and get things done.
+

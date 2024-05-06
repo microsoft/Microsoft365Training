@@ -1,0 +1,208 @@
+1
+00:00:00,006 --> 00:00:01,009
+- [Instructor] Picture this.
+
+2
+00:00:01,009 --> 00:00:05,001
+You just updated your resume to apply for a new job.
+
+3
+00:00:05,001 --> 00:00:08,007
+All the details look great, except there's one problem.
+
+4
+00:00:08,007 --> 00:00:11,003
+Your resume's spread over two pages
+
+5
+00:00:11,003 --> 00:00:16,005
+and the job application asks for one page max.
+
+6
+00:00:16,005 --> 00:00:18,001
+By adjusting the margins,
+
+7
+00:00:18,001 --> 00:00:20,007
+you can keep everything on the same page
+
+8
+00:00:20,007 --> 00:00:23,003
+without deleting anything important.
+
+9
+00:00:23,003 --> 00:00:26,002
+In this lesson, I'll show you how to use margins
+
+10
+00:00:26,002 --> 00:00:30,000
+to fit the content you want in the space you need.
+
+11
+00:00:30,000 --> 00:00:33,000
+To get started, download the sample resume
+
+12
+00:00:33,000 --> 00:00:35,004
+available in the Exercise Files.
+
+13
+00:00:35,004 --> 00:00:38,001
+The first thing you need to do is open the resume.
+
+14
+00:00:38,001 --> 00:00:40,009
+Since this is such an important document,
+
+15
+00:00:40,009 --> 00:00:43,004
+make sure to review it closely
+
+16
+00:00:43,004 --> 00:00:46,008
+to make sure it has all the necessary information.
+
+17
+00:00:46,008 --> 00:00:48,007
+This layout looks good,
+
+18
+00:00:48,007 --> 00:00:51,004
+but there's a little bit of text
+
+19
+00:00:51,004 --> 00:00:54,001
+running onto the second page.
+
+20
+00:00:54,001 --> 00:00:57,009
+So to keep everything on one page without deleting anything,
+
+21
+00:00:57,009 --> 00:01:00,003
+you want to customize your margins.
+
+22
+00:01:00,003 --> 00:01:03,000
+I'll show you how by going up to the ribbon
+
+23
+00:01:03,000 --> 00:01:04,005
+and selecting Layout.
+
+24
+00:01:04,005 --> 00:01:07,001
+This is where Word displays several options
+
+25
+00:01:07,001 --> 00:01:09,009
+for how text is arranged on the page.
+
+26
+00:01:09,009 --> 00:01:12,007
+You can explore all these features on your own,
+
+27
+00:01:12,007 --> 00:01:15,009
+but for now, just select Margins.
+
+28
+00:01:15,009 --> 00:01:17,009
+From here, you can choose pre-made margins
+
+29
+00:01:17,009 --> 00:01:19,007
+or Custom Margins.
+
+30
+00:01:19,007 --> 00:01:23,006
+I'll choose Custom Margins to give myself more flexibility.
+
+31
+00:01:23,006 --> 00:01:25,001
+When I select Margins,
+
+32
+00:01:25,001 --> 00:01:27,008
+a window appears showing the current margins.
+
+33
+00:01:27,008 --> 00:01:28,009
+The bigger your margins are,
+
+34
+00:01:28,009 --> 00:01:31,009
+the less room you'll have for text on a page,
+
+35
+00:01:31,009 --> 00:01:34,002
+but making them smaller will allow you
+
+36
+00:01:34,002 --> 00:01:37,004
+to fit more text in the same space.
+
+37
+00:01:37,004 --> 00:01:39,003
+Since I need to fit all the text
+
+38
+00:01:39,003 --> 00:01:41,002
+onto a single sheet of paper,
+
+39
+00:01:41,002 --> 00:01:44,001
+these margins need to be smaller.
+
+40
+00:01:44,001 --> 00:01:47,009
+I'll lower the default margins from one inch
+
+41
+00:01:47,009 --> 00:01:50,006
+down to a half an inch.
+
+42
+00:01:50,006 --> 00:01:52,005
+After selecting OK
+
+43
+00:01:52,005 --> 00:01:56,004
+to apply the updated margins to your document,
+
+44
+00:01:56,004 --> 00:01:59,006
+the resume now fits on one page.
+
+45
+00:01:59,006 --> 00:02:01,005
+If you need to adjust the margins again,
+
+46
+00:02:01,005 --> 00:02:03,009
+you can always go back into Custom Margins
+
+47
+00:02:03,009 --> 00:02:06,002
+and make any changes you need.
+
+48
+00:02:06,002 --> 00:02:08,005
+Now you know exactly how to adjust the margins
+
+49
+00:02:08,005 --> 00:02:09,005
+in a Word document
+
+50
+00:02:09,005 --> 00:02:12,003
+and get everything you need on the same page.
+
+51
+00:02:12,003 --> 00:02:14,007
+You're ready to reformat your resume
+
+52
+00:02:14,007 --> 00:02:15,009
+or any other document.
+

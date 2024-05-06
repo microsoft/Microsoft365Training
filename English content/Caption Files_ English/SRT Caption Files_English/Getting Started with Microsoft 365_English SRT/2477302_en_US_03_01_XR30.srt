@@ -1,0 +1,184 @@
+1
+00:00:00,000 --> 00:00:01,002
+- [Instructor] Communication is key
+
+2
+00:00:01,002 --> 00:00:03,001
+to the success of any team.
+
+3
+00:00:03,001 --> 00:00:06,004
+Using text-based messages to communicate is efficient,
+
+4
+00:00:06,004 --> 00:00:08,008
+fast and keeps everyone in the loop.
+
+5
+00:00:08,008 --> 00:00:11,005
+In this lesson, I'll show you how to post messages
+
+6
+00:00:11,005 --> 00:00:13,003
+in all your Team's channels
+
+7
+00:00:13,003 --> 00:00:15,009
+to keep your teammates connected.
+
+8
+00:00:15,009 --> 00:00:18,005
+For this example, I've already opened Teams
+
+9
+00:00:18,005 --> 00:00:21,009
+and created a team to collaborate on an upcoming conference
+
+10
+00:00:21,009 --> 00:00:24,000
+that we're all working on together.
+
+11
+00:00:24,000 --> 00:00:27,007
+I want to communicate to everyone on my Microsoft Team
+
+12
+00:00:27,007 --> 00:00:30,004
+by welcoming them and sharing how excited I am
+
+13
+00:00:30,004 --> 00:00:31,007
+to work on this event.
+
+14
+00:00:31,007 --> 00:00:35,004
+To do this, I select my announcements channel.
+
+15
+00:00:35,004 --> 00:00:40,004
+Starting from the post tab, I'll select new conversation
+
+16
+00:00:40,004 --> 00:00:42,004
+and I can begin my announcement.
+
+17
+00:00:42,004 --> 00:00:44,008
+I want to make sure I get my team's attention.
+
+18
+00:00:44,008 --> 00:00:47,001
+You can use mentions to send a notification
+
+19
+00:00:47,001 --> 00:00:49,008
+to an individual, a channel or a team.
+
+20
+00:00:49,008 --> 00:00:53,007
+I'll mention the entire team by entering @Skills conference
+
+21
+00:00:53,007 --> 00:00:55,006
+and selecting the team.
+
+22
+00:00:55,006 --> 00:00:59,009
+Now I can type in my message.
+
+23
+00:00:59,009 --> 00:01:04,001
+And now I can click send.
+
+24
+00:01:04,001 --> 00:01:07,001
+By mentioning the Skills conference team,
+
+25
+00:01:07,001 --> 00:01:10,008
+I've ensured that everybody in the Skills conference team
+
+26
+00:01:10,008 --> 00:01:15,001
+received a notification that I've posted this message.
+
+27
+00:01:15,001 --> 00:01:19,002
+In addition to sending a notification to an entire group,
+
+28
+00:01:19,002 --> 00:01:22,003
+I can also get the intention of an individual.
+
+29
+00:01:22,003 --> 00:01:25,000
+When posting in a channel, everyone can see
+
+30
+00:01:25,000 --> 00:01:26,009
+and respond to the post.
+
+31
+00:01:26,009 --> 00:01:29,001
+If there's a message that should be private,
+
+32
+00:01:29,001 --> 00:01:32,002
+sending a direct message or chat is best.
+
+33
+00:01:32,002 --> 00:01:36,000
+I want to ask Joni to share the draft planning document
+
+34
+00:01:36,000 --> 00:01:38,004
+with the team in the planning channel.
+
+35
+00:01:38,004 --> 00:01:40,003
+I'll navigate to the planning channel
+
+36
+00:01:40,003 --> 00:01:43,005
+and select the posts tab.
+
+37
+00:01:43,005 --> 00:01:46,005
+I'll start a new conversation
+
+38
+00:01:46,005 --> 00:01:49,006
+and I'll use the @ symbol and type in Joni's name
+
+39
+00:01:49,006 --> 00:01:52,005
+to mention her in my post.
+
+40
+00:01:52,005 --> 00:01:55,004
+Using mention ensures that Joni gets a notification
+
+41
+00:01:55,004 --> 00:01:56,007
+that I've posted.
+
+42
+00:01:56,007 --> 00:01:59,000
+Now that you know how to communicate with messages
+
+43
+00:01:59,000 --> 00:02:01,003
+in a channel and how to draw attention
+
+44
+00:02:01,003 --> 00:02:03,005
+to your messages using mentions,
+
+45
+00:02:03,005 --> 00:02:05,000
+practice these techniques
+
+46
+00:02:05,000 --> 00:02:07,006
+to streamline your communication with your team.
+

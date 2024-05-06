@@ -1,0 +1,63 @@
+ - [Instructor] A wireless network is a network  
+ to which properly equipped computers  
+ can connect via radio signal instead of physical cables.  
+ Wireless networks are commonly called Wi-Fi networks  
+ and allow computers and mobile devices to connect  
+ to the internet without the need for a cable.  
+ Like a regular wired network,  
+ a Wi-Fi network does not necessarily have  
+ to offer internet access,  
+ although internet access is probably the most common reason  
+ people set up Wi-Fi networks.  
+ To connect to a nearby wireless network,  
+ you should see this network icon here in your taskbar.  
+ If you don't see it, right-click on the taskbar  
+ and choose Taskbar settings,  
+ then click Turn system icons on or off.  
+ And here, make sure the Network switch is turned on.  
+ So with Wi-Fi enabled on your computer  
+ when you click the Network icon,  
+ you'll see a list of all the nearby Wi-Fi networks  
+ your computer has detected.  
+ The Wi-Fi icon next to each one  
+ also shows you how strong the signal is.  
+ Click a network to reveal the Connect button.  
+ You can check Connect automatically  
+ if you want your PC to automatically connect  
+ to this network in the future without first asking you.  
+ This is a convenient time saver,  
+ especially for networks you use all the time  
+ like your home or office network.  
+ Then click Connect to join the network.  
+ If the network you're trying to join is secured,  
+ as most of them are these days,  
+ you'll be prompted to type in the password.  
+ And I'll click Next.  
+ And now I'm connected.  
+ Notice that my network icon in my taskbar  
+ has turned into a Wi-Fi icon.  
+ So at this point I'm connected to that Wi-Fi network,  
+ and I'm free to connect to other computers on the network  
+ or to surf the web.  
+ Now, if you followed these steps and were unable to connect,  
+ or it looks like you're connected  
+ but you can't get online,  
+ first make sure you're close enough to the Wi-Fi signal.  
+ Ideally you want to have as close to three full bars  
+ in the signal strength indicator as possible.  
+ If you're connecting to a public Wi-Fi network,  
+ you might have to pay to use the service.  
+ In most cases, you just need to open your web browser  
+ and try to open a webpage.  
+ You'll then be redirected to a page where you'll be asked  
+ to submit your credit card information,  
+ or your room number in some hotels, before you can proceed.  
+ When you come across Wi-Fi networks like that,  
+ just follow the onscreen instructions.  
+ But for the most part,  
+ connecting to a wireless network from your PC  
+ is a simple matter of selecting the network  
+ from the list of available networks  
+ and then clicking Connect.  
+ 
+

@@ -1,0 +1,42 @@
+ - [Instructor] When you're managing a project,  
+ you'll be tracking lots  
+ of moving parts and tasks.  
+ Microsoft Project has powerful work management capabilities  
+ that can be used by both project managers  
+ and team members alike.  
+ In this lesson, I'll show you  
+ Microsoft Project's key features.  
+ The first feature I want to highlight in Project  
+ is task dependencies.  
+ A project is often made up of tasks  
+ that depend on each other.  
+ I'll start by opening the August wedding project  
+ I've been working on  
+ so you can see how Project lists the various pieces  
+ that need to come together for the event.  
+ For example, the determined budget task is dependent  
+ on the discussion with the couple about wedding size,  
+ location and scope.  
+ Grid view is fine for listing out the tasks,  
+ but with dependencies,  
+ it's much easier to understand  
+ the information using a timeline.  
+ This view gives me the timeline  
+ of when tasks are due and their dependencies.  
+ Once dependencies are created,  
+ I can see the critical path.  
+ The critical path shows the specific tasks,  
+ that if delayed, will delay the entire project.  
+ By analyzing a critical path,  
+ you can also identify how to shorten the project length.  
+ To view the critical path,  
+ on the top menu,  
+ select Filters and toggle Show Critical Path on.  
+ All the tasks highlighted in red need  
+ to be completed on time to meet the deadline.  
+ Microsoft Project will help you manage large timelines  
+ and projects.  
+ If you need to identify dependencies  
+ or the critical path, check out Microsoft Project.  
+ 
+

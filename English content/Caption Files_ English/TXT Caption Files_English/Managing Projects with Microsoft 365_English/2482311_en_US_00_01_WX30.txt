@@ -1,0 +1,26 @@
+ - [Narrator] Often in life, getting to where you want to go  
+ starts with setting specific achievable goals.  
+ While some of those goals can be reached simply and quickly,  
+ others require a lot of thoughtful planning,  
+ energy, time, coordination, and execution.  
+ Throughout your life and career,  
+ you'll likely take on many projects.  
+ Managing those projects isn't always straightforward.  
+ There are often different tasks,  
+ people involved, and steps in between.  
+ My name is Christine Matheney,  
+ and I'm a program manager at Microsoft.  
+ In this course, I'm going to show you  
+ how to use Microsoft 365 apps  
+ to increase your project management skills.  
+ You'll learn how to create  
+ and share lists in Microsoft Lists,  
+ develop a plan in Microsoft Planner,  
+ and manage your project with Microsoft Project.  
+ Microsoft 365 has extraordinary tools  
+ to help you manage your projects like a pro.  
+ Learning how to manage projects in Microsoft 365  
+ will boost your ability to take on any task.  
+ Let's get started.  
+ 
+

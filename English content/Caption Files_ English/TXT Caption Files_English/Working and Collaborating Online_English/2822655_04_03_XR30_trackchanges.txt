@@ -1,0 +1,53 @@
+ - [Instructor] Microsoft Word's ability  
+ to track changes allows you to freely make edits  
+ to a document and your collaborators will be able to see  
+ exactly what changes you made.  
+ Start by going to the Review tab  
+ and here click Track Changes.  
+ With that enabled, Word will track any changes  
+ you or anyone else makes to the document.  
+ So for example, I might highlight some text here  
+ and make that bold.  
+ I see a misspelling down here, which I'll fix,  
+ changing that A to an O.  
+ And maybe down here I will create a new paragraph.  
+ To review changes made to the document,  
+ you can come back to the Review tab  
+ and notice here we have this menu  
+ that's currently set to Simple Markup.  
+ We have several options here.  
+ The Simple Markup option indicates  
+ where changes have been made with a red line in the margin.  
+ So you might've noticed that as I made my changes,  
+ these red lines appeared.  
+ All Markup shows the edits with a blue highlight,  
+ and you can actually see the changes here in the document.  
+ Now, in this first case at the top,  
+ you can see that the change  
+ is that the font was changed to bold.  
+ Down here you can see that the A was deleted  
+ and the O was typed in its place.  
+ And here we can see another line  
+ indicating a paragraph break.  
+ There's also the option here of No Markup,  
+ which hides all the markups  
+ and shows you what the changes will look like  
+ in the document.  
+ And Original shows the document in its original form  
+ without the changes,  
+ which can be useful for comparing the original  
+ with the edited version.  
+ Additionally, when you're viewing an option  
+ that displays the markups,  
+ you can use the Show Markup menu here  
+ to specify which types of revisions you want to see.  
+ So for example,  
+ you could uncheck everything but that option.  
+ And now you can see, I'm only seeing the change here,  
+ where I changed this text to bold,  
+ but if I want to see the other changes  
+ I can add Insert and Deletions back,  
+ and if I have comments, I can see those as well.  
+ So, that's how to track changes to documents in Word.  
+ 
+

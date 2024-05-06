@@ -1,0 +1,360 @@
+1
+00:00:00,005 --> 00:00:02,006
+- [Instructor] A big part of being connected to the internet
+
+2
+00:00:02,006 --> 00:00:05,001
+is having access to the seemingly unlimited amounts
+
+3
+00:00:05,001 --> 00:00:06,008
+of information out there.
+
+4
+00:00:06,008 --> 00:00:07,009
+As you may know,
+
+5
+00:00:07,009 --> 00:00:09,009
+the best way to find information you're looking for
+
+6
+00:00:09,009 --> 00:00:12,009
+is to perform a search through a search engine.
+
+7
+00:00:12,009 --> 00:00:15,001
+A search engine is an online resource
+
+8
+00:00:15,001 --> 00:00:17,009
+that systematically catalogs the contents of the web
+
+9
+00:00:17,009 --> 00:00:19,006
+so that when you perform a search,
+
+10
+00:00:19,006 --> 00:00:22,000
+you can bring up webpages matching the words or terms
+
+11
+00:00:22,000 --> 00:00:23,007
+you're looking for.
+
+12
+00:00:23,007 --> 00:00:25,003
+There are many search engines out there,
+
+13
+00:00:25,003 --> 00:00:27,003
+and you've probably heard of at least a few of them,
+
+14
+00:00:27,003 --> 00:00:32,001
+like Google, Yahoo, Microsoft Bing, or DuckDuckGo.
+
+15
+00:00:32,001 --> 00:00:33,005
+Searching is such an integral part
+
+16
+00:00:33,005 --> 00:00:35,008
+of being on the web that all modern web browsers
+
+17
+00:00:35,008 --> 00:00:38,000
+have web searching built in.
+
+18
+00:00:38,000 --> 00:00:39,007
+For example, to perform a search,
+
+19
+00:00:39,007 --> 00:00:43,004
+I could go to bing.com
+
+20
+00:00:43,004 --> 00:00:45,003
+here in my Microsoft Edge browser,
+
+21
+00:00:45,003 --> 00:00:46,007
+and I could type the term I'm searching for
+
+22
+00:00:46,007 --> 00:00:48,003
+in the search field here.
+
+23
+00:00:48,003 --> 00:00:50,007
+But Bing is also the default search engine in Edge,
+
+24
+00:00:50,007 --> 00:00:52,003
+and almost all browsers allow you to set
+
+25
+00:00:52,003 --> 00:00:54,005
+the default search engine you want to use.
+
+26
+00:00:54,005 --> 00:00:55,003
+So for example,
+
+27
+00:00:55,003 --> 00:00:56,004
+if I wanted to search for information
+
+28
+00:00:56,004 --> 00:00:58,003
+about Yosemite National Park,
+
+29
+00:00:58,003 --> 00:01:00,002
+I can type that right into the address bar,
+
+30
+00:01:00,002 --> 00:01:03,000
+regardless of whether I'm on bing.com or not.
+
+31
+00:01:03,000 --> 00:01:03,008
+Notice as I type,
+
+32
+00:01:03,008 --> 00:01:06,007
+suggestions to complete my search term start appearing.
+
+33
+00:01:06,007 --> 00:01:07,008
+If I see the one I want,
+
+34
+00:01:07,008 --> 00:01:09,003
+I can just click it.
+
+35
+00:01:09,003 --> 00:01:10,006
+Otherwise I could have kept typing
+
+36
+00:01:10,006 --> 00:01:12,002
+and pressed enter to search.
+
+37
+00:01:12,002 --> 00:01:14,008
+And now I'm looking at my search results on Bing.
+
+38
+00:01:14,008 --> 00:01:17,001
+Each search result is a link that will take me to the page
+
+39
+00:01:17,001 --> 00:01:19,004
+or website that Bing has found.
+
+40
+00:01:19,004 --> 00:01:20,003
+To help me determine
+
+41
+00:01:20,003 --> 00:01:22,006
+if the page includes the information I'm looking for,
+
+42
+00:01:22,006 --> 00:01:25,000
+most of the results also have a few excerpts of text
+
+43
+00:01:25,000 --> 00:01:27,005
+from those pages and some images.
+
+44
+00:01:27,005 --> 00:01:29,003
+For example, here's the Wikipedia page
+
+45
+00:01:29,003 --> 00:01:30,008
+for Yosemite National Park,
+
+46
+00:01:30,008 --> 00:01:32,008
+which I might want to read to learn a little bit more
+
+47
+00:01:32,008 --> 00:01:34,007
+about the history of the park.
+
+48
+00:01:34,007 --> 00:01:37,001
+So clicking that link takes me to the website,
+
+49
+00:01:37,001 --> 00:01:38,005
+and as you can see in the address bar,
+
+50
+00:01:38,005 --> 00:01:40,006
+I'm now viewing Wikipedia.
+
+51
+00:01:40,006 --> 00:01:42,000
+If this isn't what I was looking for,
+
+52
+00:01:42,000 --> 00:01:44,004
+or if I just want to browse other pages Bing found,
+
+53
+00:01:44,004 --> 00:01:46,001
+I can click the back button
+
+54
+00:01:46,001 --> 00:01:49,002
+to go back to the previous page of results.
+
+55
+00:01:49,002 --> 00:01:50,008
+Notice that in addition to web pages,
+
+56
+00:01:50,008 --> 00:01:52,008
+there's plenty of information here too.
+
+57
+00:01:52,008 --> 00:01:55,008
+I can click about and see a summary about the park,
+
+58
+00:01:55,008 --> 00:01:57,006
+I can get directions from my current location
+
+59
+00:01:57,006 --> 00:02:00,001
+to Yosemite, and I can visit the official website
+
+60
+00:02:00,001 --> 00:02:01,009
+using the website button here.
+
+61
+00:02:01,009 --> 00:02:03,001
+And as you saw when I scrolled down,
+
+62
+00:02:03,001 --> 00:02:06,001
+we can find news and photos related to Yosemite.
+
+63
+00:02:06,001 --> 00:02:06,009
+If I scroll back up,
+
+64
+00:02:06,009 --> 00:02:09,001
+I'll find categories that allow me to narrow my search
+
+65
+00:02:09,001 --> 00:02:14,003
+to just images of Yosemite or videos of Yosemite,
+
+66
+00:02:14,003 --> 00:02:17,002
+as well as maps, news, and even shopping pages
+
+67
+00:02:17,002 --> 00:02:19,001
+where I could find products related to Yosemite
+
+68
+00:02:19,001 --> 00:02:20,007
+that I can purchase.
+
+69
+00:02:20,007 --> 00:02:22,005
+Let's say I'm looking for photos right now.
+
+70
+00:02:22,005 --> 00:02:24,004
+I'll click images.
+
+71
+00:02:24,004 --> 00:02:26,009
+And just like that, I see the results.
+
+72
+00:02:26,009 --> 00:02:28,004
+As I roll over each image,
+
+73
+00:02:28,004 --> 00:02:30,009
+I see information about the source of the images.
+
+74
+00:02:30,009 --> 00:02:33,008
+Many of these appear to be from articles about Yosemite.
+
+75
+00:02:33,008 --> 00:02:37,008
+And clicking an image allows me to see it at a larger size,
+
+76
+00:02:37,008 --> 00:02:39,004
+and I can click the arrows here
+
+77
+00:02:39,004 --> 00:02:43,000
+to browse through my results this way.
+
+78
+00:02:43,000 --> 00:02:44,000
+I'll click the X button here
+
+79
+00:02:44,000 --> 00:02:46,003
+to see the smaller images again.
+
+80
+00:02:46,003 --> 00:02:48,000
+Notice at the top of the image results,
+
+81
+00:02:48,000 --> 00:02:50,003
+we see a row of suggestions that may help you narrow down
+
+82
+00:02:50,003 --> 00:02:52,003
+the type of image you're searching for.
+
+83
+00:02:52,003 --> 00:02:53,003
+So maybe instead of searching
+
+84
+00:02:53,003 --> 00:02:55,002
+for general photos of Yosemite,
+
+85
+00:02:55,002 --> 00:02:58,003
+I want to search for photos of winter in the park.
+
+86
+00:02:58,003 --> 00:02:59,008
+And there we are.
+
+87
+00:02:59,008 --> 00:03:00,009
+So this has been a quick look
+
+88
+00:03:00,009 --> 00:03:03,005
+at how most modern search engines make it easier to find
+
+89
+00:03:03,005 --> 00:03:05,000
+the information and other content
+
+90
+00:03:05,000 --> 00:03:06,005
+you're looking for on the web.
+

@@ -1,0 +1,60 @@
+ - [Instructor] There will be times  
+ when you'll want to share news,  
+ a status update on a project  
+ or maybe you want a page  
+ where people can learn more about an event  
+ or program.  
+ In this lesson, I'll show you how to create  
+ a SharePoint communication site,  
+ and show you how to use these sites  
+ with your team.  
+ From my SharePoint start page,  
+ I'll select create site.  
+ I want to share information,  
+ and engage other viewers.  
+ So I'm going to choose to make this  
+ a communication site.  
+ I'll name the site skills conference page.  
+ For right now, I'll leave the description blank  
+ because I'll come back later,  
+ and describe the site's purpose.  
+ After I've named my site, I'll select finish.  
+ After I select finish,  
+ I land on my new communication site,  
+ and from here I can edit content.  
+ I want to get everyone excited  
+ about the upcoming skills conference.  
+ So I'm going to use this site  
+ to share information  
+ to build anticipation for the event.  
+ The site has one page so far, the homepage.  
+ I like the look of this homepage,  
+ but I want to see if templates  
+ will offer me other options.  
+ So I'll go to the upper right-corner,  
+ and select settings.  
+ I have several options to choose from here.  
+ The first thing I want to do is apply a site template  
+ to help change the overall layout of my site.  
+ So I'll select that.  
+ Once the select a template window opens,  
+ you have several templates to choose from.  
+ If you hover over a template and select details,  
+ you'll get a clearer picture of the site layout,  
+ and what the site is used for.  
+ I want to see more details  
+ on the showcase template,  
+ so I'll select details.  
+ I like the look of the showcase layout.  
+ So I'll select use template.  
+ I've created a communication site  
+ using a template.  
+ I'll need to add content to this site  
+ before I'm ready to share it with others,  
+ but I'm off to a super start.  
+ Now you know how to add a communication site  
+ in SharePoint.  
+ Soon you'll be ready to add content,  
+ and share your site with others.  
+ 
+

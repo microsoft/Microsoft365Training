@@ -1,0 +1,57 @@
+ - [Narrator] You may not realize it,  
+ but forms are used all the time in your daily life.  
+ Everything from casting your vote  
+ to filling out a feedback survey  
+ from your favorite coffee brand,  
+ forms are used to gather all kinds of data.  
+ In this lesson,  
+ I'll show you how to use Microsoft Forms to make surveys,  
+ quizzes, and sign up forms  
+ to reveal any data you're looking for.  
+ In the top left corner of office.com.,  
+ I'll select the app launcher and open forms to get started.  
+ Surveys gather data from clients  
+ and can inform you of opportunities to improve.  
+ For example, I use a survey every semester  
+ to gauge my effectiveness as a lecturer.  
+ Another great way businesses can use forms is  
+ to collect information.  
+ This is a t-shirt signup form.  
+ Not only do you get information on a client's t-shirt size,  
+ but you also get their contact information.  
+ You can also use forms for event registration.  
+ Having a single list of all the people  
+ who are attending an event electronically is the best way  
+ to stay organized.  
+ By creating a survey  
+ for all your company's event registrations,  
+ you'll always be able to track down necessary information  
+ like number of RSVPs and anything else you need  
+ to create a seamless event.  
+ While forms and surveys allow you to gather data,  
+ you can also use quizzes to assess the knowledge  
+ of your clients and coworkers.  
+ Quizzes can be fun.  
+ I've used this animal quiz icebreaker to engage  
+ with my team at the start of a meeting.  
+ You can easily assess quiz results  
+ with the Microsoft Forms response tab.  
+ Let's take a look at this animal quiz.  
+ I can easily scroll through the results  
+ to see which questions were the most difficult  
+ and which were the easiest.  
+ This is indicated on my screen by looking  
+ for the questions that have the least number correct  
+ or those that have the most number correct.  
+ I can also see the results graphically for a quick glimpse  
+ into how everyone is doing with the material.  
+ You can also download the data in Excel or import the data  
+ into your favorite reporting tool to do further analysis.  
+ Microsoft Forms provide several opportunities  
+ for you to gather information and assess data.  
+ This week create a fun quiz  
+ for your coworkers, clients, or students.  
+ Getting data directly  
+ from your audience can only serve to improve your work.  
+ 
+

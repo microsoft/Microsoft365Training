@@ -1,0 +1,69 @@
+ - [Narrator] To use Skype,  
+ you'll need to download the Skype app  
+ to your desktop computer or mobile device  
+ by going to skype.com,  
+ and here you can click the Downloads link.  
+ The site should automatically detect  
+ the operating system you're using.  
+ For example, here I see Get Skype for Windows,  
+ so I could click that to download the version  
+ for the computer that I'm using.  
+ If you're on a Mac, you'll see Get Skype for Mac.  
+ If you want to install Skype on your phone or tablet,  
+ visit the App Store on Apple iOS devices  
+ or the Google Play store for Android devices,  
+ and then you can search for and download the Skype app.  
+ I've already downloaded and installed Skype  
+ here on my Windows computer,  
+ and I've pinned it to the taskbar,  
+ so I can start it up right from here.  
+ So to use Skype, you'll need to log in with your account.  
+ If you already have a Microsoft account,  
+ you can use that same account to log into Skype.  
+ Some ways you might have already created an account  
+ are if you have a subscription to Microsoft 365,  
+ if you have a Hotmail or Outlook.com email address,  
+ or if you have an Xbox Live account.  
+ You can use any of these methods to sign into Skype.  
+ If you don't yet have a Microsoft account,  
+ you can click Create One to create one,  
+ and then walk through the steps to create your account.  
+ You'll then be able to sign in.  
+ In this case, I'll sign in with an account I already have.  
+ And I'll enter my password.  
+ And once you're signed in,  
+ you can start making and receiving calls,  
+ sending and receiving instant messages,  
+ or you can set your status  
+ so people who have you in their contacts list  
+ can see your availability.  
+ Setting your status can give your contacts a better idea  
+ of whether they can expect  
+ an immediate or a delayed reply from you  
+ when they send you messages.  
+ Now, if you want to keep Skype running but hide the app,  
+ you can click the X button to close this window.  
+ You can see here, though, that Skype is still running,  
+ and you'll still receive notifications  
+ if anyone messages or calls you.  
+ You can bring the main window back at any time  
+ by opening up Skype again,  
+ either from the taskbar if you have the icon pinned there,  
+ or you can do a search for Skype,  
+ and open it from here.  
+ When you're done using Skype  
+ and you want to completely sign out,  
+ click this three dot menu, and then choose Sign Out.  
+ I'm going to have it remember  
+ so I don't have to sign in from scratch  
+ each time I want to open up Skype.  
+ And now I can close this window.  
+ Once you've completely signed out,  
+ your contacts will no longer be able  
+ to see you online or send you messages.  
+ But you can always restart Skype,  
+ select your account, and sign in  
+ to make yourself available  
+ to receive messages and calls again.  
+ 
+

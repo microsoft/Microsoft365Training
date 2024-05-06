@@ -1,0 +1,240 @@
+1
+00:00:00,000 --> 00:00:01,003
+- [Instructor] Like on a television,
+
+2
+00:00:01,003 --> 00:00:03,004
+radio, or even walkie-talkie,
+
+3
+00:00:03,004 --> 00:00:06,005
+different channels have their own unique purpose
+
+4
+00:00:06,005 --> 00:00:08,006
+and their own unique conversations.
+
+5
+00:00:08,006 --> 00:00:13,000
+In Teams, channels are used to help organize files,
+
+6
+00:00:13,000 --> 00:00:16,007
+communications, and people around different topics
+
+7
+00:00:16,007 --> 00:00:18,006
+to keep team members connected
+
+8
+00:00:18,006 --> 00:00:21,008
+to what they need to maximize their workflow.
+
+9
+00:00:21,008 --> 00:00:23,009
+In this lesson, I'll show you how to add
+
+10
+00:00:23,009 --> 00:00:26,001
+and remove channels for your team
+
+11
+00:00:26,001 --> 00:00:29,001
+so that you can make sure the right people are connecting
+
+12
+00:00:29,001 --> 00:00:32,001
+and collaborating in the right places.
+
+13
+00:00:32,001 --> 00:00:33,008
+I'll start in the team I've created
+
+14
+00:00:33,008 --> 00:00:36,001
+for an upcoming skills conference.
+
+15
+00:00:36,001 --> 00:00:39,002
+I've already created a team, added members,
+
+16
+00:00:39,002 --> 00:00:41,008
+and given members appropriate access.
+
+17
+00:00:41,008 --> 00:00:43,008
+Now want to begin organizing the places
+
+18
+00:00:43,008 --> 00:00:46,002
+where we will collaborate and communicate.
+
+19
+00:00:46,002 --> 00:00:48,006
+Currently, the logistics channel is open
+
+20
+00:00:48,006 --> 00:00:51,001
+to everyone on the team and anyone that is a part
+
+21
+00:00:51,001 --> 00:00:53,002
+of the skills conference team will have access
+
+22
+00:00:53,002 --> 00:00:55,003
+to all files and chats.
+
+23
+00:00:55,003 --> 00:00:58,000
+I would prefer to make logistics private for only
+
+24
+00:00:58,000 --> 00:01:00,009
+the team members that are working on logistics directly.
+
+25
+00:01:00,009 --> 00:01:04,008
+But after a channel is created, you can't make it private.
+
+26
+00:01:04,008 --> 00:01:06,005
+Now I need to delete this channel
+
+27
+00:01:06,005 --> 00:01:08,005
+to recreate it as a private channel.
+
+28
+00:01:08,005 --> 00:01:09,007
+I'll delete it
+
+29
+00:01:09,007 --> 00:01:12,006
+by selecting the More Options button beside the name
+
+30
+00:01:12,006 --> 00:01:17,007
+of the channel, and selecting Delete This Channel.
+
+31
+00:01:17,007 --> 00:01:20,009
+It's important to remember that when you delete a channel,
+
+32
+00:01:20,009 --> 00:01:23,004
+you delete everything in the channel.
+
+33
+00:01:23,004 --> 00:01:26,003
+So make sure when you're ready to delete,
+
+34
+00:01:26,003 --> 00:01:28,004
+you're ready to delete everything.
+
+35
+00:01:28,004 --> 00:01:30,004
+To recreate this same channel
+
+36
+00:01:30,004 --> 00:01:31,008
+as a private channel,
+
+37
+00:01:31,008 --> 00:01:36,003
+I'll go back to the team's name and select More Options.
+
+38
+00:01:36,003 --> 00:01:38,009
+Then select Add Channel.
+
+39
+00:01:38,009 --> 00:01:41,004
+It prompts me to enter a name.
+
+40
+00:01:41,004 --> 00:01:45,001
+I will name this channel Logistics Internal.
+
+41
+00:01:45,001 --> 00:01:48,002
+Now I can adjust this channel's privacy.
+
+42
+00:01:48,002 --> 00:01:51,003
+I only want to share this with selected team members,
+
+43
+00:01:51,003 --> 00:01:56,007
+so I'll choose Private, and then select Create.
+
+44
+00:01:56,007 --> 00:01:59,001
+Now that I've created a private channel,
+
+45
+00:01:59,001 --> 00:02:03,007
+I'm able to add only those select members that need access.
+
+46
+00:02:03,007 --> 00:02:05,002
+I'll add one of my teammates
+
+47
+00:02:05,002 --> 00:02:08,005
+to this channel by typing in their name,
+
+48
+00:02:08,005 --> 00:02:11,009
+selecting Add, and making sure
+
+49
+00:02:11,009 --> 00:02:15,008
+the team member has the appropriate access.
+
+50
+00:02:15,008 --> 00:02:17,004
+I click Done,
+
+51
+00:02:17,004 --> 00:02:21,000
+and my team member has been added to my channel.
+
+52
+00:02:21,000 --> 00:02:23,004
+Now, when there's new activity happening,
+
+53
+00:02:23,004 --> 00:02:25,002
+like a new message,
+
+54
+00:02:25,002 --> 00:02:29,002
+only myself and other invited teammates will see it.
+
+55
+00:02:29,002 --> 00:02:30,005
+So, that's it.
+
+56
+00:02:30,005 --> 00:02:32,000
+You're now in control of access
+
+57
+00:02:32,000 --> 00:02:34,003
+to information in your teams.
+
+58
+00:02:34,003 --> 00:02:36,009
+Try adding channels to your team and test out
+
+59
+00:02:36,009 --> 00:02:38,008
+which end up getting used a lot
+
+60
+00:02:38,008 --> 00:02:40,005
+and which channels end up silent.
+

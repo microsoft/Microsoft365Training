@@ -1,0 +1,140 @@
+1
+00:00:00,005 --> 00:00:02,001
+- [Instructor] OneDrive is a useful resource
+
+2
+00:00:02,001 --> 00:00:03,009
+for storing files that you want to share
+
+3
+00:00:03,009 --> 00:00:05,008
+or distribute to others.
+
+4
+00:00:05,008 --> 00:00:07,007
+Even with the default amount of storage space
+
+5
+00:00:07,007 --> 00:00:09,005
+you get with a free OneDrive account,
+
+6
+00:00:09,005 --> 00:00:11,003
+you can share much larger files than you could
+
+7
+00:00:11,003 --> 00:00:13,006
+by sending them over e-mail.
+
+8
+00:00:13,006 --> 00:00:15,006
+Sharing a file with others from OneDrive
+
+9
+00:00:15,006 --> 00:00:17,003
+is a simple matter of generating a link
+
+10
+00:00:17,003 --> 00:00:19,001
+that you can send to them.
+
+11
+00:00:19,001 --> 00:00:20,008
+Start by selecting the file you want to share
+
+12
+00:00:20,008 --> 00:00:22,006
+from your file list,
+
+13
+00:00:22,006 --> 00:00:25,003
+then in the toolbar, click the Share button.
+
+14
+00:00:25,003 --> 00:00:27,001
+In this Send link area that opens,
+
+15
+00:00:27,001 --> 00:00:28,006
+you can enter the e-mail addresses
+
+16
+00:00:28,006 --> 00:00:30,007
+of the people you want to share the file with,
+
+17
+00:00:30,007 --> 00:00:32,008
+to have Microsoft automatically send an e-mail
+
+18
+00:00:32,008 --> 00:00:35,002
+with a link to that file when you click Send.
+
+19
+00:00:35,002 --> 00:00:38,008
+Alternately, you can generate a link by clicking Copy Link,
+
+20
+00:00:38,008 --> 00:00:40,009
+and that creates a link you can copy it to your clipboard
+
+21
+00:00:40,009 --> 00:00:42,008
+by clicking Copy.
+
+22
+00:00:42,008 --> 00:00:44,004
+And then you're free to paste that address
+
+23
+00:00:44,004 --> 00:00:46,004
+into an e-mail you're composing yourself
+
+24
+00:00:46,004 --> 00:00:48,004
+or into an instant messaging program
+
+25
+00:00:48,004 --> 00:00:50,006
+or a webpage you're publishing, and so on.
+
+26
+00:00:50,006 --> 00:00:52,003
+For example, I've already started composing
+
+27
+00:00:52,003 --> 00:00:56,003
+an e-mail message in Microsoft Outlook,
+
+28
+00:00:56,003 --> 00:00:59,009
+and here I'll just right click and choose Paste
+
+29
+00:00:59,009 --> 00:01:01,003
+to paste in that address.
+
+30
+00:01:01,003 --> 00:01:02,009
+And once I'm done, I can click Send
+
+31
+00:01:02,009 --> 00:01:04,007
+to send the e-mail containing this link,
+
+32
+00:01:04,007 --> 00:01:07,002
+and my recipient will be able to click that link
+
+33
+00:01:07,002 --> 00:01:09,005
+to download the file to her own computer.
+
+34
+00:01:09,005 --> 00:01:10,008
+So that's a look at how easy it is
+
+35
+00:01:10,008 --> 00:01:12,004
+to share files from OneDrive.
+

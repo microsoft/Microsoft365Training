@@ -1,0 +1,76 @@
+ - Large meetings can often be noisy  
+ and even chaotic.  
+ Creating a breakout room  
+ within a meeting is a great way to create space  
+ for focus work with smaller groups.  
+ In this lesson,  
+ I'll show you how to create  
+ and manage breakout rooms in your Teams meetings.  
+ In this example,  
+ I'll create and manage breakout rooms  
+ for a customer event my team is managing.  
+ Please note that the breakout rooms can only be managed  
+ from the Teams desktop app.  
+ To get started,  
+ I'll go to my Teams calendar and join a Teams meeting  
+ that I have created from the meeting invitation.  
+ Next I'll select the breakout rooms icon on the top menu.  
+ Then I'll choose the number of rooms I want to create.  
+ I can create up to 50 rooms per meeting.  
+ Two is enough for this meeting.  
+ From here,  
+ I need to assign attendees to rooms by adding participants.  
+ I can have Teams evenly assign people  
+ to rooms automatically,  
+ or I can assign people to rooms myself manually.  
+ I'll select automatically  
+ and Teams will add attendees to rooms  
+ as they join the meeting.  
+ Then select Create rooms.  
+ The rooms are created but not open.  
+ With the breakout room set up,  
+ let's keep them organized  
+ and well managed by appointing breakout room managers,  
+ naming the breakout rooms,  
+ setting a time limit for breakout room sessions  
+ and closing them.  
+ To appoint a breakout room manager,  
+ select room settings.  
+ And switch the Assign presenters to manage rooms toggle on.  
+ Next select Search for presenters,  
+ and choose who you want to be breakout room managers.  
+ To keep your meetings on schedule,  
+ you can use time limits  
+ that automatically close breakout rooms  
+ after the required length.  
+ Turn the Set a time limit toggle on  
+ and choose a session length.  
+ Once you've finished,  
+ select the back button next to the Settings heading  
+ to save your changes.  
+ If you have multiple breakout rooms at once,  
+ you can keep them organized by renaming them.  
+ To rename a breakout room,  
+ select more options next  
+ to the breakout room that you would like to rename.  
+ When the dropdown menu appears, select Rename.  
+ I'll name this room Group A  
+ then select Rename.  
+ And this second one, Group B.  
+ Make sure to open the breakout rooms  
+ after the attendees have been added.  
+ At the end of small group time in your meeting,  
+ you can close out the breakout rooms.  
+ To close rooms individually,  
+ select more options.  
+ If you want to close all rooms  
+ at the same time, select close.  
+ You will know the rooms have been successfully closed  
+ when their status changes to closed.  
+ Breakout rooms are great for creating spaces  
+ within existing meetings to give small groups time to meet  
+ before rejoining the larger group.  
+ See where you can add breakout rooms  
+ in your upcoming meetings.  
+ 
+

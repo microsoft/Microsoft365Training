@@ -1,0 +1,244 @@
+1
+00:00:00,001 --> 00:00:02,000
+- [Instructor] Delivering a PowerPoint presentation,
+
+2
+00:00:02,000 --> 00:00:04,002
+is an exciting experience.
+
+3
+00:00:04,002 --> 00:00:06,005
+You've put time into creating the presentation,
+
+4
+00:00:06,005 --> 00:00:09,001
+and now it's time to share it with others.
+
+5
+00:00:09,001 --> 00:00:11,001
+With speaker notes and PowerPoint,
+
+6
+00:00:11,001 --> 00:00:13,003
+you can have access to key talking points
+
+7
+00:00:13,003 --> 00:00:15,006
+and important information you're presenting,
+
+8
+00:00:15,006 --> 00:00:17,006
+no memorization needed.
+
+9
+00:00:17,006 --> 00:00:19,005
+In this lesson, I'm going to show you
+
+10
+00:00:19,005 --> 00:00:21,003
+how to add and use speaker notes
+
+11
+00:00:21,003 --> 00:00:24,002
+and share your presentation with others.
+
+12
+00:00:24,002 --> 00:00:26,008
+First, I'm going to open a PowerPoint presentation.
+
+13
+00:00:26,008 --> 00:00:29,002
+Follow along by downloading the sample presentation
+
+14
+00:00:29,002 --> 00:00:30,008
+in your exercise files,
+
+15
+00:00:30,008 --> 00:00:36,002
+it's called customer event example A.
+
+16
+00:00:36,002 --> 00:00:38,007
+To create speaker notes in the presentation,
+
+17
+00:00:38,007 --> 00:00:42,004
+I'll navigate to the top open and select the view tab.
+
+18
+00:00:42,004 --> 00:00:47,001
+Next, select the notes under the top ribbon beneath file.
+
+19
+00:00:47,001 --> 00:00:49,005
+The notes pane appears across the bottom portion
+
+20
+00:00:49,005 --> 00:00:51,001
+of the PowerPoint window.
+
+21
+00:00:51,001 --> 00:00:54,001
+With the cursor blinking and ready for me to begin typing,
+
+22
+00:00:54,001 --> 00:01:00,008
+I'll input my speaker notes.
+
+23
+00:01:00,008 --> 00:01:02,009
+If I don't need the notes to be visible,
+
+24
+00:01:02,009 --> 00:01:05,006
+I can select the notes tab again
+
+25
+00:01:05,006 --> 00:01:08,001
+and the notes pane will disappear.
+
+26
+00:01:08,001 --> 00:01:10,006
+If I'm presenting in PowerPoint online,
+
+27
+00:01:10,006 --> 00:01:13,008
+I will only be able to see notes from the notes pane.
+
+28
+00:01:13,008 --> 00:01:16,008
+You can have them visible while editing and when printing
+
+29
+00:01:16,008 --> 00:01:18,006
+but not while presenting.
+
+30
+00:01:18,006 --> 00:01:21,008
+Printed speaker notes are good resource to have for yourself
+
+31
+00:01:21,008 --> 00:01:23,003
+while presenting or if you need
+
+32
+00:01:23,003 --> 00:01:25,004
+to share the presentation with notes.
+
+33
+00:01:25,004 --> 00:01:27,006
+To print your slides with notes,
+
+34
+00:01:27,006 --> 00:01:30,008
+navigate to the top ribbon and select file.
+
+35
+00:01:30,008 --> 00:01:33,000
+Next select print.
+
+36
+00:01:33,000 --> 00:01:37,009
+Then print note pages.
+
+37
+00:01:37,009 --> 00:01:41,002
+When printing your notes, each slide will have its own page
+
+38
+00:01:41,002 --> 00:01:45,002
+with the appropriate notes underneath the slide.
+
+39
+00:01:45,002 --> 00:01:49,007
+You can also print the presentation as handouts.
+
+40
+00:01:49,007 --> 00:01:50,007
+To print handouts,
+
+41
+00:01:50,007 --> 00:01:53,007
+I'll go to the top ribbon and select file,
+
+42
+00:01:53,007 --> 00:01:57,007
+then print, then print handouts.
+
+43
+00:01:57,007 --> 00:02:00,008
+The printed page will print with three slides per page
+
+44
+00:02:00,008 --> 00:02:03,000
+and lines for personal note taking
+
+45
+00:02:03,000 --> 00:02:05,001
+to the right of each slide.
+
+46
+00:02:05,001 --> 00:02:07,001
+To share the presentation virtually,
+
+47
+00:02:07,001 --> 00:02:13,002
+I'll navigate to the top ribbon and select file, then share.
+
+48
+00:02:13,002 --> 00:02:16,008
+Next, select share with people.
+
+49
+00:02:16,008 --> 00:02:20,004
+From here I can enter the names or email addresses
+
+50
+00:02:20,004 --> 00:02:24,008
+of the people I want to share with.
+
+51
+00:02:24,008 --> 00:02:26,001
+To modify permissions,
+
+52
+00:02:26,001 --> 00:02:33,004
+select the dropdown menu next to the pencil icon.
+
+53
+00:02:33,004 --> 00:02:43,008
+I'll include a message to describe the presentation,
+
+54
+00:02:43,008 --> 00:02:47,009
+and select send.
+
+55
+00:02:47,009 --> 00:02:50,008
+Alternatively, I can select copy link
+
+56
+00:02:50,008 --> 00:02:53,006
+to create a link that I can copy to an email
+
+57
+00:02:53,006 --> 00:02:57,003
+to share the presentation.
+
+58
+00:02:57,003 --> 00:03:00,002
+Having your notes and knowing how to share your presentation
+
+59
+00:03:00,002 --> 00:03:04,001
+sets you up for a smooth delivery of your information.
+
+60
+00:03:04,001 --> 00:03:06,002
+Try sharing your slides and notes
+
+61
+00:03:06,002 --> 00:03:08,001
+the next time you have a presentation.
+

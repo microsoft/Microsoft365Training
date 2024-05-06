@@ -1,0 +1,45 @@
+ - [Instructor] SharePoint can do many things:  
+ run websites, store files, host resources,  
+ all from your browser.  
+ In this lesson, I'll show you SharePoint's key features  
+ so that you can use it with confidence.  
+ To get started, I'll open SharePoint using a web browser.  
+ Organizations use Microsoft SharePoint  
+ for a number of reasons.  
+ SharePoint is an app that you connect to through  
+ your web browser for a variety of purposes.  
+ Not only can you use it to create websites,  
+ you can also use it as a secure place to store, organize,  
+ share, and access information from any device.  
+ I want to use SharePoint to share presenter files  
+ and resources for a skills conference  
+ I'm planning with my team.  
+ To get started, in the top left corner of office.com,  
+ select the app launcher and open SharePoint.  
+ I am now at my SharePoint start page.  
+ In the top left corner of the SharePoint start page,  
+ you'll see options to create sites or create a news post  
+ if you want to make an announcement.  
+ On the navigation bar on the left,  
+ you can easily access your SharePoint start page,  
+ the sites you're a member of, new news posts  
+ from your sites, and your SharePoint files.  
+ In the middle of the page is the News from sites section.  
+ This is where you'll find news from the sites  
+ that you're a member of.  
+ If you see an article you'd like to view later,  
+ simply add it to your reading list  
+ by selecting the bookmark icon on the article.  
+ Once bookmarked, the article is added  
+ to your Saved for later section  
+ found in the pane on the left.  
+ Directly under News sites is a section  
+ that displays your most frequently used SharePoint sites  
+ and the recent activity on each of those sites.  
+ You can favor a site here by selecting the star  
+ in the upper right corner.  
+ This will add the site to your Following list.  
+ Now that you know your way around SharePoint,  
+ you're ready to use your SharePoint start page today.  
+ 
+

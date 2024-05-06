@@ -1,0 +1,45 @@
+ - [Instructor] In the OneDrive web interface,  
+ there are three main areas for helping you  
+ view, work with, and manage your files.  
+ We have the navigation pane over here on the left,  
+ the toolbar across the top,  
+ and the file list, which takes up  
+ the majority of the window.  
+ You may see slightly different views  
+ depending if you're signed into OneDrive  
+ with a personal, work, or student account,  
+ but basically, you click any of the categories here  
+ in the navigation pane to determine  
+ what you see in the file list area.  
+ Currently, I have My files selected,  
+ so I'm looking at all of my files.  
+ I can click Recent to see the files  
+ I've worked with the most recently,  
+ Photos to see the photo stored on my OneDrive account,  
+ and so on.  
+ Up here in the toolbar area,  
+ you can use the search field to search  
+ for files on your OneDrive,  
+ as well as create new folders or documents,  
+ or upload files from your computer to OneDrive.  
+ You can also sort files to make it easier  
+ to locate the ones you want to work with.  
+ For example, I may want to sort  
+ by the most recently modified files.  
+ And you can change the view  
+ of your files from this menu here.  
+ I can try a compact list, tiles, or photos.  
+ To work with a file, select it in the file list area,  
+ and then, choose what you'd like  
+ to do with it in the toolbar area.  
+ We can open it, share it, download it, delete it, and so on.  
+ The toolbar also lets you check information  
+ about your selected file by clicking this info button.  
+ For example, if it's a file you have shared with  
+ or are collaborating on with others,  
+ you can see who has access to the file  
+ and who last worked on it.  
+ So that's an overview of how to manage  
+ your files in OneDrive.  
+ 
+

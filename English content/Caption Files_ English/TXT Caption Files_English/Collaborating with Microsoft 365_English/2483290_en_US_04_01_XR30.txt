@@ -1,0 +1,53 @@
+ - [Instructor] When you send an email,  
+ you're starting a digital dialogue.  
+ So the person you're sending your email to  
+ will need to know who you are and how they can respond.  
+ Adding an email signature is an easy way  
+ to sign off your emails  
+ that you can use at the end of all your emails.  
+ In this lesson, I'll show you  
+ how to keep your sign-offs consistent  
+ and your communication going strong with email signatures.  
+ For this example, I'm in the middle of a job search.  
+ I may be sending multiple emails  
+ as I apply for each new job.  
+ Before I write my emails,  
+ I want to create an email signature  
+ so I can have a standard ending to all my job search emails.  
+ First, in the top-left corner of office.com,  
+ select the app launcher and open Outlook.  
+ From here, I'll go to Settings at the top right.  
+ Here you can change the look of your inbox,  
+ but I need to go to View all Outlook settings  
+ to access more options.  
+ Next I go to Compose and reply,  
+ then the Email signature section.  
+ This is where I create the signature that I want  
+ for all my job search-related emails.  
+ Here I'll add my name, my email address, and my phone number  
+ in case someone needs to reach me right away.  
+ Then I'll give my email signature a name.  
+ I'll call it Job search so I can reuse it later.  
+ There are a lot of options in Compose and reply.  
+ I can select a default signature,  
+ alter how I format messages,  
+ and a lot more.  
+ For simply setting up an email signature,  
+ you don't need to worry  
+ about diving too deep below this first section.  
+ I'll save my email signature  
+ and close out of here by selecting the X.  
+ Now that I have my email signature set up and saved,  
+ it's ready to use.  
+ So I'll select New message.  
+ At the bottom of the window with my new email,  
+ I'll select more options,  
+ then select Insert signature,  
+ and select the Job search signature,  
+ and the signature will be added to the new email.  
+ Now you know how to create a signature  
+ to add to any email you compose,  
+ saving time when you want to share the same information  
+ at the end of your emails.  
+ 
+

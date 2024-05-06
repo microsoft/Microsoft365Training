@@ -1,0 +1,142 @@
+ - [Instructor] When you first start up your computer,  
+ the first thing to load is the operating system.  
+ For example, Windows 10 is the most recent version  
+ of the Windows operating system that comes pre-installed  
+ on many PCs and tablet devices.  
+ Here we'll explore the basics of navigating  
+ around an operating system using Windows 10,  
+ but many of these concepts carry over  
+ to other operating systems as well.  
+ When you start started the computer,  
+ you'll usually see a screen to log into your account  
+ on that computer.  
+ Generally, it's a good idea for each person  
+ using a computer to have their own account  
+ rather than sharing an account between multiple users.  
+ Individual accounts allow each user to keep their files  
+ and work secured and organized  
+ and let users personalize their experience on the computer.  
+ For example, one user could set the computer  
+ to display text in English  
+ while another user could set it to display in Spanish  
+ and because accounts are secured by passwords,  
+ neither user can see the other's documents or other files.  
+ To log into the computer, select your username,  
+ or sometimes you'll enter it manually  
+ and then type in your password.  
+ In Windows 10 when you set up your account,  
+ you also have the option of setting up  
+ a personal identification number or pin  
+ which you can enter instead of your password.  
+ So you'll either enter a password or a pin  
+ in this case, I'm entering a password  
+ and I'll press Enter on my keyboard  
+ and that's going to log me into the computer.  
+ Once you're logged in, the first thing you see  
+ is your computer desktop.  
+ Similar to a real physical desktop,  
+ your computer desktop is where you store files  
+ you're currently working with.  
+ In most operating systems, you can personalize  
+ the look of your desktop by changing the background image,  
+ sometimes called the wallpaper or by changing the colors.  
+ At the bottom of the Windows 10 desktop is the task bar,  
+ which is an essential tool for working  
+ with the Windows operating system.  
+ Depending on how you have it set up,  
+ in the task bar you can see what apps are currently running,  
+ what the current time is,  
+ what appointments are on your calendar and so on.  
+ On the far left of the task bar,  
+ you'll find the Start button.  
+ Clicking it opens up the Start menu  
+ and this is where you can find  
+ all the applications installed in your device.  
+ This is also where you'll find the buttons to log off,  
+ restart and shut down the computer.  
+ For now, let's click outside the Start menu  
+ to close it without selecting anything.  
+ Next to the Start button is the search box  
+ where you can search for applications by name  
+ or search for files and documents on your device.  
+ Using the search box can be a lot quicker  
+ than manually looking for applications in the Start menu.  
+ Just start typing the name of the application  
+ or document you want to work with  
+ and Windows will display the search results as you type.  
+ For example, if I wanted to quickly open the calculator app,  
+ I could just start typing calculator,  
+ there it is, and I can just press Enter on my keyboard  
+ to open that up.  
+ Next to the search box, you'll see icons for applications  
+ that are currently running or pinned to the task bar.  
+ Pinned applications are apps that you can place  
+ in the task bar to quickly access again  
+ so you don't have to dig through the Start menu  
+ to find them each time you want to open them.  
+ Applications that are currently running  
+ have a line underneath them  
+ so you can easily tell if they're in use  
+ as you can see here under the calculator icon.  
+ To pin an application to the task bar,  
+ place your mouse cursor over it  
+ and then click the right mouse button on your mouse  
+ or pointing device, this is referred to as right click,  
+ which often brings up a menu containing several options.  
+ In this case, I'll choose to pin the calculator app  
+ to the task bar since I use it a lot.  
+ So now even if I close the calculator app  
+ by clicking the X button here in the upper right corner,  
+ notice this icon stays in the task bar.  
+ We no longer see the blue line under it  
+ because it's not running, but I can easily click  
+ to open the calculator app from here now.  
+ Also here within the pinned and running apps  
+ is File Explorer.  
+ Clicking that opens up a window you can use  
+ to browse the files on your computer  
+ and I'll just close that.  
+ The last section of the task bar is here on the right.  
+ Here you usually see the date and time  
+ along with various other icons  
+ depending on how the computer's task bar  
+ has been customized.  
+ Clicking on icons can give you more information  
+ about the computer.  
+ For example, clicking on the clock, displays the calendar,  
+ clicking on the network icon  
+ shows you the status of your network connection.  
+ Clicking this arrow here reveals other icons  
+ that may be hidden so the task bar isn't cluttered  
+ with too many icons at once.  
+ So for example, from here, I can click the speaker icon  
+ and that allows me to adjust the volume  
+ of the computer speakers.  
+ So that's the task bar in Windows.  
+ Now, when you're done using your computer,  
+ it's usually a good idea to log out of your account  
+ or to shut down the computer  
+ if you don't need to leave it running.  
+ To do so, click the Start button.  
+ If you just want to log out, but leave the computer running,  
+ for example, if someone else needs to log into their account  
+ to use the computer, just click the user icon  
+ at the top here, and then choose a Sign Out.  
+ That will log you out of your account,  
+ but leave the computer running  
+ so someone else can sign into their account.  
+ Ultimately, you can click the power button here  
+ and from here, you can shut down or restart the computer.  
+ Choose to Shut Down if you want to shut down the computer  
+ so it's not using any power.  
+ And restart shuts down the computer  
+ and immediately starts it again.  
+ Sometimes restarting can fix issues  
+ that may crop up while using the computer.  
+ Again, we've been looking at the  
+ Windows 10 operating system in this video,  
+ but many of these concepts like searching for applications,  
+ accessing settings and logging out and restarting  
+ apply to other operating systems as well.  
+ 
+

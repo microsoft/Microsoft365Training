@@ -1,0 +1,51 @@
+ - [Instructor] Modern desktop operating systems  
+ have built-in features to help protect your computer  
+ from being compromised by problems like viruses and hackers.  
+ There's always more you can do  
+ to ensure the security of your data,  
+ but at the bare minimum,  
+ you should check that the basic security features  
+ of your computer are enabled.  
+ For example, here in Windows 10,  
+ we can go to our System Control Panel  
+ by typing control panel in the Cortana search field,  
+ selecting it here.  
+ And from here we can select System and Security.  
+ Here you'll find Windows Defender Firewall,  
+ which is a built-in service  
+ that helps protect your computer  
+ from unauthorized access over your network  
+ and over the Internet.  
+ It can defend against malicious software and hackers  
+ that may attempt to gain access to your computer.  
+ Windows Defender should be enabled by default,  
+ but it's a good idea to make sure.  
+ Click its name  
+ and then click Turn Windows Defender firewall on or off.  
+ Make sure Turn on Windows Defender Firewall  
+ is enabled under both the private  
+ and public network settings areas.  
+ And also make sure that both instances  
+ have Notify me when Windows Defender Firewall  
+ blocks a new app are checked.  
+ This will have your system alert you  
+ if any application tries to gain access to your computer,  
+ so you can determine whether to allow it that access.  
+ Now, Windows 10 also includes built-in antivirus features.  
+ You can check and configure its settings  
+ by going to the Start Menu, to Settings,  
+ and then Update and Security.  
+ Here, select Windows Security,  
+ and click Virus and threat protection.  
+ By default, Windows periodically scans for viruses.  
+ But if you suspect your system  
+ may have been compromised by a virus,  
+ you can click on Scan Options  
+ to choose the level of scan you want to perform.  
+ And then click Scan Now to have Windows check for viruses.  
+ Again, both Windows Defender  
+ and Windows antivirus features are enabled by default,  
+ but it's still a good idea to check your own computer  
+ to make sure they're enabled and running.  
+ 
+

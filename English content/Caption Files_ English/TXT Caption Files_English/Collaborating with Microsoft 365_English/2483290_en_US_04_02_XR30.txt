@@ -1,0 +1,46 @@
+ - [Instructor] Sometimes an email can say it all,  
+ but for those times  
+ when you need to say a bit more,  
+ attaching a file can help you add  
+ even more important information.  
+ In this lesson,  
+ I'm going to show you how to use Outlook  
+ to send attachments  
+ so that you can easily include  
+ relevant files with your email  
+ To show you how to use attachments,  
+ I'm going to use the example  
+ of trying to look for a new job.  
+ I heard of a new opportunity,  
+ and I'll need to attach my resume  
+ to an email to share it.  
+ First, I'll open Outlook.  
+ From my Outlook inbox,  
+ I'll open the email that I need to reply to.  
+ I'll select reply,  
+ and then I'll select add attachment.  
+ A menu opens to help me find  
+ the file I'm looking for.  
+ Since I saved my document to Microsoft's  
+ file hosting service OneDrive,  
+ I'll select browse cloud locations.  
+ I'll navigate to the file I'll need.  
+ Select it and select next.  
+ Now I can choose if I want to share a link  
+ to my file or a copy of it.  
+ If I was working on editing the file  
+ with someone else,  
+ I would share a link,  
+ that way we could work on the file together,  
+ and see updates in real time.  
+ Since I'm sharing my resume  
+ with a potential employer,  
+ and we don't need to collaborate on the document,  
+ I will choose attached as copy.  
+ My resume is now attached to my email.  
+ I'm ready to send it.  
+ So I select send and my email and attachment  
+ are on their way.  
+ Try adding an attachment to your next email.  
+ 
+

@@ -1,0 +1,361 @@
+﻿WEBVTT
+
+00:00:00.005 --> 00:00:03.000
+- [Instructor] So what exactly does the term windows refer
+
+00:00:03.000 --> 00:00:05.006
+to in regards to working with computers?
+
+00:00:05.006 --> 00:00:08.008
+Essentially, any program or application that we open or view
+
+00:00:08.008 --> 00:00:11.001
+in the operating system is a window.
+
+00:00:11.001 --> 00:00:12.008
+It's what allows us to see what's going on
+
+00:00:12.008 --> 00:00:15.005
+in that application and interact with it.
+
+00:00:15.005 --> 00:00:17.002
+For example, if I come down to the task bar
+
+00:00:17.002 --> 00:00:19.004
+and open up the File Explorer,
+
+00:00:19.004 --> 00:00:20.008
+that opens a window that I can use
+
+00:00:20.008 --> 00:00:22.006
+to browse the contents of my computer,
+
+00:00:22.006 --> 00:00:24.007
+which is the purpose of File Explorer.
+
+00:00:24.007 --> 00:00:27.007
+Or if I open up this text editor application,
+
+00:00:27.007 --> 00:00:29.009
+this is that application's window.
+
+00:00:29.009 --> 00:00:32.007
+And when I open up the calculator app,
+
+00:00:32.007 --> 00:00:35.004
+that opens up in its own window as well.
+
+00:00:35.004 --> 00:00:37.006
+So again, we refer to the area in which we view
+
+00:00:37.006 --> 00:00:41.004
+and interact with apps and the operating system as windows.
+
+00:00:41.004 --> 00:00:42.006
+And that term applies whether
+
+00:00:42.006 --> 00:00:44.008
+you're working with Microsoft Windows 10,
+
+00:00:44.008 --> 00:00:47.009
+macOS, or some other operating system.
+
+00:00:47.009 --> 00:00:49.009
+Most windows share common properties.
+
+00:00:49.009 --> 00:00:51.009
+For one, you can move them around on your screen by clicking
+
+00:00:51.009 --> 00:00:54.004
+and holding down at the area at the top
+
+00:00:54.004 --> 00:00:56.004
+and just dragging them around.
+
+00:00:56.004 --> 00:00:57.008
+When working with multiple windows,
+
+00:00:57.008 --> 00:01:00.007
+clicking any one of them brings that one to the front
+
+00:01:00.007 --> 00:01:02.003
+so you can work with it.
+
+00:01:02.003 --> 00:01:05.000
+And the other windows stay open behind it.
+
+00:01:05.000 --> 00:01:08.000
+Let's close the text editor with the X button,
+
+00:01:08.000 --> 00:01:10.007
+and I'll close the calculator as well.
+
+00:01:10.007 --> 00:01:12.000
+So notice these three buttons
+
+00:01:12.000 --> 00:01:14.001
+in the upper right hand corner of the windows.
+
+00:01:14.001 --> 00:01:15.007
+We just saw to close or quit a window,
+
+00:01:15.007 --> 00:01:17.003
+we click the X button.
+
+00:01:17.003 --> 00:01:19.007
+Now, sometimes when working in certain applications,
+
+00:01:19.007 --> 00:01:21.001
+you may need or want the window
+
+00:01:21.001 --> 00:01:22.005
+to take up the entire screen
+
+00:01:22.005 --> 00:01:25.001
+so you have more room to work in the window.
+
+00:01:25.001 --> 00:01:26.001
+To do this in Windows 10,
+
+00:01:26.001 --> 00:01:29.002
+just click this middle button called the maximize button.
+
+00:01:29.002 --> 00:01:31.009
+And now this window fills the entire screen.
+
+00:01:31.009 --> 00:01:34.001
+If that turns out to be larger than you want it to be,
+
+00:01:34.001 --> 00:01:36.000
+you can return it to its previous size
+
+00:01:36.000 --> 00:01:39.001
+by clicking what is now called the restore button.
+
+00:01:39.001 --> 00:01:40.004
+You can adjust the size of windows
+
+00:01:40.004 --> 00:01:41.005
+by placing the mouse cursor
+
+00:01:41.005 --> 00:01:44.001
+over the top, bottom, left, or right edge.
+
+00:01:44.001 --> 00:01:46.005
+So you see this double-headed arrow,
+
+00:01:46.005 --> 00:01:48.001
+and then click and drag to adjust the height
+
+00:01:48.001 --> 00:01:50.000
+or width of the window.
+
+00:01:50.000 --> 00:01:52.004
+Or you can place your cursor over a corner
+
+00:01:52.004 --> 00:01:54.004
+to get this diagonal double-headed arrow
+
+00:01:54.004 --> 00:01:57.004
+and drag to adjust the height and width at the same time.
+
+00:01:57.004 --> 00:01:58.006
+Now, there may be times when you're working
+
+00:01:58.006 --> 00:02:01.004
+with multiple windows and you want to declutter a bit,
+
+00:02:01.004 --> 00:02:03.005
+but you also don't want to completely close a certain window
+
+00:02:03.005 --> 00:02:06.004
+because you want to maintain quick access to its contents.
+
+00:02:06.004 --> 00:02:08.001
+In those cases, click the third button,
+
+00:02:08.001 --> 00:02:10.004
+which is the minimize button.
+
+00:02:10.004 --> 00:02:13.000
+That minimizes the window to the task bar.
+
+00:02:13.000 --> 00:02:14.008
+To restore a minimized window,
+
+00:02:14.008 --> 00:02:17.009
+just click its icon in the task bar.
+
+00:02:17.009 --> 00:02:21.000
+If you have more than one window in a certain app minimized,
+
+00:02:21.000 --> 00:02:23.008
+for example, if I open up the Recycle Bin window
+
+00:02:23.008 --> 00:02:27.009
+and I minimize that along with the File Explorer window,
+
+00:02:27.009 --> 00:02:31.000
+notice when I roll my mouse over the File Explorer icon,
+
+00:02:31.000 --> 00:02:33.001
+I get a preview of the two minimized windows,
+
+00:02:33.001 --> 00:02:35.009
+and I can click the one that I want to restore.
+
+00:02:35.009 --> 00:02:37.000
+I'll just go ahead and close that
+
+00:02:37.000 --> 00:02:40.004
+along with the Recycle Bin.
+
+00:02:40.004 --> 00:02:42.006
+Now, you'll often work with multiple applications
+
+00:02:42.006 --> 00:02:45.003
+and therefore multiple windows simultaneously.
+
+00:02:45.003 --> 00:02:46.002
+Let's say I need to be working
+
+00:02:46.002 --> 00:02:48.001
+with both the Microsoft Edge web browser
+
+00:02:48.001 --> 00:02:50.002
+and Microsoft Word at the same time.
+
+00:02:50.002 --> 00:02:51.000
+There's a very easy way
+
+00:02:51.000 --> 00:02:53.004
+to make sure you can see both windows at the same time
+
+00:02:53.004 --> 00:02:55.003
+without them overlapping each other.
+
+00:02:55.003 --> 00:02:56.008
+First, let's open up Word.
+
+00:02:56.008 --> 00:02:59.009
+I'll do this by clicking in the search bar and typing Word.
+
+00:02:59.009 --> 00:03:00.008
+I can see it's highlighted,
+
+00:03:00.008 --> 00:03:04.001
+so I just need to press Enter to open up the app.
+
+00:03:04.001 --> 00:03:06.009
+And I'll double-click to create a new blank document.
+
+00:03:06.009 --> 00:03:09.004
+I'm going to click the restore button here in Word
+
+00:03:09.004 --> 00:03:11.002
+to make it its own floating window.
+
+00:03:11.002 --> 00:03:13.008
+But now I'm going to click and hold its title bar
+
+00:03:13.008 --> 00:03:16.008
+and drag it to one side of my screen
+
+00:03:16.008 --> 00:03:18.009
+until I see this highlight appear,
+
+00:03:18.009 --> 00:03:21.000
+and I can release my mouse.
+
+00:03:21.000 --> 00:03:24.003
+That snaps the Word window to the left side of the screen.
+
+00:03:24.003 --> 00:03:26.004
+Now let's open up Microsoft Edge.
+
+00:03:26.004 --> 00:03:28.002
+And again, I'll just search for Edge,
+
+00:03:28.002 --> 00:03:31.002
+and I'll press Enter to open it up.
+
+00:03:31.002 --> 00:03:32.008
+And there it is.
+
+00:03:32.008 --> 00:03:34.006
+Again, I'll click the restore button.
+
+00:03:34.006 --> 00:03:36.002
+That allows me to drag the window around.
+
+00:03:36.002 --> 00:03:37.005
+And this time I'll drag to the right
+
+00:03:37.005 --> 00:03:39.002
+until I see a highlight.
+
+00:03:39.002 --> 00:03:41.005
+And when I release my mouse button, it snaps to the right,
+
+00:03:41.005 --> 00:03:43.009
+and I can see both the Word and Edge application windows
+
+00:03:43.009 --> 00:03:46.005
+at the same time, and it's easy to click back and forth
+
+00:03:46.005 --> 00:03:47.005
+between the two of them
+
+00:03:47.005 --> 00:03:49.000
+to work with the one I need to work with
+
+00:03:49.000 --> 00:03:50.006
+without hiding the other one.
+
+00:03:50.006 --> 00:03:52.005
+So for example, I could be doing research in Edge
+
+00:03:52.005 --> 00:03:55.001
+for a report that I'm typing in Word.
+
+00:03:55.001 --> 00:03:57.009
+And this continues to work if I need to access more windows.
+
+00:03:57.009 --> 00:04:01.004
+For example, I'll open up File Explorer again,
+
+00:04:01.004 --> 00:04:03.005
+and I'll drag it to the right.
+
+00:04:03.005 --> 00:04:04.009
+That makes it fill half the screen
+
+00:04:04.009 --> 00:04:07.007
+so I can work with Word and File Explorer together.
+
+00:04:07.007 --> 00:04:09.003
+But if I need to work with Edge again,
+
+00:04:09.003 --> 00:04:12.002
+I just click its icon in the task bar,
+
+00:04:12.002 --> 00:04:13.009
+and it comes to the front of File Explorer,
+
+00:04:13.009 --> 00:04:15.003
+maintaining its size.
+
+00:04:15.003 --> 00:04:16.008
+So I could continue to switch back and forth
+
+00:04:16.008 --> 00:04:19.008
+between Edge and File Explorer as need be.
+
+00:04:19.008 --> 00:04:21.005
+Knowing how to work with windows is essential
+
+00:04:21.005 --> 00:04:22.005
+to make it easier for you
+
+00:04:22.005 --> 00:04:24.003
+to get things done on your computer.

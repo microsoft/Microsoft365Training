@@ -1,0 +1,48 @@
+ - [Instructor] Have you ever finished  
+ describing the steps of a complex task  
+ only to realize it would've been simpler  
+ to arrange the steps in another order?  
+ In this lesson,  
+ I'll show you how to apply slide layouts  
+ and change the slide order  
+ so your PowerPoint presents and flows perfectly.  
+ In this example, I open PowerPoint  
+ to start adding to the presentation I'm creating  
+ for an upcoming job interview.  
+ You can follow along by downloading the sample presentation  
+ from the exercise files.  
+ I already have two slides created,  
+ and I want to add a new slide  
+ that shares some information about myself.  
+ I'll choose a title and content slide  
+ to show this information.  
+ I'll title it About Me.  
+ Then, I'll add a few highlights to introduce myself  
+ and my background.  
+ I love helping people.  
+ I've recently completed a customer service training.  
+ Now that I see the slide,  
+ I think I'd like to change the layout  
+ to leave room to add a picture later.  
+ I can select Layout to see my options.  
+ I'll change the current layout to Two Content.  
+ Hmm, this slide order doesn't seem right.  
+ I think I want the About Me slide  
+ to go in front of my skills slide  
+ so my audience gets to know me before my skills.  
+ To change the slide order,  
+ I'll select View  
+ and make sure I'm in the Normal view setting.  
+ In the Normal view setting,  
+ I can see the image of my slides  
+ on the slide and the navigation pane.  
+ I can go to the navigation pane  
+ and select the About Me slide,  
+ then drag and drop it above my skills slide.  
+ My slides are now in an order that makes sense.  
+ So that's it.  
+ Now, you can change the slide layout and the slide order.  
+ Use this skill to reframe how you share information  
+ in any of your PowerPoint presentations.  
+ 
+

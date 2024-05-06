@@ -1,0 +1,71 @@
+ - [Instructor] Adding data to your documents can make  
+ or break its usefulness.  
+ It can make your content more compelling  
+ or just confuse your audience  
+ if it's not displayed accurately.  
+ Word makes sharing data in an organized manner an easy task.  
+ In this lesson, I'm going to show you how to create  
+ and edit tables to ensure every team member  
+ can easily review the data you present.  
+ To get started, I'll open my Word document  
+ from the Microsoft 365 homepage.  
+ Follow along by downloading the sample Word document  
+ in your Exercise Files.  
+ It's called Customer Event Itinerary Example B.  
+ In this example, I'll show you how to insert a table  
+ for organizing an event schedule into a Word document.  
+ Tables are useful to present  
+ and organize detailed information, such as cost figures,  
+ a guest list of names, or inventory.  
+ To insert a basic table, start by placing your cursor  
+ where you want the table to be in your document.  
+ I'll start at the top of the document  
+ underneath Itinerary for day of event details.  
+ Next, select Insert from the top ribbon, then select Table.  
+ And move the cursor over the grid until the number of cells  
+ in the rows and columns you need is highlighted.  
+ Selected, and the table will appear in your document.  
+ Now, you can type directly into it.  
+ To adjust it and apply formatting, hover over your table  
+ and select the four way directional arrows  
+ in the top left corner.  
+ You can choose to change the font  
+ of all the texts in the table, apply any styles,  
+ incorporate cell shading,  
+ and add or remove columns or rows.  
+ More editing and formatting options  
+ can be found by navigating to the top ribbon  
+ and selecting Table.  
+ To highlight and organize your data, select Table Styles.  
+ You can also split cells, add borders,  
+ or even change the colors of the cells and table itself.  
+ This looks pretty good, but before I share this table,  
+ I want to make sure that it is inclusive  
+ and can be read out loud to people who use a screen reader  
+ or have different abilities.  
+ To check the accessibility of the table,  
+ first, I'll navigate all the way through the table  
+ using only the Tab key.  
+ If you can tap through the table  
+ cell by cell and row by row,  
+ a screen reader should have no trouble with it.  
+ You can also use the Accessibility Checker  
+ to get suggestions  
+ on how to make your document more accessible.  
+ Navigate to the top ribbon and select Review.  
+ Then select Check Accessibility.  
+ Word will open the Accessibility Checker on the right side  
+ of the screen with a list of errors and warnings,  
+ as well as a list of tips on how to fix each issue.  
+ When you choose an item from the inspection results,  
+ Word displays that part of the document.  
+ Below the inspection results, Word explains why  
+ and how to fix the issue you've selected.  
+ After you make all the necessary changes,  
+ your document will be more accessible to everyone.  
+ I encourage you to add a table and check for accessibility  
+ in the next document you create.  
+ Your data will appear more organized  
+ and easier to understand.  
+ Way to go!  
+

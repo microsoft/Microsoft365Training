@@ -1,0 +1,53 @@
+ - [Instructor] When working on a document with your team,  
+ you don't have to call a meeting every time  
+ you need to share notes or comments with each other.  
+ With Microsoft Word, you and your team members  
+ can add comments directly to the document  
+ for everyone to see and review.  
+ This allows everyone to share feedback  
+ and collaborate in one place, the document itself.  
+ To make a comment, place your cursor at the location  
+ in the document where you want the comment to appear.  
+ For example, I'll place my cursor  
+ next to this logo at the top of the page.  
+ Then I'll go to the Review tab of the ribbon.  
+ And from here, I'll click New Comment.  
+ You can see it draws a line from where my cursor was  
+ over here to the side, and I can type my comment.  
+ So it's that easy.  
+ You can also highlight specific words or phrases  
+ to apply your comments to so it's clear  
+ what you're commenting on.  
+ For example, I noticed that the name of the hotel founder  
+ is misspelled a few times in this document.  
+ So I'll highlight one of those misspellings,  
+ and this time, I'll right-click on that  
+ and choose New Comment.  
+ And now I can type my comment just like before.  
+ You can also read and respond to comments left by others.  
+ If I scroll down a bit,  
+ notice here we have a comment left by Jake.  
+ When I roll over it, I can click Reply  
+ and start a conversation thread on this particular comment.  
+ You can also click Resolve when an issue has been addressed.  
+ That grays out the comment  
+ so others can see that it's been handled.  
+ But they can still read and review the comment thread  
+ if they need to.  
+ If you want to remove a comment entirely  
+ from the document, you can use the Delete button  
+ here in the Review tab.  
+ If you want to hide comments from view  
+ without deleting them,  
+ toggle them with the Show Comments button.  
+ You can see that hides all of my comments,  
+ and now I just see these little comment icons  
+ indicating where they are in the document.  
+ I can click on them to read them.  
+ And if I want to see them again,  
+ I can just click Show Comments.  
+ So as you can see,  
+ comments are a useful tool for collaborating  
+ and sharing feedback on a document with others.  
+ 
+

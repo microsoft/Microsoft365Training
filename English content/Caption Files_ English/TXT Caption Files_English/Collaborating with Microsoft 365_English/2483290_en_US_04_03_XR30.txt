@@ -1,0 +1,34 @@
+ - [Joni] Scrolling through an endless inbox  
+ for that one email you need can feel like  
+ trying to find a needle in a haystack,  
+ but Outlook has a search tool that makes it easy  
+ to find any email.  
+ In this lesson I'm going to show you how to search  
+ your email inbox.  
+ I'll start in my Outlook inbox.  
+ In this example, I have an interview for a job,  
+ and the company has asked me to create a PowerPoint  
+ presentation for my interview.  
+ The company sent me an email with the presentation  
+ instructions but I can't remember all of the requirements.  
+ To be able to know exactly what's expected of me,  
+ I'll need to search for this email in Outlook.  
+ I remember the email had the word presentation in it.  
+ So I'll go to the search box and type in  
+ the word presentation then select Enter.  
+ This searches my email for all the emails  
+ with the word presentation.  
+ Here's the email I was looking for.  
+ I'll open it to see the requirements.  
+ As you can see Outlook has also highlighted the search word.  
+ If you wanted to narrow your search to only find emails  
+ that have attachments, you could use Filter.  
+ First, I'll navigate back to my Inbox.  
+ I'll select the Filter button above my mailbox,  
+ select Attachments, and now my mailbox is only showing  
+ emails that have attachments  
+ Now that you know how to search your email,  
+ you'll be able to quickly find any email  
+ even if it's buried deep in your inbox.  
+ 
+

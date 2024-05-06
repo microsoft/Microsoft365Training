@@ -1,0 +1,380 @@
+1
+00:00:00,005 --> 00:00:02,003
+- Before you start using Skype to make calls
+
+2
+00:00:02,003 --> 00:00:04,005
+you should make sure your audio and video settings are
+
+3
+00:00:04,005 --> 00:00:07,004
+configured properly so others can hear or see you.
+
+4
+00:00:07,004 --> 00:00:09,007
+You should always confirm your settings before making or
+
+5
+00:00:09,007 --> 00:00:10,009
+receiving a call.
+
+6
+00:00:10,009 --> 00:00:12,006
+You don't want to be fumbling around with your settings
+
+7
+00:00:12,006 --> 00:00:13,005
+during a call,
+
+8
+00:00:13,005 --> 00:00:16,009
+especially if it's an important or professional call.
+
+9
+00:00:16,009 --> 00:00:19,000
+Here in Skype, start by clicking this three dot button
+
+10
+00:00:19,000 --> 00:00:25,007
+and selecting settings, and then select audio and video.
+
+11
+00:00:25,007 --> 00:00:27,008
+And here at the top next to camera,
+
+12
+00:00:27,008 --> 00:00:30,000
+if you have multiple cameras connected to your computer,
+
+13
+00:00:30,000 --> 00:00:32,002
+you can choose the one you want to use in Skype.
+
+14
+00:00:32,002 --> 00:00:33,003
+I'm using a surface tablet.
+
+15
+00:00:33,003 --> 00:00:36,000
+So I have both a front facing camera and a rear facing
+
+16
+00:00:36,000 --> 00:00:37,007
+camera, but for Skype calls,
+
+17
+00:00:37,007 --> 00:00:41,000
+I most likely want to keep my front facing camera selected.
+
+18
+00:00:41,000 --> 00:00:42,001
+Once you've selected your camera,
+
+19
+00:00:42,001 --> 00:00:43,009
+you can scroll down to your audio settings.
+
+20
+00:00:43,009 --> 00:00:45,004
+Here next to microphone,
+
+21
+00:00:45,004 --> 00:00:47,007
+you can choose the microphone you want to use.
+
+22
+00:00:47,007 --> 00:00:50,000
+This might be your computer's default built in microphone,
+
+23
+00:00:50,000 --> 00:00:52,005
+or you may have connected a USB microphone,
+
+24
+00:00:52,005 --> 00:00:55,001
+or you might want to use a microphone built into an external
+
+25
+00:00:55,001 --> 00:00:56,009
+webcam you've connected to your computer.
+
+26
+00:00:56,009 --> 00:01:00,004
+Notice as I'm speaking, we're seeing this meter move,
+
+27
+00:01:00,004 --> 00:01:02,007
+and this is telling me the audio levels that are going into
+
+28
+00:01:02,007 --> 00:01:05,003
+the microphone and Skype is actually doing a pretty good job
+
+29
+00:01:05,003 --> 00:01:07,002
+of keeping those levels even.
+
+30
+00:01:07,002 --> 00:01:08,001
+If you want,
+
+31
+00:01:08,001 --> 00:01:09,009
+you can turn this automatically adjust microphone settings
+
+32
+00:01:09,009 --> 00:01:13,006
+switch off and manually adjust your microphone settings.
+
+33
+00:01:13,006 --> 00:01:15,006
+Basically, you don't want the levels getting all the way
+
+34
+00:01:15,006 --> 00:01:16,004
+to the right here.
+
+35
+00:01:16,004 --> 00:01:19,009
+I'm just going to leave it set to auto in this case.
+
+36
+00:01:19,009 --> 00:01:21,005
+Below that you can choose the speakers you want
+
+37
+00:01:21,005 --> 00:01:23,003
+to use to listen to audio through Skype.
+
+38
+00:01:23,003 --> 00:01:25,003
+This could be your devices built in speakers,
+
+39
+00:01:25,003 --> 00:01:28,004
+external speakers, a Bluetooth headset
+
+40
+00:01:28,004 --> 00:01:30,007
+you've paired to your computer, and so on.
+
+41
+00:01:30,007 --> 00:01:32,003
+By clicking the test audio button,
+
+42
+00:01:32,003 --> 00:01:33,006
+you can check if the audio is playing
+
+43
+00:01:33,006 --> 00:01:35,005
+through your selected speakers.
+
+44
+00:01:35,005 --> 00:01:38,003
+(computer dinging)
+
+45
+00:01:38,003 --> 00:01:40,000
+Now, if you don't hear anything,
+
+46
+00:01:40,000 --> 00:01:41,007
+double check to make sure you have the right speakers
+
+47
+00:01:41,007 --> 00:01:44,004
+selected and then on your speakers or headset themselves,
+
+48
+00:01:44,004 --> 00:01:48,000
+make sure they're turned on and not muted.
+
+49
+00:01:48,000 --> 00:01:49,006
+You can close settings,
+
+50
+00:01:49,006 --> 00:01:51,009
+and once you have your video and audio settings configured,
+
+51
+00:01:51,009 --> 00:01:53,004
+you're ready to make a call.
+
+52
+00:01:53,004 --> 00:01:55,003
+Let's try a video call.
+
+53
+00:01:55,003 --> 00:01:56,003
+I'll come over here to my contacts,
+
+54
+00:01:56,003 --> 00:01:58,009
+and I want to get my friend Nick a call.
+
+55
+00:01:58,009 --> 00:02:00,006
+So I'll select his name
+
+56
+00:02:00,006 --> 00:02:02,002
+and here in the upper right hand corner,
+
+57
+00:02:02,002 --> 00:02:04,008
+I could click the phone button to make an audio call over
+
+58
+00:02:04,008 --> 00:02:06,002
+Skype, but in this case,
+
+59
+00:02:06,002 --> 00:02:11,003
+I'll click the video camera icon to make a video call.
+
+60
+00:02:11,003 --> 00:02:14,009
+And I could see myself as a call is being placed.
+
+61
+00:02:14,009 --> 00:02:18,006
+And in a second, there's Nick, Hey Nick.
+
+62
+00:02:18,006 --> 00:02:19,005
+- Hello.
+
+63
+00:02:19,005 --> 00:02:20,005
+- Thanks for helping me out with this.
+
+64
+00:02:20,005 --> 00:02:21,006
+- No problem.
+
+65
+00:02:21,006 --> 00:02:22,008
+- So that's pretty much all there is
+
+66
+00:02:22,008 --> 00:02:24,007
+to making a video call and Skype.
+
+67
+00:02:24,007 --> 00:02:26,007
+We can now both see and hear each other,
+
+68
+00:02:26,007 --> 00:02:29,002
+and we can have a conversation and Skype, anytime we like,
+
+69
+00:02:29,002 --> 00:02:32,005
+as long as we both someplace with an internet connection.
+
+70
+00:02:32,005 --> 00:02:33,006
+So at this point,
+
+71
+00:02:33,006 --> 00:02:35,008
+I want to show what it looks like if we receive a video
+
+72
+00:02:35,008 --> 00:02:37,001
+call, so Nick, I'm going to hang up,
+
+73
+00:02:37,001 --> 00:02:40,000
+but could you call me back in just a couple seconds?
+
+74
+00:02:40,000 --> 00:02:40,009
+- No problem.
+
+75
+00:02:40,009 --> 00:02:41,007
+- Alright.
+
+76
+00:02:41,007 --> 00:02:43,003
+See in a second.
+
+77
+00:02:43,003 --> 00:02:44,007
+All right, so to receive a call,
+
+78
+00:02:44,007 --> 00:02:46,000
+Skype needs to be running
+
+79
+00:02:46,000 --> 00:02:49,001
+and now we can see Nick is calling.
+
+80
+00:02:49,001 --> 00:02:51,008
+Now I could click the phone button if I only wanted to
+
+81
+00:02:51,008 --> 00:02:54,000
+answer with audio or I can hang up if I didn't want to
+
+82
+00:02:54,000 --> 00:02:55,002
+answer it all.
+
+83
+00:02:55,002 --> 00:02:59,004
+But in this case, I will answer with the video button again.
+
+84
+00:02:59,004 --> 00:03:00,004
+And once again, there's Nick.
+
+85
+00:03:00,004 --> 00:03:01,004
+Hello again.
+
+86
+00:03:01,004 --> 00:03:02,002
+- Hey.
+
+87
+00:03:02,002 --> 00:03:03,002
+- So that's pretty much it.
+
+88
+00:03:03,002 --> 00:03:04,009
+We can now just continue having our normal conversation
+
+89
+00:03:04,009 --> 00:03:07,000
+here over video.
+
+90
+00:03:07,000 --> 00:03:08,009
+All right, so thanks again, Nick.
+
+91
+00:03:08,009 --> 00:03:09,008
+- No problem.
+
+92
+00:03:09,008 --> 00:03:12,003
+- All right, we'll talk to you later.
+
+93
+00:03:12,003 --> 00:03:13,009
+Okay, so that's how you set up your audio
+
+94
+00:03:13,009 --> 00:03:14,008
+and video settings.
+
+95
+00:03:14,008 --> 00:03:17,002
+So you can make and receive calls in Skype.
+

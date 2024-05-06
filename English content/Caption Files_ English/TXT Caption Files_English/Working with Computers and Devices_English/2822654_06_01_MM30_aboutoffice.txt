@@ -1,0 +1,104 @@
+ - If you often have to move between different types of tasks  
+ for work like writing documents, creating spreadsheets,  
+ putting together presentations, and handling your calendar,  
+ you could do all of these things  
+ with several individual apps  
+ from multiple software developers,  
+ but it often makes more sense to work with apps  
+ that have been designed to work together,  
+ giving you the ability to move seamlessly between them.  
+ Microsoft Office, for example,  
+ is a collection of applications designed to work  
+ in conjunction with each other to make it easier for you  
+ to accomplish tasks and get things done.  
+ Office includes applications like Word for word processing,  
+ Excel for working with spreadsheets,  
+ and PowerPoint for creating slideshow presentations.  
+ There are versions of Office available for Windows  
+ and Mac operating systems, mobile operating systems,  
+ as well as an online version that can be accessed  
+ from any computer's web browsing application,  
+ regardless of the operating system it's running.  
+ It's a good idea to explore different software suites  
+ to find the one that will be best suited  
+ for the type of work you do.  
+ Other software packages similar to Office  
+ include Apple's iWork suite,  
+ which includes Pages, Numbers, and Keynote  
+ for creating documents, spreadsheets, and presentations.  
+ If you're a Mac user, you may want to consider these apps  
+ since they're included for free on all macOS computers.  
+ Similarly, Google's online G Suite is also free  
+ for consumers and includes apps like Google Docs, Sheets,  
+ and Slides to create your documents,  
+ spreadsheets, and presentations.  
+ So be sure to look at these and other alternatives  
+ when deciding which software to use.  
+ In this course, we'll be focusing on Microsoft Office  
+ as it's the most widely used  
+ of these productivity suites of applications.  
+ There are two main versions of Microsoft Office available,  
+ currently named Microsoft 365 and Office 2019.  
+ Microsoft 365 is a subscription-based version  
+ of the suite of applications.  
+ There are multiple subscription plans  
+ like Microsoft 365 Personal, Microsoft 365 Home & Student,  
+ and Microsoft 365 Business Premium, among others.  
+ The cost of the subscription depends  
+ on which plan you choose,  
+ and the apps contained in each version can vary,  
+ although they all contain the most popular applications,  
+ including Word, Excel, PowerPoint, and Outlook.  
+ With your subscription, you can install the software  
+ on up to five Windows machines or Macs,  
+ five tablet devices, and five mobile devices,  
+ which is convenient if others in your household need  
+ to use the software too.  
+ Your subscription also includes the many software updates  
+ that Microsoft regularly releases  
+ for the suite of applications.  
+ These updates can include bug fixes  
+ as well as new features and abilities.  
+ As long as you pay your monthly or annual subscription fees,  
+ you'll continue to have access to the latest versions  
+ of all the applications included in your plan.  
+ Office 2019, on the other hand, is a one-time purchase.  
+ Unlike Microsoft 365, you pay a single price  
+ for access to all the applications in Office 2019,  
+ with no future fees or charges.  
+ The software is yours to use indefinitely.  
+ You need to keep in mind that your purchase only allows you  
+ to install the software on a single computer  
+ rather than multiple computers and mobile devices.  
+ You also don't get access to any new features  
+ or other updates with Office 2019.  
+ So if you want to update to a new version months  
+ or years later,  
+ you'll have to pay for that new version as well.  
+ So which version you choose depends a lot  
+ on how much you'll be using the Office applications  
+ and if having access to the latest versions  
+ of the software is important to you.  
+ For example, if you need the ability to work across devices,  
+ like if you want to be able to work on an Excel spreadsheet  
+ on your phone during a commute  
+ and later pick up where you left off on that spreadsheet  
+ from your desktop computer or tablet,  
+ you'll want to go with Microsoft 365.  
+ On the other hand, if you know you need Word, Excel,  
+ or PowerPoint, but you use them infrequently enough  
+ that you don't need the latest versions or features  
+ or to work on your files between multiple devices,  
+ Office 2019 is probably better suited for you.  
+ Lastly, if your use of Office products is very infrequent,  
+ you can access free versions of most  
+ of the Office applications online at office.com.  
+ These are lightweight versions of the Office products,  
+ but they have a lot of the functionality  
+ of their full-featured counterparts.  
+ And again, you can check them out for free at office.com  
+ to see if they'll work for you.  
+ Otherwise, you can find out more  
+ about the various Office packages at microsoft365.com.  
+ 
+

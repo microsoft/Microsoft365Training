@@ -1,0 +1,164 @@
+1
+00:00:00,005 --> 00:00:02,003
+- [Instructor] When you upload files to OneDrive,
+
+2
+00:00:02,003 --> 00:00:04,009
+you can securely access, update and share them
+
+3
+00:00:04,009 --> 00:00:07,003
+from anywhere you have an internet connection.
+
+4
+00:00:07,003 --> 00:00:09,003
+There's several ways to upload files to OneDrive.
+
+5
+00:00:09,003 --> 00:00:11,008
+Let's take a look at a few of the methods here.
+
+6
+00:00:11,008 --> 00:00:13,002
+After signing in to your account,
+
+7
+00:00:13,002 --> 00:00:15,007
+just click the Upload button in the toolbar,
+
+8
+00:00:15,007 --> 00:00:18,001
+choose to upload files,
+
+9
+00:00:18,001 --> 00:00:19,008
+and then browse for and select the files you want
+
+10
+00:00:19,008 --> 00:00:21,003
+to copy to OneDrive.
+
+11
+00:00:21,003 --> 00:00:22,008
+In this case, I want to upload all three of these,
+
+12
+00:00:22,008 --> 00:00:27,000
+so I'll just select all three and click Open,
+
+13
+00:00:27,000 --> 00:00:28,005
+and there are the files.
+
+14
+00:00:28,005 --> 00:00:30,006
+You can also drag files from your computer directly
+
+15
+00:00:30,006 --> 00:00:32,006
+into the OneDrive browser window.
+
+16
+00:00:32,006 --> 00:00:34,001
+I'll make the browser window a little bit smaller
+
+17
+00:00:34,001 --> 00:00:40,000
+so I can see my desktop where I have some folders of files.
+
+18
+00:00:40,000 --> 00:00:42,009
+And again, I can just select the files I want to upload.
+
+19
+00:00:42,009 --> 00:00:47,009
+And in this case, I will drag them into the browser window.
+
+20
+00:00:47,009 --> 00:00:52,001
+You can see they're uploading and there they are.
+
+21
+00:00:52,001 --> 00:00:55,000
+If you're using the Google Chrome or Microsoft Edge browser,
+
+22
+00:00:55,000 --> 00:00:58,002
+you can upload folders of files instead of individual files.
+
+23
+00:00:58,002 --> 00:01:00,007
+This can make it easier to keep your files organized.
+
+24
+00:01:00,007 --> 00:01:02,005
+Just click the Upload button again,
+
+25
+00:01:02,005 --> 00:01:04,005
+and this time choose a Folder
+
+26
+00:01:04,005 --> 00:01:09,009
+and then select the folder you want to upload.
+
+27
+00:01:09,009 --> 00:01:12,009
+I'll confirm that I want to upload the entire folder
+
+28
+00:01:12,009 --> 00:01:14,009
+and here's that folder.
+
+29
+00:01:14,009 --> 00:01:17,003
+Now, if you're using a browser other than Chrome or Edge,
+
+30
+00:01:17,003 --> 00:01:19,003
+you can create a new folder first
+
+31
+00:01:19,003 --> 00:01:22,003
+by clicking the New menu and choosing Folder,
+
+32
+00:01:22,003 --> 00:01:25,005
+giving it a name, and then you can upload
+
+33
+00:01:25,005 --> 00:01:28,000
+or drag files into that folder you just created.
+
+34
+00:01:28,000 --> 00:01:29,009
+I'll click the folder to go into it
+
+35
+00:01:29,009 --> 00:01:34,005
+and then I move my window out of the way.
+
+36
+00:01:34,005 --> 00:01:37,001
+I'll select my files and I'll drag them
+
+37
+00:01:37,001 --> 00:01:40,000
+into the OneDrive window,
+
+38
+00:01:40,000 --> 00:01:41,008
+and there they are.
+
+39
+00:01:41,008 --> 00:01:43,009
+And once you've uploaded your files to OneDrive,
+
+40
+00:01:43,009 --> 00:01:46,003
+you can get to them from any computer, tablet
+
+41
+00:01:46,003 --> 00:01:48,005
+or mobile phone with an internet connection.
+

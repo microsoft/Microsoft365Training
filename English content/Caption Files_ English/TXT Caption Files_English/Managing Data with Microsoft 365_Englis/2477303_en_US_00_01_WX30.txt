@@ -1,0 +1,22 @@
+ - [Christine] Learning how to manage data in Microsoft 365  
+ is a key skill that will enable you to take  
+ on any project with certainty.  
+ Managing data might sound like a task  
+ for computer scientists, programmers and librarians,  
+ but nearly everyone in the workplace manages data daily.  
+ Microsoft 365 has extraordinary tools  
+ to help you manage your data like a pro.  
+ My name is Christine Matheney  
+ and I'm a program manager at Microsoft.  
+ In this course, I'm going to show you how to gather,  
+ organize and distribute data using data tools,  
+ including Forms, Power Automate, Excel and Power BI.  
+ You'll learn high level skills  
+ including how to customize forms, create pivot tables  
+ and even create reports in Power BI.  
+ Learning how to manage data in Microsoft 365  
+ is a key skill that will enable you  
+ to take on any project with certainty.  
+ Let's get started.  
+ 
+

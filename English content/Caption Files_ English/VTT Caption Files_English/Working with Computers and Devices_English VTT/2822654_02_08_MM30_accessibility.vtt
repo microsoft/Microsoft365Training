@@ -1,0 +1,208 @@
+﻿WEBVTT
+
+00:00:00.005 --> 00:00:02.002
+- [Instructor] Modern computer operating systems
+
+00:00:02.002 --> 00:00:04.009
+are designed with the needs of everyone in mind.
+
+00:00:04.009 --> 00:00:06.007
+For example, there's a wide range of tools
+
+00:00:06.007 --> 00:00:09.003
+and accessibility features built into Windows 10
+
+00:00:09.003 --> 00:00:11.003
+that make it easier to use your computer
+
+00:00:11.003 --> 00:00:14.004
+if you have certain disabilities or challenges.
+
+00:00:14.004 --> 00:00:16.000
+These features often need to be enabled
+
+00:00:16.000 --> 00:00:18.001
+before you can take advantage of them.
+
+00:00:18.001 --> 00:00:20.005
+Many of the Windows 10 accessibility features can be found
+
+00:00:20.005 --> 00:00:24.007
+by going to the start menu, to Settings,
+
+00:00:24.007 --> 00:00:27.005
+and here click Ease of Access.
+
+00:00:27.005 --> 00:00:29.008
+In the left column, you'll find accessibility categories
+
+00:00:29.008 --> 00:00:33.007
+to access settings for vision, hearing, and interaction.
+
+00:00:33.007 --> 00:00:36.007
+For example, under Vision, we can select Display,
+
+00:00:36.007 --> 00:00:38.003
+and here you can change the size of the text
+
+00:00:38.003 --> 00:00:40.002
+in applications you're viewing.
+
+00:00:40.002 --> 00:00:42.004
+The slider here under Make text bigger
+
+00:00:42.004 --> 00:00:45.003
+lets you customize the default size of text.
+
+00:00:45.003 --> 00:00:48.004
+When it looks good to you, you can click Apply,
+
+00:00:48.004 --> 00:00:50.005
+and you can see that instantly makes all the text,
+
+00:00:50.005 --> 00:00:53.004
+including the text in the Setting window, larger.
+
+00:00:53.004 --> 00:00:56.002
+I'm going to set that back.
+
+00:00:56.002 --> 00:00:58.002
+If you need to make not just text larger,
+
+00:00:58.002 --> 00:01:00.003
+but the windows and other elements as well,
+
+00:01:00.003 --> 00:01:01.009
+you can select a percentage value here
+
+00:01:01.009 --> 00:01:03.004
+under Make everything bigger.
+
+00:01:03.004 --> 00:01:05.008
+You can see mine's currently set to 200%.
+
+00:01:05.008 --> 00:01:08.000
+If I restore the window here so we can see some
+
+00:01:08.000 --> 00:01:10.005
+of the elements like the Recycle Bin here,
+
+00:01:10.005 --> 00:01:16.004
+I can make it larger or even smaller.
+
+00:01:16.004 --> 00:01:21.009
+I'm going to set that back to the 200% setting where it was.
+
+00:01:21.009 --> 00:01:23.005
+And below that under Make everything brighter,
+
+00:01:23.005 --> 00:01:26.001
+you can change the brightness of your display.
+
+00:01:26.001 --> 00:01:28.002
+Moving to Cursor &amp; pointer size,
+
+00:01:28.002 --> 00:01:30.000
+here you can make adjustments like increasing the size
+
+00:01:30.000 --> 00:01:32.008
+of the mouse cursor to make it easier to see.
+
+00:01:32.008 --> 00:01:37.000
+Notice as I click these, the size changes.
+
+00:01:37.000 --> 00:01:40.002
+And you can also change its color.
+
+00:01:40.002 --> 00:01:42.007
+Above that, you can change the thickness of text cursors
+
+00:01:42.007 --> 00:01:46.001
+so they're easier to see when you're typing.
+
+00:01:46.001 --> 00:01:48.002
+Next, we have the magnifier.
+
+00:01:48.002 --> 00:01:50.005
+Enabling the magnifier zooms you into the screen
+
+00:01:50.005 --> 00:01:54.008
+at the selected size, currently set to 200% here.
+
+00:01:54.008 --> 00:01:57.002
+And that can make things easier to see or read.
+
+00:01:57.002 --> 00:01:59.006
+And you can just move your mouse around the screen
+
+00:01:59.006 --> 00:02:01.005
+to see other parts of the display.
+
+00:02:01.005 --> 00:02:03.005
+Turn that off again for now.
+
+00:02:03.005 --> 00:02:06.004
+So those are some of the useful vision settings.
+
+00:02:06.004 --> 00:02:09.000
+Under Hearing, you can select Audio,
+
+00:02:09.000 --> 00:02:11.004
+and here you can set alerts where you'll be alerted visually
+
+00:02:11.004 --> 00:02:13.003
+so you don't miss audible alerts.
+
+00:02:13.003 --> 00:02:15.009
+So for example, I could choose Flash the active window
+
+00:02:15.009 --> 00:02:18.000
+so when an application I'm using beeps,
+
+00:02:18.000 --> 00:02:20.008
+the window I'm currently using will also flash.
+
+00:02:20.008 --> 00:02:22.007
+Under the Interaction category,
+
+00:02:22.007 --> 00:02:24.006
+there are several settings based on your interaction
+
+00:02:24.006 --> 00:02:27.002
+with input devices, like the keyboard, mouse,
+
+00:02:27.002 --> 00:02:29.000
+speech, and eye control.
+
+00:02:29.000 --> 00:02:30.003
+Under Keyboard, for example,
+
+00:02:30.003 --> 00:02:33.003
+there's an option to use an onscreen keyboard
+
+00:02:33.003 --> 00:02:34.009
+which we can enable.
+
+00:02:34.009 --> 00:02:37.004
+This is useful on devices without a physical keyboard,
+
+00:02:37.004 --> 00:02:39.003
+but also for anyone who might have difficulties
+
+00:02:39.003 --> 00:02:42.002
+using a physical keyboard and can better control the mouse
+
+00:02:42.002 --> 00:02:44.007
+to input text with this virtual keyboard.
+
+00:02:44.007 --> 00:02:46.005
+So this has been just a few examples
+
+00:02:46.005 --> 00:02:48.001
+of the many features found in Windows
+
+00:02:48.001 --> 00:02:51.002
+and other operating systems that improve accessibility
+
+00:02:51.002 --> 00:02:53.008
+and allow you to use your computer more effectively.

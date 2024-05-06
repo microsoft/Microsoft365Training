@@ -1,0 +1,67 @@
+ - [Instructor] Microsoft Project  
+ can help you get the most  
+ out of your projects.  
+ Here are a few tips that I like to use  
+ when building detailed and comprehensive projects.  
+ In this lesson, I'll use an example client wedding project  
+ to show you how to change dates,  
+ attach files, and add custom columns.  
+ Every project has a start date,  
+ but like most things in life, things change.  
+ Microsoft Project lets you change the start date  
+ and then the tasks will adjust accordingly.  
+ I'll start from Office.com,  
+ select the app launcher in the top left corner,  
+ and open Project.  
+ Note that using Project for the web  
+ requires an active subscription to Microsoft Project.  
+ I'll start by opening the client wedding project.  
+ Next I'll select the Timeline view.  
+ Here, the project tasks start in April,  
+ but recently the client decided to push the date by a month.  
+ I can adjust the schedule by changing the start date  
+ by selecting more actions, Project Details,  
+ and then the Calendar in the Start field.  
+ Close this with the X to save.  
+ If I change the start date to one month later  
+ all the other tasks also shift by a month.  
+ By attaching files related to your tasks  
+ in Microsoft Project,  
+ you can keep your project assets organized  
+ and shared with your team.  
+ I'll go to the Board view by selecting Board at the top  
+ and select Finalize budget.  
+ I have a template that I would like Lynne to use,  
+ so I will add it to the task.  
+ To the right of the task, in Attachments,  
+ I can select Add Attachment.  
+ There are three choices.  
+ From computer, from teams files, and from URL.  
+ Since my document is on my computer,  
+ I'll select from computer.  
+ Navigate to the file.  
+ Then select Open.  
+ When I close the task properties,  
+ I can see the attachment on the task card.  
+ I can upload all files relevant to this client  
+ and access them from the tasks.  
+ You can also add custom columns to tasks.  
+ Say I want each task to be reviewed.  
+ I'll start by selecting Grid in the top bar.  
+ I want to add a column named Reviewed,  
+ with a Yes/No dropdown,  
+ so my team can specify if the task was reviewed or not.  
+ I'll select Add column and select New field.  
+ I'll select Yes/No for the type,  
+ and name it Reviewed and select Create.  
+ My custom column Reviewed has been added  
+ with No as a default value.  
+ Once a task has been reviewed,  
+ I can select the dropdown  
+ in the reviewed column and choose Yes.  
+ Now, you know a few pro tips  
+ that can enhance your work.  
+ Try using attachments and custom columns  
+ to customize your next project.  
+ 
+

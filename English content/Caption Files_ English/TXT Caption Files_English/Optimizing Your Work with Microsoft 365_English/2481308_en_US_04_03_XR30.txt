@@ -1,0 +1,92 @@
+ - [Educator] Referring to specific resources in a document  
+ can take up a lot of space.  
+ With footnotes, you can keep your references organized  
+ and easy to read.  
+ In this lesson,  
+ I'm going to show you how to reference your content in Word  
+ with footnotes and adding a table of contents.  
+ Footnotes are used to explain, comment on,  
+ or provide references to something in a document.  
+ A table of contents helps you to locate specific information  
+ in a document.  
+ To get started,  
+ I'll open Word from the Microsoft 365 homepage.  
+ You can follow along with the sample Word document  
+ in your exercise files,  
+ it's called Customer Event Product Document.  
+ In this example, I'll be editing a product document  
+ from a customer event I'm organizing.  
+ First, I'll add footnotes.  
+ Footnotes are citations that appear at the footer  
+ or the bottom of the page.  
+ Once a footnote has been added,  
+ you'll have a small superscript number after the cited text  
+ and the full citation on the page's footer.  
+ To insert a footnote,  
+ I'll place my cursor  
+ to the right of the text I want to cite.  
+ From here, I'll navigate to the top ribbon,  
+ select References, and then Insert Footnote.  
+ At this point, a window appears where I can specify  
+ the details of the original work I'm citing.  
+ I'll enter St. Clair Housen "To Be A Mogul"  
+ Chapter 3, Page 46, Line 22.  
+ This is the first footnote I'm adding to the document.  
+ So the number one is in the box.  
+ Press the Escape button on your keyboard,  
+ or select the body of the document  
+ to save and close the footnote.  
+ When I'm in editing view,  
+ I can't see the citation at the bottom of the page,  
+ but the footnote will be there.  
+ If I select the number, I can edit the footnote details.  
+ To see how the footnote appears in your document,  
+ I need to be in reading view.  
+ Navigate to the top ribbon, select View,  
+ then select Reading View.  
+ Now, when I scroll through the document,  
+ I can see that the footnotes are at the bottom of the page.  
+ Now, I'll select the Edit Document tab in the top ribbon  
+ and then choose Edit.  
+ Word will send you back to editing view  
+ where you can continue editing.  
+ If a footnote is not the citation method you want to use,  
+ consider an end note,  
+ which adds the footer text to the end of the document  
+ instead of the bottom of the page.  
+ Navigate to the top ribbon, select References,  
+ and then Insert End Note.  
+ Another way to keep your document organized  
+ is to add a table of contents.  
+ Before you create a table of contents,  
+ you need to select your texts and apply a heading.  
+ Word uses the headings in your document  
+ to build an automatic table of contents  
+ that can be updated when you change the heading text,  
+ sequence, or level.  
+ Highlight the text you wish to apply a heading to,  
+ then navigate to the Home tab,  
+ and in the style galleries, select the heading choice  
+ and the text automatically takes that heading form.  
+ If you have subheadings,  
+ select different texts that you would like to have  
+ under the first heading and apply a different style to it.  
+ Now you're ready to create and add your table of contents.  
+ Now place your cursor  
+ where you want to insert the table of contents.  
+ I usually place it near the beginning of the document  
+ or after a title page.  
+ On the top ribbon, select References.  
+ Next, select Table of Contents.  
+ In the dropdown menu, choose Insert Table of Contents.  
+ If you make changes to your document  
+ that affect the table of contents,  
+ you can update it by selecting the table  
+ and selecting the update box that appears  
+ to the left of the table of contents.  
+ Adding references as footnotes  
+ and creating a table of contents  
+ is a great way of elevating your documents.  
+ Try adding these reference forms to your next document.  
+ 
+

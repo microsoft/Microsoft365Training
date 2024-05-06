@@ -1,0 +1,172 @@
+1
+00:00:00,000 --> 00:00:01,001
+- [Instructor] In the workplace,
+
+2
+00:00:01,001 --> 00:00:02,007
+you don't always have the time
+
+3
+00:00:02,007 --> 00:00:05,003
+or a quiet space to take a phone call,
+
+4
+00:00:05,003 --> 00:00:07,007
+so chatting can be a lot more practical.
+
+5
+00:00:07,007 --> 00:00:09,000
+Using the chat feature
+
+6
+00:00:09,000 --> 00:00:11,004
+in Teams allows you to have a flexible conversation
+
+7
+00:00:11,004 --> 00:00:12,008
+when you want to reach out
+
+8
+00:00:12,008 --> 00:00:15,000
+to people in your organization quickly.
+
+9
+00:00:15,000 --> 00:00:15,009
+In this lesson,
+
+10
+00:00:15,009 --> 00:00:18,005
+I will show you how to use Teams to easily
+
+11
+00:00:18,005 --> 00:00:20,003
+and quickly communicate.
+
+12
+00:00:20,003 --> 00:00:22,003
+In this example, I'll show you what to do
+
+13
+00:00:22,003 --> 00:00:24,001
+if I wanted to reach out to a teammate
+
+14
+00:00:24,001 --> 00:00:27,002
+just to check in on the status of a meeting,
+
+15
+00:00:27,002 --> 00:00:30,003
+let's go.
+
+16
+00:00:30,003 --> 00:00:33,009
+Once I'm in Teams, I'll select Chat to get started.
+
+17
+00:00:33,009 --> 00:00:37,000
+I have quick access to my recent chats here,
+
+18
+00:00:37,000 --> 00:00:38,006
+but if you want to start a new chat
+
+19
+00:00:38,006 --> 00:00:41,006
+or can't find the chat you need in your recent chats,
+
+20
+00:00:41,006 --> 00:00:43,006
+you can select the New Chat button.
+
+21
+00:00:43,006 --> 00:00:45,002
+As a chat window opens,
+
+22
+00:00:45,002 --> 00:00:47,001
+you can enter who you want to send the chat
+
+23
+00:00:47,001 --> 00:00:49,004
+to, either a specific individual
+
+24
+00:00:49,004 --> 00:00:52,000
+or a group, simply type in the name or email
+
+25
+00:00:52,000 --> 00:00:55,005
+of the person you want to chat with and select their name
+
+26
+00:00:55,005 --> 00:00:58,003
+or email to add them to the chat.
+
+27
+00:00:58,003 --> 00:01:01,003
+From here, you can also add more people.
+
+28
+00:01:01,003 --> 00:01:04,005
+If you want to remove anyone from the message,
+
+29
+00:01:04,005 --> 00:01:07,008
+you can select the X next to their name.
+
+30
+00:01:07,008 --> 00:01:10,009
+At this point, I can begin typing in my message.
+
+31
+00:01:10,009 --> 00:01:14,001
+Isaiah is working with me on an upcoming skills conference.
+
+32
+00:01:14,001 --> 00:01:16,000
+I want to know if Isaiah is planning to come
+
+33
+00:01:16,000 --> 00:01:17,007
+to the planning meeting next week.
+
+34
+00:01:17,007 --> 00:01:20,000
+So I'll just send him a message to ask.
+
+35
+00:01:20,000 --> 00:01:22,005
+I'll type in my message.
+
+36
+00:01:22,005 --> 00:01:24,009
+Then select Send.
+
+37
+00:01:24,009 --> 00:01:26,004
+I've now sent my message,
+
+38
+00:01:26,004 --> 00:01:31,003
+and I can continue working and wait for Isaiah to respond.
+
+39
+00:01:31,003 --> 00:01:36,002
+Once Isaiah responds, I get a notification,
+
+40
+00:01:36,002 --> 00:01:41,002
+and I can also find the activity in chat.
+
+41
+00:01:41,002 --> 00:01:44,001
+Now that you know how to communicate with chats and teams,
+
+42
+00:01:44,001 --> 00:01:45,003
+you can feel confident
+
+43
+00:01:45,003 --> 00:01:47,009
+in reaching out to anyone in your organization.
+

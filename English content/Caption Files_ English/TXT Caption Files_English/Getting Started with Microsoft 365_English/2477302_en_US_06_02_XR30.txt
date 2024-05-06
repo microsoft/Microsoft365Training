@@ -1,0 +1,113 @@
+ - [Instructor] When your whole team is using SharePoint  
+ the level of engagement is incredible,  
+ to further increase your team's engagement  
+ it's important that you know how to use some  
+ of the more advanced features of SharePoint.  
+ And this listen, I'm going to show you how to use sections  
+ and web parts to add more features  
+ within your SharePoint site.  
+ To get started, I'll open SharePoint.  
+ I've already created a communication site  
+ and named it skills conference page  
+ for an upcoming conference.  
+ Now I want to change the layout  
+ and look of the site and add some content.  
+ I want to start by changing the layout on this page.  
+ The layout of a SharePoint page is made up  
+ of different sections.  
+ Sections are distinct areas on the page  
+ and each component in a section is called a web part.  
+ Before I can make any changes, I need to go  
+ to the top right corner and select edit,  
+ on the left bar I can edit my sections.  
+ I simply click the plus and options open up,  
+ I can add, edit, move, duplicate,  
+ or delete a section from here.  
+ I want to remove one of my sections,  
+ so I'll scroll down to the section  
+ I'd like to remove, select it,  
+ and in the options on the far left, select delete.  
+ I can see the section has been deleted.  
+ Now I want to edit the web part  
+ in the section at the top of this page,  
+ this web part is a hero which allows you to display  
+ up to five items using text, images, and links.  
+ To edit this web part  
+ I'll select it and select edit web part,  
+ I can display my hero web part as tiles or layers.  
+ Selecting tiles displays my hero with images and links,  
+ selecting layers displays my hero with images,  
+ text, and links.  
+ I want to display text and images,  
+ so I'll keep layers selected from my layout options.  
+ One of the features that makes SharePoint so useful  
+ is you can easily edit when you need to add more content.  
+ Currently, my site has three layers.  
+ A layer contains an image, text, and a link.  
+ I only have a small amount of content that I want to share,  
+ so I only need one layer.  
+ So under layout, I will choose the one layer layout.  
+ Now that I've got the right layout,  
+ I can start to edit the image,  
+ text, and link for my web part.  
+ To edit the individual components of a web part,  
+ I need to go to edit web part details.  
+ I need to select the web part  
+ and find the edit details button,  
+ once selected an edit menu pops up with the edit options,  
+ right now I don't need to link anything,  
+ so I want to remove the link.  
+ I just need to go down to the options menu and expand it,  
+ for this web part the link is actually  
+ a part of a call to action,  
+ so to remove the link  
+ I'll just select no for show call to action link.  
+ When I'm ready to add a link I can move show call to action  
+ to yes, and add my link and call to action  
+ text when I'm ready.  
+ I want to change the text for this web part,  
+ so I'll edit the title and description  
+ to be specific to the skills conference.  
+ I see that my new title and description have been added,  
+ now I want to change the image that's displayed  
+ on this web part.  
+ I'll expand the background image section and select change.  
+ I don't have images of my own to use,  
+ so I'll select stock images.  
+ I'll search for conference  
+ in the search bar and select a photo I like,  
+ once I've selected the image, I'll see the image on my page.  
+ Under the image in the background section  
+ I will add alternative texts to make my site accessible  
+ for those who can't see it,  
+ the changes I've made look great.  
+ I want to add one more thing to my page before I finish,  
+ a countdown timer to get the team excited  
+ about the upcoming skills conference.  
+ I'll close this web part for now.  
+ Before I add the countdown timer,  
+ I want to clean up my page a bit.  
+ I want to select showcase a variety of images  
+ and remove that web part.  
+ Now I want to add a new web part  
+ and I'll add a countdown timer.  
+ You can change the title and description directly  
+ from this web part by selecting them,  
+ I'll change the title to skills conference  
+ and change the description to countdown to fun.  
+ You can also change the date and time for your countdown  
+ or even add a call to action link or a background image,  
+ lots of options to customize  
+ the look of this countdown timer.  
+ Looks great to me, so I'll close my editing window.  
+ I like this look, it's a great landing page  
+ and I know I can come back  
+ and easily add or edit more content.  
+ I'll select republish to make sure that  
+ when I share my site,  
+ everyone else can see the updated version.  
+ Now you can make engaging sites  
+ using sections and web parts.  
+ Give it a try.  
+ 
+

@@ -1,0 +1,238 @@
+﻿WEBVTT
+
+00:00:00.004 --> 00:00:01.004
+- [Instructor] Before you can start
+
+00:00:01.004 --> 00:00:03.004
+creating cool visualizations,
+
+00:00:03.004 --> 00:00:05.003
+you'll need to know the common functions,
+
+00:00:05.003 --> 00:00:09.002
+and the screens used to import and review data.
+
+00:00:09.002 --> 00:00:10.002
+In this lesson,
+
+00:00:10.002 --> 00:00:12.008
+I'll show you how to navigate Power BI Desktop,
+
+00:00:12.008 --> 00:00:14.009
+and connect the importance of reports
+
+00:00:14.009 --> 00:00:17.004
+to the structure of the program.
+
+00:00:17.004 --> 00:00:20.002
+You can install Power BI on your PC
+
+00:00:20.002 --> 00:00:21.007
+by going to the Microsoft Store,
+
+00:00:21.007 --> 00:00:24.002
+and searching for Power BI.
+
+00:00:24.002 --> 00:00:26.001
+When you open Power BI Desktop,
+
+00:00:26.001 --> 00:00:28.002
+you'll see the start screen.
+
+00:00:28.002 --> 00:00:30.005
+Here you can see what's new,
+
+00:00:30.005 --> 00:00:32.000
+the Power BI blog,
+
+00:00:32.000 --> 00:00:35.000
+forums and various tutorials.
+
+00:00:35.000 --> 00:00:37.001
+On the left, it's a menu of options
+
+00:00:37.001 --> 00:00:40.004
+where you can get data, access recent sources
+
+00:00:40.004 --> 00:00:42.009
+or open other reports.
+
+00:00:42.009 --> 00:00:44.002
+Once you close the window,
+
+00:00:44.002 --> 00:00:46.006
+you'll be in the workspace.
+
+00:00:46.006 --> 00:00:47.007
+At the top,
+
+00:00:47.007 --> 00:00:49.007
+you'll see the home ribbon.
+
+00:00:49.007 --> 00:00:51.009
+This ribbon contains the most common
+
+00:00:51.009 --> 00:00:54.002
+Power BI functions.
+
+00:00:54.002 --> 00:00:56.008
+New visual which adds a visualization
+
+00:00:56.008 --> 00:00:58.008
+to your workspace.
+
+00:00:58.008 --> 00:01:02.006
+Excel workbook to import data into the program.
+
+00:01:02.006 --> 00:01:05.009
+And transform data to merge data.
+
+00:01:05.009 --> 00:01:08.000
+On the left is a bar with three buttons
+
+00:01:08.000 --> 00:01:11.008
+for the report, data and model screens.
+
+00:01:11.008 --> 00:01:14.008
+Power BI starts on the report screen.
+
+00:01:14.008 --> 00:01:18.001
+This is where you'll create visualizations.
+
+00:01:18.001 --> 00:01:19.008
+I'll show you a report I'm working on
+
+00:01:19.008 --> 00:01:21.003
+for my sales team.
+
+00:01:21.003 --> 00:01:24.002
+You can download this in the exercise files.
+
+00:01:24.002 --> 00:01:27.004
+It's called sales team visualization.
+
+00:01:27.004 --> 00:01:28.008
+In my workspace,
+
+00:01:28.008 --> 00:01:31.006
+there are three visualizations.
+
+00:01:31.006 --> 00:01:33.002
+When I select the data tab,
+
+00:01:33.002 --> 00:01:36.009
+I can see the data used to create this report.
+
+00:01:36.009 --> 00:01:38.009
+This is the customer table.
+
+00:01:38.009 --> 00:01:42.000
+It looks similar to an Excel table,
+
+00:01:42.000 --> 00:01:44.003
+and on the right is a list of the other data sets
+
+00:01:44.003 --> 00:01:47.000
+imported into Power BI.
+
+00:01:47.000 --> 00:01:49.009
+Next I'll select the model tab.
+
+00:01:49.009 --> 00:01:52.000
+This gives you a graphical representation
+
+00:01:52.000 --> 00:01:54.009
+of your data and its relationships.
+
+00:01:54.009 --> 00:01:56.001
+In this example,
+
+00:01:56.001 --> 00:01:59.002
+you're looking at customers, their orders,
+
+00:01:59.002 --> 00:02:00.006
+the order details,
+
+00:02:00.006 --> 00:02:03.003
+and the products they purchased.
+
+00:02:03.003 --> 00:02:06.004
+Now I'll switch back to the report screen.
+
+00:02:06.004 --> 00:02:08.007
+On the right side of the reports workspace,
+
+00:02:08.007 --> 00:02:10.003
+you'll see three panels,
+
+00:02:10.003 --> 00:02:14.003
+filters, visualizations and fields.
+
+00:02:14.003 --> 00:02:16.009
+You can use filters to modify your visualizations
+
+00:02:16.009 --> 00:02:19.008
+to only show a subset of data.
+
+00:02:19.008 --> 00:02:21.007
+Power BI allows users to easily
+
+00:02:21.007 --> 00:02:23.004
+switch visualization type
+
+00:02:23.004 --> 00:02:25.005
+by simply selecting the visual styles
+
+00:02:25.005 --> 00:02:28.002
+from the visualization panel.
+
+00:02:28.002 --> 00:02:30.009
+There are typical bar charts, pie charts,
+
+00:02:30.009 --> 00:02:33.005
+as well as advanced charts.
+
+00:02:33.005 --> 00:02:35.009
+The fields panel is where you select the data
+
+00:02:35.009 --> 00:02:38.001
+you want to report on.
+
+00:02:38.001 --> 00:02:41.001
+When you import data sources into Power BI,
+
+00:02:41.001 --> 00:02:43.009
+they will show up in the field panel.
+
+00:02:43.009 --> 00:02:46.000
+You will this panel to select fields
+
+00:02:46.000 --> 00:02:48.004
+for your visualizations.
+
+00:02:48.004 --> 00:02:51.000
+Finally, the report workspace is broken down
+
+00:02:51.000 --> 00:02:53.001
+into different pages.
+
+00:02:53.001 --> 00:02:54.005
+You can add more by selecting
+
+00:02:54.005 --> 00:02:56.007
+the plus at the bottom.
+
+00:02:56.007 --> 00:03:00.001
+So that's a quick tour of Power BI.
+
+00:03:00.001 --> 00:03:01.007
+Start small and import data
+
+00:03:01.007 --> 00:03:04.002
+from an Excel workbook into the program,
+
+00:03:04.002 --> 00:03:06.001
+and get comfortable with the tool.
+
+00:03:06.001 --> 00:03:06.009
+Try it out.

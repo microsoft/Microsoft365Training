@@ -1,0 +1,97 @@
+ - [Instructor] Whether you're working on a project  
+ or communicating with a new team,  
+ information and contacts can quickly become disorganized  
+ if you don't manage them.  
+ The good news is there is an easy way  
+ to automate your organization,  
+ keeping all related information together.  
+ In this lesson, I'm going to share techniques  
+ so that you can optimize and maintain your Outlook inbox  
+ more effectively.  
+ First, I want to show you how to create folders.  
+ Folders bring structure to your inbox  
+ and allow relevant information to be stored together.  
+ You can use folders to organize  
+ your emails, calendars, tasks, and reorganize messages.  
+ So first I'll start on the Microsoft 365 homepage.  
+ I'm going to open my Outlook.  
+ Here I am in my inbox.  
+ In this example, I'm going to adjust my Outlook inbox  
+ by using folders to keep information  
+ about an upcoming event organized.  
+ To create a folder in Outlook  
+ on the left side, under the Folders drop-down,  
+ select New folder.  
+ Enter a name for the new folder  
+ that makes sense for what you'll be using it for.  
+ I'll call this folder Upcoming Event.  
+ So now I've created an easily accessible place  
+ where I can organize any messages related to this event.  
+ To move messages to a folder,  
+ select and drag the emails into the folder.  
+ To move more than one email,  
+ select the circle on the top left corner of the email.  
+ When you make these selections,  
+ an option menu on the right appears.  
+ Select the Move drop-down menu,  
+ and select the folder that you want to move the emails to.  
+ Talk about efficiency.  
+ Next, I want to show you how to use contact lists  
+ to keep you organized.  
+ A contact list is a collection of email addresses  
+ you can use to send emails to a group of people.  
+ To create a contact list,  
+ I'll navigate to the People page,  
+ using the toolbar on the left side.  
+ Then select your contact lists under the Contacts drop-down.  
+ Next, select the plus next to Create a contact list.  
+ Contact lists are created in the default contacts folder,  
+ and under All Contact lists.  
+ If you want to save the contact list in a different folder,  
+ select the folder before you select New contact list.  
+ Enter name for the list.  
+ I'll call this one, Customer Event Attendees.  
+ And then add your contacts, information,  
+ names, email addresses,  
+ and any other important information.  
+ One row at a time pressing Enter after each entry.  
+ Then I'll select Create.  
+ To adjust which people are included in your contact list,  
+ navigate to the People page and select contact lists.  
+ To adjust which people are included in your contact list,  
+ select Edit.  
+ From here you can either enter more names  
+ or email addresses to add people  
+ or remove people by selecting the X,  
+ next to their name or email address.  
+ Once you've made your edits, select Save.  
+ Now that a contact list is created,  
+ you can send emails to the full group  
+ without having to type each name individually.  
+ Creating folders helps you organize your inbox,  
+ but you can keep your inbox even more organized  
+ by setting up rules.  
+ Rules allow you to move  
+ and respond to email messages automatically.  
+ For example,  
+ if I wanted to move a message from one of my colleagues  
+ into the Upcoming Events folder,  
+ I can just right-click on one of those messages,  
+ select Advanced actions, then Create rule.  
+ I'll select More options and a condition.  
+ In this case for all messages from Lynne Robbins,  
+ I will select the drop-down for Select an action,  
+ and choose Move to.  
+ In the Select a folder drop-down,  
+ select the folder I created for my event.  
+ To use the rule right away, select the Run rule now box.  
+ Then select Save.  
+ The message from my colleague now appears in that folder.  
+ By using these tools and putting rules in place,  
+ you can organize  
+ all your messages and contacts in your inbox  
+ quickly and efficiently.  
+ Try setting up some rules and lists,  
+ and see how well you can streamline your email workflow.  
+ 
+

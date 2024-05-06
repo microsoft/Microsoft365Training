@@ -1,0 +1,42 @@
+ - [Instructor] Sharing lists with team members  
+ ensures everyone has up-to-date information on all projects  
+ and can collaborate more effectively with each other.  
+ In this lesson, I'll show you how to ensure  
+ people see up-to-date content  
+ and collaborate with relevant stakeholders using lists.  
+ First, I'll show you how to share a list  
+ with a specific person.  
+ I'll start from office.com.  
+ Select the app launcher in the upper-left corner  
+ and open Lists.  
+ From here, I'll open Checklist for wedding.  
+ In the top ribbon, select Share.  
+ I'm going to send this list for review  
+ to my collaborator, Lynne, by entering her name.  
+ For the message, I'll enter, "Please review, thanks!"  
+ I'll select Anyone with the link can edit  
+ to restrict access.  
+ I'll select Specific people  
+ since I only want this link to be accessed by Lynne.  
+ Select Apply to save, then select Send.  
+ Lynne will receive an email  
+ indicating that I shared the checklist.  
+ Close the dialogue.  
+ To share your list as view only,  
+ select the Share button on the top ribbon.  
+ I want to change the setting  
+ so anyone with the link can view this list.  
+ I'll select the Can edit dropdown next to the To field  
+ and choose Can view.  
+ Now when I select Copy,  
+ Lists will create the shareable link to the list  
+ that is view only.  
+ The link to the page is copied to the clipboard.  
+ I can send this link in a chat or email.  
+ Sharing lists with colleagues is easy.  
+ You can use it to simply inform others  
+ with a view-only version,  
+ or you can share a list for collaboration with edit access.  
+ This week, try sharing one of your lists with a colleague.  
+ 
+

@@ -1,0 +1,67 @@
+ - [Instructor] Have you ever wanted to create a to-do list  
+ or create reminders  
+ to help you accomplish your tasks on time?  
+ I know I need a tool to keep me on track.  
+ Using to-do lists in Outlook is a great way to stay on top  
+ of your communications and priorities.  
+ After this lesson,  
+ you'll be able to create your first to-do list  
+ and use it to accomplish your tasks.  
+ Microsoft To Do is integrated with Outlook on the web  
+ and includes smart lists.  
+ Smart lists are filtered lists that make it easier  
+ to track tasks and organize your day.  
+ With To Do integration,  
+ you can quickly organize your tasks by adding them  
+ to my day, marking them as important  
+ or adding them to new lists that you create.  
+ I'll start from the Microsoft 365 homepage  
+ and then open Outlook.  
+ Building a to-do list in Outlook takes a few steps.  
+ The first thing to do is create tasks in my day;  
+ tasks are individual items on your to-do list.  
+ In this example, I'll build a task list  
+ for an event that I'm organizing.  
+ Start from the Outlook inbox, select the my day icon  
+ in the top ribbon indicated by a calendar with a check,  
+ and then select add a task.  
+ Here you can enter the task.  
+ I'll type order round tables, and select Add.  
+ Your task is now added to the list.  
+ Next, navigate to the bottom of tasks  
+ and select manage all tasks.  
+ Microsoft To Do opens a new window  
+ for you to edit your task.  
+ I'm going to select tasks and the menu to the left  
+ and then the new task order round tables,  
+ and a panel opens to the right.  
+ Here you can add a step, add a reminder, due date,  
+ repetition category, or add a file.  
+ I'm going to set a reminder  
+ for later today and add a due date for tomorrow.  
+ When you finished,  
+ navigate to your inbox by selecting the envelope icon  
+ at the bottom left of the screen.  
+ To see your task and to-do list,  
+ select the my day icon on the top ribbon.  
+ And it will appear in the task list  
+ with the reminder and the due date set.  
+ You can also convert an email into a task.  
+ You can do this by having my day open,  
+ then selecting the email,  
+ and dragging it to the tasks.  
+ You can right click on the task  
+ to add the appropriate details.  
+ Now, that you've made the task,  
+ when you're finished select the X  
+ and the task list will close.  
+ By using to-do lists and reminders,  
+ you can stay up to date with communications  
+ and action items assigned  
+ to certain tasks and conversations.  
+ Using the skill will help you prioritize your work  
+ and manage time.  
+ Try it out  
+ by creating a task that you need to complete this week.  
+ 
+

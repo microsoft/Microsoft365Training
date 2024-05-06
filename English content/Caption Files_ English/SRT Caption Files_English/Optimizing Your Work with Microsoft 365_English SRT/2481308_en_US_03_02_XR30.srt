@@ -1,0 +1,316 @@
+1
+00:00:00,000 --> 00:00:02,009
+- [Instructor] Without pictures, videos and smart art
+
+2
+00:00:02,009 --> 00:00:04,008
+presentations can look pretty dull.
+
+3
+00:00:04,008 --> 00:00:08,002
+In this lesson you'll learn how to use tools in PowerPoint
+
+4
+00:00:08,002 --> 00:00:12,009
+to convey key points and make your presentations pop.
+
+5
+00:00:12,009 --> 00:00:15,006
+First open PowerPoint.
+
+6
+00:00:15,006 --> 00:00:17,009
+You can follow along with the sample presentation
+
+7
+00:00:17,009 --> 00:00:19,006
+in your exercise files.
+
+8
+00:00:19,006 --> 00:00:23,005
+It's called customer event example draft.
+
+9
+00:00:23,005 --> 00:00:26,005
+In this example, I'll be using a presentation
+
+10
+00:00:26,005 --> 00:00:29,005
+for a customer event I'm organizing.
+
+11
+00:00:29,005 --> 00:00:32,001
+To add a picture to this slide of my presentation,
+
+12
+00:00:32,001 --> 00:00:34,002
+I'll select insert from the top ribbon,
+
+13
+00:00:34,002 --> 00:00:36,008
+then pictures.
+
+14
+00:00:36,008 --> 00:00:40,004
+When I select pictures, a dropdown menu will appear.
+
+15
+00:00:40,004 --> 00:00:41,008
+I'll choose one of the options.
+
+16
+00:00:41,008 --> 00:00:45,000
+This device allows you to choose a picture
+
+17
+00:00:45,000 --> 00:00:46,005
+from your computer.
+
+18
+00:00:46,005 --> 00:00:48,009
+OneDrive allows you to choose a picture
+
+19
+00:00:48,009 --> 00:00:51,004
+from the cloud and your OneDrive.
+
+20
+00:00:51,004 --> 00:00:56,000
+Stock images are images and icons stored in PowerPoint.
+
+21
+00:00:56,000 --> 00:00:59,001
+Bing pictures allow you to import pictures
+
+22
+00:00:59,001 --> 00:01:01,007
+from the internet by searching for them.
+
+23
+00:01:01,007 --> 00:01:06,001
+I'll add a picture from online by selecting Bing pictures.
+
+24
+00:01:06,001 --> 00:01:09,004
+Now an online pictures window will appear.
+
+25
+00:01:09,004 --> 00:01:13,008
+Here you can search for and choose which picture to add.
+
+26
+00:01:13,008 --> 00:01:17,001
+There are many subcategories for you to search within.
+
+27
+00:01:17,001 --> 00:01:22,009
+In the search bar I'll type the word customer
+
+28
+00:01:22,009 --> 00:01:25,007
+and enter.
+
+29
+00:01:25,007 --> 00:01:31,004
+I can use the scroll arrows to search for the best option.
+
+30
+00:01:31,004 --> 00:01:32,009
+I'll select the picture that I want
+
+31
+00:01:32,009 --> 00:01:38,001
+and select insert at the bottom.
+
+32
+00:01:38,001 --> 00:01:41,007
+Now I can adjust the image.
+
+33
+00:01:41,007 --> 00:01:44,004
+Say I want to change the size of the image,
+
+34
+00:01:44,004 --> 00:01:45,007
+I'll right click the picture
+
+35
+00:01:45,007 --> 00:01:49,003
+and an editing options menu will appear.
+
+36
+00:01:49,003 --> 00:01:52,003
+This is where you can use the format picture tools
+
+37
+00:01:52,003 --> 00:01:55,002
+to crop, change the picture position relative
+
+38
+00:01:55,002 --> 00:01:59,002
+to the text and see other formatting options.
+
+39
+00:01:59,002 --> 00:02:00,004
+You can also change the size
+
+40
+00:02:00,004 --> 00:02:02,004
+of the picture by selecting the white points
+
+41
+00:02:02,004 --> 00:02:06,000
+at the corner to resize it.
+
+42
+00:02:06,000 --> 00:02:08,002
+Adding an online video is another option
+
+43
+00:02:08,002 --> 00:02:10,003
+to enhance your presentation.
+
+44
+00:02:10,003 --> 00:02:13,009
+To add a video from online to your presentation,
+
+45
+00:02:13,009 --> 00:02:16,005
+first select the slide where you want the video.
+
+46
+00:02:16,005 --> 00:02:23,003
+Then go to insert in the top ribbon and select online video.
+
+47
+00:02:23,003 --> 00:02:25,005
+A window will appear where you can enter the address
+
+48
+00:02:25,005 --> 00:02:29,002
+for the online video from YouTube, SlideShare,
+
+49
+00:02:29,002 --> 00:02:32,009
+Vimeo, or Stream.
+
+50
+00:02:32,009 --> 00:02:35,002
+Once you've entered the web address of your video,
+
+51
+00:02:35,002 --> 00:02:36,009
+you'll see a preview.
+
+52
+00:02:36,009 --> 00:02:41,006
+Select insert at the bottom of the window.
+
+53
+00:02:41,006 --> 00:02:43,004
+You can move the video by dragging it
+
+54
+00:02:43,004 --> 00:02:45,009
+where you want it to be.
+
+55
+00:02:45,009 --> 00:02:48,000
+If you want to change the size of the video,
+
+56
+00:02:48,000 --> 00:02:49,004
+right click the preview
+
+57
+00:02:49,004 --> 00:02:53,002
+and an editing options menu will appear.
+
+58
+00:02:53,002 --> 00:02:55,006
+You can also change the size of the video
+
+59
+00:02:55,006 --> 00:02:59,004
+by selecting the white points at the corners to resize it.
+
+60
+00:02:59,004 --> 00:03:01,000
+Another way to make your presentation pop is
+
+61
+00:03:01,000 --> 00:03:03,006
+to add smart art graphics.
+
+62
+00:03:03,006 --> 00:03:05,004
+To insert a smart art graphic,
+
+63
+00:03:05,004 --> 00:03:09,005
+select the slide where you want the smart art graphic.
+
+64
+00:03:09,005 --> 00:03:14,005
+Next select insert from the top ribbon, then smart art.
+
+65
+00:03:14,005 --> 00:03:19,006
+On the dropdown menu, select your preferred layout.
+
+66
+00:03:19,006 --> 00:03:23,002
+When the graphic is inserted on your slide,
+
+67
+00:03:23,002 --> 00:03:27,002
+a text editor box appears on the left of the graphic.
+
+68
+00:03:27,002 --> 00:03:29,002
+Each text bullet item in the editor
+
+69
+00:03:29,002 --> 00:03:32,001
+corresponds to one item in the graphic.
+
+70
+00:03:32,001 --> 00:03:34,006
+To add items, place your cursor next to the bullet
+
+71
+00:03:34,006 --> 00:03:40,008
+in the text editor box and enter your text.
+
+72
+00:03:40,008 --> 00:03:42,009
+You can add additional shape to your graphic
+
+73
+00:03:42,009 --> 00:03:45,005
+by pressing enter to add another bullet item
+
+74
+00:03:45,005 --> 00:03:51,004
+in the text editor.
+
+75
+00:03:51,004 --> 00:03:54,008
+You can delete shapes by deleting the bullet item
+
+76
+00:03:54,008 --> 00:03:58,009
+that you want to remove.
+
+77
+00:03:58,009 --> 00:04:02,005
+Now you're ready to add great visual touches to your slides.
+
+78
+00:04:02,005 --> 00:04:06,000
+Try using pictures, videos, and smart art graphics
+
+79
+00:04:06,000 --> 00:04:08,004
+to make your next presentation pop.
+

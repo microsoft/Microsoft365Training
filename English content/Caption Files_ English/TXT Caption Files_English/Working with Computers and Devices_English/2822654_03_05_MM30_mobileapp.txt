@@ -1,0 +1,80 @@
+ - [Instructor] In addition to the applications you use  
+ on your desktop or laptop computer,  
+ you'll probably also spend a lot of time  
+ working with apps on your mobile phone or tablet.  
+ Apps behave similarly on mobile devices  
+ compared to desktop apps,  
+ but you'll often find more limitations to mobile apps  
+ in terms of power, functionality and ease of use.  
+ Now, this isn't to say that you can't get work done,  
+ play games and perform other tasks on your mobile phone.  
+ You definitely can.  
+ And apps for mobile devices  
+ are usually designed specifically  
+ for optimizing the experience of using a smaller screen  
+ and a virtual keyboard.  
+ Mobile apps are generally good for brief periods of work,  
+ especially on phones.  
+ Tablets with their larger screens  
+ are more suitable for extended periods of work.  
+ But with the prevalence of wifi  
+ and cellular connections on mobile devices these days,  
+ it's easy to not just to work and play on a mobile device,  
+ but also to continue your work on a desktop computer later.  
+ For example, let's say I'm working on a document here  
+ in Microsoft Word on my phone during my morning commute.  
+ It's a little difficult to see, but I can zoom in.  
+ And when I need to make edits,  
+ I can just tap on the screen and a keyboard will appear.  
+ Now, I have this document saved over the internet  
+ to my OneDrive account, which is a cloud-based service  
+ I can store my documents on.  
+ Then, later, when I arrive at my office,  
+ I can open up the desktop version of Word  
+ and here open the same document from OneDrive  
+ and keep working on it.  
+ But now, on a much larger screen  
+ with a full range of editing tools  
+ found in the desktop version of Word.  
+ Or I might add a lunch meeting to my calendar  
+ here in Microsoft Outlook on my computer.  
+ But later, on my commute home,  
+ I realize I need to change the appointment to another day.  
+ I can open up the mobile version of Outlook on my phone,  
+ see all of my appointments and make my changes.  
+ You'll find that many work and productivity apps  
+ now have this ability to sync over the internet  
+ so you can work seamlessly between devices,  
+ making your mobile devices  
+ an extension of your desktop computer, in a sense.  
+ But lots of mobile apps are also designed  
+ as standalone apps on your phone or tablet,  
+ apps that are designed for a quick check of the weather,  
+ or for finding driving directions,  
+ or to check on the status of a flight.  
+ Probably one of the biggest differences  
+ between mobile and desktop apps  
+ is that while you can acquire desktop apps  
+ through many different places,  
+ like the Microsoft Store or an app developer's website,  
+ or purchase physical copies of applications in a store,  
+ although, that's becoming less and less common,  
+ mobile apps, on the other hand,  
+ are acquired only through dedicated stores  
+ like the Google Play Store  
+ for apps that run on Android mobile devices,  
+ and the Apple App Store  
+ for apps that run on Apple's iOS mobile operating system.  
+ These mobile app stores are your one-stop location  
+ for every app you may want to install on your device.  
+ You can browse through multiple categories,  
+ or use the search feature to find specific apps.  
+ When you select an app, you can read about its features,  
+ check out reviews from people who have used the app.  
+ And if you want the app,  
+ you can download or purchase it to immediately install it.  
+ Once apps are installed, you'll find their icons  
+ among all the other apps you have on your device,  
+ and you can tap them to start using them right away.  
+ 
+

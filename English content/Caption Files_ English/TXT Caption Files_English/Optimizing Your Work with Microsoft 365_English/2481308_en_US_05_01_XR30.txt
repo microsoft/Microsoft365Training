@@ -1,0 +1,52 @@
+ - [Narrator] It can be frustrating when you're in a meeting  
+ and don't have access to the information you need.  
+ Microsoft Teams allows you to apply settings  
+ so you can have a fluid, productive meeting every time.  
+ In this lesson, I'll show you  
+ how to manage a team's settings and permissions.  
+ To get started, I'll open Teams  
+ from the Microsoft 365 homepage.  
+ Being the owner of the Customer Event team,  
+ I will use this example.  
+ To set general settings, select your profile picture  
+ at the top of the app.  
+ Select Manage account and the Settings window will appear  
+ where you can change app settings,  
+ notifications, or language.  
+ Close the Settings window to save any changes.  
+ Next let's look at the settings related to a specific team.  
+ In this example, I own a team  
+ related to a customer event I'm planning,  
+ so I can find the team's name and select the three dots  
+ for more options, then Manage team.  
+ In the Settings tab,  
+ I can select or clear the options or permissions  
+ that I want to use.  
+ To change the team name, description, or privacy settings,  
+ I'll go to the team's name  
+ and select the three dots for more options,  
+ then Edit team.  
+ I'll write a description for this team.  
+ I'll write, "This is for the communication  
+ about our upcoming customer event."  
+ When I'm finished, I'll select Done.  
+ If you're not a team owner,  
+ you are either a member or a guest.  
+ Members are the people in the team.  
+ They talk with other team members in conversation  
+ and can view, upload and change files.  
+ Guests are people from outside of your organization  
+ that a team owner invites,  
+ such as partners or consultants  
+ who will have limited access.  
+ Guests have fewer capabilities  
+ than team members or team owners,  
+ but they can still participate in chat and create channels.  
+ That's all there is to it.  
+ Double check your team settings this week  
+ to make sure that everyone you work with  
+ has the correct access.  
+ Maybe now is a good time to change your profile picture  
+ to a great new selfie.  
+ 
+

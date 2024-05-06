@@ -1,0 +1,75 @@
+ - [Instructor] In addition to using Word  
+ on your desktop or laptop computer,  
+ you can also install the mobile version of Word  
+ on your iOS or Android smartphone or tablet.  
+ This gives you the ability to access and edit your documents  
+ and stay productive from virtually anywhere.  
+ Just go to the app store on your mobile device.  
+ If you're on an Apple iPhone or iPad,  
+ you'll open up the app store app.  
+ If you're using an Android device,  
+ open the Google Play store app.  
+ Then do a search for Word,  
+ select it, and from here, you can download  
+ and install it on your device for free.  
+ So here you see Word on my iPad.  
+ Be aware that Word may look a little different  
+ depending on the device you're using,  
+ but the functionality is nearly identical  
+ across all mobile devices.  
+ For a specific details, you can visit support.office.com  
+ in your web browser, and search for your device  
+ by typing something like Word for iPad,  
+ and you'll see a list of results.  
+ So to use Word on your mobile device,  
+ signing with the same account  
+ you use for Office on your desktop or laptop computer.  
+ Be aware that to access basic features of Word,  
+ you don't need an Office subscription,  
+ but a subscription doesn't lock all of the editing features  
+ of Word on your mobile device.  
+ And once I'm signed in, I can use Word anytime.  
+ I need to start a new document,  
+ or work on an existing one without having to wait  
+ to get back to my computer at home or at the office,  
+ I'll create a new document  
+ by clicking the blank document template.  
+ And now I can start typing.  
+ Now, in this case, I'm typing with the onscreen keyboard,  
+ but if you have an external keyboard  
+ connected to your mobile device,  
+ you can use that to allow for more visible area  
+ for your document on screen.  
+ You can then format the text  
+ just like you can in the desktop version of Word.  
+ For instance, I could select this heading,  
+ and then go to the styles menu, and apply heading one.  
+ Now you can see the top of the screen.  
+ My document currently has the default name of document.  
+ I want to give it a more descriptive name  
+ so I know what this document contains later.  
+ So I'd have the file icon here  
+ in the upper left hand corner and tap save.  
+ And I'll rename this to give any more descriptive name.  
+ This is also where I can choose the location  
+ to save the file. If I want to be able to access it later  
+ from another device or a computer,  
+ I could save it to my OneDrive account online.  
+ Or alternately, if you know you won't have wifi  
+ or internet access available as you're working,  
+ you can save the file to your device instead of OneDrive,  
+ so you can continue working on it while you're not online.  
+ You can always save it to OneDrive later,  
+ or to another location  
+ once you've connected to the internet again.  
+ In this case, I'll just choose to save it on my iPad,  
+ and I'll tap save.  
+ And now I can continue working on my document.  
+ As you work, Word saves your changes automatically,  
+ so you don't have to worry about remembering to save  
+ as frequently as you may have to using the desktop version.  
+ So with the mobile version of Word,  
+ you have the freedom to work anywhere  
+ and capture your ideas in writing.  
+ 
+

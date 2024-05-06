@@ -1,0 +1,160 @@
+1
+00:00:00,002 --> 00:00:02,000
+- [Instructor] When you're managing a project,
+
+2
+00:00:02,000 --> 00:00:03,000
+you'll be tracking lots
+
+3
+00:00:03,000 --> 00:00:04,008
+of moving parts and tasks.
+
+4
+00:00:04,008 --> 00:00:08,002
+Microsoft Project has powerful work management capabilities
+
+5
+00:00:08,002 --> 00:00:10,009
+that can be used by both project managers
+
+6
+00:00:10,009 --> 00:00:12,006
+and team members alike.
+
+7
+00:00:12,006 --> 00:00:14,007
+In this lesson, I'll show you
+
+8
+00:00:14,007 --> 00:00:17,002
+Microsoft Project's key features.
+
+9
+00:00:17,002 --> 00:00:19,006
+The first feature I want to highlight in Project
+
+10
+00:00:19,006 --> 00:00:21,006
+is task dependencies.
+
+11
+00:00:21,006 --> 00:00:23,003
+A project is often made up of tasks
+
+12
+00:00:23,003 --> 00:00:25,000
+that depend on each other.
+
+13
+00:00:25,000 --> 00:00:27,002
+I'll start by opening the August wedding project
+
+14
+00:00:27,002 --> 00:00:28,001
+I've been working on
+
+15
+00:00:28,001 --> 00:00:30,006
+so you can see how Project lists the various pieces
+
+16
+00:00:30,006 --> 00:00:33,003
+that need to come together for the event.
+
+17
+00:00:33,003 --> 00:00:36,004
+For example, the determined budget task is dependent
+
+18
+00:00:36,004 --> 00:00:39,000
+on the discussion with the couple about wedding size,
+
+19
+00:00:39,000 --> 00:00:42,001
+location and scope.
+
+20
+00:00:42,001 --> 00:00:45,002
+Grid view is fine for listing out the tasks,
+
+21
+00:00:45,002 --> 00:00:46,008
+but with dependencies,
+
+22
+00:00:46,008 --> 00:00:48,005
+it's much easier to understand
+
+23
+00:00:48,005 --> 00:00:57,004
+the information using a timeline.
+
+24
+00:00:57,004 --> 00:00:58,008
+This view gives me the timeline
+
+25
+00:00:58,008 --> 00:01:01,005
+of when tasks are due and their dependencies.
+
+26
+00:01:01,005 --> 00:01:02,008
+Once dependencies are created,
+
+27
+00:01:02,008 --> 00:01:05,003
+I can see the critical path.
+
+28
+00:01:05,003 --> 00:01:07,008
+The critical path shows the specific tasks,
+
+29
+00:01:07,008 --> 00:01:11,000
+that if delayed, will delay the entire project.
+
+30
+00:01:11,000 --> 00:01:13,004
+By analyzing a critical path,
+
+31
+00:01:13,004 --> 00:01:16,008
+you can also identify how to shorten the project length.
+
+32
+00:01:16,008 --> 00:01:18,001
+To view the critical path,
+
+33
+00:01:18,001 --> 00:01:19,001
+on the top menu,
+
+34
+00:01:19,001 --> 00:01:25,008
+select Filters and toggle Show Critical Path on.
+
+35
+00:01:25,008 --> 00:01:28,003
+All the tasks highlighted in red need
+
+36
+00:01:28,003 --> 00:01:31,009
+to be completed on time to meet the deadline.
+
+37
+00:01:31,009 --> 00:01:34,005
+Microsoft Project will help you manage large timelines
+
+38
+00:01:34,005 --> 00:01:35,009
+and projects.
+
+39
+00:01:35,009 --> 00:01:37,007
+If you need to identify dependencies
+
+40
+00:01:37,007 --> 00:01:40,007
+or the critical path, check out Microsoft Project.
+

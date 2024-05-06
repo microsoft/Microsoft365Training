@@ -1,0 +1,25 @@
+ - [Instructor] Data has become the foundation  
+ in which everyone worldwide makes decisions.  
+ But as helpful as data can be,  
+ at times it can be overwhelming.  
+ Microsoft Power BI is a powerful data visualization tool  
+ that can create reports and dashboards,  
+ allowing you to tell a story with your data.  
+ In this lesson, I'll share the benefits of using Power BI  
+ so that you can further your data visualization skillset.  
+ Microsoft Power BI provides a visual framework  
+ for sharing data.  
+ Power BI can help model the information,  
+ leading to beautiful, intuitive, interactive reports,  
+ helping your audience gain insights.  
+ Power BI Desktop is free to download to your PC  
+ from the Microsoft store.  
+ Power BI connects directly to your existing  
+ Microsoft 365 documents, stored in your OneDrive  
+ or SharePoint.  
+ Being able to visualize your data  
+ will give you an advantage as you communicate  
+ with your team and clients.  
+ I encourage you to download Power BI and give it a try.  
+ 
+
