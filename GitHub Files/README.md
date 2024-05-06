@@ -1,6 +1,3 @@
-# Microsoft 365 Training
-
-Microsoft 365 Training is the page for resources and training on Microsoft 365 products. This includes learning resources and pathways for learning organziations facilitating learning. 
 
 
 
